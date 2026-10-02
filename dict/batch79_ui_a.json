@@ -1,0 +1,805 @@
+{
+ "note": ".ui 新界面布局 —— 第 1 批（1/9）",
+ "entries": [
+  [
+   "-1 f/stop",
+   "-1 光圈级"
+  ],
+  [
+   "APEX Animate Controls",
+   "APEX 动画控制"
+  ],
+  [
+   "Absolute Mode",
+   "绝对模式"
+  ],
+  [
+   "Accept Bundle",
+   "接受 Bundle"
+  ],
+  [
+   "Accept Changes",
+   "接受更改"
+  ],
+  [
+   "Accept Pattern",
+   "接受模式"
+  ],
+  [
+   "Accept all matches and close window",
+   "接受全部匹配并关闭窗口"
+  ],
+  [
+   "Access Key Id",
+   "访问密钥 ID"
+  ],
+  [
+   "Active Render",
+   "活动渲染"
+  ],
+  [
+   "Adapt Image to Fit Viewport",
+   "让图像适应视口"
+  ],
+  [
+   "Adapt To Full Pixel Range",
+   "适应完整像素范围"
+  ],
+  [
+   "Add Channels to Channel List Dialog",
+   "「添加通道到通道列表」对话框"
+  ],
+  [
+   "Add Channels to Group",
+   "添加通道到组"
+  ],
+  [
+   "Add Comment",
+   "添加注释"
+  ],
+  [
+   "Add Desktop",
+   "添加桌面"
+  ],
+  [
+   "Add Empty Section",
+   "添加空分区"
+  ],
+  [
+   "Add File",
+   "添加文件"
+  ],
+  [
+   "Add File...",
+   "添加文件..."
+  ],
+  [
+   "Add Image to History",
+   "将图像添加到历史"
+  ],
+  [
+   "Add Kinematics...",
+   "添加运动学..."
+  ],
+  [
+   "Add Menu",
+   "添加菜单"
+  ],
+  [
+   "Add New Desktop",
+   "新建桌面"
+  ],
+  [
+   "Add Node:",
+   "添加节点："
+  ],
+  [
+   "Add Take",
+   "添加 Take"
+  ],
+  [
+   "Add URL...",
+   "添加 URL..."
+  ],
+  [
+   "Add a drop shadow to HUD handle text elements.",
+   "为 HUD 手柄文字元素添加投影。"
+  ],
+  [
+   "Add group",
+   "添加组"
+  ],
+  [
+   "Add new entry",
+   "添加新条目"
+  ],
+  [
+   "Add new folder",
+   "添加新文件夹"
+  ],
+  [
+   "Add new pose",
+   "添加新姿态"
+  ],
+  [
+   "Add or Manipulate Pins",
+   "添加或操作图钉"
+  ],
+  [
+   "Add selected handles to selected groups",
+   "将所选手柄添加到所选组"
+  ],
+  [
+   "Add selected node to the network",
+   "将所选节点添加到网络"
+  ],
+  [
+   "Add selection to groups",
+   "将所选内容添加到组"
+  ],
+  [
+   "Add to Viewport Toolbar",
+   "添加到视口工具栏"
+  ],
+  [
+   "Add to tree selection",
+   "添加到树选择"
+  ],
+  [
+   "Additional Codec Settings",
+   "附加编解码器设置"
+  ],
+  [
+   "Additional selection options",
+   "附加选择选项"
+  ],
+  [
+   "Advanced Options",
+   "高级选项"
+  ],
+  [
+   "Alembic Export Options",
+   "Alembic 导出选项"
+  ],
+  [
+   "Alembic Import Options",
+   "Alembic 导入选项"
+  ],
+  [
+   "Alert When Starting Background Saves.",
+   "开始后台保存时提醒。"
+  ],
+  [
+   "Align Handle",
+   "对齐手柄"
+  ],
+  [
+   "Align Pins",
+   "对齐图钉"
+  ],
+  [
+   "Align Pins in U Direction",
+   "沿 U 方向对齐图钉"
+  ],
+  [
+   "Align Pins in V Direction",
+   "沿 V 方向对齐图钉"
+  ],
+  [
+   "Align To Bounding Box",
+   "对齐到包围盒"
+  ],
+  [
+   "Align To Parent Bone",
+   "对齐到父骨骼"
+  ],
+  [
+   "Align Vertices in U or V Direction",
+   "沿 U 或 V 方向对齐顶点"
+  ],
+  [
+   "Align with X axis",
+   "与 X 轴对齐"
+  ],
+  [
+   "Align with Y axis",
+   "与 Y 轴对齐"
+  ],
+  [
+   "Align with Z axis",
+   "与 Z 轴对齐"
+  ],
+  [
+   "Align with c-plane axes",
+   "与构造平面轴对齐"
+  ],
+  [
+   "Align with c-plane normal",
+   "与构造平面法线对齐"
+  ],
+  [
+   "Align with primitive normal",
+   "与图元法线对齐"
+  ],
+  [
+   "Align with view axes",
+   "与视图轴对齐"
+  ],
+  [
+   "Align with view normal",
+   "与视图法线对齐"
+  ],
+  [
+   "Align with world axes",
+   "与世界轴对齐"
+  ],
+  [
+   "All Descendants",
+   "所有后代"
+  ],
+  [
+   "All Materials",
+   "所有材质"
+  ],
+  [
+   "All Parameters",
+   "所有参数"
+  ],
+  [
+   "All Parameters and Headings",
+   "所有参数与标题"
+  ],
+  [
+   "All Regions",
+   "所有区域"
+  ],
+  [
+   "All Tool HUDs Share Visibility",
+   "所有工具 HUD 共用可见性"
+  ],
+  [
+   "Allow Automatic Signature Selection",
+   "允许自动选择签名"
+  ],
+  [
+   "Allow Caching of This Sequence",
+   "允许缓存此序列"
+  ],
+  [
+   "Allow Hidden Primitives",
+   "允许隐藏图元"
+  ],
+  [
+   "Allow Icon Regeneration",
+   "允许重新生成图标"
+  ],
+  [
+   "Allow Instance Proxies",
+   "允许实例代理"
+  ],
+  [
+   "Alpha Slider",
+   "Alpha 滑块"
+  ],
+  [
+   "Always Snap to Grid",
+   "始终吸附到网格"
+  ],
+  [
+   "Always Synch Audio to",
+   "音频始终同步到"
+  ],
+  [
+   "Anchor Orientation Handles",
+   "锚定朝向手柄"
+  ],
+  [
+   "Animatable Parameters",
+   "可动画参数"
+  ],
+  [
+   "Animation Options",
+   "动画选项"
+  ],
+  [
+   "Anonymous Usage Statistics",
+   "匿名使用统计"
+  ],
+  [
+   "Append a new take",
+   "追加一个新 Take"
+  ],
+  [
+   "Apply Changes",
+   "应用更改"
+  ],
+  [
+   "Apply Changes to All Views",
+   "将更改应用到所有视图"
+  ],
+  [
+   "Apply Color Correction",
+   "应用色彩校正"
+  ],
+  [
+   "Apply immediately",
+   "立即应用"
+  ],
+  [
+   "Ask me again in 7 days",
+   "7 天后再问我"
+  ],
+  [
+   "Asset Definition Toolbar:",
+   "资产定义工具栏："
+  ],
+  [
+   "Asset Extraction Folder:",
+   "资产提取文件夹："
+  ],
+  [
+   "Asset Name",
+   "资产名称"
+  ],
+  [
+   "Asset Name and Path",
+   "资产名称与路径"
+  ],
+  [
+   "Asset browser preferences",
+   "资产浏览器首选项"
+  ],
+  [
+   "Assign selected material to selected objects or geometry",
+   "把所选材质指定给所选物体或几何体"
+  ],
+  [
+   "At Geometry Level",
+   "在几何体层级"
+  ],
+  [
+   "At Scene Level",
+   "在场景层级"
+  ],
+  [
+   "Attach this Panel to Desktop",
+   "将此面板附加到桌面"
+  ],
+  [
+   "Audio File",
+   "音频文件"
+  ],
+  [
+   "Audio Level",
+   "音量"
+  ],
+  [
+   "Audio Offset:",
+   "音频偏移："
+  ],
+  [
+   "Audio Options",
+   "音频选项"
+  ],
+  [
+   "Audio Output Delay",
+   "音频输出延迟"
+  ],
+  [
+   "Audio Preset",
+   "音频预设"
+  ],
+  [
+   "Audio Scrub Sustain",
+   "音频擦洗保持"
+  ],
+  [
+   "Audio Source",
+   "音频源"
+  ],
+  [
+   "Auto-Add to Channel List Parameters",
+   "自动加入通道列表的参数"
+  ],
+  [
+   "Auto-Dive Into Network",
+   "自动进入网络"
+  ],
+  [
+   "Auto-Save Desktops",
+   "自动保存桌面"
+  ],
+  [
+   "Auto-Snap IK/Rotates",
+   "自动吸附 IK/旋转"
+  ],
+  [
+   "Auto-dive into network",
+   "自动进入网络"
+  ],
+  [
+   "Automatic Image Colorspace",
+   "自动图像色彩空间"
+  ],
+  [
+   "Automatically Clear Completed Jobs",
+   "自动清除已完成任务"
+  ],
+  [
+   "Automatically Generated Shader",
+   "自动生成的着色器"
+  ],
+  [
+   "Available Interfaces",
+   "可用接口"
+  ],
+  [
+   "Available as RMB Menu",
+   "可用作右键菜单"
+  ],
+  [
+   "Axis System:",
+   "轴系统："
+  ],
+  [
+   "Backup of Last Save...",
+   "上次保存的备份..."
+  ],
+  [
+   "Bake CHOP Exports to Channels",
+   "把 CHOP 导出烘焙成通道"
+  ],
+  [
+   "Bake Keyframes of Selected Segments",
+   "烘焙所选线段的关键帧"
+  ],
+  [
+   "Bake, Create Delete CHOPs and Move Export Flags",
+   "烘焙、创建删除 CHOP 并移动导出标记"
+  ],
+  [
+   "Bake, Disable Export Flags",
+   "烘焙并禁用导出标记"
+  ],
+  [
+   "Bake, Keep Export Flags",
+   "烘焙并保留导出标记"
+  ],
+  [
+   "Best Guess",
+   "最佳猜测"
+  ],
+  [
+   "Bezier curve",
+   "贝塞尔曲线"
+  ],
+  [
+   "Bitmap Brush",
+   "位图笔刷"
+  ],
+  [
+   "Bitrate (Kbps)",
+   "比特率（Kbps）"
+  ],
+  [
+   "Black/White Points",
+   "黑场/白场"
+  ],
+  [
+   "Blackbody Color Temperature",
+   "黑体色温"
+  ],
+  [
+   "Blend Constrain",
+   "混合约束"
+  ],
+  [
+   "Blend Handle",
+   "混合手柄"
+  ],
+  [
+   "Blend Pose",
+   "混合姿态"
+  ],
+  [
+   "Blend Sequence",
+   "混合序列"
+  ],
+  [
+   "Blend Weights",
+   "混合权重"
+  ],
+  [
+   "Blend images",
+   "混合图像"
+  ],
+  [
+   "Blend the rendered image with the background using this factor",
+   "用此系数把渲染图与背景混合"
+  ],
+  [
+   "Blend with Viewport",
+   "与视口混合"
+  ],
+  [
+   "BlendPose CHOP",
+   "混合姿态 CHOP"
+  ],
+  [
+   "Bone as Handle",
+   "用骨骼作为手柄"
+  ],
+  [
+   "Both Tools and Galleries",
+   "工具和画廊都显示"
+  ],
+  [
+   "Box Select",
+   "框选"
+  ],
+  [
+   "Break Current Point Dependency",
+   "断开当前点依赖"
+  ],
+  [
+   "Bridge Connected Selection",
+   "桥接连通的选区"
+  ],
+  [
+   "Bridge Selection",
+   "桥接选区"
+  ],
+  [
+   "Brightness & Contrast",
+   "亮度与对比度"
+  ],
+  [
+   "Brush Select",
+   "笔刷选择"
+  ],
+  [
+   "Brush Shape",
+   "笔刷形状"
+  ],
+  [
+   "Build Hierarchy With Channel References",
+   "用通道引用构建层级"
+  ],
+  [
+   "Build using relative points",
+   "用相对点构建"
+  ],
+  [
+   "Bundle pattern for %s",
+   "%s 的 Bundle 模式"
+  ],
+  [
+   "Buyer Email",
+   "买家邮箱"
+  ],
+  [
+   "C, A (C:rgb A)",
+   "C、A（C:rgb A）"
+  ],
+  [
+   "C, A (C:rgb A:rgb)",
+   "C、A（C:rgb A:rgb）"
+  ],
+  [
+   "C-plane Axes",
+   "构造平面轴"
+  ],
+  [
+   "C-plane Normal",
+   "构造平面法线"
+  ],
+  [
+   "CHOP Exporter",
+   "CHOP 导出器"
+  ],
+  [
+   "CHOP Filter",
+   "CHOP 过滤器"
+  ],
+  [
+   "COLLADA 1.4.0 Import Options",
+   "COLLADA 1.4.0 导入选项"
+  ],
+  [
+   "COP - Old",
+   "COP - 旧版"
+  ],
+  [
+   "COP Monitor",
+   "COP 监视器"
+  ],
+  [
+   "Caching All Images",
+   "正在缓存所有图像"
+  ],
+  [
+   "Camera Effects",
+   "相机效果"
+  ],
+  [
+   "Camera to render through",
+   "用于渲染的相机"
+  ],
+  [
+   "Can't edit selectors for this operator.",
+   "无法编辑此算子的选择器。"
+  ],
+  [
+   "Cancel Changes",
+   "取消更改"
+  ],
+  [
+   "Cancel Orientation Picking",
+   "取消朝向拾取"
+  ],
+  [
+   "Cancel Selection",
+   "取消选择"
+  ],
+  [
+   "Cancel Shape Creation",
+   "取消形状创建"
+  ],
+  [
+   "Cancel and do not submit current job to the cloud",
+   "取消，且不把当前任务提交到云端"
+  ],
+  [
+   "Case Sensitive",
+   "区分大小写"
+  ],
+  [
+   "Change Node Type",
+   "更改节点类型"
+  ],
+  [
+   "Change Rate of All Sequences",
+   "更改所有序列的速率"
+  ],
+  [
+   "Channel List Parameters",
+   "通道列表参数"
+  ],
+  [
+   "Channel List Selected Parameters",
+   "通道列表所选参数"
+  ],
+  [
+   "Channel Range",
+   "通道范围"
+  ],
+  [
+   "Channels and Keyframes",
+   "通道与关键帧"
+  ],
+  [
+   "Channels for",
+   "通道（用于）"
+  ],
+  [
+   "Character Options",
+   "角色选项"
+  ],
+  [
+   "Check On/Off",
+   "勾选开/关"
+  ],
+  [
+   "Check for updates",
+   "检查更新"
+  ],
+  [
+   "Child Compensation On/Off",
+   "子级补偿开/关"
+  ],
+  [
+   "Child Rotation Handle",
+   "子级旋转手柄"
+  ],
+  [
+   "Choose Asset...",
+   "选择资产..."
+  ],
+  [
+   "Choose Entry...",
+   "选择条目..."
+  ],
+  [
+   "Choose File or Sequence",
+   "选择文件或序列"
+  ],
+  [
+   "Choose Mirroring Edges",
+   "选择镜像边"
+  ],
+  [
+   "Choose Passphrase",
+   "选择口令"
+  ],
+  [
+   "Choose Project Variable",
+   "选择工程变量"
+  ],
+  [
+   "Choose a passphrase to protect your secret access key.",
+   "选择口令以保护你的私有访问密钥。"
+  ],
+  [
+   "Choose color by temperature",
+   "按温度选色"
+  ],
+  [
+   "Choose file",
+   "选择文件"
+  ],
+  [
+   "Choose objects",
+   "选择物体"
+  ],
+  [
+   "Chop Network",
+   "CHOP 网络"
+  ],
+  [
+   "Circle Brush",
+   "圆形笔刷"
+  ],
+  [
+   "Circle Grid",
+   "圆形网格"
+  ],
+  [
+   "Circle Packing",
+   "圆形填充"
+  ],
+  [
+   "Clamp Negative Weights",
+   "钳制负权重"
+  ],
+  [
+   "Clamp Output",
+   "钳制输出"
+  ],
+  [
+   "Clear Aliases",
+   "清除别名"
+  ],
+  [
+   "Clear All",
+   "全部清除"
+  ],
+  [
+   "Clear All Constraints",
+   "清除所有约束"
+  ],
+  [
+   "Clear Completed Jobs",
+   "清除已完成任务"
+  ],
+  [
+   "Clear Insertion Point",
+   "清除插入点"
+  ],
+  [
+   "Clear Override",
+   "清除覆盖"
+  ],
+  [
+   "Clear Render Focus",
+   "清除渲染焦点"
+  ],
+  [
+   "Clear Render Region",
+   "清除渲染区域"
+  ],
+  [
+   "Clear Translate Plane",
+   "清除平移平面"
+  ]
+ ]
+}

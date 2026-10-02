@@ -1,0 +1,1577 @@
+{
+ "note": "合并清单 —— 第 24 批（Min Collision Impulse → Name Primitive Attribute）",
+ "skip": [
+  "Mode#",
+  "Model.gad",
+  "Mult",
+  "MultipleMeanFreePaths",
+  "Muscle2",
+  "Muscle3",
+  "NFS",
+  "NOISE",
+  "NOTE",
+  "NURBSFilter"
+ ],
+ "entries": [
+  [
+   "Min Collision Impulse",
+   "最小碰撞冲量"
+  ],
+  [
+   "Min Color",
+   "最小颜色"
+  ],
+  [
+   "Min Cusp",
+   "最小尖角"
+  ],
+  [
+   "Min Dihedral Angle",
+   "最小二面角"
+  ],
+  [
+   "Min Dist Multiple",
+   "最小距离倍数"
+  ],
+  [
+   "Min Field",
+   "最小场"
+  ],
+  [
+   "Min Float",
+   "最小浮点"
+  ],
+  [
+   "Min Instance Radius",
+   "最小实例半径"
+  ],
+  [
+   "Min Leaves Per Node",
+   "每节点最小叶片数"
+  ],
+  [
+   "Min Length Attrib",
+   "最小长度属性"
+  ],
+  [
+   "Min Length Options",
+   "最小长度选项"
+  ],
+  [
+   "Min Length Override",
+   "最小长度覆盖"
+  ],
+  [
+   "Min Length Remap Ramp",
+   "最小长度重映射渐变"
+  ],
+  [
+   "Min Length Texture",
+   "最小长度纹理"
+  ],
+  [
+   "Min Length Variation",
+   "最小长度变化"
+  ],
+  [
+   "Min Lifespan",
+   "最小寿命"
+  ],
+  [
+   "Min Lift",
+   "最小抬升"
+  ],
+  [
+   "Min Lift Attrib",
+   "最小抬升属性"
+  ],
+  [
+   "Min Lift Options",
+   "最小抬升选项"
+  ],
+  [
+   "Min Lift Override",
+   "最小抬升覆盖"
+  ],
+  [
+   "Min Lift Remap Ramp",
+   "最小抬升重映射渐变"
+  ],
+  [
+   "Min Lift Texture",
+   "最小抬升纹理"
+  ],
+  [
+   "Min Lock",
+   "最小锁定"
+  ],
+  [
+   "Min Luminance",
+   "最小亮度"
+  ],
+  [
+   "Min Max File",
+   "最小值最大值文件"
+  ],
+  [
+   "Min Opacity",
+   "最小不透明度"
+  ],
+  [
+   "Min Pause Length",
+   "最小暂停长度"
+  ],
+  [
+   "Min Primitive Number",
+   "最小图元编号"
+  ],
+  [
+   "Min Quality",
+   "最小质量"
+  ],
+  [
+   "Min Radius Limit",
+   "最小半径限制"
+  ],
+  [
+   "Min Radius in Voxels",
+   "最小半径（体素）"
+  ],
+  [
+   "Min Relative Width",
+   "最小相对宽度"
+  ],
+  [
+   "Min Rest Depth",
+   "最小静止深度"
+  ],
+  [
+   "Min Rotation",
+   "最小旋转"
+  ],
+  [
+   "Min Scale Factor",
+   "最小缩放系数"
+  ],
+  [
+   "Min Scale Factor Attrib",
+   "最小缩放系数属性"
+  ],
+  [
+   "Min Scale Factor Options",
+   "最小缩放系数选项"
+  ],
+  [
+   "Min Scale Factor Override",
+   "最小缩放系数覆盖"
+  ],
+  [
+   "Min Scale Factor Remap Ramp",
+   "最小缩放系数重映射渐变"
+  ],
+  [
+   "Min Scale Factor Texture",
+   "最小缩放系数纹理"
+  ],
+  [
+   "Min Segment Length",
+   "最小分段长度"
+  ],
+  [
+   "Min Shaft Segments",
+   "最小发干分段数"
+  ],
+  [
+   "Min Size Attribute",
+   "最小尺寸属性"
+  ],
+  [
+   "Min Speed Ratio",
+   "最小速度比"
+  ],
+  [
+   "Min Spheres",
+   "最小球数"
+  ],
+  [
+   "Min Stretching",
+   "最小拉伸"
+  ],
+  [
+   "Min Thickness",
+   "最小厚度"
+  ],
+  [
+   "Min Triangle Scale",
+   "最小三角形缩放"
+  ],
+  [
+   "Min Triangle Size",
+   "最小三角形尺寸"
+  ],
+  [
+   "Min Trigger Length",
+   "最小触发长度"
+  ],
+  [
+   "Min Value Type",
+   "最小值类型"
+  ],
+  [
+   "Min Velocity",
+   "最小速度"
+  ],
+  [
+   "Min Volume Fraction",
+   "最小体积占比"
+  ],
+  [
+   "Min Voxel Padding",
+   "最小体素边距"
+  ],
+  [
+   "Min Voxel Size",
+   "最小体素尺寸"
+  ],
+  [
+   "Min Width Attribute",
+   "最小宽度属性"
+  ],
+  [
+   "Min Width Variance",
+   "最小宽度方差"
+  ],
+  [
+   "Min Word Length",
+   "最小词长"
+  ],
+  [
+   "Min X-sections",
+   "最小横截面数"
+  ],
+  [
+   "Min,Max",
+   "最小,最大"
+  ],
+  [
+   "Min. Clients per Frame",
+   "每帧最小客户端数"
+  ],
+  [
+   "Min. Thickness",
+   "最小厚度"
+  ],
+  [
+   "Min/Max Speed",
+   "最小/最大速度"
+  ],
+  [
+   "Min/Max Weight",
+   "最小/最大权重"
+  ],
+  [
+   "Min/max splits",
+   "最小/最大拆分数"
+  ],
+  [
+   "Minification Filter",
+   "缩小过滤"
+  ],
+  [
+   "Minification Filter #",
+   "缩小过滤 #"
+  ],
+  [
+   "Minimal Solve",
+   "最小求解"
+  ],
+  [
+   "Minimal Solver",
+   "最小求解器"
+  ],
+  [
+   "Minimum A",
+   "最小值 A"
+  ],
+  [
+   "Minimum Available Memory",
+   "最小可用内存"
+  ],
+  [
+   "Minimum B",
+   "最小值 B"
+  ],
+  [
+   "Minimum Band Width",
+   "最小带宽"
+  ],
+  [
+   "Minimum Bound",
+   "最小边界"
+  ],
+  [
+   "Minimum Choice",
+   "最小选项数"
+  ],
+  [
+   "Minimum Concavity",
+   "最小凹陷度"
+  ],
+  [
+   "Minimum Confidence",
+   "最小置信度"
+  ],
+  [
+   "Minimum Curves in Radius",
+   "半径内最少曲线数"
+  ],
+  [
+   "Minimum Edge",
+   "最小边"
+  ],
+  [
+   "Minimum Field",
+   "最小场"
+  ],
+  [
+   "Minimum Frizz",
+   "最小毛躁"
+  ],
+  [
+   "Minimum Goal Distance",
+   "最小目标距离"
+  ],
+  [
+   "Minimum Level",
+   "最小层级"
+  ],
+  [
+   "Minimum MB",
+   "最小 MB"
+  ],
+  [
+   "Minimum Marker Radius",
+   "最小标记半径"
+  ],
+  [
+   "Minimum Near Clipping",
+   "最小近裁剪"
+  ],
+  [
+   "Minimum Passes",
+   "最小遍数"
+  ],
+  [
+   "Minimum Patch Area",
+   "最小区块面积"
+  ],
+  [
+   "Minimum Percent",
+   "最小百分比"
+  ],
+  [
+   "Minimum Photon Diffuse Level",
+   "最小光子漫反射层级"
+  ],
+  [
+   "Minimum Piece Volume",
+   "最小碎块体积"
+  ],
+  [
+   "Minimum Prim Count",
+   "最小图元数"
+  ],
+  [
+   "Minimum Quad Count",
+   "最小四边形数"
+  ],
+  [
+   "Minimum Reduce Value",
+   "最小简化值"
+  ],
+  [
+   "Minimum Resolution",
+   "最小分辨率"
+  ],
+  [
+   "Minimum Score",
+   "最低分数"
+  ],
+  [
+   "Minimum Size",
+   "最小尺寸"
+  ],
+  [
+   "Minimum Size from Guide Distances",
+   "按引导距离确定最小尺寸"
+  ],
+  [
+   "Minimum Solve Pass Data",
+   "最小求解遍数据"
+  ],
+  [
+   "Minimum Spin",
+   "最小自旋"
+  ],
+  [
+   "Minimum State Time",
+   "最小状态时间"
+  ],
+  [
+   "Minimum Stepsize",
+   "最小步长"
+  ],
+  [
+   "Minimum Stiffness",
+   "最小刚度"
+  ],
+  [
+   "Minimum Substep",
+   "最小子步"
+  ],
+  [
+   "Minimum Value Color",
+   "最小值颜色"
+  ],
+  [
+   "Minimum Value In Destination Range",
+   "目标范围内的最小值"
+  ],
+  [
+   "Minimum Value In Source Range",
+   "源范围内的最小值"
+  ],
+  [
+   "Minimum Value Texture",
+   "最小值纹理"
+  ],
+  [
+   "Minimum Viscosity",
+   "最小粘度"
+  ],
+  [
+   "Minimum Width in Voxels",
+   "最小宽度（体素）"
+  ],
+  [
+   "Mininum Neighbors",
+   "最少邻居数"
+  ],
+  [
+   "Minkowski Exponent",
+   "闵可夫斯基指数"
+  ],
+  [
+   "Minor Version",
+   "次版本"
+  ],
+  [
+   "Mip Interpolate",
+   "Mip 插值"
+  ],
+  [
+   "MipMap Depth",
+   "MipMap 深度"
+  ],
+  [
+   "MipMap Level",
+   "MipMap 层级"
+  ],
+  [
+   "Mipmap Interpolation",
+   "Mipmap 插值"
+  ],
+  [
+   "Mirror Activation Settings",
+   "镜像激活设置"
+  ],
+  [
+   "Mirror Attribute",
+   "镜像属性"
+  ],
+  [
+   "Mirror Axis",
+   "镜像轴"
+  ],
+  [
+   "Mirror Barbs for Opposing Side",
+   "为对侧镜像倒钩"
+  ],
+  [
+   "Mirror Brush",
+   "镜像笔刷"
+  ],
+  [
+   "Mirror Configurations",
+   "镜像配置"
+  ],
+  [
+   "Mirror Cycles",
+   "镜像周期"
+  ],
+  [
+   "Mirror Direction",
+   "镜像方向"
+  ],
+  [
+   "Mirror Distance",
+   "镜像距离"
+  ],
+  [
+   "Mirror Entries",
+   "镜像条目"
+  ],
+  [
+   "Mirror Exclude",
+   "镜像排除"
+  ],
+  [
+   "Mirror FK",
+   "镜像 FK"
+  ],
+  [
+   "Mirror Groom",
+   "镜像梳理"
+  ],
+  [
+   "Mirror Groups",
+   "镜像组"
+  ],
+  [
+   "Mirror Id",
+   "镜像 ID"
+  ],
+  [
+   "Mirror Located",
+   "镜像已定位"
+  ],
+  [
+   "Mirror Mode",
+   "镜像模式"
+  ],
+  [
+   "Mirror Name",
+   "镜像名称"
+  ],
+  [
+   "Mirror Odd Cycles",
+   "镜像奇数周期"
+  ],
+  [
+   "Mirror Origin",
+   "镜像原点"
+  ],
+  [
+   "Mirror Output",
+   "镜像输出"
+  ],
+  [
+   "Mirror Parameters",
+   "镜像参数"
+  ],
+  [
+   "Mirror Stamps",
+   "镜像图章"
+  ],
+  [
+   "Mirror Weights",
+   "镜像权重"
+  ],
+  [
+   "Mirror X",
+   "镜像 X"
+  ],
+  [
+   "Mirror X Axis",
+   "镜像 X 轴"
+  ],
+  [
+   "Mirror Z Axis",
+   "镜像 Z 轴"
+  ],
+  [
+   "Mirror and Offset",
+   "镜像并偏移"
+  ],
+  [
+   "Mirrored From Curve",
+   "从曲线镜像而来"
+  ],
+  [
+   "Mirrored Fuzzy Set Name",
+   "镜像模糊集合名称"
+  ],
+  [
+   "Mirrored Ramp",
+   "镜像渐变"
+  ],
+  [
+   "Mirroring Style",
+   "镜像样式"
+  ],
+  [
+   "Misc (Any)",
+   "杂项（任意）"
+  ],
+  [
+   "Misc(Any)",
+   "杂项（任意）"
+  ],
+  [
+   "Missing Alpha",
+   "缺失 Alpha"
+  ],
+  [
+   "Missing Color",
+   "缺失颜色"
+  ],
+  [
+   "Missing Data",
+   "缺失数据"
+  ],
+  [
+   "Missing Input",
+   "缺失输入"
+  ],
+  [
+   "Missing Mask",
+   "缺失遮罩"
+  ],
+  [
+   "Missing Points Policy",
+   "缺失点策略"
+  ],
+  [
+   "Missing Primvars Policy",
+   "缺失 Primvar 策略"
+  ],
+  [
+   "Missing Range Attribute",
+   "缺失范围属性"
+  ],
+  [
+   "Missing Rotation Limits",
+   "缺失旋转限制"
+  ],
+  [
+   "Missing Slice",
+   "缺失切片"
+  ],
+  [
+   "Mix Group",
+   "混合组"
+  ],
+  [
+   "Mix Mask",
+   "混合遮罩"
+  ],
+  [
+   "Mix Normals",
+   "混合法线"
+  ],
+  [
+   "Mix Smoke Color with Cd using Alpha",
+   "用 Alpha 将烟雾颜色与 Cd 混合"
+  ],
+  [
+   "Mixer Key",
+   "混合器键"
+  ],
+  [
+   "Mixer Path",
+   "混合器路径"
+  ],
+  [
+   "Mixer Properties",
+   "混合器属性"
+  ],
+  [
+   "Mixing",
+   "混合"
+  ],
+  [
+   "Mixing Scale",
+   "混合缩放"
+  ],
+  [
+   "Mocap Clip",
+   "动捕片段"
+  ],
+  [
+   "Mocap Device",
+   "动捕设备"
+  ],
+  [
+   "Mocap Influence",
+   "动捕影响"
+  ],
+  [
+   "Mocap Skeleton Path",
+   "动捕骨架路径"
+  ],
+  [
+   "Mod Time Attribute",
+   "修改时间属性"
+  ],
+  [
+   "Mode / Target Engine",
+   "模式 / 目标引擎"
+  ],
+  [
+   "Model Asset Primitive",
+   "模型资产图元"
+  ],
+  [
+   "Model Checkpointing",
+   "模型检查点"
+  ],
+  [
+   "Model Data",
+   "模型数据"
+  ],
+  [
+   "Model Dir",
+   "模型目录"
+  ],
+  [
+   "Model Displacement",
+   "模型位移"
+  ],
+  [
+   "Model Export Append Epoch to Name",
+   "模型导出：在名称后附加轮次"
+  ],
+  [
+   "Model Export Epochs per Output",
+   "模型导出：每个输出的轮数"
+  ],
+  [
+   "Model Export Event",
+   "模型导出事件"
+  ],
+  [
+   "Model Folder",
+   "模型文件夹"
+  ],
+  [
+   "Model Iterations",
+   "模型迭代数"
+  ],
+  [
+   "Model Kind",
+   "模型类别"
+  ],
+  [
+   "Model Location",
+   "模型位置"
+  ],
+  [
+   "Model Mode",
+   "模型模式"
+  ],
+  [
+   "Model Module",
+   "模型模块"
+  ],
+  [
+   "Model Path",
+   "模型路径"
+  ],
+  [
+   "Model Save Append Epoch to Name",
+   "模型保存：在名称后附加轮次"
+  ],
+  [
+   "Model Save Epochs per Output",
+   "模型保存：每个输出的轮数"
+  ],
+  [
+   "Model Save Event",
+   "模型保存事件"
+  ],
+  [
+   "Model Type",
+   "模型类型"
+  ],
+  [
+   "Model name",
+   "模型名称"
+  ],
+  [
+   "Models Folder",
+   "模型文件夹"
+  ],
+  [
+   "Modifications",
+   "修改"
+  ],
+  [
+   "Modified Clips",
+   "已修改片段"
+  ],
+  [
+   "Modified Group",
+   "已修改组"
+  ],
+  [
+   "Modified Layer Path",
+   "已修改图层路径"
+  ],
+  [
+   "Modifier Keys",
+   "修饰键"
+  ],
+  [
+   "Modifier Start Level",
+   "修饰起始层级"
+  ],
+  [
+   "Modifiers",
+   "修改器"
+  ],
+  [
+   "Modify Attribute",
+   "修改属性"
+  ],
+  [
+   "Modify Filename",
+   "修改文件名"
+  ],
+  [
+   "Modify Filename Toggle",
+   "修改文件名开关"
+  ],
+  [
+   "Modify Fluid Fields",
+   "修改流体场"
+  ],
+  [
+   "Modify Prototypes at Origin",
+   "在原点修改原型"
+  ],
+  [
+   "Modify Proxy Geometry",
+   "修改代理几何体"
+  ],
+  [
+   "Modify Stroke",
+   "修改笔触"
+  ],
+  [
+   "Modify Target",
+   "修改目标"
+  ],
+  [
+   "Modify Temperature Through Shredding",
+   "通过撕碎修改温度"
+  ],
+  [
+   "Modify Using",
+   "修改依据"
+  ],
+  [
+   "Modify Using (Global)",
+   "修改依据（全局）"
+  ],
+  [
+   "Modify in Place",
+   "就地修改"
+  ],
+  [
+   "Mods: Hue",
+   "修改：色相"
+  ],
+  [
+   "Mods: R",
+   "修改：R"
+  ],
+  [
+   "Module Pivot Location",
+   "模块轴心位置"
+  ],
+  [
+   "Module Seed",
+   "模块种子"
+  ],
+  [
+   "Modulus",
+   "模数"
+  ],
+  [
+   "Moisture",
+   "湿度"
+  ],
+  [
+   "Mold Spots",
+   "霉斑"
+  ],
+  [
+   "Mold Threshold",
+   "霉变阈值"
+  ],
+  [
+   "Money",
+   "货币"
+  ],
+  [
+   "Monitor Machine Name",
+   "监视机器名称"
+  ],
+  [
+   "Monochrome Channel",
+   "单色通道"
+  ],
+  [
+   "Monochrome Output",
+   "单色输出"
+  ],
+  [
+   "Montage",
+   "拼接"
+  ],
+  [
+   "Month",
+   "月"
+  ],
+  [
+   "More...",
+   "更多..."
+  ],
+  [
+   "Morphing",
+   "变形"
+  ],
+  [
+   "Mortar Ambient",
+   "砂浆环境光"
+  ],
+  [
+   "Mortar Depth",
+   "砂浆深度"
+  ],
+  [
+   "Mortar Diffuse",
+   "砂浆漫反射"
+  ],
+  [
+   "Mortar Light Model",
+   "砂浆光照模型"
+  ],
+  [
+   "Mortar Reflect",
+   "砂浆反射"
+  ],
+  [
+   "Mortar Roughness",
+   "砂浆粗糙度"
+  ],
+  [
+   "Mortar Specular",
+   "砂浆高光"
+  ],
+  [
+   "Mortar Width",
+   "砂浆宽度"
+  ],
+  [
+   "Motion Analysis Parent File",
+   "运动分析父文件"
+  ],
+  [
+   "Motion Analysis TRC File",
+   "运动分析 TRC 文件"
+  ],
+  [
+   "Motion Capture",
+   "动作捕捉"
+  ],
+  [
+   "Motion Clip",
+   "动作片段"
+  ],
+  [
+   "Motion Decay",
+   "运动衰减"
+  ],
+  [
+   "Motion Files",
+   "运动文件"
+  ],
+  [
+   "Motion Path Mode",
+   "运动路径模式"
+  ],
+  [
+   "Motion Samples",
+   "运动采样"
+  ],
+  [
+   "Motion Stash",
+   "运动暂存"
+  ],
+  [
+   "Motion Vector Encoding",
+   "运动矢量编码"
+  ],
+  [
+   "Motion Vector Source",
+   "运动矢量来源"
+  ],
+  [
+   "Motion Vector Texture",
+   "运动矢量纹理"
+  ],
+  [
+   "Motion Vectors Plane",
+   "运动矢量平面"
+  ],
+  [
+   "Motionclip Clip Range",
+   "动作片段范围"
+  ],
+  [
+   "Motionclip Frame Range",
+   "动作片段帧范围"
+  ],
+  [
+   "Motor Strength Scale",
+   "马达强度缩放"
+  ],
+  [
+   "Motor Strength Scale Attribute",
+   "马达强度缩放属性"
+  ],
+  [
+   "Motor Strength Scale Attribute Name",
+   "马达强度缩放属性名"
+  ],
+  [
+   "Motor Target Color",
+   "马达目标颜色"
+  ],
+  [
+   "Motorway",
+   "高速公路"
+  ],
+  [
+   "Mounds",
+   "土丘"
+  ],
+  [
+   "Mouse Dir",
+   "鼠标方向"
+  ],
+  [
+   "Mouse Point",
+   "鼠标点"
+  ],
+  [
+   "Move Amount",
+   "移动量"
+  ],
+  [
+   "Move Curves To Subdivision Surface →",
+   "将曲线移到细分曲面"
+  ],
+  [
+   "Move Hint to Centroid",
+   "将提示移到形心"
+  ],
+  [
+   "Move Mode",
+   "移动模式"
+  ],
+  [
+   "Move Out of SDF Colliders",
+   "移出 SDF 碰撞体"
+  ],
+  [
+   "Move To Origin",
+   "移到原点"
+  ],
+  [
+   "Move to Isosurface",
+   "移到等值面"
+  ],
+  [
+   "Move to Rest",
+   "移到静止状态"
+  ],
+  [
+   "MtlX Image Blur",
+   "MtlX 图像模糊"
+  ],
+  [
+   "MtlX Image Width",
+   "MtlX 图像宽度"
+  ],
+  [
+   "Mu Theta",
+   "Mu Theta"
+  ],
+  [
+   "Mult-Add",
+   "乘加"
+  ],
+  [
+   "Multi",
+   "多重"
+  ],
+  [
+   "Multi Child Group",
+   "多子级组"
+  ],
+  [
+   "Multi Child Index",
+   "多子级索引"
+  ],
+  [
+   "Multi Child Option",
+   "多子级选项"
+  ],
+  [
+   "Multi Entity Update Modes",
+   "多实体更新模式"
+  ],
+  [
+   "Multi Intensity",
+   "多重强度"
+  ],
+  [
+   "Multi Model",
+   "多模型"
+  ],
+  [
+   "Multi Quality",
+   "多重质量"
+  ],
+  [
+   "Multi Resolution Relaxation",
+   "多分辨率松弛"
+  ],
+  [
+   "Multi Samples",
+   "多重采样"
+  ],
+  [
+   "Multi Scatter Boost",
+   "多重散射增强"
+  ],
+  [
+   "Multi Scatter Limit",
+   "多重散射限制"
+  ],
+  [
+   "Multi-Shot",
+   "多镜头"
+  ],
+  [
+   "Multi-directional Contribution",
+   "多向贡献"
+  ],
+  [
+   "Multi-input",
+   "多输入"
+  ],
+  [
+   "Multi-inputs",
+   "多输入"
+  ],
+  [
+   "MultiScatter Optimization",
+   "多重散射优化"
+  ],
+  [
+   "Multicast IP",
+   "组播 IP"
+  ],
+  [
+   "Multipart Names",
+   "多部件名称"
+  ],
+  [
+   "Multiple Configurations",
+   "多个配置"
+  ],
+  [
+   "Multiple Curves",
+   "多条曲线"
+  ],
+  [
+   "Multiple Outputs",
+   "多个输出"
+  ],
+  [
+   "Multiple Points Per Pole →",
+   "每极多点"
+  ],
+  [
+   "Multiple Shape Variants with Shape ID Attribute",
+   "用形状 ID 属性实现多个形状变体"
+  ],
+  [
+   "Multiple Values per Query",
+   "每次查询多个值"
+  ],
+  [
+   "Multiplicative",
+   "乘性"
+  ],
+  [
+   "Multiplicity",
+   "重数"
+  ],
+  [
+   "Multiply Diffuse with Density before Interpolation",
+   "插值前将漫反射与密度相乘"
+  ],
+  [
+   "Multiply From Point",
+   "从点相乘"
+  ],
+  [
+   "Multiply From Primitive",
+   "从图元相乘"
+  ],
+  [
+   "Multiply From Vertex",
+   "从顶点相乘"
+  ],
+  [
+   "Multiply Shaft Width by First Barb Length",
+   "发干宽度乘以第一个倒钩长度"
+  ],
+  [
+   "Multiply Shape Scale",
+   "形状缩放相乘"
+  ],
+  [
+   "Multiply Size",
+   "尺寸相乘"
+  ],
+  [
+   "Multiply by Attribute",
+   "按属性相乘"
+  ],
+  [
+   "Multiply with Original",
+   "与原始值相乘"
+  ],
+  [
+   "Multiscatter",
+   "多重散射"
+  ],
+  [
+   "Multiscattering",
+   "多重散射"
+  ],
+  [
+   "Multithread when Compiled",
+   "编译时多线程"
+  ],
+  [
+   "Multithreading",
+   "多线程"
+  ],
+  [
+   "Muscle 1",
+   "肌肉 1"
+  ],
+  [
+   "Muscle Anchors",
+   "肌肉锚点"
+  ],
+  [
+   "Muscle Base Tension",
+   "肌肉基础张力"
+  ],
+  [
+   "Muscle Base Tension Attribute",
+   "肌肉基础张力属性"
+  ],
+  [
+   "Muscle Base Tension Mode",
+   "肌肉基础张力模式"
+  ],
+  [
+   "Muscle Blur",
+   "肌肉模糊"
+  ],
+  [
+   "Muscle Blur Mask",
+   "肌肉模糊遮罩"
+  ],
+  [
+   "Muscle Center Group",
+   "肌肉中心组"
+  ],
+  [
+   "Muscle Color",
+   "肌肉颜色"
+  ],
+  [
+   "Muscle Coloring",
+   "肌肉着色"
+  ],
+  [
+   "Muscle Control Handles",
+   "肌肉控制手柄"
+  ],
+  [
+   "Muscle Display",
+   "肌肉显示"
+  ],
+  [
+   "Muscle End Constraints",
+   "肌肉末端约束"
+  ],
+  [
+   "Muscle End Mask Threshold",
+   "肌肉末端遮罩阈值"
+  ],
+  [
+   "Muscle End Radii Use World Space Distance",
+   "肌肉末端半径使用世界空间距离"
+  ],
+  [
+   "Muscle End Radii use Absolute Distances",
+   "肌肉末端半径使用绝对距离"
+  ],
+  [
+   "Muscle End Stiffness",
+   "肌肉末端刚度"
+  ],
+  [
+   "Muscle Ends Color",
+   "肌肉末端颜色"
+  ],
+  [
+   "Muscle Ends Mode",
+   "肌肉末端模式"
+  ],
+  [
+   "Muscle Glue Color",
+   "肌肉粘合颜色"
+  ],
+  [
+   "Muscle Glue Constraints",
+   "肌肉粘合约束"
+  ],
+  [
+   "Muscle Group",
+   "肌肉组"
+  ],
+  [
+   "Muscle ID Attribute",
+   "肌肉 ID 属性"
+  ],
+  [
+   "Muscle Name",
+   "肌肉名称"
+  ],
+  [
+   "Muscle Scale",
+   "肌肉缩放"
+  ],
+  [
+   "Muscle Tension",
+   "肌肉张力"
+  ],
+  [
+   "Muscle Tension Attribute",
+   "肌肉张力属性"
+  ],
+  [
+   "Muscle Tension Lines not detected",
+   "未检测到肌肉张力线"
+  ],
+  [
+   "Muscle Tension Mode",
+   "肌肉张力模式"
+  ],
+  [
+   "Muscle Tension Visualizer",
+   "肌肉张力可视化"
+  ],
+  [
+   "Muscle To Bone Color",
+   "肌肉到骨骼颜色"
+  ],
+  [
+   "Muscle To Muscle Color",
+   "肌肉到肌肉颜色"
+  ],
+  [
+   "Muscle Type",
+   "肌肉类型"
+  ],
+  [
+   "Muscle and Bone Outside Tissue",
+   "组织外的肌肉与骨骼"
+  ],
+  [
+   "Muscle to Bone Constraints",
+   "肌肉到骨骼约束"
+  ],
+  [
+   "Muscle to Muscle Collisions",
+   "肌肉间碰撞"
+  ],
+  [
+   "Muscle to Muscle Constraints",
+   "肌肉间约束"
+  ],
+  [
+   "Muscle to Tissue",
+   "肌肉到组织"
+  ],
+  [
+   "Muscles For Inflation",
+   "用于膨胀的肌肉"
+  ],
+  [
+   "Muscles to Link",
+   "要链接的肌肉"
+  ],
+  [
+   "Muslce Scale",
+   "肌肉缩放"
+  ],
+  [
+   "Mute Layer",
+   "静音图层"
+  ],
+  [
+   "Mute Paths",
+   "静音路径"
+  ],
+  [
+   "Mview",
+   "Mview"
+  ],
+  [
+   "Mview Render",
+   "Mview 渲染"
+  ],
+  [
+   "My Data",
+   "我的数据"
+  ],
+  [
+   "N Cusp Angle",
+   "N 尖角角度"
+  ],
+  [
+   "N Name",
+   "N 名称"
+  ],
+  [
+   "N Value",
+   "N 值"
+  ],
+  [
+   "NCA Checkpoint",
+   "NCA 检查点"
+  ],
+  [
+   "NCA Checkpoint File",
+   "NCA 检查点文件"
+  ],
+  [
+   "NCA Initialization",
+   "NCA 初始化"
+  ],
+  [
+   "NCA Learning Rate",
+   "NCA 学习率"
+  ],
+  [
+   "NCA Model",
+   "NCA 模型"
+  ],
+  [
+   "NCA Model File",
+   "NCA 模型文件"
+  ],
+  [
+   "NDC Position",
+   "NDC 位置"
+  ],
+  [
+   "NMS Threshold",
+   "NMS 阈值"
+  ],
+  [
+   "NURBS Patch Alembic Primitives",
+   "NURBS 面片 Alembic 图元"
+  ],
+  [
+   "Naive Upsample Other Fields",
+   "天真上采样其它场"
+  ],
+  [
+   "Name 1",
+   "名称 1"
+  ],
+  [
+   "Name 2",
+   "名称 2"
+  ],
+  [
+   "Name 3",
+   "名称 3"
+  ],
+  [
+   "Name 4",
+   "名称 4"
+  ],
+  [
+   "Name 5",
+   "名称 5"
+  ],
+  [
+   "Name 6",
+   "名称 6"
+  ],
+  [
+   "Name 7",
+   "名称 7"
+  ],
+  [
+   "Name 8",
+   "名称 8"
+  ],
+  [
+   "Name 9",
+   "名称 9"
+  ],
+  [
+   "Name Expression",
+   "名称表达式"
+  ],
+  [
+   "Name Image Plane from Usage",
+   "按用途命名图像平面"
+  ],
+  [
+   "Name Options",
+   "名称选项"
+  ],
+  [
+   "Name Override Attribute",
+   "名称覆盖属性"
+  ],
+  [
+   "Name Pattern",
+   "名称模式"
+  ],
+  [
+   "Name Point Attributes After VDBs",
+   "按 VDB 命名点属性"
+  ],
+  [
+   "Name Primitive Attribute",
+   "名称图元属性"
+  ]
+ ]
+}

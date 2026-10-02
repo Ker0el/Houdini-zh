@@ -1,0 +1,29 @@
+{
+ "note": "gap.json 第三批（2026-10-02 晚）",
+ "skip": [],
+ "patterns": {
+  "^Burst Overrides ([0-9]+)$": "爆发覆盖 $1",
+  "^Trail Overwrite ([0-9]+)$": "拖尾覆盖 $1",
+  "^([0-9]+) Bit Floating Point$": "$1 位浮点",
+  "^([0-9]+)-bit$": "$1 位"
+ },
+ "entries": [
+  ["32 Bit Floating Point", "32 位浮点"],
+  ["16 Bit Floating Point", "16 位浮点"],
+  ["64 Bit Floating Point", "64 位浮点"],
+  ["32-bit", "32 位"],
+  ["16-bit", "16 位"],
+  ["Displacement in RGB", "RGB 置换"],
+  ["Guess from Group", "从组推断"],
+  ["Guess from Type", "从类型推断"],
+  ["Mask Off", "遮罩关闭"],
+  ["No Mask", "无遮罩"],
+  ["No Scaling", "不缩放"],
+  ["Point Sampling", "点采样"],
+  ["Save Frame Range", "保存帧范围"],
+  ["Shift Forward", "向前偏移"],
+  ["Shift Backward", "向后偏移"],
+  ["Burst Overrides", "爆发覆盖"],
+  ["Trail Overwrite", "拖尾覆盖"]
+ ]
+}

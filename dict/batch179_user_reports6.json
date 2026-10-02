@@ -1,0 +1,19 @@
+{
+ "note": "用户实时报告（2026-10-02 第三批）",
+ "skip": [],
+ "entries": [
+  ["Set Uniform", "设为统一"],
+  ["Set Varying", "设为逐点"],
+  ["Set Uniform ", "设为统一 "],
+  ["Set Varying ", "设为逐点 "],
+  ["Blast Rings", "炸开环"],
+  ["Blast Ring", "炸开环"],
+  ["Rings", "环"],
+  ["Ring", "环"],
+  ["Blast", "炸开"],
+  ["Uniform", "统一"],
+  ["Varying", "逐点"],
+  ["Uniform Attribute", "统一属性"],
+  ["Varying Attribute", "逐点属性"]
+ ]
+}

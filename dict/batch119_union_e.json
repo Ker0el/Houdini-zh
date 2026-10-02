@@ -1,0 +1,1457 @@
+{
+ "note": "合并清单 —— 第 5 批",
+ "skip": [
+  "    Plane Scope",
+  "  Mult",
+  "  Sort By",
+  "Bprofiles",
+  "Bsdf",
+  "C1",
+  "C2",
+  "C5",
+  "COG",
+  "CSV",
+  "CURIDX",
+  "Ca",
+  "Ca2",
+  "Ca3",
+  "Ca4",
+  "Ca5",
+  "Ca6",
+  "Ca7",
+  "Ca8",
+  "Ca9",
+  "Ca10",
+  "Ca11",
+  "Ca12",
+  "Ca13",
+  "Ca14",
+  "Ca15",
+  "Ca16",
+  "Cd2",
+  "Cd3",
+  "Cd4",
+  "Cd5",
+  "Cd6",
+  "Cd7",
+  "Cd8",
+  "Cd9",
+  "Cd10",
+  "Cd11",
+  "Cd12",
+  "Cd13",
+  "Cd14",
+  "Cd15",
+  "Cd16",
+  "Cdbias",
+  "CacheParms",
+  "CamRotate",
+  "CamTranslate",
+  "CameraBounds",
+  "CascadeROIHeads",
+  "Category_Name",
+  "COP2_ramp"
+ ],
+ "entries": [
+  [
+   "Bone 7",
+   "骨骼 7"
+  ],
+  [
+   "Boost Threshold",
+   "增益阈值"
+  ],
+  [
+   "Border Fuse Tolerance",
+   "边界融合容差"
+  ],
+  [
+   "Border Left/Right",
+   "边界 左/右"
+  ],
+  [
+   "Border Noise",
+   "边界噪声"
+  ],
+  [
+   "Border Precision",
+   "边界精度"
+  ],
+  [
+   "Border Threshold",
+   "边界阈值"
+  ],
+  [
+   "Border Top/Bottom",
+   "边界 上/下"
+  ],
+  [
+   "Born Before Loop Start",
+   "循环开始前出生"
+  ],
+  [
+   "Bottleneck Channels",
+   "瓶颈通道"
+  ],
+  [
+   "Bottom Alpha",
+   "底部 Alpha"
+  ],
+  [
+   "Bottom Color",
+   "底部颜色"
+  ],
+  [
+   "Bottom Edge",
+   "底边"
+  ],
+  [
+   "Bottom FG Layer",
+   "底部前景图层"
+  ],
+  [
+   "Bottom Left Corner",
+   "左下角"
+  ],
+  [
+   "Bottom Left U",
+   "左下 U"
+  ],
+  [
+   "Bottom Left V",
+   "左下 V"
+  ],
+  [
+   "Bottom Level Radius",
+   "底层半径"
+  ],
+  [
+   "Bottom Lip Curl In",
+   "下唇内卷"
+  ],
+  [
+   "Bottom Lip Curl Out",
+   "下唇外卷"
+  ],
+  [
+   "Bottom Points",
+   "底部点"
+  ],
+  [
+   "Bottom Profile",
+   "底部剖面"
+  ],
+  [
+   "Bottom Profile Method",
+   "底部剖面方式"
+  ],
+  [
+   "Bottom Right Corner",
+   "右下角"
+  ],
+  [
+   "Bottom Right Radius",
+   "右下半径"
+  ],
+  [
+   "Bottom Right U",
+   "右下 U"
+  ],
+  [
+   "Bottom Right V",
+   "右下 V"
+  ],
+  [
+   "Bottom Scale",
+   "底部缩放"
+  ],
+  [
+   "Bottom Seam",
+   "底部接缝"
+  ],
+  [
+   "Bounce Attenuation",
+   "弹跳衰减"
+  ],
+  [
+   "Bounce Components",
+   "弹跳分量"
+  ],
+  [
+   "Bounce Light",
+   "反弹光"
+  ],
+  [
+   "Bound Co-Shaders",
+   "绑定的协同着色器"
+  ],
+  [
+   "Bound Direction",
+   "绑定方向"
+  ],
+  [
+   "Boundary Alpha",
+   "边界 Alpha"
+  ],
+  [
+   "Boundary Balance",
+   "边界平衡"
+  ],
+  [
+   "Boundary Behavior",
+   "边界行为"
+  ],
+  [
+   "Boundary Clamping",
+   "边界钳制"
+  ],
+  [
+   "Boundary Color",
+   "边界颜色"
+  ],
+  [
+   "Boundary Connection",
+   "边界连接"
+  ],
+  [
+   "Boundary Deviation",
+   "边界偏差"
+  ],
+  [
+   "Boundary Deviation Attribute",
+   "边界偏差属性"
+  ],
+  [
+   "Boundary Edge Group",
+   "边界边组"
+  ],
+  [
+   "Boundary Point Group",
+   "边界点组"
+  ],
+  [
+   "Boundary Smoothing",
+   "边界平滑"
+  ],
+  [
+   "Boundary Threshold",
+   "边界阈值"
+  ],
+  [
+   "Boundary Type",
+   "边界类型"
+  ],
+  [
+   "Bounding Axis",
+   "包围轴"
+  ],
+  [
+   "Bounding Box Only",
+   "仅包围盒"
+  ],
+  [
+   "Bounding Geometry",
+   "包围几何体"
+  ],
+  [
+   "Bounding Primitives",
+   "包围图元"
+  ],
+  [
+   "Bounding Value",
+   "包围值"
+  ],
+  [
+   "Bounds Are In World Space",
+   "边界位于世界空间"
+  ],
+  [
+   "Bounds Scale Attribute",
+   "边界缩放属性"
+  ],
+  [
+   "Bounds Scale Mode",
+   "边界缩放模式"
+  ],
+  [
+   "Bounds Source",
+   "边界来源"
+  ],
+  [
+   "Box Color",
+   "盒颜色"
+  ],
+  [
+   "Box Constraints",
+   "盒约束"
+  ],
+  [
+   "Box Culling",
+   "盒剔除"
+  ],
+  [
+   "Box Divisions",
+   "盒分段"
+  ],
+  [
+   "Box Head",
+   "盒头"
+  ],
+  [
+   "Box Heads",
+   "盒头"
+  ],
+  [
+   "Box Max-Corner",
+   "盒最大角"
+  ],
+  [
+   "Box Min-Corner",
+   "盒最小角"
+  ],
+  [
+   "Box Predictors",
+   "盒预测器"
+  ],
+  [
+   "Brake",
+   "制动"
+  ],
+  [
+   "Brake Increments",
+   "制动增量"
+  ],
+  [
+   "Braking Distance",
+   "制动距离"
+  ],
+  [
+   "Braking Scale",
+   "制动缩放"
+  ],
+  [
+   "Branch Bend",
+   "分支弯曲"
+  ],
+  [
+   "Branch Blend",
+   "分支混合"
+  ],
+  [
+   "Branch Level Prefix",
+   "分支层级前缀"
+  ],
+  [
+   "Branch Prefix",
+   "分支前缀"
+  ],
+  [
+   "Branch Probability",
+   "分支概率"
+  ],
+  [
+   "Branch Resolution",
+   "分支分辨率"
+  ],
+  [
+   "Break Constraints",
+   "断裂约束"
+  ],
+  [
+   "Breakable Chassis Connectors",
+   "可断裂底盘连接件"
+  ],
+  [
+   "Breaking Frequency",
+   "断裂频率"
+  ],
+  [
+   "Brick",
+   "砖块"
+  ],
+  [
+   "Brick Ambient",
+   "砖环境光"
+  ],
+  [
+   "Brick Color 1",
+   "砖颜色 1"
+  ],
+  [
+   "Brick Color 2",
+   "砖颜色 2"
+  ],
+  [
+   "Brick Diffuse",
+   "砖漫反射"
+  ],
+  [
+   "Brick Height",
+   "砖高度"
+  ],
+  [
+   "Brick Light Model",
+   "砖光照模型"
+  ],
+  [
+   "Brick Reflect",
+   "砖反射"
+  ],
+  [
+   "Brick Roughness",
+   "砖粗糙度"
+  ],
+  [
+   "Brick Specular",
+   "砖高光"
+  ],
+  [
+   "Brick Width",
+   "砖宽度"
+  ],
+  [
+   "Bright Edge",
+   "亮边"
+  ],
+  [
+   "Bright Lit Color",
+   "亮部受光颜色"
+  ],
+  [
+   "Bright Shift",
+   "亮度偏移"
+  ],
+  [
+   "Brightness Attribute",
+   "亮度属性"
+  ],
+  [
+   "Brightness Blur",
+   "亮度模糊"
+  ],
+  [
+   "Brightness High",
+   "高亮度"
+  ],
+  [
+   "Brightness Low",
+   "低亮度"
+  ],
+  [
+   "Brightness Mode",
+   "亮度模式"
+  ],
+  [
+   "Brightness Model",
+   "亮度模型"
+  ],
+  [
+   "Brightness Mods",
+   "亮度修改"
+  ],
+  [
+   "Brightness threshold",
+   "亮度阈值"
+  ],
+  [
+   "Broken",
+   "已断裂"
+  ],
+  [
+   "Brown Color",
+   "棕色"
+  ],
+  [
+   "Brush Amount",
+   "笔刷量"
+  ],
+  [
+   "Brush Circles",
+   "笔刷圆"
+  ],
+  [
+   "Brush Direction",
+   "笔刷方向"
+  ],
+  [
+   "Brush Falloff Data",
+   "笔刷衰减数据"
+  ],
+  [
+   "Brush Op",
+   "笔刷操作"
+  ],
+  [
+   "Brush Options",
+   "笔刷选项"
+  ],
+  [
+   "Brush Parms",
+   "笔刷参数"
+  ],
+  [
+   "Brush Tool",
+   "笔刷工具"
+  ],
+  [
+   "Bubble",
+   "气泡"
+  ],
+  [
+   "Bucket Items",
+   "分块项"
+  ],
+  [
+   "Buckets",
+   "分块"
+  ],
+  [
+   "Buffer Size",
+   "缓冲区大小"
+  ],
+  [
+   "Build Clusters",
+   "构建聚类"
+  ],
+  [
+   "Build Direction",
+   "构建方向"
+  ],
+  [
+   "Build From Particles",
+   "从粒子构建"
+  ],
+  [
+   "Build Hierarchy Using Subnetworks",
+   "用子网构建层级"
+  ],
+  [
+   "Build Neighbour List",
+   "构建邻近列表"
+  ],
+  [
+   "Build OSD",
+   "构建 OSD"
+  ],
+  [
+   "Build Rigscript",
+   "构建绑定脚本"
+  ],
+  [
+   "Build SDF",
+   "构建 SDF"
+  ],
+  [
+   "Build Scene",
+   "构建场景"
+  ],
+  [
+   "Build Settings",
+   "构建设置"
+  ],
+  [
+   "Build Volume",
+   "构建体积"
+  ],
+  [
+   "Build or Update Hierarchy",
+   "构建或更新层级"
+  ],
+  [
+   "Build outer trim-loop explicitly",
+   "显式构建外部修剪环"
+  ],
+  [
+   "Builder Operation",
+   "构建器操作"
+  ],
+  [
+   "Building Parts",
+   "建筑部件"
+  ],
+  [
+   "Built-in Tet Mesh",
+   "内置 Tet 网格"
+  ],
+  [
+   "Built-in Tube",
+   "内置管"
+  ],
+  [
+   "Bulge Ramp",
+   "凸起渐变"
+  ],
+  [
+   "Bulge Scale",
+   "凸起缩放"
+  ],
+  [
+   "Bulge Scale #",
+   "凸起缩放 #"
+  ],
+  [
+   "Bulge to Max Weight",
+   "凸起到最大权重"
+  ],
+  [
+   "Bulges",
+   "凸起"
+  ],
+  [
+   "Bullet",
+   "Bullet"
+  ],
+  [
+   "Bump Amount",
+   "凹凸量"
+  ],
+  [
+   "Bump Amplitude",
+   "凹凸振幅"
+  ],
+  [
+   "Bump Frequency",
+   "凹凸频率"
+  ],
+  [
+   "Bump Layer",
+   "凹凸图层"
+  ],
+  [
+   "Bump Map Range",
+   "凹凸贴图范围"
+  ],
+  [
+   "Bump Map Type",
+   "凹凸贴图类型"
+  ],
+  [
+   "Bump Normal",
+   "凹凸法线"
+  ],
+  [
+   "Bump Offset",
+   "凹凸偏移"
+  ],
+  [
+   "Bump Only",
+   "仅凹凸"
+  ],
+  [
+   "Bump Orientation",
+   "凹凸朝向"
+  ],
+  [
+   "Bump Overlay",
+   "凹凸叠加"
+  ],
+  [
+   "Bump Roughness",
+   "凹凸粗糙度"
+  ],
+  [
+   "Bump Style",
+   "凹凸样式"
+  ],
+  [
+   "Bump, Point, Normal Planes in 2nd Input",
+   "第二个输入中的凹凸、点、法线平面"
+  ],
+  [
+   "Bumping",
+   "凹凸"
+  ],
+  [
+   "Burn (burn)",
+   "燃烧（burn）"
+  ],
+  [
+   "Burn Contribution",
+   "燃烧贡献"
+  ],
+  [
+   "Burn Influence",
+   "燃烧影响"
+  ],
+  [
+   "Burn Output",
+   "燃烧输出"
+  ],
+  [
+   "Burning",
+   "燃烧"
+  ],
+  [
+   "But Keep Triangles:",
+   "但保留三角形："
+  ],
+  [
+   "Button Name",
+   "按钮名称"
+  ],
+  [
+   "Buttons",
+   "按钮"
+  ],
+  [
+   "BxDF Shader",
+   "BxDF 着色器"
+  ],
+  [
+   "By Count",
+   "按数量"
+  ],
+  [
+   "By Group",
+   "按组"
+  ],
+  [
+   "By Pattern",
+   "按模式"
+  ],
+  [
+   "Bypass HeightField Cache",
+   "跳过高度场缓存"
+  ],
+  [
+   "Bypass Initialization in Minimal Solver",
+   "在最小求解器中跳过初始化"
+  ],
+  [
+   "Bypass Solid Embedding",
+   "跳过实体嵌入"
+  ],
+  [
+   "Bypass Source #",
+   "跳过源 #"
+  ],
+  [
+   "CCD Accuracy",
+   "CCD 精度"
+  ],
+  [
+   "CFL",
+   "CFL"
+  ],
+  [
+   "CFM",
+   "CFM"
+  ],
+  [
+   "CHOP Channel Path",
+   "CHOP 通道路径"
+  ],
+  [
+   "CHOP Type Name",
+   "CHOP 类型名称"
+  ],
+  [
+   "COCO Path",
+   "COCO 路径"
+  ],
+  [
+   "COG Gimbal",
+   "质心万向节"
+  ],
+  [
+   "COG Gimbal Rotate",
+   "质心万向节旋转"
+  ],
+  [
+   "COG Pivot",
+   "质心轴心"
+  ],
+  [
+   "COG Pivot Rotate",
+   "质心轴心旋转"
+  ],
+  [
+   "COG Pivot Translate",
+   "质心轴心平移"
+  ],
+  [
+   "COM Point Name",
+   "质心点名称"
+  ],
+  [
+   "COP Frame",
+   "COP 帧"
+  ],
+  [
+   "COP INPUT (optional)",
+   "COP 输入（可选）"
+  ],
+  [
+   "COP Image Filter Lists",
+   "COP 图像过滤器列表"
+  ],
+  [
+   "COP Settings",
+   "COP 设置"
+  ],
+  [
+   "COP2 Contexts",
+   "COP2 上下文"
+  ],
+  [
+   "COP2 Type Name",
+   "COP2 类型名称"
+  ],
+  [
+   "CSV Column Index",
+   "CSV 列索引"
+  ],
+  [
+   "CSV Column Name",
+   "CSV 列名"
+  ],
+  [
+   "CSV File",
+   "CSV 文件"
+  ],
+  [
+   "CSV Source",
+   "CSV 来源"
+  ],
+  [
+   "CVEX Bindings",
+   "CVEX 绑定"
+  ],
+  [
+   "CVEX Node",
+   "CVEX 节点"
+  ],
+  [
+   "Cable Stretch Scale",
+   "缆索拉伸缩放"
+  ],
+  [
+   "Cache Any Frame",
+   "缓存任意帧"
+  ],
+  [
+   "Cache Count",
+   "缓存数量"
+  ],
+  [
+   "Cache Frame",
+   "缓存帧"
+  ],
+  [
+   "Cache Geometry",
+   "缓存几何体"
+  ],
+  [
+   "Cache Images to VRAM",
+   "把图像缓存到显存"
+  ],
+  [
+   "Cache Input",
+   "缓存输入"
+  ],
+  [
+   "Cache Input Deltas",
+   "缓存输入增量"
+  ],
+  [
+   "Cache Irradiance",
+   "缓存辐照度"
+  ],
+  [
+   "Cache Length",
+   "缓存长度"
+  ],
+  [
+   "Cache Modified Clips to Disk",
+   "把修改过的片段缓存到磁盘"
+  ],
+  [
+   "Cache Output",
+   "缓存输出"
+  ],
+  [
+   "Cache Parameters",
+   "缓存参数"
+  ],
+  [
+   "Cache Point Data",
+   "缓存点数据"
+  ],
+  [
+   "Cache Positions/Normals/Areas",
+   "缓存位置/法线/面积"
+  ],
+  [
+   "Cache Range",
+   "缓存范围"
+  ],
+  [
+   "Cache Size",
+   "缓存大小"
+  ],
+  [
+   "Cache Skeleton Animation",
+   "缓存骨架动画"
+  ],
+  [
+   "Cache Split",
+   "缓存拆分"
+  ],
+  [
+   "Cache Stamping Geometry",
+   "缓存印章几何体"
+  ],
+  [
+   "Cache Stores Direct Lighting",
+   "缓存存储直接光照"
+  ],
+  [
+   "Cache Strokes",
+   "缓存笔画"
+  ],
+  [
+   "Cache Task Graph",
+   "缓存任务图"
+  ],
+  [
+   "Cache Time Independent Topology",
+   "缓存与时间无关的拓扑"
+  ],
+  [
+   "Cache Time Range",
+   "缓存时间范围"
+  ],
+  [
+   "Cached File Info",
+   "已缓存的文件信息"
+  ],
+  [
+   "Cached Strokes",
+   "已缓存的笔画"
+  ],
+  [
+   "Caching Mode",
+   "缓存模式"
+  ],
+  [
+   "Caching and Output Files",
+   "缓存与输出文件"
+  ],
+  [
+   "Cage Attributes",
+   "笼属性"
+  ],
+  [
+   "Cage Mode",
+   "笼模式"
+  ],
+  [
+   "Cage Offset",
+   "笼偏移"
+  ],
+  [
+   "Calculate Flow Fields",
+   "计算流场"
+  ],
+  [
+   "Calculate Phonemes",
+   "计算音素"
+  ],
+  [
+   "Calculate Piece Attribute",
+   "计算碎块属性"
+  ],
+  [
+   "Calculate Rest Positions for Guide Curves",
+   "为导向曲线计算静止位置"
+  ],
+  [
+   "Calculate Rest Positions for Skin Prims",
+   "为蒙皮图元计算静止位置"
+  ],
+  [
+   "Calculate Shadows",
+   "计算阴影"
+  ],
+  [
+   "Calculate Speed",
+   "计算速度"
+  ],
+  [
+   "Calculated Rotate",
+   "计算出的旋转"
+  ],
+  [
+   "Calculated Vector",
+   "计算出的矢量"
+  ],
+  [
+   "Calculations",
+   "计算"
+  ],
+  [
+   "Calf",
+   "小腿"
+  ],
+  [
+   "Calf Bone",
+   "小腿骨骼"
+  ],
+  [
+   "Calf Bone Color",
+   "小腿骨骼颜色"
+  ],
+  [
+   "Calf Muscle Color",
+   "小腿肌肉颜色"
+  ],
+  [
+   "Calf Muscle Scale",
+   "小腿肌肉缩放"
+  ],
+  [
+   "Calf Primitives Per Segment",
+   "每段小腿图元数"
+  ],
+  [
+   "Cam Transform Row 0",
+   "相机变换第 0 行"
+  ],
+  [
+   "Cam Transform Row 1",
+   "相机变换第 1 行"
+  ],
+  [
+   "Cam Transform Row 2",
+   "相机变换第 2 行"
+  ],
+  [
+   "Cam Transform Row 3",
+   "相机变换第 3 行"
+  ],
+  [
+   "Camera Base Name",
+   "相机基础名称"
+  ],
+  [
+   "Camera Center",
+   "相机中心"
+  ],
+  [
+   "Camera DSM",
+   "相机 DSM"
+  ],
+  [
+   "Camera Eval Time",
+   "相机求值时间"
+  ],
+  [
+   "Camera Exposure",
+   "相机曝光"
+  ],
+  [
+   "Camera Frustum",
+   "相机视锥"
+  ],
+  [
+   "Camera Intrinsics",
+   "相机内参"
+  ],
+  [
+   "Camera Mask",
+   "相机遮罩"
+  ],
+  [
+   "Camera Motion Blur",
+   "相机运动模糊"
+  ],
+  [
+   "Camera Path",
+   "相机路径"
+  ],
+  [
+   "Camera Rig Full Path",
+   "相机绑定完整路径"
+  ],
+  [
+   "Camera Tint",
+   "相机色调"
+  ],
+  [
+   "Camera Up Vector",
+   "相机上方向"
+  ],
+  [
+   "Camera View",
+   "相机视图"
+  ],
+  [
+   "Camera Visibility",
+   "相机可见性"
+  ],
+  [
+   "Camera Visible Objects",
+   "相机可见物体"
+  ],
+  [
+   "Camera Zoom",
+   "相机缩放"
+  ],
+  [
+   "Camera and Scene",
+   "相机与场景"
+  ],
+  [
+   "Camera's Far Clip as Background Value",
+   "用相机远裁剪面作为背景值"
+  ],
+  [
+   "Canvas Color",
+   "画布颜色"
+  ],
+  [
+   "Canvas Texture",
+   "画布贴图"
+  ],
+  [
+   "Cap All Unshared Edges If No Group",
+   "无组时封盖所有非共享边"
+  ],
+  [
+   "Cap Ends",
+   "封盖两端"
+  ],
+  [
+   "Cap Max GS",
+   "最大封盖网格尺寸"
+  ],
+  [
+   "Cap Open Meshes",
+   "封盖开放网格"
+  ],
+  [
+   "Cap Segments",
+   "封盖分段"
+  ],
+  [
+   "Cap Type",
+   "封盖类型"
+  ],
+  [
+   "Caps",
+   "封盖"
+  ],
+  [
+   "Caps Group",
+   "封盖组"
+  ],
+  [
+   "Capture After End Position",
+   "末端位置之后捕捉"
+  ],
+  [
+   "Capture All",
+   "捕捉全部"
+  ],
+  [
+   "Capture Before Start Position",
+   "起始位置之前捕捉"
+  ],
+  [
+   "Capture Bone Length",
+   "捕捉骨骼长度"
+  ],
+  [
+   "Capture Bone Rotate",
+   "捕捉骨骼旋转"
+  ],
+  [
+   "Capture Bone Scale",
+   "捕捉骨骼缩放"
+  ],
+  [
+   "Capture Bone Translate",
+   "捕捉骨骼平移"
+  ],
+  [
+   "Capture Bot Cap",
+   "捕捉底部端盖"
+  ],
+  [
+   "Capture Bot Height",
+   "捕捉底部高度"
+  ],
+  [
+   "Capture Construction Radius",
+   "捕捉构造半径"
+  ],
+  [
+   "Capture Core Radius",
+   "捕捉核心半径"
+  ],
+  [
+   "Capture Deform Network",
+   "捕捉变形网络"
+  ],
+  [
+   "Capture Display Color",
+   "捕捉显示颜色"
+  ],
+  [
+   "Capture Distance",
+   "捕捉距离"
+  ],
+  [
+   "Capture End Attribute",
+   "捕捉末端属性"
+  ],
+  [
+   "Capture Geo",
+   "捕捉几何体"
+  ],
+  [
+   "Capture Geo Options",
+   "捕捉几何体选项"
+  ],
+  [
+   "Capture Geo Role",
+   "捕捉几何体角色"
+  ],
+  [
+   "Capture Geometry Type",
+   "捕捉几何体类型"
+  ],
+  [
+   "Capture Handle1 Rotate",
+   "捕捉手柄 1 旋转"
+  ],
+  [
+   "Capture Handle1 Scale",
+   "捕捉手柄 1 缩放"
+  ],
+  [
+   "Capture Handle1 Translate",
+   "捕捉手柄 1 平移"
+  ],
+  [
+   "Capture Handle2 Rotate",
+   "捕捉手柄 2 旋转"
+  ],
+  [
+   "Capture Handle2 Scale",
+   "捕捉手柄 2 缩放"
+  ],
+  [
+   "Capture Handle2 Translate",
+   "捕捉手柄 2 平移"
+  ],
+  [
+   "Capture Handle3 Rotate",
+   "捕捉手柄 3 旋转"
+  ],
+  [
+   "Capture Handle3 Scale",
+   "捕捉手柄 3 缩放"
+  ],
+  [
+   "Capture Handle3 Translate",
+   "捕捉手柄 3 平移"
+  ],
+  [
+   "Capture Handle4 Rotate",
+   "捕捉手柄 4 旋转"
+  ],
+  [
+   "Capture Handle4 Scale",
+   "捕捉手柄 4 缩放"
+  ],
+  [
+   "Capture Handle4 Translate",
+   "捕捉手柄 4 平移"
+  ],
+  [
+   "Capture Handle5 Rotate",
+   "捕捉手柄 5 旋转"
+  ],
+  [
+   "Capture Handle5 Scale",
+   "捕捉手柄 5 缩放"
+  ],
+  [
+   "Capture Handle5 Translate",
+   "捕捉手柄 5 平移"
+  ],
+  [
+   "Capture Max Radius",
+   "最大捕捉半径"
+  ],
+  [
+   "Capture Min Radius",
+   "最小捕捉半径"
+  ],
+  [
+   "Capture Offsets Using",
+   "捕捉偏移依据"
+  ],
+  [
+   "Capture Origin Offset",
+   "捕捉原点偏移"
+  ],
+  [
+   "Capture Pose Storage",
+   "捕捉姿态存储"
+  ],
+  [
+   "Capture Position Bias",
+   "捕捉位置偏置"
+  ],
+  [
+   "Capture Radius Scale",
+   "捕捉半径缩放"
+  ],
+  [
+   "Capture Region Center",
+   "捕捉区域中心"
+  ],
+  [
+   "Capture Region Rotates",
+   "捕捉区域旋转"
+  ],
+  [
+   "Capture Region Scales",
+   "捕捉区域缩放"
+  ],
+  [
+   "Capture Regions",
+   "捕捉区域"
+  ],
+  [
+   "Capture Rotate",
+   "捕捉旋转"
+  ],
+  [
+   "Capture Scale",
+   "捕捉缩放"
+  ],
+  [
+   "Capture Smoothing",
+   "捕捉平滑"
+  ],
+  [
+   "Capture Start Attribute",
+   "捕捉起始属性"
+  ],
+  [
+   "Capture State",
+   "捕捉状态"
+  ],
+  [
+   "Capture Top Cap",
+   "捕捉顶部端盖"
+  ],
+  [
+   "Capture Top Height",
+   "捕捉顶部高度"
+  ],
+  [
+   "Capture Translate",
+   "捕捉平移"
+  ],
+  [
+   "Capture Triangle Size",
+   "捕捉三角形大小"
+  ],
+  [
+   "Capture and Align",
+   "捕捉并对齐"
+  ],
+  [
+   "Capture and Deform",
+   "捕捉并变形"
+  ],
+  [
+   "Capture by Attribute",
+   "按属性捕捉"
+  ],
+  [
+   "Capture frame",
+   "捕捉帧"
+  ],
+  [
+   "Capture | Deform by Default",
+   "默认捕捉 | 变形"
+  ],
+  [
+   "Capture/Deform",
+   "捕捉/变形"
+  ],
+  [
+   "Captured Group",
+   "已捕捉的组"
+  ],
+  [
+   "Captured Type",
+   "捕捉类型"
+  ],
+  [
+   "Card Shape",
+   "卡片形状"
+  ],
+  [
+   "Carried On",
+   "承载于"
+  ],
+  [
+   "Cartesian",
+   "笛卡尔"
+  ],
+  [
+   "Casual",
+   "休闲"
+  ],
+  [
+   "Category Filter",
+   "分类过滤器"
+  ],
+  [
+   "Category names that can be used as filters in the component catalog",
+   "可在组件目录中作为过滤器使用的分类名"
+  ],
+  [
+   "Category names that can be uses as filters in the component catalog",
+   "可在组件目录中作为过滤器使用的分类名"
+  ],
+  [
+   "Catenary (cosh)",
+   "悬链线（cosh）"
+  ],
+  [
+   "Caustic Photon Map",
+   "焦散光子贴图"
+  ],
+  [
+   "Cavity (Cv)",
+   "凹痕（Cv）"
+  ],
+  [
+   "Cavity Surface Offset",
+   "凹痕表面偏移"
+  ],
+  [
+   "Celestial Sphere",
+   "天球"
+  ],
+  [
+   "Cell Distance",
+   "单元距离"
+  ],
+  [
+   "Cell Jitter",
+   "单元抖动"
+  ],
+  [
+   "Cell Maximum",
+   "单元最大值"
+  ]
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "_comment": "第五十七批：UV 菜单那一组（batch56 里列了却漏写进文件的）。Scene bounds / 超长 Cooking Op 行留作缺口 —— 前者是标签带值，后者是运行时拼的节点路径，都不适合写死。",
+ "entries": {
+  "UV Backfaces": "UV 背面",
+  "UV Display": "UV 显示",
+  "UV Distortion": "UV 扭曲",
+  "UV Flatten from ": "UV 展平自 ",
+  "UV Map Scale": "UV 贴图缩放",
+  "UV Overlap": "UV 重叠",
+  "UV View Only": "仅 UV 视图",
+  "UV coords": "UV 坐标",
+  "    Scene bounds:": "    场景边界："
+ }
+}

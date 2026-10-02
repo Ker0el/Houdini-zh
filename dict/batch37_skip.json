@@ -1,0 +1,19 @@
+{
+  "_comment": "第三十七批：收尾。1 条补译 + 把「不该翻」的加进 skip，让它们别再刷缺口日志。skip 的判据：键位名（Ctrl+\\ 之类）、内部标识（UI_Viewport）、色彩空间名（Un-tone-mapped / sRGB - Display）、渲染器专名（RenderMan / Mantra - PBR）、HTML 包裹串。",
+  "entries": {
+    "Other Output Nodes": "其它输出节点"
+  },
+  "skip": [
+    "Ctrl+\\",
+    "Shift+,",
+    "Shift+.",
+    "Shift+=",
+    "UI_Viewport",
+    "Un-tone-mapped",
+    "sRGB - Display",
+    "RenderMan",
+    "RenderMan - RIS",
+    "Mantra - PBR",
+    "<span style='font-weight: 600'>0</span>"
+  ]
+}

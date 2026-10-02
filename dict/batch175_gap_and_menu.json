@@ -1,0 +1,1221 @@
+{
+ "note": "gap.json 运行时缺口 + 用户报告的主界面下拉菜单（2026-10-02）",
+ "skip": [
+  "                                 exact_node_type = exact_node_type)",
+  "    (child, newnode) = createNodeInContainer(container, nodetypecategory,",
+  "    node = toolutils.genericTool(scriptargs, nodetypename, nodename,",
+  "    return function(*args, **kwargs)",
+  "_tile%02d",
+  "color.r color.g color.b",
+  "diffuse reflect coat refract volume sss",
+  "fireball_shockwave_simulation",
+  "gaea_terrain_color_visualizer1",
+  "gaussian -w 2",
+  "id uv",
+  "pyro_solver through Sub-Network Input #1",
+  "width Cd",
+  "xOrd",
+  "Untagged_Lights",
+  "H<sub>OK</sub>",
+  "L<sub>OK</sub>",
+  "S<sub>OK</sub>"
+ ],
+ "entries": [
+  [
+   "Capture Paint",
+   "捕捉绘制"
+  ],
+  [
+   "Cloth",
+   "布料"
+  ],
+  [
+   "Solids",
+   "实体"
+  ],
+  [
+   "Guide Tools",
+   "引导工具"
+  ],
+  [
+   "Curve Modeling",
+   "曲线建模"
+  ],
+  [
+   "Modeling",
+   "建模"
+  ],
+  [
+   "Poly Modeling",
+   "多边形建模"
+  ],
+  [
+   "UV Editing",
+   "UV 编辑"
+  ],
+  [
+   "Sculpt",
+   "雕刻"
+  ],
+  [
+   "Rigging",
+   "绑定"
+  ],
+  [
+   "Muscles",
+   "肌肉"
+  ],
+  [
+   "Vellum",
+   "Vellum"
+  ],
+  [
+   "Particles",
+   "粒子"
+  ],
+  [
+   "Volumes",
+   "体积"
+  ],
+  [
+   "Rigid Bodies",
+   "刚体"
+  ],
+  [
+   "Wire",
+   "线"
+  ],
+  [
+   "Crowds",
+   "群集"
+  ],
+  [
+   "Grains",
+   "颗粒"
+  ],
+  [
+   "Rendering",
+   "渲染"
+  ],
+  [
+   "Compositing",
+   "合成"
+  ],
+  [
+   "Tasks",
+   "任务"
+  ],
+  [
+   "Display Comment",
+   "显示注释"
+  ],
+  [
+   "Display Origin",
+   "显示原点"
+  ],
+  [
+   "Distant Light Edit",
+   "平行光编辑"
+  ],
+  [
+   "Do Not Share Data",
+   "不共享数据"
+  ],
+  [
+   "Dome Light Edit",
+   "穹顶光编辑"
+  ],
+  [
+   "Drip Particle ",
+   "滴落粒子 "
+  ],
+  [
+   "Edit Metadata of Selected Assets",
+   "编辑选中资产的元数据"
+  ],
+  [
+   "Edit Options",
+   "编辑选项"
+  ],
+  [
+   "Electricity",
+   "电"
+  ],
+  [
+   "Elendt model",
+   "Elendt 模型"
+  ],
+  [
+   "Evaluate Once",
+   "求值一次"
+  ],
+  [
+   "Extract Pre-transform",
+   "提取预变换"
+  ],
+  [
+   "Extrude And Blend",
+   "挤出并混合"
+  ],
+  [
+   "FLIP",
+   "FLIP"
+  ],
+  [
+   "Farm",
+   "农场"
+  ],
+  [
+   "Fireball with ",
+   "火球（带 "
+  ],
+  [
+   "Flat Ribbons",
+   "扁平带"
+  ],
+  [
+   "Flow Control",
+   "流控制"
+  ],
+  [
+   "Forces/Buoyancy",
+   "力/浮力"
+  ],
+  [
+   "Fraction Of Screen Width",
+   "屏幕宽度占比"
+  ],
+  [
+   "From Skin Geometry",
+   "从蒙皮几何体"
+  ],
+  [
+   "Full Color",
+   "全彩"
+  ],
+  [
+   "Full Predicing",
+   "完整预切分"
+  ],
+  [
+   "Fuzzy Logic",
+   "模糊逻辑"
+  ],
+  [
+   "Fuzzy Transition ",
+   "模糊过渡 "
+  ],
+  [
+   "Gaea",
+   "Gaea"
+  ],
+  [
+   "Gallery Options",
+   "图库选项"
+  ],
+  [
+   "Gamma 1.8 Encoded Rec.709",
+   "Gamma 1.8 编码 Rec.709"
+  ],
+  [
+   "Gamma 2.2",
+   "Gamma 2.2"
+  ],
+  [
+   "Gamma 2.2 Encoded AP1",
+   "Gamma 2.2 编码 AP1"
+  ],
+  [
+   "Gamma 2.2 Encoded AdobeRGB",
+   "Gamma 2.2 编码 AdobeRGB"
+  ],
+  [
+   "Gamma 2.2 Encoded Rec.709",
+   "Gamma 2.2 编码 Rec.709"
+  ],
+  [
+   "Gamma 2.4 Encoded Rec.709",
+   "Gamma 2.4 编码 Rec.709"
+  ],
+  [
+   "Gaussian",
+   "高斯"
+  ],
+  [
+   "Generate Geometry in Mantra",
+   "在 Mantra 中生成几何体"
+  ],
+  [
+   "Generic",
+   "通用"
+  ],
+  [
+   "Generic Shaders",
+   "通用着色器"
+  ],
+  [
+   "Hermite Curves Edit",
+   "Hermite 曲线编辑"
+  ],
+  [
+   "Hscript",
+   "Hscript"
+  ],
+  [
+   "Implicit Surfaces",
+   "隐式曲面"
+  ],
+  [
+   "Infer from filename",
+   "从文件名推断"
+  ],
+  [
+   "Infinite Horizon",
+   "无限地平线"
+  ],
+  [
+   "Input Nodes (1) (Drag to change order)",
+   "输入节点 (1)（拖动可更改顺序）"
+  ],
+  [
+   "Input Nodes (2) (Drag to change order)",
+   "输入节点 (2)（拖动可更改顺序）"
+  ],
+  [
+   "Input Nodes (3) (Drag to change order)",
+   "输入节点 (3)（拖动可更改顺序）"
+  ],
+  [
+   "January",
+   "一月"
+  ],
+  [
+   "Karma Sky Dome Light Edit",
+   "Karma 天空穹顶光编辑"
+  ],
+  [
+   "KineFX",
+   "KineFX"
+  ],
+  [
+   "Large Grid Layout",
+   "大网格布局"
+  ],
+  [
+   "Launch a background render (Karma (CPU))",
+   "启动后台渲染（Karma（CPU））"
+  ],
+  [
+   "Ctrl-click for configuration dialog",
+   "Ctrl+点击打开配置对话框"
+  ],
+  [
+   "Right-click for list of plugins",
+   "右键查看插件列表"
+  ],
+  [
+   "Left Inputs Affect Right Inputs",
+   "左侧输入影响右侧输入"
+  ],
+  [
+   "Light Edit",
+   "灯光编辑"
+  ],
+  [
+   "Light Tree",
+   "灯光树"
+  ],
+  [
+   "Limit number of parallel renders to",
+   "限制并行渲染数量为"
+  ],
+  [
+   "Limit to one snapshot every",
+   "每…限制为一个快照"
+  ],
+  [
+   "Linear AdobeRGB",
+   "线性 AdobeRGB"
+  ],
+  [
+   "Linear Blend",
+   "线性混合"
+  ],
+  [
+   "Linear P3-D65",
+   "线性 P3-D65"
+  ],
+  [
+   "Linear Rec.2020",
+   "线性 Rec.2020"
+  ],
+  [
+   "Linear Rec.709 (sRGB)",
+   "线性 Rec.709 (sRGB)"
+  ],
+  [
+   "Machine Learning",
+   "机器学习"
+  ],
+  [
+   "Match Skin Object",
+   "匹配蒙皮对象"
+  ],
+  [
+   "Match Skin Shader (Only Supports Displace Along Normal)",
+   "匹配蒙皮着色器（仅支持沿法线置换）"
+  ],
+  [
+   "MaterialX",
+   "MaterialX"
+  ],
+  [
+   "Max Axis",
+   "最大轴"
+  ],
+  [
+   "Medium Grid Layout",
+   "中网格布局"
+  ],
+  [
+   "Mesh Edit",
+   "网格编辑"
+  ],
+  [
+   "NURBS",
+   "NURBS"
+  ],
+  [
+   "New Palette",
+   "新建调色板"
+  ],
+  [
+   "No Denoiser",
+   "无降噪器"
+  ],
+  [
+   "No Mapping",
+   "无映射"
+  ],
+  [
+   "No Override",
+   "无覆盖"
+  ],
+  [
+   "No Tonemapping",
+   "无色调映射"
+  ],
+  [
+   "On by Default",
+   "默认开启"
+  ],
+  [
+   "Opacity Filtering",
+   "不透明度过滤"
+  ],
+  [
+   "Other Networks",
+   "其它网络"
+  ],
+  [
+   "Overwrite existing frames",
+   "覆盖已有帧"
+  ],
+  [
+   "P3-D65 - Display",
+   "P3-D65 - 显示"
+  ],
+  [
+   "POP",
+   "POP"
+  ],
+  [
+   "POP Configure Fire Portal",
+   "POP 配置火焰传送门"
+  ],
+  [
+   "Performance Capture",
+   "性能捕获"
+  ],
+  [
+   "Physically Correct",
+   "物理正确"
+  ],
+  [
+   "Pick: Linear Rec.709 (sRGB)",
+   "选取：线性 Rec.709 (sRGB)"
+  ],
+  [
+   "Plane Edit",
+   "平面编辑"
+  ],
+  [
+   "Points Edit",
+   "点编辑"
+  ],
+  [
+   "Portal Light Edit",
+   "门户光编辑"
+  ],
+  [
+   "Precompute Bounds",
+   "预计算边界"
+  ],
+  [
+   "Progressive",
+   "渐进式"
+  ],
+  [
+   "Proportion of Physical Memory",
+   "物理内存占比"
+  ],
+  [
+   "Quadrilaterals",
+   "四边形"
+  ],
+  [
+   "RBD Hinge ",
+   "RBD 铰链 "
+  ],
+  [
+   "RBD INSTANCED OBJECTS",
+   "RBD 实例化对象"
+  ],
+  [
+   "RBD Slider ",
+   "RBD 滑块 "
+  ],
+  [
+   "RBD Spring ",
+   "RBD 弹簧 "
+  ],
+  [
+   "Ragdoll Run ",
+   "布娃娃运行 "
+  ],
+  [
+   "Ray Intersect",
+   "光线求交"
+  ],
+  [
+   "Ray Tracing",
+   "光线追踪"
+  ],
+  [
+   "Read Only Source: In Memory",
+   "只读源：内存中"
+  ],
+  [
+   "Realistic",
+   "写实"
+  ],
+  [
+   "Rec.1886 Rec.709 - Display",
+   "Rec.1886 Rec.709 - 显示"
+  ],
+  [
+   "Rec.2100-PQ - Display",
+   "Rec.2100-PQ - 显示"
+  ],
+  [
+   "Regular Mask",
+   "常规遮罩"
+  ],
+  [
+   "Render Current Frame",
+   "渲染当前帧"
+  ],
+  [
+   "Render Frame Range",
+   "渲染帧范围"
+  ],
+  [
+   "Render Pass Edit",
+   "渲染遍编辑"
+  ],
+  [
+   "Render Product Edit",
+   "渲染成品编辑"
+  ],
+  [
+   "Render Settings Edit",
+   "渲染设置编辑"
+  ],
+  [
+   "Render Unconnected Points",
+   "渲染未连接的点"
+  ],
+  [
+   "Render Var Edit",
+   "渲染变量编辑"
+  ],
+  [
+   "Reset Pre-transform",
+   "重置预变换"
+  ],
+  [
+   "Rotate Angles",
+   "旋转角度"
+  ],
+  [
+   "Rotation Blur",
+   "旋转模糊"
+  ],
+  [
+   "Row Layout",
+   "行布局"
+  ],
+  [
+   "SOP Payload",
+   "SOP 载荷"
+  ],
+  [
+   "ST2084-P3-D65 - Display",
+   "ST2084-P3-D65 - 显示"
+  ],
+  [
+   "Scope Edit",
+   "作用域编辑"
+  ],
+  [
+   "Selectable",
+   "可选"
+  ],
+  [
+   "Set Always",
+   "始终设置"
+  ],
+  [
+   "Set Color Name",
+   "设置颜色名称"
+  ],
+  [
+   "Set Initial",
+   "设置初始"
+  ],
+  [
+   "Set Selected Snap as A",
+   "将选中的捕捉设为 A"
+  ],
+  [
+   "Set Selected Snap as B",
+   "将选中的捕捉设为 B"
+  ],
+  [
+   "Shading (BSDFs)",
+   "着色（BSDF）"
+  ],
+  [
+   "Shading (Layers)",
+   "着色（图层）"
+  ],
+  [
+   "Shading (Lens)",
+   "着色（镜头）"
+  ],
+  [
+   "Shading (UVs)",
+   "着色（UV）"
+  ],
+  [
+   "Shading (Utilities)",
+   "着色（工具）"
+  ],
+  [
+   "Shot Builder",
+   "镜头构建器"
+  ],
+  [
+   "Show Only Non-auto",
+   "仅显示非自动"
+  ],
+  [
+   "Show Only Starred",
+   "仅显示星标"
+  ],
+  [
+   "Show/Hide More Filters",
+   "显示/隐藏更多过滤器"
+  ],
+  [
+   "Small Grid Layout",
+   "小网格布局"
+  ],
+  [
+   "Smokeless ",
+   "无烟 "
+  ],
+  [
+   "Snapshot View Filter",
+   "快照视图过滤器"
+  ],
+  [
+   "SolarisLookDev",
+   "SolarisLookDev"
+  ],
+  [
+   "Source: In Memory",
+   "源：内存中"
+  ],
+  [
+   "Sphere (Polygons)",
+   "球体（多边形）"
+  ],
+  [
+   "Sphere (Primitive)",
+   "球体（图元）"
+  ],
+  [
+   "Sphere Edit",
+   "球体编辑"
+  ],
+  [
+   "Spheres",
+   "球体"
+  ],
+  [
+   "Sprites",
+   "精灵"
+  ],
+  [
+   "Stadium ",
+   "体育场 "
+  ],
+  [
+   "Surface SOP",
+   "表面 SOP"
+  ],
+  [
+   "Take a snapshot of the Scene View",
+   "为场景视图拍摄快照"
+  ],
+  [
+   "TechnicalWide",
+   "TechnicalWide"
+  ],
+  [
+   "Tetrahedra",
+   "四面体"
+  ],
+  [
+   "Towards Sun",
+   "朝向太阳"
+  ],
+  [
+   "Traceback (most recent call last):",
+   "回溯（最近一次调用）："
+  ],
+  [
+   "Use Filename Extension",
+   "使用文件扩展名"
+  ],
+  [
+   "Use Generation Weights",
+   "使用世代权重"
+  ],
+  [
+   "Use Point Value",
+   "使用点值"
+  ],
+  [
+   "Use auto-save",
+   "使用自动保存"
+  ],
+  [
+   "Vector Displacement Texture",
+   "矢量置换纹理"
+  ],
+  [
+   "Very High",
+   "非常高"
+  ],
+  [
+   "View: Un-tone-mapped",
+   "视图：未色调映射"
+  ],
+  [
+   "Wait",
+   "等待"
+  ],
+  [
+   "Weak",
+   "弱"
+  ],
+  [
+   "World Building",
+   "世界构建"
+  ],
+  [
+   "Xform Edit",
+   "变换编辑"
+  ],
+  [
+   "ZibraVDB",
+   "ZibraVDB"
+  ],
+  [
+   "active animated deforming",
+   "活动的动画变形"
+  ],
+  [
+   "geometry render",
+   "几何体渲染"
+  ],
+  [
+   "of Rotation Rings",
+   "旋转环"
+  ],
+  [
+   "seconds after a change.",
+   "秒（更改后）。"
+  ],
+  [
+   "✓ Display",
+   "✓ 显示"
+  ],
+  [
+   "✓ Display Text Badges",
+   "✓ 显示文字徽标"
+  ],
+  [
+   "✓ Selectable",
+   "✓ 可选"
+  ],
+  [
+   "B-Spline",
+   "B 样条"
+  ],
+  [
+   "Auto Detect",
+   "自动检测"
+  ],
+  [
+   "Auto-save",
+   "自动保存"
+  ],
+  [
+   "AutoDopNetwork",
+   "AutoDopNetwork"
+  ],
+  [
+   "Background rendering",
+   "后台渲染"
+  ],
+  [
+   "Component Builder",
+   "组件构建器"
+  ],
+  [
+   "Constraint to ",
+   "约束到 "
+  ],
+  [
+   "Control Flow",
+   "控制流"
+  ],
+  [
+   "Create Native Instances",
+   "创建原生实例"
+  ],
+  [
+   "Create PointInstancer",
+   "创建点实例化器"
+  ],
+  [
+   "Create Xforms",
+   "创建变换"
+  ],
+  [
+   "Capsule Edit",
+   "胶囊编辑"
+  ],
+  [
+   "Circle (Polygons)",
+   "圆（多边形）"
+  ],
+  [
+   "Circle (Primitive)",
+   "圆（图元）"
+  ],
+  [
+   "Cone Edit",
+   "锥体编辑"
+  ],
+  [
+   "Cube Edit",
+   "立方体编辑"
+  ],
+  [
+   "Curve Spline",
+   "曲线样条"
+  ],
+  [
+   "Cylinder Edit",
+   "圆柱编辑"
+  ],
+  [
+   "Basis Curves Edit",
+   "基础曲线编辑"
+  ],
+  [
+   "Brocade",
+   "锦缎"
+  ],
+  [
+   "Bump Texture",
+   "凹凸纹理"
+  ],
+  [
+   "Coving for displacement/sub-d",
+   "置换/细分用的凹圆线"
+  ],
+  [
+   "COLOR_SHARPEN",
+   "COLOR_SHARPEN"
+  ],
+  [
+   "Dem Bones Skinning Converter (Export)",
+   "Dem Bones 蒙皮转换器（导出）"
+  ],
+  [
+   "Dem Bones Skinning Converter (Rigging)",
+   "Dem Bones 蒙皮转换器（绑定）"
+  ],
+  [
+   "Disable Predicing",
+   "禁用预切分"
+  ],
+  [
+   "Cd Alpha",
+   "Cd Alpha"
+  ],
+  [
+   "Clean Rotates",
+   "清理旋转"
+  ],
+  [
+   "Clean Scales",
+   "清理缩放"
+  ],
+  [
+   "Clean Transform",
+   "清理变换"
+  ],
+  [
+   "Clean Translates",
+   "清理平移"
+  ],
+  [
+   "All Attributes Present",
+   "所有属性都存在"
+  ],
+  [
+   "All Data Present",
+   "所有数据都存在"
+  ],
+  [
+   "All of the following",
+   "以下全部"
+  ],
+  [
+   "Any of the following",
+   "以下任意一项"
+  ],
+  [
+   "Analytic Fast Simplex Noise",
+   "解析快速单纯形噪声"
+  ],
+  [
+   "Are you sure you want to delete \"\"?",
+   "确定要删除 \"\" 吗？"
+  ],
+  [
+   "Choose one or more images from disk and add them to the Render Gallery",
+   "从磁盘选择一张或多张图像并加入渲染库"
+  ],
+  [
+   "Import Image",
+   "导入图像"
+  ],
+  [
+   "Discs",
+   "圆盘"
+  ],
+  [
+   "Destruction",
+   "破坏"
+  ],
+  [
+   "Edit Metadata",
+   "编辑元数据"
+  ],
+  [
+   "Maximum number of indirect samples",
+   "间接采样数量上限"
+  ],
+  [
+   "Medium",
+   "中"
+  ],
+  [
+   "Very Low",
+   "非常低"
+  ],
+  [
+   "Low",
+   "低"
+  ],
+  [
+   "High",
+   "高"
+  ],
+  [
+   "Input Nodes",
+   "输入节点"
+  ],
+  [
+   "Output",
+   "输出"
+  ],
+  [
+   "Removing \"\".",
+   "正在移除 \"\"。"
+  ],
+  [
+   "CPUs",
+   "CPU"
+  ],
+  [
+   "CPU Parameters",
+   "CPU 参数"
+  ],
+  [
+   "Crop Aperture",
+   "裁剪孔径"
+  ],
+  [
+   "Default Format",
+   "默认格式"
+  ],
+  [
+   "Default (calculated from longitude)",
+   "默认（由经度计算）"
+  ],
+  [
+   "Array",
+   "数组"
+  ],
+  [
+   "LMB:\tCreate point<br>Ctrl+LMB:\tCreate point on curve<br>Alt+LMB Drag:\tBox Selection",
+   "左键：\t创建点<br>Ctrl+左键：\t在曲线上创建点<br>Alt+左键拖拽：\t框选"
+  ],
+  [
+   "Sub-Network Input #2",
+   "子网络输入 #2"
+  ],
+  [
+   "Output 1 (output1)",
+   "输出 1（output1）"
+  ],
+  [
+   "Alembic Primitives (output1)",
+   "Alembic 图元（output1）"
+  ],
+  [
+   "MPM Configure Building Collapse",
+   "MPM 配置建筑坍塌"
+  ],
+  [
+   "MPM Configure Jello Party",
+   "MPM 配置果冻堆"
+  ],
+  [
+   "MPM Configure Landslide",
+   "MPM 配置滑坡"
+  ],
+  [
+   "MPM Configure Metal Tearing",
+   "MPM 配置金属撕裂"
+  ],
+  [
+   "MPM Configure Pancakes",
+   "MPM 配置煎饼"
+  ],
+  [
+   "MPM Configure Rolling Snowball",
+   "MPM 配置滚雪球"
+  ],
+  [
+   "MPM Configure Sand Instances",
+   "MPM 配置沙粒实例"
+  ],
+  [
+   "MPM Configure Softbody",
+   "MPM 配置软体"
+  ],
+  [
+   "MPM Configure Spinning Tire",
+   "MPM 配置旋转轮胎"
+  ],
+  [
+   "MPM Configure Water Glass",
+   "MPM 配置水杯"
+  ],
+  [
+   "Pyro Configure Aerial Explosion",
+   "Pyro 配置空中爆炸"
+  ],
+  [
+   "Pyro Configure Billowy Smoke",
+   "Pyro 配置翻涌烟雾"
+  ],
+  [
+   "Pyro Configure Bonfire",
+   "Pyro 配置篝火"
+  ],
+  [
+   "Pyro Configure Fireball",
+   "Pyro 配置火球"
+  ],
+  [
+   "Pyro Configure GPU Ground Explosion",
+   "Pyro 配置 GPU 地面爆炸"
+  ],
+  [
+   "Pyro Configure GPU Torch",
+   "Pyro 配置 GPU 火炬"
+  ],
+  [
+   "Pyro Configure Ground Explosion",
+   "Pyro 配置地面爆炸"
+  ],
+  [
+   "Pyro Configure Ground Explosion B",
+   "Pyro 配置地面爆炸 B"
+  ],
+  [
+   "Pyro Configure Muzzle Flash",
+   "Pyro 配置枪口闪光"
+  ],
+  [
+   "Pyro Configure Shockwave Fireball",
+   "Pyro 配置冲击波火球"
+  ],
+  [
+   "Pyro Configure Spreading Fire",
+   "Pyro 配置蔓延火"
+  ],
+  [
+   "Pyro Configure Thruster Exhaust",
+   "Pyro 配置推进器尾焰"
+  ],
+  [
+   "<b>Aerial Explosion</b> ",
+   "<b>空中爆炸</b> "
+  ],
+  [
+   "<b>Aerial Explosion</b>",
+   "<b>空中爆炸</b>"
+  ],
+  [
+   "<b>Bonfire</b> ",
+   "<b>篝火</b> "
+  ],
+  [
+   "<b>Bonfire</b>",
+   "<b>篝火</b>"
+  ],
+  [
+   "<b>Geometry Light</b> ",
+   "<b>几何体灯光</b> "
+  ],
+  [
+   "<b>Geometry Light</b>",
+   "<b>几何体灯光</b>"
+  ],
+  [
+   "<b>RBD Hero Object</b> ",
+   "<b>RBD 主角对象</b> "
+  ],
+  [
+   "<b>RBD Hero Object</b>",
+   "<b>RBD 主角对象</b>"
+  ],
+  [
+   "<b>RBD Instanced Objects</b> ",
+   "<b>RBD 实例化对象</b> "
+  ],
+  [
+   "<b>RBD Instanced Objects</b>",
+   "<b>RBD 实例化对象</b>"
+  ],
+  [
+   "<b>RBD Ragdolls</b> ",
+   "<b>RBD 布娃娃</b> "
+  ],
+  [
+   "<b>RBD Ragdolls</b>",
+   "<b>RBD 布娃娃</b>"
+  ],
+  [
+   "<b>Shockwave</b> ",
+   "<b>冲击波</b> "
+  ],
+  [
+   "<b>Shockwave</b>",
+   "<b>冲击波</b>"
+  ],
+  [
+   "<b>Sparse Billowy Smoke</b> ",
+   "<b>稀疏翻涌烟雾</b> "
+  ],
+  [
+   "<b>Sparse Billowy Smoke</b>",
+   "<b>稀疏翻涌烟雾</b>"
+  ],
+  [
+   "<b>Sparse Fireball</b> ",
+   "<b>稀疏火球</b> "
+  ],
+  [
+   "<b>Sparse Fireball</b>",
+   "<b>稀疏火球</b>"
+  ],
+  [
+   "Evaluating python",
+   "正在求值 Python"
+  ],
+  [
+   "Cooking Op",
+   "正在计算 OP"
+  ],
+  [
+   "Press Esc to Cancel",
+   "按 Esc 取消"
+  ],
+  [
+   "Updating Exports",
+   "正在更新导出"
+  ],
+  [
+   "Run Hscript command",
+   "运行 Hscript 命令"
+  ],
+  [
+   "DOP First Frame",
+   "DOP 第一帧"
+  ],
+  [
+   "Executing Volume VEX",
+   "正在执行体积 VEX"
+  ],
+  [
+   "Compositing → Evaluating python",
+   "合成 → 正在求值 Python"
+  ],
+  [
+   "Compositing → Cooking Op",
+   "合成 → 正在计算 OP"
+  ]
+ ]
+}

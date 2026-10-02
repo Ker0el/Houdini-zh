@@ -1,0 +1,26 @@
+{
+ "note": "修正：Tab 标签过宽被裁剪（Alembic SOP 的 Dicing/Tessellation 页）",
+ "skip": [],
+ "entries": [
+  ["Dicing", "镶嵌"],
+  ["Tessellation", "镶嵌"],
+  ["Subdivision", "细分"],
+  ["Subdivisions", "细分"],
+  ["Constraints", "约束"],
+  ["Properties", "属性"],
+  ["Preferences", "首选项"],
+  ["Attributes", "属性"],
+  ["Transform", "变换"],
+  ["Instancing", "实例化"],
+  ["Rendering", "渲染"],
+  ["Simulation", "模拟"],
+  ["Post Process", "后处理"],
+  ["Collisions", "碰撞"],
+  ["Shading", "着色"],
+  ["Material", "材质"],
+  ["Geometry", "几何体"],
+  ["Options", "选项"],
+  ["Settings", "设置"],
+  ["Advanced", "高级"]
+ ]
+}

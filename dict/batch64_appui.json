@@ -1,0 +1,32 @@
+{
+  "_comment": "新界面（FUSE）config/Applications/*.ui 里的界面文案 —— 图标悬浮提示、右键菜单项、列表排序选项等。这是 2026-10-02 才发现的一整个源（3858 条，词典此前一条都没有），本批先覆盖主网络编辑器 FUSE_NetEditorApp.ui。抽取器：src/tools/ui_app_extract.py",
+  "entries": [
+    ["Add Group", "添加组"],
+    ["Add Selection To Group", "添加所选到组"],
+    ["Cancels the current cook", "取消当前计算"],
+    ["Cook the output node's work items", "计算输出节点的工作项"],
+    ["Cook the selected node's work items", "计算所选节点的工作项"],
+    ["Create a new background image", "新建背景图像"],
+    ["Create a new sticky note", "新建便签"],
+    ["Create network box", "创建网络框"],
+    ["Find node...", "查找节点…"],
+    ["Jump Down", "跳到下一层"],
+    ["Jump Up", "跳到上一层"],
+    ["List Order", "列表顺序"],
+    ["Open display options...", "打开显示选项…"],
+    ["Operator Type", "节点类型"],
+    ["Remove Selection From Group", "从组中移除所选"],
+    ["Replace Group with Selection", "用所选替换组"],
+    ["Show Columns", "显示列"],
+    ["Show Filter Buttons", "显示筛选按钮"],
+    ["Show Implicit Operators", "显示隐式节点"],
+    ["Show Selected Operators", "只显示选中节点"],
+    ["Show color palette", "显示颜色调色板"],
+    ["Show parameter pane for copnet", "显示 copnet 的参数面板"],
+    ["Show shape palette", "显示形状调色板"],
+    ["Show/hide list view", "显示/隐藏列表视图"],
+    ["Shows the task graph table for the selected node", "显示所选节点的任务图表格"],
+    ["Tile Vis", "平铺可见"],
+    ["User Defined", "用户定义"]
+  ]
+}

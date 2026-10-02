@@ -1,0 +1,1571 @@
+{
+ "note": "合并清单 —— 第 13 批",
+ "skip": [
+  "    Plane Scope",
+  "  Mult",
+  "  Sort By",
+  "Exe",
+  "Exclusive1",
+  "Exclusive2",
+  "Exclusive3",
+  "Expr",
+  "F0",
+  "F90",
+  "FPN",
+  "Faceforward"
+ ],
+ "entries": [
+  [
+   "Error Type",
+   "错误类型"
+  ],
+  [
+   "Error Value",
+   "错误值"
+  ],
+  [
+   "Error for Missing LOP Node or Invalid Output",
+   "缺少 LOP 节点或输出无效时报错"
+  ],
+  [
+   "Error on Mismatched Point Counts",
+   "点数不匹配时报错"
+  ],
+  [
+   "Error on Mismatched Primitive Counts",
+   "图元数不匹配时报错"
+  ],
+  [
+   "Error on Missing Attributes",
+   "属性缺失时报错"
+  ],
+  [
+   "Error on Missing Volumes",
+   "体积缺失时报错"
+  ],
+  [
+   "Error on No Matches",
+   "无匹配时报错"
+  ],
+  [
+   "Escape Double Quotes",
+   "转义双引号"
+  ],
+  [
+   "Escape Radius",
+   "逃逸半径"
+  ],
+  [
+   "Estimated Archive Size",
+   "预估归档大小"
+  ],
+  [
+   "Estimated Points:",
+   "预估点数："
+  ],
+  [
+   "Eta",
+   "Eta"
+  ],
+  [
+   "Euler Filter",
+   "欧拉过滤"
+  ],
+  [
+   "Eumelanin Color",
+   "真黑色素颜色"
+  ],
+  [
+   "Evaluate",
+   "求值"
+  ],
+  [
+   "Evaluate BSDF on Fake Caustics",
+   "在假焦散上求值 BSDF"
+  ],
+  [
+   "Evaluate During",
+   "求值时机"
+  ],
+  [
+   "Evaluate POP Forces",
+   "求值 POP 力"
+  ],
+  [
+   "Evaluate RGB Separately",
+   "分别求值 RGB"
+  ],
+  [
+   "Evaluate USD Attributes at Specified Time",
+   "在指定时间求值 USD 属性"
+  ],
+  [
+   "Evaluate Velocity",
+   "求值速度"
+  ],
+  [
+   "Evaluate at Frame",
+   "在指定帧求值"
+  ],
+  [
+   "Evaluation",
+   "求值"
+  ],
+  [
+   "Evaluation Context",
+   "求值上下文"
+  ],
+  [
+   "Evaporate by Subtraction",
+   "按相减蒸发"
+  ],
+  [
+   "Evaporation Rate Mask",
+   "蒸发速率遮罩"
+  ],
+  [
+   "Evaporation Rate Mask Mode",
+   "蒸发速率遮罩模式"
+  ],
+  [
+   "Even Color",
+   "均匀颜色"
+  ],
+  [
+   "Even Softness",
+   "均匀柔和度"
+  ],
+  [
+   "Even Step Size",
+   "均匀步长"
+  ],
+  [
+   "Evolve Noise",
+   "演化噪声"
+  ],
+  [
+   "Exact Number",
+   "精确数量"
+  ],
+  [
+   "Exact Scale",
+   "精确缩放"
+  ],
+  [
+   "Excl. Data Name",
+   "排除数据名称"
+  ],
+  [
+   "Excl. Message",
+   "排除消息"
+  ],
+  [
+   "Exclude Disconnected Chunks",
+   "排除不连通的块"
+  ],
+  [
+   "Exclude End Pieces from Pattern",
+   "从模式中排除末端碎块"
+  ],
+  [
+   "Exclude Extra Edges from Group",
+   "从组中排除多余的边"
+  ],
+  [
+   "Exclude Group",
+   "排除组"
+  ],
+  [
+   "Exclude Grouped Primitives From Chooser",
+   "从选择器中排除已分组的图元"
+  ],
+  [
+   "Exclude Inactive Primitives",
+   "排除未激活的图元"
+  ],
+  [
+   "Exclude Lone Particles",
+   "排除孤立粒子"
+  ],
+  [
+   "Exclude Opposing Metaballs For Joint Group",
+   "为关节组排除相对的元球"
+  ],
+  [
+   "Exclude Primitives with Existing Proxy",
+   "排除已有代理的图元"
+  ],
+  [
+   "Exclude Unmatched Items",
+   "排除未匹配的项"
+  ],
+  [
+   "Exclude from DCM",
+   "从 DCM 中排除"
+  ],
+  [
+   "Excludes",
+   "排除项"
+  ],
+  [
+   "Exclusions",
+   "排除项"
+  ],
+  [
+   "Exclusive",
+   "互斥"
+  ],
+  [
+   "Execute Parm Name",
+   "执行参数名"
+  ],
+  [
+   "Execute in a Shell",
+   "在 Shell 中执行"
+  ],
+  [
+   "Execution Mode",
+   "执行模式"
+  ],
+  [
+   "Exhaust",
+   "排气"
+  ],
+  [
+   "Existing Component Name",
+   "已有分量名称"
+  ],
+  [
+   "Existing Render Vars",
+   "已有渲染变量"
+  ],
+  [
+   "Existing component to configure",
+   "要配置的已有分量"
+  ],
+  [
+   "Exists Attribute Name",
+   "存在性属性名"
+  ],
+  [
+   "Exlude Nodes",
+   "排除节点"
+  ],
+  [
+   "Expand Active Region",
+   "扩展活动区域"
+  ],
+  [
+   "Expand Distance Scale",
+   "扩展距离缩放"
+  ],
+  [
+   "Expand File Path",
+   "展开文件路径"
+  ],
+  [
+   "Expand Filename",
+   "展开文件名"
+  ],
+  [
+   "Expand Luminance",
+   "扩展亮度"
+  ],
+  [
+   "Expand Multiparms",
+   "展开多重参数"
+  ],
+  [
+   "Expand Obstacles Area",
+   "扩展障碍物区域"
+  ],
+  [
+   "Expand One Ring After Culling",
+   "剔除后扩展一环"
+  ],
+  [
+   "Expand Procedurals",
+   "展开程序"
+  ],
+  [
+   "Expand UV Islands",
+   "扩展 UV 岛"
+  ],
+  [
+   "Expand VDB Active Region",
+   "扩展 VDB 活动区域"
+  ],
+  [
+   "Expand Variables in Script",
+   "展开脚本中的变量"
+  ],
+  [
+   "Expand Variables in String Attributes",
+   "展开字符串属性中的变量"
+  ],
+  [
+   "Expand as Work Item IDs",
+   "展开为工作项 ID"
+  ],
+  [
+   "Expanded Form",
+   "展开形式"
+  ],
+  [
+   "Expansion Field",
+   "膨胀场"
+  ],
+  [
+   "Expansion Type",
+   "膨胀类型"
+  ],
+  [
+   "Expansion from Temp",
+   "按温度膨胀"
+  ],
+  [
+   "Expansion on Combust",
+   "燃烧时膨胀"
+  ],
+  [
+   "Expected",
+   "预期"
+  ],
+  [
+   "Expected File Attribute",
+   "预期文件属性"
+  ],
+  [
+   "Expected Outputs Script",
+   "预期输出脚本"
+  ],
+  [
+   "Expected Resolution",
+   "预期分辨率"
+  ],
+  [
+   "Explicit Frame",
+   "显式帧"
+  ],
+  [
+   "Explicit Render Control for Separate Alphas",
+   "独立 Alpha 的显式渲染控制"
+  ],
+  [
+   "Explode View",
+   "分解视图"
+  ],
+  [
+   "Explosion Direction",
+   "爆炸方向"
+  ],
+  [
+   "Explosion Force",
+   "爆炸力"
+  ],
+  [
+   "Exponent Value",
+   "指数值"
+  ],
+  [
+   "Exponential Falloff",
+   "指数衰减"
+  ],
+  [
+   "Exponential Style",
+   "指数样式"
+  ],
+  [
+   "Export # Name",
+   "导出 # 名称"
+  ],
+  [
+   "Export All Textures",
+   "导出所有贴图"
+  ],
+  [
+   "Export Animation",
+   "导出动画"
+  ],
+  [
+   "Export As",
+   "导出为"
+  ],
+  [
+   "Export Color",
+   "导出颜色"
+  ],
+  [
+   "Export Dynamic Axes",
+   "导出动态轴"
+  ],
+  [
+   "Export Epoch",
+   "导出轮次"
+  ],
+  [
+   "Export File",
+   "导出文件"
+  ],
+  [
+   "Export File Name",
+   "导出文件名"
+  ],
+  [
+   "Export Fire",
+   "导出火焰"
+  ],
+  [
+   "Export Fire Mask",
+   "导出火焰遮罩"
+  ],
+  [
+   "Export For Mobile (Unity)",
+   "为移动端导出（Unity）"
+  ],
+  [
+   "Export Frequency",
+   "导出频率"
+  ],
+  [
+   "Export Ground Plane",
+   "导出地面"
+  ],
+  [
+   "Export Header",
+   "导出表头"
+  ],
+  [
+   "Export JSON",
+   "导出 JSON"
+  ],
+  [
+   "Export Keys",
+   "导出关键帧"
+  ],
+  [
+   "Export LODs",
+   "导出 LOD"
+  ],
+  [
+   "Export Mappings",
+   "导出映射"
+  ],
+  [
+   "Export Mode",
+   "导出模式"
+  ],
+  [
+   "Export Model File",
+   "导出模型文件"
+  ],
+  [
+   "Export Name",
+   "导出名称"
+  ],
+  [
+   "Export PCG Data",
+   "导出 PCG 数据"
+  ],
+  [
+   "Export Paths",
+   "导出路径"
+  ],
+  [
+   "Export Scatter",
+   "导出散布"
+  ],
+  [
+   "Export Scatter Mask",
+   "导出散布遮罩"
+  ],
+  [
+   "Export Second Fire",
+   "导出次级火焰"
+  ],
+  [
+   "Export Smoke",
+   "导出烟"
+  ],
+  [
+   "Export Snippet",
+   "导出代码片段"
+  ],
+  [
+   "Export Spare Color Texture",
+   "导出备用颜色贴图"
+  ],
+  [
+   "Export Static Mesh Vertex Colors",
+   "导出静态网格顶点色"
+  ],
+  [
+   "Export Surface UVs in Color Red and Green",
+   "把表面 UV 导出到颜色的红绿通道"
+  ],
+  [
+   "Export Surface UVs in Position Alpha and Color Alpha",
+   "把表面 UV 导出到位置 Alpha 和颜色 Alpha"
+  ],
+  [
+   "Export Target",
+   "导出目标"
+  ],
+  [
+   "Export To Environment",
+   "导出到环境"
+  ],
+  [
+   "Export Transform Attribute",
+   "导出变换属性"
+  ],
+  [
+   "Export USD",
+   "导出 USD"
+  ],
+  [
+   "Export to Marmoset",
+   "导出到 Marmoset"
+  ],
+  [
+   "Export to SOPs",
+   "导出到 SOP"
+  ],
+  [
+   "Export variable for each component",
+   "为每个分量导出变量"
+  ],
+  [
+   "Expose Renaming Parameters",
+   "公开重命名参数"
+  ],
+  [
+   "Exposure Adjustment",
+   "曝光调整"
+  ],
+  [
+   "Expression 1",
+   "表达式 1"
+  ],
+  [
+   "Expression 2",
+   "表达式 2"
+  ],
+  [
+   "Expression 3",
+   "表达式 3"
+  ],
+  [
+   "Expression 4",
+   "表达式 4"
+  ],
+  [
+   "Expression 5",
+   "表达式 5"
+  ],
+  [
+   "Expression 6",
+   "表达式 6"
+  ],
+  [
+   "Expression Operation",
+   "表达式运算"
+  ],
+  [
+   "Expression Parameters",
+   "表达式参数"
+  ],
+  [
+   "Expression Type",
+   "表达式类型"
+  ],
+  [
+   "Extend Cooked Cache",
+   "扩展已计算的缓存"
+  ],
+  [
+   "Extend Match",
+   "扩展匹配"
+  ],
+  [
+   "Extend Tiles for Fixed-Size Islands",
+   "为固定尺寸的岛扩展平铺"
+  ],
+  [
+   "Extend Values Of",
+   "扩展值的范围"
+  ],
+  [
+   "Extension Attribute",
+   "扩展属性"
+  ],
+  [
+   "Extension Group",
+   "扩展组"
+  ],
+  [
+   "Extension List",
+   "扩展名列表"
+  ],
+  [
+   "Extensions",
+   "扩展名"
+  ],
+  [
+   "Extensions to Ignore",
+   "要忽略的扩展名"
+  ],
+  [
+   "Extent Range",
+   "范围"
+  ],
+  [
+   "Exterior Color",
+   "外部颜色"
+  ],
+  [
+   "Exterior Pad",
+   "外部填充"
+  ],
+  [
+   "Exterior Range",
+   "外部范围"
+  ],
+  [
+   "Exterior Remesh",
+   "外部重设网格"
+  ],
+  [
+   "Exterior Surface Color",
+   "外表面颜色"
+  ],
+  [
+   "Exterior Thickness",
+   "外部厚度"
+  ],
+  [
+   "External Collider",
+   "外部碰撞体"
+  ],
+  [
+   "External Constraints",
+   "外部约束"
+  ],
+  [
+   "External Constraints Pieces",
+   "外部约束碎块"
+  ],
+  [
+   "External Curves",
+   "外部曲线"
+  ],
+  [
+   "External Enable",
+   "启用外部"
+  ],
+  [
+   "External Files",
+   "外部文件"
+  ],
+  [
+   "External Geometry",
+   "外部几何体"
+  ],
+  [
+   "External Geometry Path",
+   "外部几何体路径"
+  ],
+  [
+   "External HIP File",
+   "外部 HIP 文件"
+  ],
+  [
+   "External References",
+   "外部引用"
+  ],
+  [
+   "External SOP Source",
+   "外部 SOP 源"
+  ],
+  [
+   "External Volume Properties",
+   "外部体积属性"
+  ],
+  [
+   "External Work Items",
+   "外部工作项"
+  ],
+  [
+   "Extinction",
+   "消光"
+  ],
+  [
+   "Extinction Coefficient",
+   "消光系数"
+  ],
+  [
+   "Extinction Falloff",
+   "消光衰减"
+  ],
+  [
+   "Extinction Modifier",
+   "消光修饰符"
+  ],
+  [
+   "Extinction Multiplier",
+   "消光倍率"
+  ],
+  [
+   "Extinction Ratio",
+   "消光比"
+  ],
+  [
+   "Extra",
+   "附加"
+  ],
+  [
+   "Extra Bone Objects",
+   "附加骨骼物体"
+  ],
+  [
+   "Extra Expressions",
+   "附加表达式"
+  ],
+  [
+   "Extra Features",
+   "附加特征"
+  ],
+  [
+   "Extra Filter Expression",
+   "附加过滤表达式"
+  ],
+  [
+   "Extra Input #",
+   "附加输入 #"
+  ],
+  [
+   "Extra Inputs",
+   "附加输入"
+  ],
+  [
+   "Extra Install Args",
+   "附加安装参数"
+  ],
+  [
+   "Extra Layer",
+   "附加图层"
+  ],
+  [
+   "Extra Limb Solve",
+   "附加肢体求解"
+  ],
+  [
+   "Extra Mantra Args",
+   "附加 Mantra 参数"
+  ],
+  [
+   "Extra Module Paths",
+   "附加模块路径"
+  ],
+  [
+   "Extra Parent Group",
+   "附加父组"
+  ],
+  [
+   "Extra Pip Args",
+   "附加 Pip 参数"
+  ],
+  [
+   "Extra R Color",
+   "附加 R 颜色"
+  ],
+  [
+   "Extra Resize Fields",
+   "附加调整场大小"
+  ],
+  [
+   "Extra Samples",
+   "附加采样"
+  ],
+  [
+   "Extra Seed",
+   "附加种子"
+  ],
+  [
+   "Extra Transforms",
+   "附加变换"
+  ],
+  [
+   "Extra Transitions",
+   "附加过渡"
+  ],
+  [
+   "Extract All",
+   "提取全部"
+  ],
+  [
+   "Extract Attributes",
+   "提取属性"
+  ],
+  [
+   "Extract Element from Path Attribute",
+   "从路径属性提取元素"
+  ],
+  [
+   "Extract From Folder",
+   "从文件夹提取"
+  ],
+  [
+   "Extract In-Between",
+   "提取中间帧"
+  ],
+  [
+   "Extract Only",
+   "仅提取"
+  ],
+  [
+   "Extract Orientation Around Up Axis",
+   "围绕上轴提取朝向"
+  ],
+  [
+   "Extract Rotate",
+   "提取旋转"
+  ],
+  [
+   "Extract Single Tile",
+   "提取单个平铺"
+  ],
+  [
+   "Extract String",
+   "提取字符串"
+  ],
+  [
+   "Extract Translate",
+   "提取平移"
+  ],
+  [
+   "Extract all Layers",
+   "提取所有图层"
+  ],
+  [
+   "Extraction Frame",
+   "提取帧"
+  ],
+  [
+   "Extraction Method",
+   "提取方式"
+  ],
+  [
+   "Extrapolate",
+   "外推"
+  ],
+  [
+   "Extrapolate Axis",
+   "外推轴"
+  ],
+  [
+   "Extrapolate Into Collisions",
+   "外推到碰撞中"
+  ],
+  [
+   "Extrapolate Surfaces",
+   "外推表面"
+  ],
+  [
+   "Extrapolate into Collisions",
+   "外推到碰撞中"
+  ],
+  [
+   "Extrapolation Distance",
+   "外推距离"
+  ],
+  [
+   "Extrapolation Type",
+   "外推类型"
+  ],
+  [
+   "Extrude by Thickness",
+   "按厚度挤出"
+  ],
+  [
+   "Eye Distance",
+   "眼距"
+  ],
+  [
+   "Eye Symmetry",
+   "眼睛对称"
+  ],
+  [
+   "Eyes Look At",
+   "眼睛注视"
+  ],
+  [
+   "Eyes Look At LOD",
+   "眼睛注视 LOD"
+  ],
+  [
+   "Eyes Look At Rotate",
+   "眼睛注视旋转"
+  ],
+  [
+   "Eyes Look At Translate",
+   "眼睛注视平移"
+  ],
+  [
+   "F-Stop Far",
+   "远距光圈"
+  ],
+  [
+   "F-Stop Near",
+   "近距光圈"
+  ],
+  [
+   "F-Stop Texture Map",
+   "光圈贴图"
+  ],
+  [
+   "FBIK Handles",
+   "FBIK 手柄"
+  ],
+  [
+   "FBIK Weights",
+   "FBIK 权重"
+  ],
+  [
+   "FBX Clip Name",
+   "FBX 片段名称"
+  ],
+  [
+   "FEM Collision Passes",
+   "FEM 碰撞遍数"
+  ],
+  [
+   "FEM Substeps",
+   "FEM 子步数"
+  ],
+  [
+   "FFT Direction",
+   "FFT 方向"
+  ],
+  [
+   "FG",
+   "前景"
+  ],
+  [
+   "FG Mask",
+   "前景遮罩"
+  ],
+  [
+   "FG Offset",
+   "前景偏移"
+  ],
+  [
+   "FK Ankle Rotate",
+   "FK 脚踝旋转"
+  ],
+  [
+   "FK Ankle Translate",
+   "FK 脚踝平移"
+  ],
+  [
+   "FK Callback",
+   "FK 回调"
+  ],
+  [
+   "FK Controls",
+   "FK 控件"
+  ],
+  [
+   "FK Controls Color",
+   "FK 控件颜色"
+  ],
+  [
+   "FK Controls Scale",
+   "FK 控件缩放"
+  ],
+  [
+   "FK Exclude",
+   "FK 排除"
+  ],
+  [
+   "FK Forearm",
+   "FK 前臂"
+  ],
+  [
+   "FK Forearm Rotate",
+   "FK 前臂旋转"
+  ],
+  [
+   "FK Forearm Rotate X",
+   "FK 前臂 X 旋转"
+  ],
+  [
+   "FK Forearm Translate",
+   "FK 前臂平移"
+  ],
+  [
+   "FK Forearm Translate TZ",
+   "FK 前臂 TZ 平移"
+  ],
+  [
+   "FK IK Blend",
+   "FK IK 混合"
+  ],
+  [
+   "FK Shin Rotate",
+   "FK 小腿旋转"
+  ],
+  [
+   "FK Shin Translate",
+   "FK 小腿平移"
+  ],
+  [
+   "FK Stretch Controls",
+   "FK 拉伸控件"
+  ],
+  [
+   "FK Thigh",
+   "FK 大腿"
+  ],
+  [
+   "FK Thigh Rotate",
+   "FK 大腿旋转"
+  ],
+  [
+   "FK Toe End Translate",
+   "FK 脚趾末端平移"
+  ],
+  [
+   "FK Toe Rotate",
+   "FK 脚趾旋转"
+  ],
+  [
+   "FK Toe Translate",
+   "FK 脚趾平移"
+  ],
+  [
+   "FK Upperarm",
+   "FK 上臂"
+  ],
+  [
+   "FK Upperarm Rotate",
+   "FK 上臂旋转"
+  ],
+  [
+   "FK Wrist Translate",
+   "FK 手腕平移"
+  ],
+  [
+   "FK Wrist Translate TZ",
+   "FK 手腕 TZ 平移"
+  ],
+  [
+   "FK/IK Blend",
+   "FK/IK 混合"
+  ],
+  [
+   "FK/IK Modes",
+   "FK/IK 模式"
+  ],
+  [
+   "FLIP Solve",
+   "FLIP 求解"
+  ],
+  [
+   "FLIP vs PIC",
+   "FLIP 与 PIC"
+  ],
+  [
+   "Face Color",
+   "面颜色"
+  ],
+  [
+   "Face Gain",
+   "面增益"
+  ],
+  [
+   "Face Index Offset",
+   "面索引偏移"
+  ],
+  [
+   "Face Number",
+   "面编号"
+  ],
+  [
+   "Face Visibility Culling",
+   "面可见性剔除"
+  ],
+  [
+   "Face gain",
+   "面增益"
+  ],
+  [
+   "Face/Hull",
+   "面/外壳"
+  ],
+  [
+   "Faceset Attributes",
+   "面集属性"
+  ],
+  [
+   "Facial Attributes",
+   "面部属性"
+  ],
+  [
+   "Facial Controls",
+   "面部控件"
+  ],
+  [
+   "Facing Direction",
+   "朝向方向"
+  ],
+  [
+   "Facing Ratio Name",
+   "朝向比率名称"
+  ],
+  [
+   "Fade Distance",
+   "淡出距离"
+  ],
+  [
+   "Fade Hold Frames",
+   "淡出保持帧数"
+  ],
+  [
+   "Fade In Frames",
+   "淡入帧数"
+  ],
+  [
+   "Fade In Pscale",
+   "淡入 PScale"
+  ],
+  [
+   "Fade In Ramp",
+   "淡入渐变"
+  ],
+  [
+   "Fade Out Frames",
+   "淡出帧数"
+  ],
+  [
+   "Fade Out Pscale",
+   "淡出 PScale"
+  ],
+  [
+   "Fade Out Ramp",
+   "淡出渐变"
+  ],
+  [
+   "Fade Range",
+   "淡出范围"
+  ],
+  [
+   "Fade Start Frame",
+   "淡出起始帧"
+  ],
+  [
+   "Fade by Age",
+   "按年龄淡出"
+  ],
+  [
+   "Fade-In Duration",
+   "淡入时长"
+  ],
+  [
+   "Fade-Out Duration",
+   "淡出时长"
+  ],
+  [
+   "Fail Incomplete Dataset",
+   "数据集不完整时失败"
+  ],
+  [
+   "Fall Shape",
+   "下落形状"
+  ],
+  [
+   "Fall off",
+   "衰减"
+  ],
+  [
+   "Fallback Color Space",
+   "回退色彩空间"
+  ],
+  [
+   "Fallback Fill Mode",
+   "回退填充模式"
+  ],
+  [
+   "Fallback Input",
+   "回退输入"
+  ],
+  [
+   "Fallback Name",
+   "回退名称"
+  ],
+  [
+   "Fallback Shot",
+   "回退镜头"
+  ],
+  [
+   "Fallback to Traditional Cook If Compile Fails",
+   "编译失败时回退到传统计算"
+  ],
+  [
+   "Fallbacks",
+   "回退"
+  ],
+  [
+   "Falloff Amount",
+   "衰减量"
+  ],
+  [
+   "Falloff Attenuation",
+   "衰减"
+  ],
+  [
+   "Falloff Attribute",
+   "衰减属性"
+  ],
+  [
+   "Falloff Contrast",
+   "衰减对比度"
+  ],
+  [
+   "Falloff Curve",
+   "衰减曲线"
+  ],
+  [
+   "Falloff Decay Attrib",
+   "衰减系数属性"
+  ],
+  [
+   "Falloff Decay Override",
+   "覆盖衰减系数"
+  ],
+  [
+   "Falloff Decay Texture",
+   "衰减系数贴图"
+  ],
+  [
+   "Falloff From Attribute",
+   "从属性取衰减"
+  ],
+  [
+   "Falloff Function",
+   "衰减函数"
+  ],
+  [
+   "Falloff Iterations",
+   "衰减迭代次数"
+  ],
+  [
+   "Falloff Max Distance",
+   "衰减最大距离"
+  ],
+  [
+   "Falloff Options",
+   "衰减选项"
+  ],
+  [
+   "Falloff Override",
+   "覆盖衰减"
+  ],
+  [
+   "Falloff Radius",
+   "衰减半径"
+  ],
+  [
+   "Falloff Range",
+   "衰减范围"
+  ],
+  [
+   "Falloff Range Attrib",
+   "衰减范围属性"
+  ],
+  [
+   "Falloff Range Override",
+   "覆盖衰减范围"
+  ],
+  [
+   "Falloff Range Texture",
+   "衰减范围贴图"
+  ],
+  [
+   "Falloff Range is Relative to Speed",
+   "衰减范围相对于速度"
+  ],
+  [
+   "Falloff Remap Ramp",
+   "衰减重映射渐变"
+  ],
+  [
+   "Falloff Shape",
+   "衰减形状"
+  ],
+  [
+   "Falloff Speed",
+   "衰减速度"
+  ],
+  [
+   "Falloff Start",
+   "衰减起始"
+  ],
+  [
+   "Falloff Type",
+   "衰减类型"
+  ],
+  [
+   "Falloff Weight",
+   "衰减权重"
+  ],
+  [
+   "Falloff with pscale",
+   "按 PScale 衰减"
+  ],
+  [
+   "Falloffs",
+   "衰减"
+  ],
+  [
+   "Family",
+   "族"
+  ],
+  [
+   "Family Name",
+   "族名称"
+  ],
+  [
+   "Family Type",
+   "族类型"
+  ],
+  [
+   "Fan #",
+   "扇 #"
+  ],
+  [
+   "Fans",
+   "风扇"
+  ],
+  [
+   "Fans and Propellers",
+   "风扇与螺旋桨"
+  ],
+  [
+   "Far (Max Distance)",
+   "远（最大距离）"
+  ],
+  [
+   "Far Avoidance Force",
+   "远距避让力"
+  ],
+  [
+   "Far Clip Dist",
+   "远裁剪距离"
+  ],
+  [
+   "Far Clip Plane",
+   "远裁剪平面"
+  ],
+  [
+   "Far Color",
+   "远处颜色"
+  ],
+  [
+   "Far Falloff",
+   "远距衰减"
+  ],
+  [
+   "Far Length",
+   "远距长度"
+  ],
+  [
+   "Far Plane",
+   "远平面"
+  ],
+  [
+   "Far Weight",
+   "远距权重"
+  ],
+  [
+   "Farthest From Ray Origin",
+   "距射线原点最远"
+  ],
+  [
+   "Fascia Boundary Group",
+   "筋膜边界组"
+  ],
+  [
+   "Fascia Collisions",
+   "筋膜碰撞"
+  ],
+  [
+   "Fascia T-Pose Source",
+   "筋膜 T 姿势源"
+  ],
+  [
+   "Fast Blur (Box/Barlett/Gaussian)",
+   "快速模糊（盒式/Bartlett/高斯）"
+  ],
+  [
+   "Fast Composite",
+   "快速合成"
+  ],
+  [
+   "Fast Deform",
+   "快速变形"
+  ],
+  [
+   "Fast Edit",
+   "快速编辑"
+  ],
+  [
+   "Fast Iterative Method",
+   "快速迭代法"
+  ],
+  [
+   "Fast Mode",
+   "快速模式"
+  ],
+  [
+   "Fast Rasterize",
+   "快速光栅化"
+  ],
+  [
+   "Fast Tweaking",
+   "快速微调"
+  ],
+  [
+   "Faux Caustics",
+   "假焦散"
+  ],
+  [
+   "Feather Direction",
+   "羽化方向"
+  ],
+  [
+   "Feather Draw Mode",
+   "羽化绘制模式"
+  ],
+  [
+   "Feather Dropoff",
+   "羽化衰减"
+  ],
+  [
+   "Feather Geometry",
+   "羽毛几何体"
+  ],
+  [
+   "Feather In",
+   "羽化进入"
+  ],
+  [
+   "Feather In Ramp",
+   "羽化进入渐变"
+  ],
+  [
+   "Feather Method",
+   "羽化方式"
+  ],
+  [
+   "Feather Mode",
+   "羽化模式"
+  ],
+  [
+   "Feather Out",
+   "羽化退出"
+  ],
+  [
+   "Feather Out Ramp",
+   "羽化退出渐变"
+  ],
+  [
+   "Feather Ramp",
+   "羽化渐变"
+  ],
+  [
+   "Feathering",
+   "羽化"
+  ],
+  [
+   "Feathers",
+   "羽毛"
+  ],
+  [
+   "Feature #",
+   "特征 #"
+  ],
+  [
+   "Feature Edges",
+   "特征边"
+  ],
+  [
+   "Feature Learning Rate",
+   "特征学习率"
+  ],
+  [
+   "Feet Center",
+   "脚部中心"
+  ],
+  [
+   "Fetch Bone Constraint Channels",
+   "获取骨骼约束通道"
+  ],
+  [
+   "Fetch Bone Rest Channels",
+   "获取骨骼静止通道"
+  ],
+  [
+   "Fetch External TOP",
+   "获取外部 TOP"
+  ],
+  [
+   "Fetch Input",
+   "获取输入"
+  ],
+  [
+   "Fetch Local Transforms",
+   "获取局部变换"
+  ],
+  [
+   "Fetch Mode",
+   "获取模式"
+  ],
+  [
+   "Fetch Object",
+   "获取物体"
+  ],
+  [
+   "Fetch Pretransforms",
+   "获取预变换"
+  ],
+  [
+   "Fetch SOP",
+   "获取 SOP"
+  ],
+  [
+   "Fetch Subnet Transform",
+   "获取子网变换"
+  ],
+  [
+   "Fetch Time",
+   "获取时间"
+  ],
+  [
+   "Fiber Cycles",
+   "纤维循环"
+  ],
+  [
+   "Fiber Damping",
+   "纤维阻尼"
+  ],
+  [
+   "Fiber Direction",
+   "纤维方向"
+  ],
+  [
+   "Fiber Scale Range",
+   "纤维缩放范围"
+  ]
+ ]
+}

@@ -1,0 +1,1598 @@
+{
+ "note": "合并清单 —— 第 21 批（Leaf Color → Looping Settings）",
+ "skip": [
+  "Length#",
+  "LightAPI",
+  "Load#"
+ ],
+ "entries": [
+  [
+   "Leaf Color",
+   "叶片颜色"
+  ],
+  [
+   "Leaf Node Distance",
+   "叶节点距离"
+  ],
+  [
+   "Leaf Operation",
+   "叶操作"
+  ],
+  [
+   "Leaf Param A",
+   "叶参数 A"
+  ],
+  [
+   "Leaf Param B",
+   "叶参数 B"
+  ],
+  [
+   "Leaf Param C",
+   "叶参数 C"
+  ],
+  [
+   "Leaf Profile",
+   "叶片剖面"
+  ],
+  [
+   "Leaf Shape",
+   "叶片形状"
+  ],
+  [
+   "Leaf Size",
+   "叶片大小"
+  ],
+  [
+   "Leaf Transforms",
+   "叶片变换"
+  ],
+  [
+   "Leaking Streaks",
+   "泄漏条纹"
+  ],
+  [
+   "Learning",
+   "学习"
+  ],
+  [
+   "Learning Rate Multiplier",
+   "学习率倍数"
+  ],
+  [
+   "Learning Rate Schedule",
+   "学习率调度"
+  ],
+  [
+   "Learning Rate Warmup",
+   "学习率预热"
+  ],
+  [
+   "Leave blank to use the current render camera.",
+   "留空则使用当前渲染相机。"
+  ],
+  [
+   "Leave blank, if this is the source node.",
+   "如果这是源节点，请留空。"
+  ],
+  [
+   "Leave on GPU",
+   "留在 GPU 上"
+  ],
+  [
+   "Leaves",
+   "叶片"
+  ],
+  [
+   "Leaves per node",
+   "每节点叶片数"
+  ],
+  [
+   "Left & Right",
+   "左与右"
+  ],
+  [
+   "Left Ankle",
+   "左脚踝"
+  ],
+  [
+   "Left Barbs Group",
+   "左侧倒钩组"
+  ],
+  [
+   "Left Behavior",
+   "左侧行为"
+  ],
+  [
+   "Left Bracket",
+   "左括号"
+  ],
+  [
+   "Left Brow Down",
+   "左眉下压"
+  ],
+  [
+   "Left Brow Up",
+   "左眉上扬"
+  ],
+  [
+   "Left Bumper (L1)",
+   "左缓冲键（L1）"
+  ],
+  [
+   "Left Camera",
+   "左相机"
+  ],
+  [
+   "Left Eye",
+   "左眼"
+  ],
+  [
+   "Left Eye LOD",
+   "左眼 LOD"
+  ],
+  [
+   "Left Eye Look At",
+   "左眼注视"
+  ],
+  [
+   "Left Eye Look At LOD",
+   "左眼注视 LOD"
+  ],
+  [
+   "Left Eye Look At Translate",
+   "左眼注视平移"
+  ],
+  [
+   "Left Eye Look at",
+   "左眼注视"
+  ],
+  [
+   "Left Eye Rotate",
+   "左眼旋转"
+  ],
+  [
+   "Left Eye Scale",
+   "左眼缩放"
+  ],
+  [
+   "Left Eye Translate",
+   "左眼平移"
+  ],
+  [
+   "Left Interaxial",
+   "左眼轴间距"
+  ],
+  [
+   "Left Knee",
+   "左膝"
+  ],
+  [
+   "Left Lower Arm",
+   "左下臂"
+  ],
+  [
+   "Left Offset",
+   "左侧偏移"
+  ],
+  [
+   "Left Pivot",
+   "左侧轴心"
+  ],
+  [
+   "Left Points",
+   "左侧点"
+  ],
+  [
+   "Left Rename",
+   "左侧重命名"
+  ],
+  [
+   "Left Rotation",
+   "左侧旋转"
+  ],
+  [
+   "Left Seam",
+   "左侧接缝"
+  ],
+  [
+   "Left Stick Down",
+   "左摇杆按下"
+  ],
+  [
+   "Left Stick X Axis",
+   "左摇杆 X 轴"
+  ],
+  [
+   "Left Stick Y Axis",
+   "左摇杆 Y 轴"
+  ],
+  [
+   "Left Sub-Cam",
+   "左副相机"
+  ],
+  [
+   "Left Toe",
+   "左脚趾"
+  ],
+  [
+   "Left Token",
+   "左侧标记"
+  ],
+  [
+   "Left Trigger (L2)",
+   "左扳机（L2）"
+  ],
+  [
+   "Left Upper Arm",
+   "左上臂"
+  ],
+  [
+   "Left Upper Leg",
+   "左大腿"
+  ],
+  [
+   "Left/Right",
+   "左/右"
+  ],
+  [
+   "Leg",
+   "腿"
+  ],
+  [
+   "Leg Curve",
+   "腿部曲线"
+  ],
+  [
+   "Leg Kinematic Solver",
+   "腿部运动学求解器"
+  ],
+  [
+   "Leg Options",
+   "腿部选项"
+  ],
+  [
+   "Leg Paramters",
+   "腿部参数"
+  ],
+  [
+   "Leg Pole Offset",
+   "腿部极向量偏移"
+  ],
+  [
+   "Leg Root Translate",
+   "腿部根部平移"
+  ],
+  [
+   "Leg Twist",
+   "腿部扭转"
+  ],
+  [
+   "Leg Twist Object",
+   "腿部扭转对象"
+  ],
+  [
+   "Leg Twist Translate",
+   "腿部扭转平移"
+  ],
+  [
+   "Legacy Auto Bezier",
+   "旧版自动贝塞尔"
+  ],
+  [
+   "Legacy Initialization",
+   "旧版初始化"
+  ],
+  [
+   "Legend",
+   "图例"
+  ],
+  [
+   "Length & Density",
+   "长度与密度"
+  ],
+  [
+   "Length Density",
+   "长度密度"
+  ],
+  [
+   "Length Difference",
+   "长度差"
+  ],
+  [
+   "Length End",
+   "长度结束"
+  ],
+  [
+   "Length End Mode",
+   "长度结束模式"
+  ],
+  [
+   "Length High",
+   "长度上限"
+  ],
+  [
+   "Length Low",
+   "长度下限"
+  ],
+  [
+   "Length Map",
+   "长度贴图"
+  ],
+  [
+   "Length Map Blend",
+   "长度贴图混合"
+  ],
+  [
+   "Length Mask",
+   "长度遮罩"
+  ],
+  [
+   "Length Max Scale",
+   "长度最大缩放"
+  ],
+  [
+   "Length Method",
+   "长度方式"
+  ],
+  [
+   "Length Min Scale",
+   "长度最小缩放"
+  ],
+  [
+   "Length Multiplier",
+   "长度倍数"
+  ],
+  [
+   "Length Options",
+   "长度选项"
+  ],
+  [
+   "Length Ratio",
+   "长度比例"
+  ],
+  [
+   "Length Remap Ramp",
+   "长度重映射渐变"
+  ],
+  [
+   "Length Scale 1",
+   "长度缩放 1"
+  ],
+  [
+   "Length Scale 2",
+   "长度缩放 2"
+  ],
+  [
+   "Length Scale 3",
+   "长度缩放 3"
+  ],
+  [
+   "Length Scale Constant",
+   "长度缩放常量"
+  ],
+  [
+   "Length Scale Post",
+   "长度后缩放"
+  ],
+  [
+   "Length Segments",
+   "长度分段数"
+  ],
+  [
+   "Length Start",
+   "长度起始"
+  ],
+  [
+   "Length Start Mode",
+   "长度起始模式"
+  ],
+  [
+   "Length Threshold",
+   "长度阈值"
+  ],
+  [
+   "Length in Frames",
+   "长度（帧）"
+  ],
+  [
+   "Length only on Selected",
+   "仅对选中项计算长度"
+  ],
+  [
+   "Length until end",
+   "长度直到末尾"
+  ],
+  [
+   "Length-Normalized",
+   "长度归一化"
+  ],
+  [
+   "Lens Curvature",
+   "镜头曲率"
+  ],
+  [
+   "Lens Distortion",
+   "镜头畸变"
+  ],
+  [
+   "Lens Projection",
+   "镜头投影"
+  ],
+  [
+   "Lens Rotation",
+   "镜头旋转"
+  ],
+  [
+   "Lenticel Size",
+   "皮孔大小"
+  ],
+  [
+   "Lenticels",
+   "皮孔"
+  ],
+  [
+   "Lerp MIP Levels",
+   "MIP 层级插值"
+  ],
+  [
+   "Less",
+   "较少"
+  ],
+  [
+   "Level Path",
+   "层级路径"
+  ],
+  [
+   "Level Set Advection",
+   "水平集平流"
+  ],
+  [
+   "Level Suffix",
+   "层级后缀"
+  ],
+  [
+   "Level Transition",
+   "层级过渡"
+  ],
+  [
+   "Library Path",
+   "库路径"
+  ],
+  [
+   "Life Expect",
+   "预期寿命"
+  ],
+  [
+   "Life Span Mode",
+   "寿命模式"
+  ],
+  [
+   "Life Span Type",
+   "寿命类型"
+  ],
+  [
+   "Life Target",
+   "寿命目标"
+  ],
+  [
+   "Lifespan Attribute",
+   "寿命属性"
+  ],
+  [
+   "Lift Amount",
+   "抬升量"
+  ],
+  [
+   "Lift Amount Attrib",
+   "抬升量属性"
+  ],
+  [
+   "Lift Amount Options",
+   "抬升量选项"
+  ],
+  [
+   "Lift Amount Override",
+   "抬升量覆盖"
+  ],
+  [
+   "Lift Amount Remap Ramp",
+   "抬升量重映射渐变"
+  ],
+  [
+   "Lift Amount Texture",
+   "抬升量纹理"
+  ],
+  [
+   "Lift Attrib",
+   "抬升属性"
+  ],
+  [
+   "Lift Force Attribute",
+   "升力属性"
+  ],
+  [
+   "Lift Force Falloff",
+   "升力衰减"
+  ],
+  [
+   "Lift Options",
+   "抬升选项"
+  ],
+  [
+   "Lift Override",
+   "抬升覆盖"
+  ],
+  [
+   "Lift Radius Multiplier",
+   "抬升半径倍数"
+  ],
+  [
+   "Lift Remap Ramp",
+   "抬升重映射渐变"
+  ],
+  [
+   "Lift Speed",
+   "抬升速度"
+  ],
+  [
+   "Lift Texture",
+   "抬升纹理"
+  ],
+  [
+   "Lift Tool",
+   "抬升工具"
+  ],
+  [
+   "Light Absorbance",
+   "灯光吸收率"
+  ],
+  [
+   "Light Altitude",
+   "光照高度角"
+  ],
+  [
+   "Light Angle",
+   "光照角度"
+  ],
+  [
+   "Light Azimuth",
+   "光照方位角"
+  ],
+  [
+   "Light Contributions",
+   "灯光贡献"
+  ],
+  [
+   "Light Core Size",
+   "光核大小"
+  ],
+  [
+   "Light Exports",
+   "灯光导出"
+  ],
+  [
+   "Light Falloff",
+   "灯光衰减"
+  ],
+  [
+   "Light Field",
+   "光场"
+  ],
+  [
+   "Light Filter",
+   "灯光过滤器"
+  ],
+  [
+   "Light Filter Network",
+   "灯光过滤器网络"
+  ],
+  [
+   "Light Filter Path",
+   "灯光过滤器路径"
+  ],
+  [
+   "Light Filter Path Prefix",
+   "灯光过滤器路径前缀"
+  ],
+  [
+   "Light Filter VOP",
+   "灯光过滤器 VOP"
+  ],
+  [
+   "Light Geometry",
+   "灯光几何体"
+  ],
+  [
+   "Light Group",
+   "灯光组"
+  ],
+  [
+   "Light Mode",
+   "灯光模式"
+  ],
+  [
+   "Light Normal",
+   "灯光法线"
+  ],
+  [
+   "Light Path",
+   "灯光路径"
+  ],
+  [
+   "Light Profile",
+   "灯光剖面"
+  ],
+  [
+   "Light Quality",
+   "灯光质量"
+  ],
+  [
+   "Light Radius",
+   "灯光半径"
+  ],
+  [
+   "Light Shaders",
+   "灯光着色器"
+  ],
+  [
+   "Light Shadow",
+   "灯光阴影"
+  ],
+  [
+   "Light Source Diffuse Multiplier",
+   "光源漫反射倍数"
+  ],
+  [
+   "Light Source Specular Multiplier",
+   "光源高光倍数"
+  ],
+  [
+   "Light Textures",
+   "灯光纹理"
+  ],
+  [
+   "Light Wood Color",
+   "浅木色"
+  ],
+  [
+   "Light Yellow",
+   "浅黄色"
+  ],
+  [
+   "Lightfield Name",
+   "光场名称"
+  ],
+  [
+   "Lighting Effects",
+   "光照效果"
+  ],
+  [
+   "Lighting Exposure",
+   "光照曝光"
+  ],
+  [
+   "Lighting Mode",
+   "光照模式"
+  ],
+  [
+   "Lighting Operations",
+   "光照操作"
+  ],
+  [
+   "Lighting Saturation",
+   "光照饱和度"
+  ],
+  [
+   "Lightning Arcs",
+   "闪电弧"
+  ],
+  [
+   "Lights Enabled",
+   "启用灯光"
+  ],
+  [
+   "Lights Look At",
+   "灯光注视"
+  ],
+  [
+   "Limit A",
+   "限制 A"
+  ],
+  [
+   "Limit B",
+   "限制 B"
+  ],
+  [
+   "Limit Cameras to",
+   "将相机限制为"
+  ],
+  [
+   "Limit Center",
+   "限制中心"
+  ],
+  [
+   "Limit Clavicle Downward Rotation",
+   "限制锁骨向下旋转"
+  ],
+  [
+   "Limit Concurrent Tasks to CPUs",
+   "将并发任务限制为 CPU 数"
+  ],
+  [
+   "Limit Curve Length",
+   "限制曲线长度"
+  ],
+  [
+   "Limit Density Change",
+   "限制密度变化"
+  ],
+  [
+   "Limit Display To Bounds",
+   "将显示限制在边界内"
+  ],
+  [
+   "Limit Display to Bounding Box",
+   "将显示限制在包围盒内"
+  ],
+  [
+   "Limit Flame Extrapolation",
+   "限制火焰外推"
+  ],
+  [
+   "Limit Frequency To Representable Values",
+   "将频率限制在可表示范围内"
+  ],
+  [
+   "Limit Influence Distance",
+   "限制影响距离"
+  ],
+  [
+   "Limit Input Buffer Size",
+   "限制输入缓冲区大小"
+  ],
+  [
+   "Limit Input Count",
+   "限制输入数量"
+  ],
+  [
+   "Limit Insetting",
+   "限制内缩"
+  ],
+  [
+   "Limit Maximum",
+   "限制最大值"
+  ],
+  [
+   "Limit Minimum",
+   "限制最小值"
+  ],
+  [
+   "Limit Num Lines",
+   "限制行数"
+  ],
+  [
+   "Limit Number of Connections per Point",
+   "限制每点连接数"
+  ],
+  [
+   "Limit Particle Speed to Gait Speed Range",
+   "将粒子速度限制在步态速度范围内"
+  ],
+  [
+   "Limit Passes",
+   "限制遍数"
+  ],
+  [
+   "Limit Physical Memory %",
+   "限制物理内存 %"
+  ],
+  [
+   "Limit Regions",
+   "限制区域"
+  ],
+  [
+   "Limit Render to Bounding Box",
+   "将渲染限制在包围盒内"
+  ],
+  [
+   "Limit Rotation",
+   "限制旋转"
+  ],
+  [
+   "Limit Rows",
+   "限制行数"
+  ],
+  [
+   "Limit Scale",
+   "限制缩放"
+  ],
+  [
+   "Limit Scretches",
+   "限制拉伸"
+  ],
+  [
+   "Limit Speed",
+   "限制速度"
+  ],
+  [
+   "Limit Steps",
+   "限制步数"
+  ],
+  [
+   "Limit Stiffness",
+   "限制刚度"
+  ],
+  [
+   "Limit Tags",
+   "限制标签"
+  ],
+  [
+   "Limit Texel Density Error",
+   "限制纹素密度误差"
+  ],
+  [
+   "Limit To Display Bounds",
+   "限制到显示边界"
+  ],
+  [
+   "Limit Torque",
+   "限制力矩"
+  ],
+  [
+   "Limit Type",
+   "限制类型"
+  ],
+  [
+   "Limit Using Normal Deviation",
+   "使用法线偏差限制"
+  ],
+  [
+   "Limit Values",
+   "限制值"
+  ],
+  [
+   "Limit Velocity Extrapolation",
+   "限制速度外推"
+  ],
+  [
+   "Limit Volume",
+   "限制体积"
+  ],
+  [
+   "Limit Vortex",
+   "限制涡旋"
+  ],
+  [
+   "Limit X",
+   "限制 X"
+  ],
+  [
+   "Limit Y",
+   "限制 Y"
+  ],
+  [
+   "Limit Z",
+   "限制 Z"
+  ],
+  [
+   "Limit by Attribute",
+   "按属性限制"
+  ],
+  [
+   "Limit to Template Length",
+   "限制为模板长度"
+  ],
+  [
+   "Limit to Unique Agent Definitions",
+   "限制为唯一代理定义"
+  ],
+  [
+   "Limit with Skin",
+   "用蒙皮限制"
+  ],
+  [
+   "Limiter Scheme",
+   "限制器方案"
+  ],
+  [
+   "Limits Configuration Attribute Name",
+   "限制配置属性名"
+  ],
+  [
+   "Line #",
+   "线 #"
+  ],
+  [
+   "Line Color Random Seed",
+   "线条颜色随机种子"
+  ],
+  [
+   "Line Colour",
+   "线条颜色"
+  ],
+  [
+   "Line Count",
+   "线条数量"
+  ],
+  [
+   "Line Every",
+   "每隔几行"
+  ],
+  [
+   "Line ID",
+   "线 ID"
+  ],
+  [
+   "Line Length Mode",
+   "线长模式"
+  ],
+  [
+   "Line Mode",
+   "线条模式"
+  ],
+  [
+   "Line Start Mode",
+   "线起始模式"
+  ],
+  [
+   "Linear Coefficient",
+   "线性系数"
+  ],
+  [
+   "Linear Decay",
+   "线性衰减"
+  ],
+  [
+   "Linear Drag",
+   "线性阻力"
+  ],
+  [
+   "Linear Falloff",
+   "线性衰减"
+  ],
+  [
+   "Linear Proportion",
+   "线性比例"
+  ],
+  [
+   "Linear Strength",
+   "线性强度"
+  ],
+  [
+   "Linearize",
+   "线性化"
+  ],
+  [
+   "Linearize Color",
+   "线性化颜色"
+  ],
+  [
+   "Linearize Emission Map",
+   "线性化发射贴图"
+  ],
+  [
+   "Linearize Non-Linear Images",
+   "线性化非线性图像"
+  ],
+  [
+   "Linearize sRGB",
+   "线性化 sRGB"
+  ],
+  [
+   "Lines",
+   "线条"
+  ],
+  [
+   "Lines Types to AOVs",
+   "线条类型输出到 AOV"
+  ],
+  [
+   "Link Color",
+   "链接颜色"
+  ],
+  [
+   "Link Colour",
+   "链接颜色"
+  ],
+  [
+   "Link Fin Size",
+   "链接鳍片大小"
+  ],
+  [
+   "Link Gaps",
+   "链接间隙"
+  ],
+  [
+   "Link Holes",
+   "链接孔洞"
+  ],
+  [
+   "Link Scale",
+   "链接缩放"
+  ],
+  [
+   "Link Stamps",
+   "链接图章"
+  ],
+  [
+   "Linked Parameters",
+   "链接参数"
+  ],
+  [
+   "Linux",
+   "Linux"
+  ],
+  [
+   "Linux Command",
+   "Linux 命令"
+  ],
+  [
+   "Liquid Mode",
+   "液体模式"
+  ],
+  [
+   "List of Files",
+   "文件列表"
+  ],
+  [
+   "List of Indices",
+   "索引列表"
+  ],
+  [
+   "Listen Blend",
+   "监听混合"
+  ],
+  [
+   "Lit Passes",
+   "受光遍数"
+  ],
+  [
+   "Live Application",
+   "实时应用"
+  ],
+  [
+   "Live Mode",
+   "实时模式"
+  ],
+  [
+   "Live OBJ Subnet",
+   "实时 OBJ 子网络"
+  ],
+  [
+   "Live Parameters",
+   "实时参数"
+  ],
+  [
+   "Live Recook",
+   "实时重新计算"
+  ],
+  [
+   "Live Render LOP",
+   "实时渲染 LOP"
+  ],
+  [
+   "Live Source Geometry",
+   "实时源几何体"
+  ],
+  [
+   "Live Stream",
+   "实时流"
+  ],
+  [
+   "Live Transform Export",
+   "实时变换导出"
+  ],
+  [
+   "Live Update (Slow)",
+   "实时更新（慢）"
+  ],
+  [
+   "Load Biomes",
+   "加载生物群系"
+  ],
+  [
+   "Load By",
+   "加载依据"
+  ],
+  [
+   "Load Camera",
+   "加载相机"
+  ],
+  [
+   "Load Clip File Path",
+   "加载片段文件路径"
+  ],
+  [
+   "Load Clips",
+   "加载片段"
+  ],
+  [
+   "Load Curves",
+   "加载曲线"
+  ],
+  [
+   "Load File",
+   "加载文件"
+  ],
+  [
+   "Load From File",
+   "从文件加载"
+  ],
+  [
+   "Load Header",
+   "加载表头"
+  ],
+  [
+   "Load Hierarchy As One Single Geometry Node",
+   "将层级加载为单个几何体节点"
+  ],
+  [
+   "Load Layer",
+   "加载图层"
+  ],
+  [
+   "Load Masked Payloads",
+   "加载被遮罩的载荷"
+  ],
+  [
+   "Load Maya Locator",
+   "加载 Maya 定位器"
+  ],
+  [
+   "Load Motion Files from Skeleton Folder",
+   "从骨架文件夹加载运动文件"
+  ],
+  [
+   "Load NURBS",
+   "加载 NURBS"
+  ],
+  [
+   "Load Packages From",
+   "加载包来源"
+  ],
+  [
+   "Load Parm Interface",
+   "加载参数界面"
+  ],
+  [
+   "Load Path Map",
+   "加载路径映射"
+  ],
+  [
+   "Load Paths",
+   "加载路径"
+  ],
+  [
+   "Load Paths from Input",
+   "从输入加载路径"
+  ],
+  [
+   "Load Points",
+   "加载点"
+  ],
+  [
+   "Load Polygons",
+   "加载多边形"
+  ],
+  [
+   "Load Primitives",
+   "加载图元"
+  ],
+  [
+   "Load Scene File",
+   "加载场景文件"
+  ],
+  [
+   "Load Subdivision Surfaces",
+   "加载细分曲面"
+  ],
+  [
+   "Load Text",
+   "加载文本"
+  ],
+  [
+   "Load Values",
+   "加载值"
+  ],
+  [
+   "Load Work Items from Fetched Network",
+   "从获取的网络加载工作项"
+  ],
+  [
+   "Load as Native Work Item",
+   "作为原生工作项加载"
+  ],
+  [
+   "Load as Snippet",
+   "作为代码片段加载"
+  ],
+  [
+   "Load from HQueue",
+   "从 HQueue 加载"
+  ],
+  [
+   "Load or Save New Data Only",
+   "仅加载或保存新数据"
+  ],
+  [
+   "Lobe Blend Factor",
+   "叶瓣混合系数"
+  ],
+  [
+   "Local Coordinates",
+   "局部坐标"
+  ],
+  [
+   "Local Direction Attribute",
+   "局部方向属性"
+  ],
+  [
+   "Local Edits",
+   "局部编辑"
+  ],
+  [
+   "Local Farm",
+   "本地农场"
+  ],
+  [
+   "Local Frames",
+   "局部帧"
+  ],
+  [
+   "Local IP",
+   "本地 IP"
+  ],
+  [
+   "Local Light Quality",
+   "局部灯光质量"
+  ],
+  [
+   "Local Max",
+   "局部最大值"
+  ],
+  [
+   "Local Normalization",
+   "局部归一化"
+  ],
+  [
+   "Local Overrides",
+   "局部覆盖"
+  ],
+  [
+   "Local Pivot Transform",
+   "局部轴心变换"
+  ],
+  [
+   "Local Pre-Transform",
+   "局部预变换"
+  ],
+  [
+   "Local Radius Scale",
+   "局部半径缩放"
+  ],
+  [
+   "Local Rotation Group",
+   "局部旋转组"
+  ],
+  [
+   "Local Scale Attribute",
+   "局部缩放属性"
+  ],
+  [
+   "Local Scale Constant",
+   "局部缩放常量"
+  ],
+  [
+   "Local Scaling",
+   "局部缩放"
+  ],
+  [
+   "Local Shared Path",
+   "本地共享路径"
+  ],
+  [
+   "Local Shared Root",
+   "本地共享根目录"
+  ],
+  [
+   "Local Tet Scale",
+   "局部四面体缩放"
+  ],
+  [
+   "Local Tet Scaling",
+   "局部四面体缩放"
+  ],
+  [
+   "Local Translate",
+   "局部平移"
+  ],
+  [
+   "Local Translation Group",
+   "局部平移组"
+  ],
+  [
+   "Local Variable Name",
+   "局部变量名"
+  ],
+  [
+   "Locality",
+   "局部性"
+  ],
+  [
+   "Localize External Non-USD Files",
+   "本地化外部非 USD 文件"
+  ],
+  [
+   "Localizer Max Ransac Error",
+   "定位器最大 RANSAC 误差"
+  ],
+  [
+   "Located",
+   "已定位"
+  ],
+  [
+   "Location Primitives",
+   "位置图元"
+  ],
+  [
+   "Location Source",
+   "位置来源"
+  ],
+  [
+   "Location on Curve",
+   "曲线上的位置"
+  ],
+  [
+   "Location, Date, and Time",
+   "位置、日期与时间"
+  ],
+  [
+   "Lock Axis",
+   "锁定轴"
+  ],
+  [
+   "Lock Environment",
+   "锁定环境"
+  ],
+  [
+   "Lock Feather Shape",
+   "锁定羽化形状"
+  ],
+  [
+   "Lock Root",
+   "锁定根"
+  ],
+  [
+   "Lock Roots In Place",
+   "将根锁定在原位"
+  ],
+  [
+   "Locomotion Constraint",
+   "运动约束"
+  ],
+  [
+   "Locomotion Mocap",
+   "运动动捕"
+  ],
+  [
+   "Locomotion Rotation",
+   "运动旋转"
+  ],
+  [
+   "Locomotion Settings",
+   "运动设置"
+  ],
+  [
+   "Locomotion Speed Multiplier",
+   "运动速度倍数"
+  ],
+  [
+   "Locomotion Translation",
+   "运动平移"
+  ],
+  [
+   "Log Configuration",
+   "日志配置"
+  ],
+  [
+   "Log Data Statistics",
+   "记录数据统计"
+  ],
+  [
+   "Log File Name",
+   "日志文件名"
+  ],
+  [
+   "Log Interval",
+   "日志间隔"
+  ],
+  [
+   "Log Output for PDG",
+   "PDG 的日志输出"
+  ],
+  [
+   "Log Path Attribute",
+   "日志路径属性"
+  ],
+  [
+   "Log URI",
+   "日志 URI"
+  ],
+  [
+   "Log-Normal",
+   "对数正态"
+  ],
+  [
+   "Logarithmic Handles",
+   "对数手柄"
+  ],
+  [
+   "Logged In:",
+   "已登录："
+  ],
+  [
+   "Login Name",
+   "登录名"
+  ],
+  [
+   "Login Password",
+   "登录密码"
+  ],
+  [
+   "Long Color",
+   "长波颜色"
+  ],
+  [
+   "Long Gain",
+   "长波增益"
+  ],
+  [
+   "Long MFP Distance",
+   "长波平均自由程距离"
+  ],
+  [
+   "Longer-Distance Connections",
+   "更远距离连接"
+  ],
+  [
+   "Longitude Offset",
+   "经度偏移"
+  ],
+  [
+   "Longitudinal",
+   "纵向"
+  ],
+  [
+   "Look At Attribute",
+   "注视属性"
+  ],
+  [
+   "Look At Camera",
+   "注视相机"
+  ],
+  [
+   "Look At Offset",
+   "注视偏移"
+  ],
+  [
+   "Look At Solver",
+   "注视求解器"
+  ],
+  [
+   "Look At Vector",
+   "注视矢量"
+  ],
+  [
+   "Look Left & Right",
+   "左右看"
+  ],
+  [
+   "Look Name",
+   "外观名称"
+  ],
+  [
+   "Look Up & Down",
+   "上下看"
+  ],
+  [
+   "Look Up Attribute",
+   "上方向属性"
+  ],
+  [
+   "Look Up Position",
+   "上方向位置"
+  ],
+  [
+   "Lookat",
+   "注视"
+  ],
+  [
+   "Lookat Attribute",
+   "注视属性"
+  ],
+  [
+   "Lookat Axis",
+   "注视轴"
+  ],
+  [
+   "Lookat Object",
+   "注视对象"
+  ],
+  [
+   "Lookup Attribute",
+   "查找属性"
+  ],
+  [
+   "Lookup Axis",
+   "查找轴"
+  ],
+  [
+   "Lookup By",
+   "查找依据"
+  ],
+  [
+   "Lookup Image Format",
+   "查找图像格式"
+  ],
+  [
+   "Lookup Method",
+   "查找方式"
+  ],
+  [
+   "Lookup Table",
+   "查找表"
+  ],
+  [
+   "Lookup Table Format",
+   "查找表格式"
+  ],
+  [
+   "Lookup Table Width",
+   "查找表宽度"
+  ],
+  [
+   "Lookup Vector",
+   "查找矢量"
+  ],
+  [
+   "Loop Comparison",
+   "循环比较"
+  ],
+  [
+   "Loop Creation",
+   "创建循环"
+  ],
+  [
+   "Loop First and Last Frames Match",
+   "循环首末帧一致"
+  ],
+  [
+   "Loop Frames",
+   "循环帧数"
+  ],
+  [
+   "Loop Length",
+   "循环长度"
+  ],
+  [
+   "Loop Range",
+   "循环范围"
+  ],
+  [
+   "Loop Settings",
+   "循环设置"
+  ],
+  [
+   "Loop Type",
+   "循环类型"
+  ],
+  [
+   "Loop Until Frame",
+   "循环直到帧"
+  ],
+  [
+   "Looping Settings",
+   "循环设置"
+  ]
+ ]
+}

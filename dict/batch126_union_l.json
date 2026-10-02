@@ -1,0 +1,1592 @@
+{
+ "note": "合并清单 —— 第 12 批",
+ "skip": [
+  "    Plane Scope",
+  "  Mult",
+  "  Sort By",
+  "Enableend",
+  "Enablestart"
+ ],
+ "entries": [
+  [
+   "Enable Ankle to Toe Lookat",
+   "启用脚踝到脚趾的注视"
+  ],
+  [
+   "Enable Atmosphere",
+   "启用大气"
+  ],
+  [
+   "Enable Attach Handle",
+   "启用附着手柄"
+  ],
+  [
+   "Enable Attenuation",
+   "启用衰减"
+  ],
+  [
+   "Enable Attrib Class",
+   "启用属性类"
+  ],
+  [
+   "Enable Authorization",
+   "启用授权"
+  ],
+  [
+   "Enable Auto Group",
+   "启用自动组"
+  ],
+  [
+   "Enable Avoidance Force",
+   "启用避让力"
+  ],
+  [
+   "Enable Back Boundary Group",
+   "启用后边界组"
+  ],
+  [
+   "Enable Back Group",
+   "启用后组"
+  ],
+  [
+   "Enable Background",
+   "启用背景"
+  ],
+  [
+   "Enable Bake Animation",
+   "启用烘焙动画"
+  ],
+  [
+   "Enable Band Visualization",
+   "启用频带可视化"
+  ],
+  [
+   "Enable Barn Doors",
+   "启用挡光板"
+  ],
+  [
+   "Enable Barndoors",
+   "启用挡光板"
+  ],
+  [
+   "Enable Batch Processing",
+   "启用批处理"
+  ],
+  [
+   "Enable Bias",
+   "启用偏置"
+  ],
+  [
+   "Enable Bone Collisions",
+   "启用骨骼碰撞"
+  ],
+  [
+   "Enable Bouncing SDF",
+   "启用反弹 SDF"
+  ],
+  [
+   "Enable Boundary Deviation Attribute",
+   "启用边界偏差属性"
+  ],
+  [
+   "Enable Branch",
+   "启用分支"
+  ],
+  [
+   "Enable Bubbles",
+   "启用气泡"
+  ],
+  [
+   "Enable C Clamping",
+   "启用 C 钳制"
+  ],
+  [
+   "Enable CSV",
+   "启用 CSV"
+  ],
+  [
+   "Enable Cache",
+   "启用缓存"
+  ],
+  [
+   "Enable Callback Scripts",
+   "启用回调脚本"
+  ],
+  [
+   "Enable Camera",
+   "启用相机"
+  ],
+  [
+   "Enable Camera Mask",
+   "启用相机遮罩"
+  ],
+  [
+   "Enable Cellular Noise",
+   "启用细胞噪声"
+  ],
+  [
+   "Enable Checkpoints",
+   "启用检查点"
+  ],
+  [
+   "Enable Clamping",
+   "启用钳制"
+  ],
+  [
+   "Enable Clip",
+   "启用片段"
+  ],
+  [
+   "Enable Clip Name",
+   "启用片段名称"
+  ],
+  [
+   "Enable Clip Preview",
+   "启用片段预览"
+  ],
+  [
+   "Enable Clip Time",
+   "启用片段时间"
+  ],
+  [
+   "Enable Close Gaps",
+   "启用闭合间隙"
+  ],
+  [
+   "Enable Collider Shadow",
+   "启用碰撞体阴影"
+  ],
+  [
+   "Enable Collision",
+   "启用碰撞"
+  ],
+  [
+   "Enable Collision Relationship",
+   "启用碰撞关系"
+  ],
+  [
+   "Enable Collision Resolution",
+   "启用碰撞解算"
+  ],
+  [
+   "Enable Collisions on Entire Subdermal Layer",
+   "在整个皮下层启用碰撞"
+  ],
+  [
+   "Enable Color Gradient",
+   "启用颜色渐变"
+  ],
+  [
+   "Enable Color Primaries",
+   "启用色度原色"
+  ],
+  [
+   "Enable Color Range",
+   "启用颜色范围"
+  ],
+  [
+   "Enable Color Space",
+   "启用色彩空间"
+  ],
+  [
+   "Enable Combustion",
+   "启用燃烧"
+  ],
+  [
+   "Enable Compiling Inside Assets",
+   "启用资产内部编译"
+  ],
+  [
+   "Enable Configurations",
+   "启用配置"
+  ],
+  [
+   "Enable Constraint",
+   "启用约束"
+  ],
+  [
+   "Enable Constraint Averaging",
+   "启用约束平均"
+  ],
+  [
+   "Enable Content Type",
+   "启用内容类型"
+  ],
+  [
+   "Enable Cooling Field",
+   "启用冷却场"
+  ],
+  [
+   "Enable Corners Group",
+   "启用角组"
+  ],
+  [
+   "Enable Cost Attribute",
+   "启用代价属性"
+  ],
+  [
+   "Enable Custom Arguments",
+   "启用自定义参数"
+  ],
+  [
+   "Enable Custom Command",
+   "启用自定义命令"
+  ],
+  [
+   "Enable Custom Edge Cost",
+   "启用自定义边代价"
+  ],
+  [
+   "Enable Custom Lua",
+   "启用自定义 Lua"
+  ],
+  [
+   "Enable Custom Shapes",
+   "启用自定义形状"
+  ],
+  [
+   "Enable Damping Layer",
+   "启用阻尼图层"
+  ],
+  [
+   "Enable Data",
+   "启用数据"
+  ],
+  [
+   "Enable Data Advection",
+   "启用数据平流"
+  ],
+  [
+   "Enable Data File",
+   "启用数据文件"
+  ],
+  [
+   "Enable Debug .hip File",
+   "启用调试 .hip 文件"
+  ],
+  [
+   "Enable Deform",
+   "启用变形"
+  ],
+  [
+   "Enable Denoise",
+   "启用降噪"
+  ],
+  [
+   "Enable Densification",
+   "启用加密"
+  ],
+  [
+   "Enable Diffusion",
+   "启用扩散"
+  ],
+  [
+   "Enable Directed Primitives",
+   "启用定向图元"
+  ],
+  [
+   "Enable Dissipation",
+   "启用耗散"
+  ],
+  [
+   "Enable Distance Delay",
+   "启用距离延迟"
+  ],
+  [
+   "Enable Distance Range",
+   "启用距离范围"
+  ],
+  [
+   "Enable Disturbance",
+   "启用扰动"
+  ],
+  [
+   "Enable Dynamic System",
+   "启用动态系统"
+  ],
+  [
+   "Enable Dynamics",
+   "启用动力学"
+  ],
+  [
+   "Enable EXR Transfer Function",
+   "启用 EXR 传递函数"
+  ],
+  [
+   "Enable Early Stopping",
+   "启用提前停止"
+  ],
+  [
+   "Enable Edge Length Threshold",
+   "启用边长阈值"
+  ],
+  [
+   "Enable Edge Loop",
+   "启用边循环"
+  ],
+  [
+   "Enable Edges to Avoid",
+   "启用要避开的边"
+  ],
+  [
+   "Enable Elastic Force",
+   "启用弹力"
+  ],
+  [
+   "Enable Elasticity",
+   "启用弹性"
+  ],
+  [
+   "Enable Emission Map",
+   "启用自发光贴图"
+  ],
+  [
+   "Enable End",
+   "启用末端"
+  ],
+  [
+   "Enable End Point Attribute",
+   "启用末端点属性"
+  ],
+  [
+   "Enable Erode",
+   "启用侵蚀"
+  ],
+  [
+   "Enable Expansion",
+   "启用膨胀"
+  ],
+  [
+   "Enable Explosion Force",
+   "启用爆炸力"
+  ],
+  [
+   "Enable Export",
+   "启用导出"
+  ],
+  [
+   "Enable Export Keys",
+   "启用导出关键帧"
+  ],
+  [
+   "Enable Extra Input #",
+   "启用额外输入 #"
+  ],
+  [
+   "Enable Extrapolate Surfaces",
+   "启用表面外推"
+  ],
+  [
+   "Enable Extrusion",
+   "启用挤出"
+  ],
+  [
+   "Enable FPS",
+   "启用帧率"
+  ],
+  [
+   "Enable Falloff",
+   "启用衰减"
+  ],
+  [
+   "Enable Faux Caustics",
+   "启用假焦散"
+  ],
+  [
+   "Enable Field of View",
+   "启用视场角"
+  ],
+  [
+   "Enable Fields",
+   "启用场"
+  ],
+  [
+   "Enable File Tag",
+   "启用文件标签"
+  ],
+  [
+   "Enable Files",
+   "启用文件"
+  ],
+  [
+   "Enable Filler Points",
+   "启用填充点"
+  ],
+  [
+   "Enable Filtering",
+   "启用过滤"
+  ],
+  [
+   "Enable Force",
+   "启用力"
+  ],
+  [
+   "Enable Format",
+   "启用格式"
+  ],
+  [
+   "Enable Front Boundary Group",
+   "启用前边界组"
+  ],
+  [
+   "Enable Front Group",
+   "启用前组"
+  ],
+  [
+   "Enable Full Body IK Configurations",
+   "启用全身 IK 配置"
+  ],
+  [
+   "Enable Fuse",
+   "启用融合"
+  ],
+  [
+   "Enable Fusing",
+   "启用融合"
+  ],
+  [
+   "Enable Gain",
+   "启用增益"
+  ],
+  [
+   "Enable Geometry",
+   "启用几何体"
+  ],
+  [
+   "Enable Geometry Distance",
+   "启用几何体距离"
+  ],
+  [
+   "Enable Geometry Save Path",
+   "启用几何体保存路径"
+  ],
+  [
+   "Enable Glimmer",
+   "启用微光"
+  ],
+  [
+   "Enable Guide Color",
+   "启用导向颜色"
+  ],
+  [
+   "Enable Hair Volume Force",
+   "启用头发体积力"
+  ],
+  [
+   "Enable Handle Drag",
+   "启用手柄拖动"
+  ],
+  [
+   "Enable Handle Point Dict Override",
+   "启用手柄点字典覆盖"
+  ],
+  [
+   "Enable Hip Lean",
+   "启用髋部倾斜"
+  ],
+  [
+   "Enable Hyperplane",
+   "启用超平面"
+  ],
+  [
+   "Enable Image Quality",
+   "启用图像质量"
+  ],
+  [
+   "Enable In Viewport",
+   "在视口中启用"
+  ],
+  [
+   "Enable Index",
+   "启用索引"
+  ],
+  [
+   "Enable Inflation",
+   "启用膨胀"
+  ],
+  [
+   "Enable Input Displacement",
+   "启用输入置换"
+  ],
+  [
+   "Enable Inset",
+   "启用内缩"
+  ],
+  [
+   "Enable Inset Group",
+   "启用内缩组"
+  ],
+  [
+   "Enable Instance ID",
+   "启用实例 ID"
+  ],
+  [
+   "Enable Internal Fallback Shot",
+   "启用内部回退镜头"
+  ],
+  [
+   "Enable Iterative Split",
+   "启用迭代拆分"
+  ],
+  [
+   "Enable Karma Velocity Blur",
+   "启用 Karma 速度模糊"
+  ],
+  [
+   "Enable Keep Attributes",
+   "启用「保留属性」"
+  ],
+  [
+   "Enable Key #",
+   "启用关键帧 #"
+  ],
+  [
+   "Enable LOD",
+   "启用 LOD"
+  ],
+  [
+   "Enable Landmarks",
+   "启用地标"
+  ],
+  [
+   "Enable Layer #",
+   "启用图层 #"
+  ],
+  [
+   "Enable Leaf",
+   "启用叶片"
+  ],
+  [
+   "Enable Light",
+   "启用灯光"
+  ],
+  [
+   "Enable Lighting",
+   "启用光照"
+  ],
+  [
+   "Enable Limit Length",
+   "启用长度限制"
+  ],
+  [
+   "Enable Lookup",
+   "启用查找"
+  ],
+  [
+   "Enable Loosen",
+   "启用松弛"
+  ],
+  [
+   "Enable MPM Points",
+   "启用 MPM 点"
+  ],
+  [
+   "Enable Manual Unwrap",
+   "启用手动展开"
+  ],
+  [
+   "Enable Mask Override",
+   "启用遮罩覆盖"
+  ],
+  [
+   "Enable Mass Shock",
+   "启用质量激波"
+  ],
+  [
+   "Enable Mass-Shock Scaling",
+   "启用质量激波缩放"
+  ],
+  [
+   "Enable Match Bounds",
+   "启用边界匹配"
+  ],
+  [
+   "Enable Match Geo Orientation",
+   "启用几何体朝向匹配"
+  ],
+  [
+   "Enable Material Export",
+   "启用材质导出"
+  ],
+  [
+   "Enable Material Import",
+   "启用材质导入"
+  ],
+  [
+   "Enable Max Angle Change",
+   "启用最大角度变化"
+  ],
+  [
+   "Enable Max Position Change",
+   "启用最大位置变化"
+  ],
+  [
+   "Enable Max Search Path Cost",
+   "启用最大搜索路径代价"
+  ],
+  [
+   "Enable Maximum Memory",
+   "启用最大内存"
+  ],
+  [
+   "Enable Mesh Export",
+   "启用网格导出"
+  ],
+  [
+   "Enable Metadata",
+   "启用元数据"
+  ],
+  [
+   "Enable Min Lock Frames",
+   "启用最小锁定帧数"
+  ],
+  [
+   "Enable Minimal Solver",
+   "启用最小求解器"
+  ],
+  [
+   "Enable Mipmap",
+   "启用 Mipmap"
+  ],
+  [
+   "Enable Mirroring Configurations",
+   "启用镜像配置"
+  ],
+  [
+   "Enable Mode",
+   "启用模式"
+  ],
+  [
+   "Enable MotionMixer Configurations",
+   "启用 MotionMixer 配置"
+  ],
+  [
+   "Enable Motor Strength Scale Attribute",
+   "启用马达强度缩放属性"
+  ],
+  [
+   "Enable Multithreaded Process",
+   "启用多线程处理"
+  ],
+  [
+   "Enable Muscle Collisions",
+   "启用肌肉碰撞"
+  ],
+  [
+   "Enable Muscle End Constraints",
+   "启用肌肉末端约束"
+  ],
+  [
+   "Enable Muscle Ends",
+   "启用肌肉末端"
+  ],
+  [
+   "Enable Muscle Glue Constraints",
+   "启用肌肉粘连约束"
+  ],
+  [
+   "Enable Name",
+   "启用名称"
+  ],
+  [
+   "Enable Neighbors",
+   "启用邻近"
+  ],
+  [
+   "Enable Normal Texture",
+   "启用法线贴图"
+  ],
+  [
+   "Enable Number of Loops",
+   "启用循环次数"
+  ],
+  [
+   "Enable Objects",
+   "启用物体"
+  ],
+  [
+   "Enable Objects Mask",
+   "启用物体遮罩"
+  ],
+  [
+   "Enable Obstacles",
+   "启用障碍物"
+  ],
+  [
+   "Enable OpenCV Distortion",
+   "启用 OpenCV 畸变"
+  ],
+  [
+   "Enable OpenGL Scattering",
+   "启用 OpenGL 散射"
+  ],
+  [
+   "Enable Orient Attribute",
+   "启用朝向属性"
+  ],
+  [
+   "Enable Orient Group",
+   "启用朝向组"
+  ],
+  [
+   "Enable Output Paths",
+   "启用输出路径"
+  ],
+  [
+   "Enable Packed Characters",
+   "启用打包角色"
+  ],
+  [
+   "Enable Partial Ragdoll",
+   "启用部分布娃娃"
+  ],
+  [
+   "Enable Path Attrib",
+   "启用路径属性"
+  ],
+  [
+   "Enable Path Cost Attribute",
+   "启用路径代价属性"
+  ],
+  [
+   "Enable Paths Group",
+   "启用路径组"
+  ],
+  [
+   "Enable Peak Map",
+   "启用峰值贴图"
+  ],
+  [
+   "Enable Phase",
+   "启用相位"
+  ],
+  [
+   "Enable Pin Constraint",
+   "启用图钉约束"
+  ],
+  [
+   "Enable Pixel Format",
+   "启用像素格式"
+  ],
+  [
+   "Enable Plastic Deformations",
+   "启用塑性变形"
+  ],
+  [
+   "Enable Point Number Attribute",
+   "启用点编号属性"
+  ],
+  [
+   "Enable Points Mask",
+   "启用点遮罩"
+  ],
+  [
+   "Enable Portal",
+   "启用门户"
+  ],
+  [
+   "Enable Position",
+   "启用位置"
+  ],
+  [
+   "Enable Position 2",
+   "启用位置 2"
+  ],
+  [
+   "Enable Position Attribute",
+   "启用位置属性"
+  ],
+  [
+   "Enable Post-Render Script",
+   "启用渲染后脚本"
+  ],
+  [
+   "Enable Pre-Render Script",
+   "启用渲染前脚本"
+  ],
+  [
+   "Enable Pressure Force",
+   "启用压力"
+  ],
+  [
+   "Enable Prev. Point Number Attribute",
+   "启用前一个点编号属性"
+  ],
+  [
+   "Enable Primitive Cost Attribute",
+   "启用图元代价属性"
+  ],
+  [
+   "Enable Primitive Variables in Custom Cost",
+   "在自定义代价中启用图元变量"
+  ],
+  [
+   "Enable Procedural",
+   "启用程序"
+  ],
+  [
+   "Enable Prototypes Destination",
+   "启用原型目标"
+  ],
+  [
+   "Enable Proxy Files",
+   "启用代理文件"
+  ],
+  [
+   "Enable Pump Relationship",
+   "启用泵关系"
+  ],
+  [
+   "Enable Radius Attribute",
+   "启用半径属性"
+  ],
+  [
+   "Enable Ragdoll",
+   "启用布娃娃"
+  ],
+  [
+   "Enable Ragdoll Data",
+   "启用布娃娃数据"
+  ],
+  [
+   "Enable Ragdoll Rename",
+   "启用布娃娃重命名"
+  ],
+  [
+   "Enable Random",
+   "启用随机"
+  ],
+  [
+   "Enable Random Vertex Colors",
+   "启用随机顶点颜色"
+  ],
+  [
+   "Enable Ratio to Keep",
+   "启用保留比例"
+  ],
+  [
+   "Enable Ray Background",
+   "启用射线背景"
+  ],
+  [
+   "Enable Reflection Layer 1",
+   "启用反射图层 1"
+  ],
+  [
+   "Enable Reflection Layer 2",
+   "启用反射图层 2"
+  ],
+  [
+   "Enable Render Pass",
+   "启用渲染 Pass"
+  ],
+  [
+   "Enable Render Passes",
+   "启用渲染 Pass"
+  ],
+  [
+   "Enable Resample Size",
+   "启用重采样大小"
+  ],
+  [
+   "Enable Rest",
+   "启用静止"
+  ],
+  [
+   "Enable Rest Length Settings",
+   "启用静止长度设置"
+  ],
+  [
+   "Enable Reweld",
+   "启用重新焊接"
+  ],
+  [
+   "Enable Rigid Shape Matching",
+   "启用刚体形状匹配"
+  ],
+  [
+   "Enable Rule",
+   "启用规则"
+  ],
+  [
+   "Enable SDF Mask",
+   "启用 SDF 遮罩"
+  ],
+  [
+   "Enable Sample Frame",
+   "启用采样帧"
+  ],
+  [
+   "Enable Sampling",
+   "启用采样"
+  ],
+  [
+   "Enable Sand Forces",
+   "启用沙子受力"
+  ],
+  [
+   "Enable Scale Adjustment",
+   "启用缩放调整"
+  ],
+  [
+   "Enable Scale Group",
+   "启用缩放组"
+  ],
+  [
+   "Enable Scale Map",
+   "启用缩放贴图"
+  ],
+  [
+   "Enable Secondary Fracture",
+   "启用二次碎裂"
+  ],
+  [
+   "Enable Secondary Shapes",
+   "启用次级形状"
+  ],
+  [
+   "Enable Self Collisions",
+   "启用自碰撞"
+  ],
+  [
+   "Enable Side Group",
+   "启用侧面组"
+  ],
+  [
+   "Enable Size",
+   "启用尺寸"
+  ],
+  [
+   "Enable Skin Self Collisions",
+   "启用蒙皮自碰撞"
+  ],
+  [
+   "Enable Sky Depth Shift",
+   "启用天空深度偏移"
+  ],
+  [
+   "Enable Sky Environment Map",
+   "启用天空环境贴图"
+  ],
+  [
+   "Enable Sky Light",
+   "启用天空光"
+  ],
+  [
+   "Enable Sleep",
+   "启用休眠"
+  ],
+  [
+   "Enable Sliding",
+   "启用滑动"
+  ],
+  [
+   "Enable Sliding Settings",
+   "启用滑动设置"
+  ],
+  [
+   "Enable Smooth Group",
+   "启用平滑组"
+  ],
+  [
+   "Enable Smoothing",
+   "启用平滑"
+  ],
+  [
+   "Enable Solvers",
+   "启用求解器"
+  ],
+  [
+   "Enable Solving",
+   "启用求解"
+  ],
+  [
+   "Enable Soot",
+   "启用烟炱"
+  ],
+  [
+   "Enable Source",
+   "启用源"
+  ],
+  [
+   "Enable Spare Color",
+   "启用备用颜色"
+  ],
+  [
+   "Enable Specular Color Texture",
+   "启用高光颜色贴图"
+  ],
+  [
+   "Enable Speed Ramp",
+   "启用速度渐变"
+  ],
+  [
+   "Enable Speed Stretching",
+   "启用速度拉伸"
+  ],
+  [
+   "Enable Spin Map",
+   "启用自旋贴图"
+  ],
+  [
+   "Enable Splash",
+   "启用飞溅"
+  ],
+  [
+   "Enable Split",
+   "启用拆分"
+  ],
+  [
+   "Enable Spray",
+   "启用喷洒"
+  ],
+  [
+   "Enable Stamping",
+   "启用印章"
+  ],
+  [
+   "Enable Start",
+   "启用起始"
+  ],
+  [
+   "Enable Start Point Attribute",
+   "启用起始点属性"
+  ],
+  [
+   "Enable Sticky Collision Group",
+   "启用粘性碰撞组"
+  ],
+  [
+   "Enable Stiffness Scale Attribute",
+   "启用劲度缩放属性"
+  ],
+  [
+   "Enable Sun Light",
+   "启用太阳光"
+  ],
+  [
+   "Enable Surface Primitives",
+   "启用表面图元"
+  ],
+  [
+   "Enable Surface Tension Force",
+   "启用表面张力"
+  ],
+  [
+   "Enable Target",
+   "启用目标"
+  ],
+  [
+   "Enable Target Constraint",
+   "启用目标约束"
+  ],
+  [
+   "Enable Target Layer",
+   "启用目标图层"
+  ],
+  [
+   "Enable Target Parameter",
+   "启用目标参数"
+  ],
+  [
+   "Enable Task Timeout",
+   "启用任务超时"
+  ],
+  [
+   "Enable Tearing",
+   "启用撕裂"
+  ],
+  [
+   "Enable Temperature",
+   "启用温度"
+  ],
+  [
+   "Enable Temperature Diffusion",
+   "启用温度扩散"
+  ],
+  [
+   "Enable Terrain-Based Foot Lift",
+   "启用基于地形的抬脚"
+  ],
+  [
+   "Enable Testing",
+   "启用测试"
+  ],
+  [
+   "Enable Text Font",
+   "启用文字字体"
+  ],
+  [
+   "Enable Thickness Multiplier Attribute",
+   "启用厚度倍率属性"
+  ],
+  [
+   "Enable Threshold",
+   "启用阈值"
+  ],
+  [
+   "Enable Tile",
+   "启用平铺"
+  ],
+  [
+   "Enable Tile Padding",
+   "启用平铺留白"
+  ],
+  [
+   "Enable Tile Size Override",
+   "启用平铺尺寸覆盖"
+  ],
+  [
+   "Enable Tissue Collisions",
+   "启用组织碰撞"
+  ],
+  [
+   "Enable Tissue to Bone Constraints",
+   "启用组织到骨骼约束"
+  ],
+  [
+   "Enable Tissue to Muscle Constraints",
+   "启用组织到肌肉约束"
+  ],
+  [
+   "Enable Toe-In",
+   "启用前束"
+  ],
+  [
+   "Enable Track",
+   "启用轨道"
+  ],
+  [
+   "Enable Trailing Noise",
+   "启用拖尾噪声"
+  ],
+  [
+   "Enable Transfer Function",
+   "启用传递函数"
+  ],
+  [
+   "Enable Transfer from MPM",
+   "启用从 MPM 传递"
+  ],
+  [
+   "Enable Transfer from Rest Source Model",
+   "启用从静止源模型传递"
+  ],
+  [
+   "Enable Transform",
+   "启用变换"
+  ],
+  [
+   "Enable Transitions",
+   "启用过渡"
+  ],
+  [
+   "Enable Transparent Shadows",
+   "启用透明阴影"
+  ],
+  [
+   "Enable Trunk",
+   "启用树干"
+  ],
+  [
+   "Enable Unity Material",
+   "启用 Unity 材质"
+  ],
+  [
+   "Enable Up Attribute",
+   "启用上方向属性"
+  ],
+  [
+   "Enable User Agent",
+   "启用用户代理"
+  ],
+  [
+   "Enable Validation",
+   "启用验证"
+  ],
+  [
+   "Enable Velocity Blend",
+   "启用速度混合"
+  ],
+  [
+   "Enable Velocity Constraint",
+   "启用速度约束"
+  ],
+  [
+   "Enable Velocity Scale",
+   "启用速度缩放"
+  ],
+  [
+   "Enable Video Codec",
+   "启用视频编解码器"
+  ],
+  [
+   "Enable Viewer",
+   "启用查看器"
+  ],
+  [
+   "Enable Viscosity Force",
+   "启用粘性力"
+  ],
+  [
+   "Enable Visibility",
+   "启用可见性"
+  ],
+  [
+   "Enable Visualization Modes",
+   "启用可视化模式"
+  ],
+  [
+   "Enable Vortex Confinement",
+   "启用涡旋约束"
+  ],
+  [
+   "Enable Voxel Size Overwrite",
+   "启用体素尺寸覆盖"
+  ],
+  [
+   "Enable Water Shadow",
+   "启用水面阴影"
+  ],
+  [
+   "Enable Width Attribute",
+   "启用宽度属性"
+  ],
+  [
+   "Enable Wind Shadow",
+   "启用风影"
+  ],
+  [
+   "Enable X",
+   "启用 X"
+  ],
+  [
+   "Enable Y",
+   "启用 Y"
+  ],
+  [
+   "Enable Z",
+   "启用 Z"
+  ],
+  [
+   "Enable apply_trc",
+   "启用 apply_trc"
+  ],
+  [
+   "Enable in Viewport",
+   "在视口中启用"
+  ],
+  [
+   "Enable movflags",
+   "启用 movflags"
+  ],
+  [
+   "Enable on Attrib When",
+   "属性上的启用条件"
+  ],
+  [
+   "Enable on Data When",
+   "数据上的启用条件"
+  ],
+  [
+   "Encode Imported Names",
+   "编码导入的名称"
+  ],
+  [
+   "Encoder ONNX File",
+   "编码器 ONNX 文件"
+  ],
+  [
+   "Encroach Angle",
+   "侵占角度"
+  ],
+  [
+   "Encryption",
+   "加密"
+  ],
+  [
+   "End Affector",
+   "末端影响器"
+  ],
+  [
+   "End Affector Color",
+   "末端影响器颜色"
+  ],
+  [
+   "End Affector Name",
+   "末端影响器名称"
+  ],
+  [
+   "End Affector Path",
+   "末端影响器路径"
+  ],
+  [
+   "End Bone",
+   "末端骨骼"
+  ],
+  [
+   "End Bone Path",
+   "末端骨骼路径"
+  ],
+  [
+   "End Cap Piece",
+   "端帽碎块"
+  ],
+  [
+   "End Condition",
+   "结束条件"
+  ],
+  [
+   "End Distance",
+   "结束距离"
+  ],
+  [
+   "End Hook Path",
+   "末端钩路径"
+  ],
+  [
+   "End ID",
+   "结束 ID"
+  ],
+  [
+   "End Index",
+   "结束索引"
+  ],
+  [
+   "End Learning Rate",
+   "结束学习率"
+  ],
+  [
+   "End Mask Attribute",
+   "末端遮罩属性"
+  ],
+  [
+   "End Mask Threshold",
+   "末端遮罩阈值"
+  ],
+  [
+   "End Object",
+   "末端物体"
+  ],
+  [
+   "End Point Attribute",
+   "末端点属性"
+  ],
+  [
+   "End Position Offset",
+   "末端位置偏移"
+  ],
+  [
+   "End Radius",
+   "末端半径"
+  ],
+  [
+   "End Rotate",
+   "末端旋转"
+  ],
+  [
+   "End Shared Server",
+   "结束共享服务器"
+  ],
+  [
+   "End Stroke",
+   "结束笔画"
+  ],
+  [
+   "End Translate",
+   "末端平移"
+  ],
+  [
+   "End at Target",
+   "在目标处结束"
+  ],
+  [
+   "End range",
+   "结束范围"
+  ],
+  [
+   "Endian Format",
+   "字节序格式"
+  ],
+  [
+   "Ending Value",
+   "结束值"
+  ],
+  [
+   "Ends With",
+   "结尾为"
+  ],
+  [
+   "Energy Compensation",
+   "能量补偿"
+  ],
+  [
+   "Energy Conserving Fresnel Blend",
+   "能量守恒菲涅耳混合"
+  ],
+  [
+   "Enforce Boundaries",
+   "强制边界"
+  ],
+  [
+   "Enforce High Quality",
+   "强制高质量"
+  ],
+  [
+   "Enforce Max Global Iterations",
+   "强制最大全局迭代次数"
+  ],
+  [
+   "Enforce Model Kind Hiearachy",
+   "强制模型 Kind 层级"
+  ],
+  [
+   "Enforce Positive Weights",
+   "强制正权重"
+  ],
+  [
+   "Engine Settings",
+   "引擎设置"
+  ],
+  [
+   "Enlarge Input Mesh",
+   "扩大输入网格"
+  ],
+  [
+   "Enlarge Voxel Offset",
+   "扩大体素偏移"
+  ],
+  [
+   "Enlarge to Cover Input Mesh",
+   "扩大以覆盖输入网格"
+  ],
+  [
+   "Ensure Density for Flame",
+   "确保火焰密度"
+  ],
+  [
+   "Ensure Max Edges",
+   "确保最大边数"
+  ],
+  [
+   "Ensure Proper Smooth-Shading Of Polygons",
+   "确保多边形正确平滑着色"
+  ],
+  [
+   "Ensure Unique Work Item Indices",
+   "确保工作项索引唯一"
+  ],
+  [
+   "Entrained Material",
+   "卷吸材质"
+  ],
+  [
+   "Env Keys",
+   "环境键"
+  ],
+  [
+   "Env Map Rotation",
+   "环境贴图旋转"
+  ],
+  [
+   "Env Rotate Order",
+   "环境旋转顺序"
+  ],
+  [
+   "Envelope Bounds",
+   "包络边界"
+  ],
+  [
+   "Envelope Width",
+   "包络宽度"
+  ],
+  [
+   "Environment Angle Scale",
+   "环境角度缩放"
+  ],
+  [
+   "Environment Blur Angle",
+   "环境模糊角度"
+  ],
+  [
+   "Environment Color",
+   "环境颜色"
+  ],
+  [
+   "Environment Map Resolution",
+   "环境贴图分辨率"
+  ],
+  [
+   "Environment Map Space",
+   "环境贴图空间"
+  ],
+  [
+   "Epochs",
+   "轮次"
+  ],
+  [
+   "Epochs per Validation",
+   "每验证轮次数"
+  ],
+  [
+   "Equal Division Spacing",
+   "等分间距"
+  ],
+  [
+   "Equal Sides",
+   "等边"
+  ],
+  [
+   "Equalize By",
+   "均衡依据"
+  ],
+  [
+   "Equalize Input Scale",
+   "均衡输入缩放"
+  ],
+  [
+   "Equalize Range",
+   "均衡范围"
+  ],
+  [
+   "Equiangular weight",
+   "等角权重"
+  ],
+  [
+   "Erase",
+   "擦除"
+  ],
+  [
+   "Erodability Mask Mode",
+   "可侵蚀性遮罩模式"
+  ],
+  [
+   "Erosion Feature Size",
+   "侵蚀特征尺寸"
+  ],
+  [
+   "Erosion Mode",
+   "侵蚀模式"
+  ],
+  [
+   "Erosion Model",
+   "侵蚀模型"
+  ],
+  [
+   "Erosion Rate Mask",
+   "侵蚀速率遮罩"
+  ],
+  [
+   "Erosion Rate Mask Mode",
+   "侵蚀速率遮罩模式"
+  ],
+  [
+   "Erosion Rate factor",
+   "侵蚀速率系数"
+  ],
+  [
+   "Error Field",
+   "误差场"
+  ]
+ ]
+}

@@ -1,0 +1,19 @@
+# 系统垃圾
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 临时文件（合并前的工作副本之类）
+*.tmp
+*.bak
+*~
+__pycache__/
+*.pyc

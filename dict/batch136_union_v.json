@@ -1,0 +1,1556 @@
+{
+ "note": "合并清单 —— 第 22 批（Loops → Matte Texture 4）",
+ "skip": [
+  "Lower Back1",
+  "Lower Back2",
+  "Lower back1",
+  "Lower back2",
+  "Lower back3",
+  "Lowerback2",
+  "Lowerback3",
+  "MASK",
+  "MDC",
+  "MDC A",
+  "MDC B",
+  "MDC C",
+  "MM",
+  "MTL Condition",
+  "Mapping #",
+  "Mappings OP",
+  "Mask #"
+ ],
+ "entries": [
+  [
+   "Loops",
+   "循环次数"
+  ],
+  [
+   "Loosen Effect",
+   "松弛效果"
+  ],
+  [
+   "Loss Function",
+   "损失函数"
+  ],
+  [
+   "Loss Kind",
+   "损失类型"
+  ],
+  [
+   "Loss Log Event",
+   "损失日志事件"
+  ],
+  [
+   "Loss Log Frequency",
+   "损失日志频率"
+  ],
+  [
+   "Loss Module",
+   "损失模块"
+  ],
+  [
+   "Loss Normalizer",
+   "损失归一化器"
+  ],
+  [
+   "Loss Plot",
+   "损失曲线图"
+  ],
+  [
+   "Loss Weight",
+   "损失权重"
+  ],
+  [
+   "Lot Division",
+   "地块细分"
+  ],
+  [
+   "Low Bias",
+   "低偏移"
+  ],
+  [
+   "Low Color",
+   "低光颜色"
+  ],
+  [
+   "Low Contraction",
+   "低收缩"
+  ],
+  [
+   "Low Cutoff",
+   "低截止"
+  ],
+  [
+   "Low Frequency",
+   "低频"
+  ],
+  [
+   "Low Order Barrel (k1)",
+   "低阶桶形（k1）"
+  ],
+  [
+   "Low Order Inverse (k4)",
+   "低阶反畸变（k4）"
+  ],
+  [
+   "Low Res Burn Field",
+   "低分辨率燃烧场"
+  ],
+  [
+   "Low Res DOP Path",
+   "低分辨率 DOP 路径"
+  ],
+  [
+   "Low Res Density Field",
+   "低分辨率密度场"
+  ],
+  [
+   "Low Res Division Size",
+   "低分辨率细分尺寸"
+  ],
+  [
+   "Low Res Divisions",
+   "低分辨率细分"
+  ],
+  [
+   "Low Res File",
+   "低分辨率文件"
+  ],
+  [
+   "Low Res Fuel Field",
+   "低分辨率燃料场"
+  ],
+  [
+   "Low Res Group",
+   "低分辨率组"
+  ],
+  [
+   "Low Res Mesh",
+   "低分辨率网格"
+  ],
+  [
+   "Low Res Normals",
+   "低分辨率法线"
+  ],
+  [
+   "Low Res Preview",
+   "低分辨率预览"
+  ],
+  [
+   "Low Res SOP Path",
+   "低分辨率 SOP 路径"
+  ],
+  [
+   "Low Res Source",
+   "低分辨率源"
+  ],
+  [
+   "Low Res Temperature Field",
+   "低分辨率温度场"
+  ],
+  [
+   "Low Res Time Scale",
+   "低分辨率时间缩放"
+  ],
+  [
+   "Low Res Velocity Field",
+   "低分辨率速度场"
+  ],
+  [
+   "Low Resolution Relaxation",
+   "低分辨率松弛"
+  ],
+  [
+   "Low Tension Scale",
+   "低张力缩放"
+  ],
+  [
+   "Low Tightness",
+   "低紧度"
+  ],
+  [
+   "Low Value",
+   "低值"
+  ],
+  [
+   "Lower Arm",
+   "下臂"
+  ],
+  [
+   "Lower Back 1 Rotate",
+   "下背部 1 旋转"
+  ],
+  [
+   "Lower Back 1 Translate",
+   "下背部 1 平移"
+  ],
+  [
+   "Lower Back 2 Rotate",
+   "下背部 2 旋转"
+  ],
+  [
+   "Lower Back 2 Translate",
+   "下背部 2 平移"
+  ],
+  [
+   "Lower Back 3 Rotate",
+   "下背部 3 旋转"
+  ],
+  [
+   "Lower Back 3 Translate",
+   "下背部 3 平移"
+  ],
+  [
+   "Lower Back Rotate",
+   "下背部旋转"
+  ],
+  [
+   "Lower Back1 Bone Length",
+   "下背部 1 骨骼长度"
+  ],
+  [
+   "Lower Back1 Rotate",
+   "下背部 1 旋转"
+  ],
+  [
+   "Lower Back1 Scale",
+   "下背部 1 缩放"
+  ],
+  [
+   "Lower Back1 Target Object",
+   "下背部 1 目标对象"
+  ],
+  [
+   "Lower Back1 Translate",
+   "下背部 1 平移"
+  ],
+  [
+   "Lower Back2 Bone Length",
+   "下背部 2 骨骼长度"
+  ],
+  [
+   "Lower Back2 Rotate",
+   "下背部 2 旋转"
+  ],
+  [
+   "Lower Back2 Scale",
+   "下背部 2 缩放"
+  ],
+  [
+   "Lower Back2 Target Object",
+   "下背部 2 目标对象"
+  ],
+  [
+   "Lower Back2 Translate",
+   "下背部 2 平移"
+  ],
+  [
+   "Lower Back3 Bone Length",
+   "下背部 3 骨骼长度"
+  ],
+  [
+   "Lower Back3 Rotate",
+   "下背部 3 旋转"
+  ],
+  [
+   "Lower Back3 Target Object",
+   "下背部 3 目标对象"
+  ],
+  [
+   "Lower Back3 Translate",
+   "下背部 3 平移"
+  ],
+  [
+   "Lower Border",
+   "下边框"
+  ],
+  [
+   "Lower Bound",
+   "下界"
+  ],
+  [
+   "Lower Case OpenEXR Channel Names",
+   "通道名小写（OpenEXR）"
+  ],
+  [
+   "Lower Limb Options",
+   "下肢选项"
+  ],
+  [
+   "Lower Padding Scale",
+   "下部填充缩放"
+  ],
+  [
+   "Lower Tempo Scale",
+   "慢速段缩放"
+  ],
+  [
+   "Lower-End Attribute",
+   "低端属性"
+  ],
+  [
+   "Lower-End Filter",
+   "低端过滤"
+  ],
+  [
+   "Lower-End Model",
+   "低端模型"
+  ],
+  [
+   "Lower-End Points",
+   "低端点"
+  ],
+  [
+   "Lower-End Strength",
+   "低端强度"
+  ],
+  [
+   "Lower-End Time",
+   "低端时间"
+  ],
+  [
+   "Lua",
+   "Lua"
+  ],
+  [
+   "Lum Rolloff",
+   "亮度衰减"
+  ],
+  [
+   "Luma Key",
+   "亮度键"
+  ],
+  [
+   "Luminance Amount",
+   "亮度量"
+  ],
+  [
+   "Luminance Function",
+   "亮度函数"
+  ],
+  [
+   "Luminance Mode",
+   "亮度模式"
+  ],
+  [
+   "Luminance Relative",
+   "相对亮度"
+  ],
+  [
+   "Luminance Rolloff",
+   "亮度衰减"
+  ],
+  [
+   "Luminance Type",
+   "亮度类型"
+  ],
+  [
+   "MDC Intensity",
+   "MDC 强度"
+  ],
+  [
+   "MDC Normal Intensity",
+   "MDC 法线强度"
+  ],
+  [
+   "MDD File",
+   "MDD 文件"
+  ],
+  [
+   "MIDI Channels",
+   "MIDI 通道"
+  ],
+  [
+   "MIDI Destination",
+   "MIDI 目标"
+  ],
+  [
+   "MIDI File",
+   "MIDI 文件"
+  ],
+  [
+   "MIDI Source",
+   "MIDI 源"
+  ],
+  [
+   "MIP Interpolation",
+   "MIP 插值"
+  ],
+  [
+   "ML Models",
+   "机器学习模型"
+  ],
+  [
+   "MLP Ratio",
+   "MLP 比例"
+  ],
+  [
+   "MMB Displacement",
+   "中键位移"
+  ],
+  [
+   "MOV Muxer Flags",
+   "MOV 封装器标志"
+  ],
+  [
+   "MPM Points",
+   "MPM 点"
+  ],
+  [
+   "MPlay Frame Mode",
+   "MPlay 帧模式"
+  ],
+  [
+   "MPlay Tile Order",
+   "MPlay 平铺顺序"
+  ],
+  [
+   "MQ Job Options",
+   "MQ 任务选项"
+  ],
+  [
+   "MQ Server Log Directory",
+   "MQ 服务器日志目录"
+  ],
+  [
+   "MQ Server Log Level",
+   "MQ 服务器日志级别"
+  ],
+  [
+   "MS-SSIM Weights",
+   "MS-SSIM 权重"
+  ],
+  [
+   "Mac Command",
+   "Mac 命令"
+  ],
+  [
+   "Machine Type",
+   "机器类型"
+  ],
+  [
+   "Mag Limit",
+   "放大上限"
+  ],
+  [
+   "Magnet Group",
+   "磁铁组"
+  ],
+  [
+   "Magnification Filter",
+   "放大过滤"
+  ],
+  [
+   "Magnification Filter #",
+   "放大过滤 #"
+  ],
+  [
+   "Magnitude Multiplier",
+   "幅值倍数"
+  ],
+  [
+   "Magnitude Ramp",
+   "幅值渐变"
+  ],
+  [
+   "Magnitude Suffix",
+   "幅值后缀"
+  ],
+  [
+   "Main Axis",
+   "主轴"
+  ],
+  [
+   "Main Cable Settings",
+   "主缆索设置"
+  ],
+  [
+   "Main Curve Settings",
+   "主曲线设置"
+  ],
+  [
+   "Main Radius",
+   "主半径"
+  ],
+  [
+   "Maintain Even Length Segments",
+   "保持等长分段"
+  ],
+  [
+   "Maintain Input Speed",
+   "保持输入速度"
+  ],
+  [
+   "Maintain Length",
+   "保持长度"
+  ],
+  [
+   "Maintain Luminance During Hue Shift",
+   "色相偏移时保持亮度"
+  ],
+  [
+   "Maintain Object Screen Percentage",
+   "保持对象屏幕占比"
+  ],
+  [
+   "Maintain Offset",
+   "保持偏移"
+  ],
+  [
+   "Maintain Tileable",
+   "保持可平铺"
+  ],
+  [
+   "Major Tick Interval",
+   "主刻度间隔"
+  ],
+  [
+   "Major Version",
+   "主版本"
+  ],
+  [
+   "Make Bones Solid",
+   "让骨骼变为实体"
+  ],
+  [
+   "Make Computed Us Wrap Seamlessly",
+   "让计算出的 U 无缝环绕"
+  ],
+  [
+   "Make Computed Vs Wrap Seamlessly",
+   "让计算出的 V 无缝环绕"
+  ],
+  [
+   "Make Conflicting Paths Unique",
+   "使冲突路径唯一"
+  ],
+  [
+   "Make Curve Up Vector Constant",
+   "让曲线上方向恒定"
+  ],
+  [
+   "Make Destination Primitive Paths Unique",
+   "使目标图元路径唯一"
+  ],
+  [
+   "Make Knot",
+   "打结"
+  ],
+  [
+   "Make Live",
+   "设为实时"
+  ],
+  [
+   "Make Low Res Mesh Invisible",
+   "让低分辨率网格不可见"
+  ],
+  [
+   "Make Output Parent Directories",
+   "创建输出父目录"
+  ],
+  [
+   "Make Planar",
+   "变为平面"
+  ],
+  [
+   "Make Prebaked Muscles Solid",
+   "让预烘焙肌肉变为实体"
+  ],
+  [
+   "Make Primitive Paths Unique",
+   "使图元路径唯一"
+  ],
+  [
+   "Make Reduction Sensitive To Attributes",
+   "让简化对属性敏感"
+  ],
+  [
+   "Make Scale Independent",
+   "让缩放独立"
+  ],
+  [
+   "Make Solid",
+   "变为实体"
+  ],
+  [
+   "Make Time Dependent",
+   "设为与时间相关"
+  ],
+  [
+   "Make Transform Source Primitives Invisible",
+   "让变换源图元不可见"
+  ],
+  [
+   "Manager",
+   "管理器"
+  ],
+  [
+   "Manifest File Save Path",
+   "清单文件保存路径"
+  ],
+  [
+   "Manifold 2D",
+   "二维流形"
+  ],
+  [
+   "Manifold 3D",
+   "三维流形"
+  ],
+  [
+   "Manta Nodes to Update",
+   "要更新的 Manta 节点"
+  ],
+  [
+   "Mantra Options",
+   "Mantra 选项"
+  ],
+  [
+   "Manual Capture",
+   "手动捕捉"
+  ],
+  [
+   "Manual Hip Lean",
+   "手动髋部倾斜"
+  ],
+  [
+   "Manual Projection",
+   "手动投影"
+  ],
+  [
+   "Manual Shapes Edits",
+   "手动形状编辑"
+  ],
+  [
+   "Manual Stash",
+   "手动暂存"
+  ],
+  [
+   "Manual Tags",
+   "手动标签"
+  ],
+  [
+   "Manual Transform",
+   "手动变换"
+  ],
+  [
+   "Manual Unwrap",
+   "手动展开"
+  ],
+  [
+   "Manual White Point?",
+   "手动白点？"
+  ],
+  [
+   "Manual Workflow",
+   "手动工作流"
+  ],
+  [
+   "Manually Animate Flexing",
+   "手动制作弯曲动画"
+  ],
+  [
+   "Manually Link Lines to Muscles",
+   "手动将线连接到肌肉"
+  ],
+  [
+   "Map Amplitude",
+   "贴图幅度"
+  ],
+  [
+   "Map Angle Scale",
+   "贴图角度缩放"
+  ],
+  [
+   "Map Attribute",
+   "贴图属性"
+  ],
+  [
+   "Map Blur Angle",
+   "贴图模糊角度"
+  ],
+  [
+   "Map By Name",
+   "按名称映射"
+  ],
+  [
+   "Map Control to Evaporation Scale",
+   "将控制映射到蒸发缩放"
+  ],
+  [
+   "Map Control to Maximum",
+   "将控制映射到最大值"
+  ],
+  [
+   "Map Control to Subtraction Rate Scale",
+   "将控制映射到相减速率缩放"
+  ],
+  [
+   "Map Dynamic",
+   "映射动态"
+  ],
+  [
+   "Map Dynamic Expression",
+   "映射动态表达式"
+  ],
+  [
+   "Map Force Scale Source to Force Scale",
+   "将力缩放源映射到力缩放"
+  ],
+  [
+   "Map Force Scale to Amplitude",
+   "将力缩放映射到幅度"
+  ],
+  [
+   "Map Force Scale to Roughness",
+   "将力缩放映射到粗糙度"
+  ],
+  [
+   "Map From",
+   "映射来源"
+  ],
+  [
+   "Map Gamma",
+   "贴图伽马"
+  ],
+  [
+   "Map Goal Distance to Force",
+   "将目标距离映射为力"
+  ],
+  [
+   "Map Layer",
+   "贴图图层"
+  ],
+  [
+   "Map Length",
+   "贴图长度"
+  ],
+  [
+   "Map Length Using",
+   "映射长度依据"
+  ],
+  [
+   "Map Name",
+   "贴图名称"
+  ],
+  [
+   "Map Noise Output to Final Source",
+   "将噪声输出映射到最终源"
+  ],
+  [
+   "Map Outside Opacity",
+   "外部不透明度映射"
+  ],
+  [
+   "Map Pieces From",
+   "碎块映射来源"
+  ],
+  [
+   "Map Profile to Range:",
+   "将剖面映射到范围："
+  ],
+  [
+   "Map Ramp to Barbs",
+   "将渐变映射到倒钩"
+  ],
+  [
+   "Map Rotation",
+   "贴图旋转"
+  ],
+  [
+   "Map Roughness",
+   "贴图粗糙度"
+  ],
+  [
+   "Map Saturation",
+   "贴图饱和度"
+  ],
+  [
+   "Map Source",
+   "贴图源"
+  ],
+  [
+   "Map Static",
+   "映射静态"
+  ],
+  [
+   "Map Static Expression",
+   "映射静态表达式"
+  ],
+  [
+   "Map Temperature To Density",
+   "将温度映射到密度"
+  ],
+  [
+   "Map Temperature to Viscosity",
+   "将温度映射到粘度"
+  ],
+  [
+   "Map Tiling",
+   "贴图平铺"
+  ],
+  [
+   "Map Volume to Value",
+   "将体积映射到值"
+  ],
+  [
+   "Map Volume to Vector",
+   "将体积映射到矢量"
+  ],
+  [
+   "Map Wrapping",
+   "贴图环绕"
+  ],
+  [
+   "Map and Deform",
+   "映射与变形"
+  ],
+  [
+   "Mapped File",
+   "映射文件"
+  ],
+  [
+   "Mapped Point",
+   "映射点"
+  ],
+  [
+   "Mapping Attrib",
+   "映射属性"
+  ],
+  [
+   "Mapping Controls",
+   "映射控制"
+  ],
+  [
+   "Mapping Method",
+   "映射方式"
+  ],
+  [
+   "Maps",
+   "贴图"
+  ],
+  [
+   "Marching Steps",
+   "行进步数"
+  ],
+  [
+   "Mark Changed",
+   "标记为已更改"
+  ],
+  [
+   "Mark as Points With Values",
+   "标记为带值的点"
+  ],
+  [
+   "Mark in Mask VDB",
+   "在遮罩 VDB 中标记"
+  ],
+  [
+   "Marker Escape Threshold",
+   "标记逃离阈值"
+  ],
+  [
+   "Marker Scale",
+   "标记缩放"
+  ],
+  [
+   "Marker Up Offset",
+   "标记上方向偏移"
+  ],
+  [
+   "Markers Per Voxel",
+   "每体素标记数"
+  ],
+  [
+   "Marmoset",
+   "Marmoset"
+  ],
+  [
+   "Marmoset Executable",
+   "Marmoset 可执行文件"
+  ],
+  [
+   "Marmoset Library",
+   "Marmoset 库"
+  ],
+  [
+   "Mask (Intersection Mask)",
+   "遮罩（相交遮罩）"
+  ],
+  [
+   "Mask AOV",
+   "遮罩 AOV"
+  ],
+  [
+   "Mask AOVs",
+   "遮罩 AOV"
+  ],
+  [
+   "Mask Amount",
+   "遮罩量"
+  ],
+  [
+   "Mask Atlas Style",
+   "遮罩图集样式"
+  ],
+  [
+   "Mask Attribute Source",
+   "遮罩属性来源"
+  ],
+  [
+   "Mask Aware Blur",
+   "感知遮罩的模糊"
+  ],
+  [
+   "Mask Blur Iterations",
+   "遮罩模糊迭代"
+  ],
+  [
+   "Mask Blur Radius",
+   "遮罩模糊半径"
+  ],
+  [
+   "Mask By",
+   "遮罩依据"
+  ],
+  [
+   "Mask By Color",
+   "按颜色遮罩"
+  ],
+  [
+   "Mask COP",
+   "遮罩 COP"
+  ],
+  [
+   "Mask COPs",
+   "遮罩 COP"
+  ],
+  [
+   "Mask Channel",
+   "遮罩通道"
+  ],
+  [
+   "Mask Color",
+   "遮罩颜色"
+  ],
+  [
+   "Mask Color Max",
+   "遮罩颜色最大值"
+  ],
+  [
+   "Mask Color Min",
+   "遮罩颜色最小值"
+  ],
+  [
+   "Mask Cut Off",
+   "遮罩截断"
+  ],
+  [
+   "Mask Depth",
+   "遮罩深度"
+  ],
+  [
+   "Mask Directory",
+   "遮罩目录"
+  ],
+  [
+   "Mask Expansion",
+   "遮罩扩张"
+  ],
+  [
+   "Mask Falloff",
+   "遮罩衰减"
+  ],
+  [
+   "Mask Feather Width",
+   "遮罩羽化宽度"
+  ],
+  [
+   "Mask Format",
+   "遮罩格式"
+  ],
+  [
+   "Mask Generation",
+   "遮罩生成"
+  ],
+  [
+   "Mask Geometry File",
+   "遮罩几何体文件"
+  ],
+  [
+   "Mask Influence",
+   "遮罩影响"
+  ],
+  [
+   "Mask Input",
+   "遮罩输入"
+  ],
+  [
+   "Mask Input Features",
+   "遮罩输入特征"
+  ],
+  [
+   "Mask Inset",
+   "遮罩内缩"
+  ],
+  [
+   "Mask Layers",
+   "遮罩图层"
+  ],
+  [
+   "Mask Multiplier",
+   "遮罩倍数"
+  ],
+  [
+   "Mask Offset",
+   "遮罩偏移"
+  ],
+  [
+   "Mask Options",
+   "遮罩选项"
+  ],
+  [
+   "Mask Out High Resolution Mesh",
+   "遮掉高分辨率网格"
+  ],
+  [
+   "Mask Output",
+   "遮罩输出"
+  ],
+  [
+   "Mask Override",
+   "遮罩覆盖"
+  ],
+  [
+   "Mask Pattern to Camera Frustum",
+   "将图案遮罩到相机视锥"
+  ],
+  [
+   "Mask Pooler",
+   "遮罩池化器"
+  ],
+  [
+   "Mask Remap Ramp",
+   "遮罩重映射渐变"
+  ],
+  [
+   "Mask Scale",
+   "遮罩缩放"
+  ],
+  [
+   "Mask Scale Mode",
+   "遮罩缩放模式"
+  ],
+  [
+   "Mask Smooth",
+   "遮罩平滑"
+  ],
+  [
+   "Mask Smoothing",
+   "遮罩平滑"
+  ],
+  [
+   "Mask Stash",
+   "遮罩暂存"
+  ],
+  [
+   "Mask Tint",
+   "遮罩着色"
+  ],
+  [
+   "Mask Value",
+   "遮罩值"
+  ],
+  [
+   "Mask Visibility",
+   "遮罩可见性"
+  ],
+  [
+   "Mask Volume Name",
+   "遮罩体积名称"
+  ],
+  [
+   "Mask Volumes",
+   "遮罩体积"
+  ],
+  [
+   "Mask Voxels",
+   "遮罩体素"
+  ],
+  [
+   "Mask along Axis",
+   "沿轴遮罩"
+  ],
+  [
+   "Mask by Control Field",
+   "按控制场遮罩"
+  ],
+  [
+   "Mask by Radius",
+   "按半径遮罩"
+  ],
+  [
+   "Mask by Surface",
+   "按表面遮罩"
+  ],
+  [
+   "Mask by Threshold Field",
+   "按阈值场遮罩"
+  ],
+  [
+   "Mask from Boundary",
+   "从边界生成遮罩"
+  ],
+  [
+   "Masked Smooth",
+   "带遮罩平滑"
+  ],
+  [
+   "Masking by Geometry",
+   "按几何体遮罩"
+  ],
+  [
+   "Mass Attribute",
+   "质量属性"
+  ],
+  [
+   "Mass Mode",
+   "质量模式"
+  ],
+  [
+   "Mass Scale",
+   "质量缩放"
+  ],
+  [
+   "Master Add",
+   "主叠加"
+  ],
+  [
+   "Master Contrast",
+   "主对比度"
+  ],
+  [
+   "Master Gamma",
+   "主伽马"
+  ],
+  [
+   "Master Mult",
+   "主相乘"
+  ],
+  [
+   "Master Options",
+   "主选项"
+  ],
+  [
+   "Master Parameters",
+   "主参数"
+  ],
+  [
+   "Matcap",
+   "Matcap"
+  ],
+  [
+   "Match Actor Name",
+   "匹配角色名称"
+  ],
+  [
+   "Match Against",
+   "匹配对象"
+  ],
+  [
+   "Match All After",
+   "匹配之后全部"
+  ],
+  [
+   "Match All Before",
+   "匹配之前全部"
+  ],
+  [
+   "Match Attrib",
+   "匹配属性"
+  ],
+  [
+   "Match Attributes Names",
+   "匹配属性名称"
+  ],
+  [
+   "Match Biome Definitions to Layer Names",
+   "将生物群系定义匹配到图层名称"
+  ],
+  [
+   "Match Biome Definitions to Layers",
+   "将生物群系定义匹配到图层"
+  ],
+  [
+   "Match Bounds",
+   "匹配边界"
+  ],
+  [
+   "Match Condition",
+   "匹配条件"
+  ],
+  [
+   "Match Core Surface to Tissue Thickness",
+   "让核心表面匹配组织厚度"
+  ],
+  [
+   "Match Count",
+   "匹配数量"
+  ],
+  [
+   "Match Direction with Slope",
+   "方向与坡度匹配"
+  ],
+  [
+   "Match Each Prim",
+   "匹配每个图元"
+  ],
+  [
+   "Match FK to IK",
+   "FK 匹配 IK"
+  ],
+  [
+   "Match FK->IK",
+   "FK→IK 匹配"
+  ],
+  [
+   "Match Field if It Already Exists",
+   "若字段已存在则匹配"
+  ],
+  [
+   "Match Geometry to Curves using Piece Attribute",
+   "用碎块属性将几何体匹配到曲线"
+  ],
+  [
+   "Match IK to FK",
+   "IK 匹配 FK"
+  ],
+  [
+   "Match IK->FK",
+   "IK→FK 匹配"
+  ],
+  [
+   "Match Image Aspect Ratio",
+   "匹配图像宽高比"
+  ],
+  [
+   "Match Input Density",
+   "匹配输入密度"
+  ],
+  [
+   "Match Local Transforms",
+   "匹配局部变换"
+  ],
+  [
+   "Match Mirrored Islands",
+   "匹配镜像孤岛"
+  ],
+  [
+   "Match Normals with Terrain",
+   "法线与地形匹配"
+  ],
+  [
+   "Match Number Of Agents",
+   "匹配代理数量"
+  ],
+  [
+   "Match Number of Agents",
+   "匹配代理数量"
+  ],
+  [
+   "Match Output Layer Extension",
+   "匹配输出图层扩展名"
+  ],
+  [
+   "Match Parent Agent Scale",
+   "匹配父代理缩放"
+  ],
+  [
+   "Match Parent Agent's Trigger",
+   "匹配父代理的触发器"
+  ],
+  [
+   "Match Pieces",
+   "匹配碎块"
+  ],
+  [
+   "Match Pieces by Name",
+   "按名称匹配碎块"
+  ],
+  [
+   "Match Pivot to Instance",
+   "让轴心匹配实例"
+  ],
+  [
+   "Match Pose",
+   "匹配姿态"
+  ],
+  [
+   "Match Pose Transforms",
+   "匹配姿态变换"
+  ],
+  [
+   "Match Prefix",
+   "匹配前缀"
+  ],
+  [
+   "Match Primitives by Attribute",
+   "按属性匹配图元"
+  ],
+  [
+   "Match Profile",
+   "匹配剖面"
+  ],
+  [
+   "Match Proxy by Attribute",
+   "按属性匹配代理"
+  ],
+  [
+   "Match Reference",
+   "匹配参考"
+  ],
+  [
+   "Match Reference Volume",
+   "匹配参考体积"
+  ],
+  [
+   "Match Samples",
+   "匹配采样"
+  ],
+  [
+   "Match Scale",
+   "匹配缩放"
+  ],
+  [
+   "Match Size Group",
+   "匹配尺寸组"
+  ],
+  [
+   "Match Solver Parms By Name",
+   "按名称匹配求解器参数"
+  ],
+  [
+   "Match Source Mesh Size to Destination",
+   "让源网格尺寸匹配目标"
+  ],
+  [
+   "Match Storage Type",
+   "匹配存储类型"
+  ],
+  [
+   "Match Target Animation",
+   "匹配目标动画"
+  ],
+  [
+   "Match Template Point Distribution",
+   "匹配模板点分布"
+  ],
+  [
+   "Match Tension Lines by Name",
+   "按名称匹配张力线"
+  ],
+  [
+   "Match Tolerance",
+   "匹配容差"
+  ],
+  [
+   "Match Untransformed T-Pose",
+   "匹配未变换的 T 形姿态"
+  ],
+  [
+   "Match World Transforms",
+   "匹配世界变换"
+  ],
+  [
+   "Match by Existing Constraints",
+   "按已有约束匹配"
+  ],
+  [
+   "Match input to fillets",
+   "让输入匹配圆角"
+  ],
+  [
+   "Match up Curve Pairs",
+   "配对曲线"
+  ],
+  [
+   "Matched Corners",
+   "已匹配角点"
+  ],
+  [
+   "Matching Attributes",
+   "匹配属性"
+  ],
+  [
+   "Material 0 ID",
+   "材质 0 ID"
+  ],
+  [
+   "Material 1",
+   "材质 1"
+  ],
+  [
+   "Material 1 ID",
+   "材质 1 ID"
+  ],
+  [
+   "Material 2",
+   "材质 2"
+  ],
+  [
+   "Material 2 ID",
+   "材质 2 ID"
+  ],
+  [
+   "Material 3 ID",
+   "材质 3 ID"
+  ],
+  [
+   "Material 4 ID",
+   "材质 4 ID"
+  ],
+  [
+   "Material 5 ID",
+   "材质 5 ID"
+  ],
+  [
+   "Material Back",
+   "材质背面"
+  ],
+  [
+   "Material Base",
+   "材质基础"
+  ],
+  [
+   "Material Bind",
+   "材质绑定"
+  ],
+  [
+   "Material Bind Action",
+   "材质绑定操作"
+  ],
+  [
+   "Material Binding",
+   "材质绑定"
+  ],
+  [
+   "Material Binding Purposes",
+   "材质绑定用途"
+  ],
+  [
+   "Material COP",
+   "材质 COP"
+  ],
+  [
+   "Material Collection",
+   "材质集合"
+  ],
+  [
+   "Material Edits Path",
+   "材质编辑路径"
+  ],
+  [
+   "Material File #",
+   "材质文件 #"
+  ],
+  [
+   "Material Front",
+   "材质正面"
+  ],
+  [
+   "Material ID Seed",
+   "材质 ID 种子"
+  ],
+  [
+   "Material Name Attribute",
+   "材质名称属性"
+  ],
+  [
+   "Material Node",
+   "材质节点"
+  ],
+  [
+   "Material Operations",
+   "材质操作"
+  ],
+  [
+   "Material Parameters",
+   "材质参数"
+  ],
+  [
+   "Material Preset",
+   "材质预设"
+  ],
+  [
+   "Material Settings",
+   "材质设置"
+  ],
+  [
+   "Material Thickness",
+   "材质厚度"
+  ],
+  [
+   "Material Top",
+   "材质顶面"
+  ],
+  [
+   "Material Variant Set",
+   "材质变体集"
+  ],
+  [
+   "Material to Slump",
+   "要塌陷的材质"
+  ],
+  [
+   "Materials Assigned to Objects",
+   "指定给对象的材质"
+  ],
+  [
+   "Materials Assigned to SOP Geometry",
+   "指定给 SOP 几何体的材质"
+  ],
+  [
+   "Materials Parent Path",
+   "材质父路径"
+  ],
+  [
+   "Materials Parent Type",
+   "材质父类型"
+  ],
+  [
+   "Matrix Default",
+   "矩阵默认值"
+  ],
+  [
+   "Matrix Operation",
+   "矩阵操作"
+  ],
+  [
+   "Matte Objects",
+   "遮罩对象"
+  ],
+  [
+   "Matte Selection",
+   "遮罩选择"
+  ],
+  [
+   "Matte Texture 0",
+   "遮罩纹理 0"
+  ],
+  [
+   "Matte Texture 1",
+   "遮罩纹理 1"
+  ],
+  [
+   "Matte Texture 2",
+   "遮罩纹理 2"
+  ],
+  [
+   "Matte Texture 3",
+   "遮罩纹理 3"
+  ],
+  [
+   "Matte Texture 4",
+   "遮罩纹理 4"
+  ]
+ ]
+}

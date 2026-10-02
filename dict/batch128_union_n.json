@@ -1,0 +1,1467 @@
+{
+ "note": "合并清单 —— 第 14 批",
+ "skip": [
+  "    Plane Scope",
+  "  Mult",
+  "  Sort By",
+  "Field1",
+  "Field2",
+  "Field3",
+  "Field4",
+  "Field5",
+  "Field6",
+  "FieldShape.gad",
+  "File#",
+  "Filex",
+  "Filey",
+  "Filez",
+  "Filter#",
+  "Filterwidth",
+  "FindIndex",
+  "Float2",
+  "Float3",
+  "Float4"
+ ],
+ "entries": [
+  [
+   "Fiber Twist",
+   "纤维扭转"
+  ],
+  [
+   "Fiber Volume Scale",
+   "纤维体积缩放"
+  ],
+  [
+   "Field Attribute",
+   "场属性"
+  ],
+  [
+   "Field Customizations",
+   "场自定义"
+  ],
+  [
+   "Field Cutoff",
+   "场截止"
+  ],
+  [
+   "Field Influence",
+   "场影响"
+  ],
+  [
+   "Field Label",
+   "场标签"
+  ],
+  [
+   "Field Name or Expr",
+   "字段名或表达式"
+  ],
+  [
+   "Field Names",
+   "字段名"
+  ],
+  [
+   "Field Offset",
+   "场偏移"
+  ],
+  [
+   "Field Options",
+   "场选项"
+  ],
+  [
+   "Field Range",
+   "场范围"
+  ],
+  [
+   "Field Rank",
+   "场秩"
+  ],
+  [
+   "Field Reference",
+   "场参考"
+  ],
+  [
+   "Field Scale",
+   "场缩放"
+  ],
+  [
+   "Field Scale Mode",
+   "场缩放模式"
+  ],
+  [
+   "Field Settings",
+   "场设置"
+  ],
+  [
+   "Field Source",
+   "场源"
+  ],
+  [
+   "Field to Disturb",
+   "要扰动的场"
+  ],
+  [
+   "Field to Keep",
+   "要保留的场"
+  ],
+  [
+   "Field to Sharpen",
+   "要锐化的场"
+  ],
+  [
+   "Field:",
+   "场："
+  ],
+  [
+   "Fields To Clear",
+   "要清除的场"
+  ],
+  [
+   "Fields to Compress",
+   "要压缩的场"
+  ],
+  [
+   "Fields to Import",
+   "要导入的场"
+  ],
+  [
+   "Fields to Write to",
+   "要写入的场"
+  ],
+  [
+   "FiftyOne",
+   "FiftyOne"
+  ],
+  [
+   "Filament Geometry",
+   "丝状几何体"
+  ],
+  [
+   "File #",
+   "文件 #"
+  ],
+  [
+   "File AOV",
+   "文件 AOV"
+  ],
+  [
+   "File Attribute",
+   "文件属性"
+  ],
+  [
+   "File Attribute Name",
+   "文件属性名"
+  ],
+  [
+   "File Count Attribute",
+   "文件数量属性"
+  ],
+  [
+   "File Directory",
+   "文件目录"
+  ],
+  [
+   "File Downloads",
+   "文件下载"
+  ],
+  [
+   "File Duration",
+   "文件时长"
+  ],
+  [
+   "File Enable",
+   "启用文件"
+  ],
+  [
+   "File Encoding",
+   "文件编码"
+  ],
+  [
+   "File Exists Attribute",
+   "文件存在属性"
+  ],
+  [
+   "File Format",
+   "文件格式"
+  ],
+  [
+   "File Index Attribute",
+   "文件索引属性"
+  ],
+  [
+   "File Index Start",
+   "文件索引起始"
+  ],
+  [
+   "File Index Step",
+   "文件索引步长"
+  ],
+  [
+   "File Name Attribute",
+   "文件名属性"
+  ],
+  [
+   "File Name Pattern",
+   "文件名模式"
+  ],
+  [
+   "File Node Naming",
+   "文件节点命名"
+  ],
+  [
+   "File Output",
+   "文件输出"
+  ],
+  [
+   "File Range Length",
+   "文件范围长度"
+  ],
+  [
+   "File Range Start",
+   "文件范围起始"
+  ],
+  [
+   "File Raster Depth",
+   "文件光栅深度"
+  ],
+  [
+   "File Reference",
+   "文件引用"
+  ],
+  [
+   "File Rest Pose",
+   "文件静止姿态"
+  ],
+  [
+   "File SOP",
+   "文件 SOP"
+  ],
+  [
+   "File Sequence Count",
+   "文件序列数量"
+  ],
+  [
+   "File Size",
+   "文件大小"
+  ],
+  [
+   "File Size Attribute",
+   "文件大小属性"
+  ],
+  [
+   "File Types",
+   "文件类型"
+  ],
+  [
+   "File and Internal References",
+   "文件与内部引用"
+  ],
+  [
+   "File path",
+   "文件路径"
+  ],
+  [
+   "Filename 0",
+   "文件名 0"
+  ],
+  [
+   "Filename 1",
+   "文件名 1"
+  ],
+  [
+   "Filename 2",
+   "文件名 2"
+  ],
+  [
+   "Filename 3",
+   "文件名 3"
+  ],
+  [
+   "Filename 4",
+   "文件名 4"
+  ],
+  [
+   "Filename 5",
+   "文件名 5"
+  ],
+  [
+   "Filename 6",
+   "文件名 6"
+  ],
+  [
+   "Filename 7",
+   "文件名 7"
+  ],
+  [
+   "Filename 8",
+   "文件名 8"
+  ],
+  [
+   "Filename 9",
+   "文件名 9"
+  ],
+  [
+   "Filename Attribute",
+   "文件名属性"
+  ],
+  [
+   "Files Pattern",
+   "文件模式"
+  ],
+  [
+   "Files to Compress",
+   "要压缩的文件"
+  ],
+  [
+   "Files to Decompress",
+   "要解压的文件"
+  ],
+  [
+   "Filex Color Space",
+   "Filex 色彩空间"
+  ],
+  [
+   "Filey Color Space",
+   "Filey 色彩空间"
+  ],
+  [
+   "Filez Color Space",
+   "Filez 色彩空间"
+  ],
+  [
+   "Fill Attribute Info from Header",
+   "从表头填充属性信息"
+  ],
+  [
+   "Fill Background with Color",
+   "用颜色填充背景"
+  ],
+  [
+   "Fill Blue",
+   "填充蓝"
+  ],
+  [
+   "Fill Box",
+   "填充盒"
+  ],
+  [
+   "Fill Color",
+   "填充颜色"
+  ],
+  [
+   "Fill Density",
+   "填充密度"
+  ],
+  [
+   "Fill Gaps",
+   "填充间隙"
+  ],
+  [
+   "Fill Green",
+   "填充绿"
+  ],
+  [
+   "Fill Holes / Remove Specks",
+   "填充孔洞 / 移除斑点"
+  ],
+  [
+   "Fill New Volume",
+   "填充新体积"
+  ],
+  [
+   "Fill Outside",
+   "填充外部"
+  ],
+  [
+   "Fill Polygons along Clipping Plane",
+   "沿裁剪平面填充多边形"
+  ],
+  [
+   "Fill Red",
+   "填充红"
+  ],
+  [
+   "Fill Shape",
+   "填充形状"
+  ],
+  [
+   "Fill Source",
+   "填充源"
+  ],
+  [
+   "Fill Visualization",
+   "填充可视化"
+  ],
+  [
+   "Fill Volume",
+   "填充体积"
+  ],
+  [
+   "Filled Polygons",
+   "已填充的多边形"
+  ],
+  [
+   "Filler Points",
+   "填充点"
+  ],
+  [
+   "Fillet Type",
+   "圆角类型"
+  ],
+  [
+   "Film Fit",
+   "胶片适配"
+  ],
+  [
+   "Film Rate",
+   "胶片速率"
+  ],
+  [
+   "Film Window Bottom",
+   "胶片窗口底部"
+  ],
+  [
+   "Film Window Left",
+   "胶片窗口左侧"
+  ],
+  [
+   "Film Window Right",
+   "胶片窗口右侧"
+  ],
+  [
+   "Film Window Top",
+   "胶片窗口顶部"
+  ],
+  [
+   "Filter (X/Y)",
+   "过滤器（X/Y）"
+  ],
+  [
+   "Filter Above Wavelength",
+   "波长以上的过滤"
+  ],
+  [
+   "Filter Angle",
+   "过滤角度"
+  ],
+  [
+   "Filter Attributes",
+   "过滤属性"
+  ],
+  [
+   "Filter Bandwidth",
+   "过滤带宽"
+  ],
+  [
+   "Filter Below Wavelength",
+   "波长以下的过滤"
+  ],
+  [
+   "Filter Blur",
+   "过滤模糊"
+  ],
+  [
+   "Filter Blur 1->2",
+   "过滤模糊 1→2"
+  ],
+  [
+   "Filter Blur 2->3",
+   "过滤模糊 2→3"
+  ],
+  [
+   "Filter By",
+   "过滤依据"
+  ],
+  [
+   "Filter Channels",
+   "过滤通道"
+  ],
+  [
+   "Filter Channels by Transforms",
+   "按变换过滤通道"
+  ],
+  [
+   "Filter Conditions",
+   "过滤条件"
+  ],
+  [
+   "Filter Dropoff",
+   "过滤衰减"
+  ],
+  [
+   "Filter Frames",
+   "过滤帧"
+  ],
+  [
+   "Filter Gain",
+   "过滤增益"
+  ],
+  [
+   "Filter Geometry by",
+   "几何体过滤依据"
+  ],
+  [
+   "Filter HDA Parameters",
+   "过滤 HDA 参数"
+  ],
+  [
+   "Filter Joints with Colliders",
+   "过滤带碰撞体的关节"
+  ],
+  [
+   "Filter Mode",
+   "过滤模式"
+  ],
+  [
+   "Filter Multiple Scattering",
+   "过滤多重散射"
+  ],
+  [
+   "Filter Non Selected",
+   "过滤未选中的"
+  ],
+  [
+   "Filter Pattern",
+   "过滤模式"
+  ],
+  [
+   "Filter Points",
+   "过滤点"
+  ],
+  [
+   "Filter Prim",
+   "过滤图元"
+  ],
+  [
+   "Filter Properties",
+   "过滤属性"
+  ],
+  [
+   "Filter Range",
+   "过滤范围"
+  ],
+  [
+   "Filter Settings",
+   "过滤设置"
+  ],
+  [
+   "Filter Shape",
+   "过滤形状"
+  ],
+  [
+   "Filter Steps",
+   "过滤步长"
+  ],
+  [
+   "Filter Subframes",
+   "过滤子帧"
+  ],
+  [
+   "Filter Tightness",
+   "过滤紧度"
+  ],
+  [
+   "Filter Time Dependent",
+   "过滤与时间相关的"
+  ],
+  [
+   "Filter Time Independet",
+   "过滤与时间无关的"
+  ],
+  [
+   "Filter Work Items",
+   "过滤工作项"
+  ],
+  [
+   "Filter by",
+   "过滤依据"
+  ],
+  [
+   "Filter by Angles",
+   "按角度过滤"
+  ],
+  [
+   "Filter by Category",
+   "按分类过滤"
+  ],
+  [
+   "Filter by Connections per Point",
+   "按每点连接数过滤"
+  ],
+  [
+   "Filter by Normal Direction",
+   "按法线方向过滤"
+  ],
+  [
+   "Filter by Shape",
+   "按形状过滤"
+  ],
+  [
+   "Filter by Source Border Side",
+   "按源边框侧过滤"
+  ],
+  [
+   "Filter by Target Border Side",
+   "按目标边框侧过滤"
+  ],
+  [
+   "Filter by Transform",
+   "按变换过滤"
+  ],
+  [
+   "Filter by Wedge",
+   "按楔形过滤"
+  ],
+  [
+   "Filtered Export",
+   "过滤后导出"
+  ],
+  [
+   "Filtering And Defaults",
+   "过滤与默认值"
+  ],
+  [
+   "Final Assignment",
+   "最终指定"
+  ],
+  [
+   "Final Collision Test",
+   "最终碰撞检测"
+  ],
+  [
+   "Final Color",
+   "最终颜色"
+  ],
+  [
+   "Final Color Path",
+   "最终颜色路径"
+  ],
+  [
+   "Final Color Ramp",
+   "最终颜色渐变"
+  ],
+  [
+   "Final Detangle",
+   "最终解缠"
+  ],
+  [
+   "Final FBIK Solve",
+   "最终 FBIK 求解"
+  ],
+  [
+   "Final Frame",
+   "最终帧"
+  ],
+  [
+   "Final Inflation",
+   "最终膨胀"
+  ],
+  [
+   "Final Offset",
+   "最终偏移"
+  ],
+  [
+   "Final Polygon Reduction",
+   "最终多边形简化"
+  ],
+  [
+   "Final Remesh",
+   "最终重设网格"
+  ],
+  [
+   "Final Texture Size X",
+   "最终贴图尺寸 X"
+  ],
+  [
+   "Final Texture Size Y",
+   "最终贴图尺寸 Y"
+  ],
+  [
+   "Final Threshold",
+   "最终阈值"
+  ],
+  [
+   "Final Value",
+   "最终值"
+  ],
+  [
+   "Find All",
+   "查找全部"
+  ],
+  [
+   "Find And Replace",
+   "查找并替换"
+  ],
+  [
+   "Find Boundary Connections",
+   "查找边界连接"
+  ],
+  [
+   "Find End Position",
+   "查找结束位置"
+  ],
+  [
+   "Find First Barb Point",
+   "查找第一个倒钩点"
+  ],
+  [
+   "Find Index by Value",
+   "按值查找索引"
+  ],
+  [
+   "Find Indices by Values",
+   "按值查找索引"
+  ],
+  [
+   "Find Pieces",
+   "查找碎块"
+  ],
+  [
+   "Find Shaders For",
+   "查找着色器（用于）"
+  ],
+  [
+   "Find Start Position",
+   "查找起始位置"
+  ],
+  [
+   "Find Sublayers",
+   "查找子图层"
+  ],
+  [
+   "Find Tokens",
+   "查找标记"
+  ],
+  [
+   "Find Wrapping Input Patterns",
+   "查找环绕输入模式"
+  ],
+  [
+   "Fine Layer Bandwidth",
+   "细图层带宽"
+  ],
+  [
+   "Fine-cell Bandwidth",
+   "细单元带宽"
+  ],
+  [
+   "Finest Scale",
+   "最细缩放"
+  ],
+  [
+   "Finger",
+   "手指"
+  ],
+  [
+   "Finger Bone Length",
+   "手指骨骼长度"
+  ],
+  [
+   "Finger End Rotate",
+   "手指末端旋转"
+  ],
+  [
+   "Finger End Translate",
+   "手指末端平移"
+  ],
+  [
+   "Finger Look At Translate",
+   "手指注视平移"
+  ],
+  [
+   "Finger Muscle Color",
+   "手指肌肉颜色"
+  ],
+  [
+   "Finger Muscle Scale",
+   "手指肌肉缩放"
+  ],
+  [
+   "Finger Parameters",
+   "手指参数"
+  ],
+  [
+   "Finger Primitives Per Segment",
+   "每段手指图元数"
+  ],
+  [
+   "Finger Roll",
+   "手指滚转"
+  ],
+  [
+   "Finger Rotate",
+   "手指旋转"
+  ],
+  [
+   "Finger Tip",
+   "指尖"
+  ],
+  [
+   "Finger Tip Rotate",
+   "指尖旋转"
+  ],
+  [
+   "Finger Tip Translate",
+   "指尖平移"
+  ],
+  [
+   "Finger Translate",
+   "手指平移"
+  ],
+  [
+   "Fingers",
+   "手指"
+  ],
+  [
+   "Fingers Root",
+   "手指根"
+  ],
+  [
+   "Finite Values",
+   "有限值"
+  ],
+  [
+   "Fire Color (vector)",
+   "火焰颜色（矢量）"
+  ],
+  [
+   "Fire Density",
+   "火焰密度"
+  ],
+  [
+   "Fire Density Scale",
+   "火焰密度缩放"
+  ],
+  [
+   "Fire Existence Field",
+   "火焰存在场"
+  ],
+  [
+   "Fire Intensity",
+   "火焰强度"
+  ],
+  [
+   "Fire Intensity Field",
+   "火焰强度场"
+  ],
+  [
+   "Fire Mask",
+   "火焰遮罩"
+  ],
+  [
+   "Fire Mask (float)",
+   "火焰遮罩（浮点）"
+  ],
+  [
+   "Fire Mask Name",
+   "火焰遮罩名称"
+  ],
+  [
+   "Fire PC File",
+   "火焰点云文件"
+  ],
+  [
+   "Fire Ramp",
+   "火焰渐变"
+  ],
+  [
+   "Fire Step Size",
+   "火焰步长"
+  ],
+  [
+   "Fire Temperature Field",
+   "火焰温度场"
+  ],
+  [
+   "Fire Temperature Volume",
+   "火焰温度体积"
+  ],
+  [
+   "Fire Visibility",
+   "火焰可见性"
+  ],
+  [
+   "Fire Volume",
+   "火焰体积"
+  ],
+  [
+   "FireDensityBlend",
+   "火焰密度混合"
+  ],
+  [
+   "First Barb Point Attribute",
+   "第一个倒钩点属性"
+  ],
+  [
+   "First Channel",
+   "第一个通道"
+  ],
+  [
+   "First Channel Offset",
+   "第一个通道偏移"
+  ],
+  [
+   "First Clip Start Frame",
+   "第一个片段的起始帧"
+  ],
+  [
+   "First Constant",
+   "第一个常量"
+  ],
+  [
+   "First Half Vector2",
+   "前半部分 Vector2"
+  ],
+  [
+   "First Input Offset",
+   "第一个输入偏移"
+  ],
+  [
+   "First Input is Index",
+   "第一个输入是索引"
+  ],
+  [
+   "First Input's Blank Material Prims Get Quick Materials Added",
+   "第一个输入中空白材质图元会自动添加快速材质"
+  ],
+  [
+   "First Iteration",
+   "第一次迭代"
+  ],
+  [
+   "First Output",
+   "第一个输出"
+  ],
+  [
+   "First Output Primitives",
+   "第一个输出的图元"
+  ],
+  [
+   "First Pass Variable",
+   "第一遍变量"
+  ],
+  [
+   "First Profile From Shape",
+   "从形状取第一个剖面"
+  ],
+  [
+   "First U Cap",
+   "第一个 U 端盖"
+  ],
+  [
+   "First V Cap",
+   "第一个 V 端盖"
+  ],
+  [
+   "Fit Depth",
+   "适配深度"
+  ],
+  [
+   "Fit From",
+   "适配来源"
+  ],
+  [
+   "Fit From 0-1",
+   "从 0-1 适配"
+  ],
+  [
+   "Fit Geometry To Image",
+   "让几何体适配图像"
+  ],
+  [
+   "Fit Max",
+   "适配最大值"
+  ],
+  [
+   "Fit Min",
+   "适配最小值"
+  ],
+  [
+   "Fit Shadow Map to Shadow Mask",
+   "让阴影贴图适配阴影遮罩"
+  ],
+  [
+   "Fit To 0-1",
+   "适配到 0-1"
+  ],
+  [
+   "Fit To Beat",
+   "适配到节拍"
+  ],
+  [
+   "Fit Tolerance",
+   "适配容差"
+  ],
+  [
+   "Fit corners",
+   "适配角点"
+  ],
+  [
+   "Fit to Curves",
+   "适配到曲线"
+  ],
+  [
+   "Fit to Shape",
+   "适配到形状"
+  ],
+  [
+   "Fitting",
+   "拟合"
+  ],
+  [
+   "Fitting Iteration Limit",
+   "拟合迭代上限"
+  ],
+  [
+   "Fitting Method",
+   "拟合方式"
+  ],
+  [
+   "Fitting Preference",
+   "拟合偏好"
+  ],
+  [
+   "Fitting Tolerance",
+   "拟合容差"
+  ],
+  [
+   "Fix Biped Pole Vectors",
+   "修正双足极向量"
+  ],
+  [
+   "Fix Cyclic Edge Networks (For KineFX)",
+   "修正循环边网络（用于 KineFX）"
+  ],
+  [
+   "Fix For Polygons",
+   "修正多边形"
+  ],
+  [
+   "Fix Kind Hierarchy",
+   "修正 Kind 层级"
+  ],
+  [
+   "Fix Polygons",
+   "修正多边形"
+  ],
+  [
+   "Fix SOP Outputs",
+   "修正 SOP 输出"
+  ],
+  [
+   "Fix Tangents before Operations",
+   "操作前修正切线"
+  ],
+  [
+   "Fix Transforms",
+   "修正变换"
+  ],
+  [
+   "Fixed Boundary",
+   "固定边界"
+  ],
+  [
+   "Fixed Color",
+   "固定颜色"
+  ],
+  [
+   "Fixed Dimension",
+   "固定维度"
+  ],
+  [
+   "Fixed Intersection",
+   "固定交点"
+  ],
+  [
+   "Fixed Points",
+   "固定点"
+  ],
+  [
+   "Fixed Points go to Source Positions",
+   "固定点回到源位置"
+  ],
+  [
+   "Fixed Sample Count",
+   "固定采样数"
+  ],
+  [
+   "Fixed Scale",
+   "固定缩放"
+  ],
+  [
+   "Flag New Particles",
+   "标记新粒子"
+  ],
+  [
+   "Flake Density",
+   "碎片密度"
+  ],
+  [
+   "Flake Frequency",
+   "碎片频率"
+  ],
+  [
+   "Flake Randomness",
+   "碎片随机度"
+  ],
+  [
+   "Flake size",
+   "碎片大小"
+  ],
+  [
+   "Flakes",
+   "碎片"
+  ],
+  [
+   "Flame Contribution",
+   "火焰贡献"
+  ],
+  [
+   "Flame Cooling",
+   "火焰冷却"
+  ],
+  [
+   "Flame Cutoff",
+   "火焰截止"
+  ],
+  [
+   "Flame Divergence",
+   "火焰散度"
+  ],
+  [
+   "Flame Front",
+   "火焰锋面"
+  ],
+  [
+   "Flame Intensity Ramp",
+   "火焰强度渐变"
+  ],
+  [
+   "Flame Properties",
+   "火焰属性"
+  ],
+  [
+   "Flame Speed",
+   "火焰速度"
+  ],
+  [
+   "Flame Speed Controls:",
+   "火焰速度控制："
+  ],
+  [
+   "Flame Volume",
+   "火焰体积"
+  ],
+  [
+   "Flame Weight",
+   "火焰权重"
+  ],
+  [
+   "Flamefront",
+   "火焰锋面"
+  ],
+  [
+   "Flamefront Cool Rate",
+   "火焰锋面冷却速率"
+  ],
+  [
+   "Flamefront Dest",
+   "火焰锋面目标"
+  ],
+  [
+   "Flamefront Field",
+   "火焰锋面场"
+  ],
+  [
+   "Flamefront Reference",
+   "火焰锋面参考"
+  ],
+  [
+   "Flames Influence Cooling Rate",
+   "火焰影响冷却速率"
+  ],
+  [
+   "Flat Edge Profile Boost",
+   "平边剖面增益"
+  ],
+  [
+   "Flat Edges",
+   "平边"
+  ],
+  [
+   "Flatness",
+   "平坦度"
+  ],
+  [
+   "Flatness Angle",
+   "平坦度角度"
+  ],
+  [
+   "Flatten Clip Files",
+   "展平片段文件"
+  ],
+  [
+   "Flatten Cross Sections",
+   "展平横截面"
+  ],
+  [
+   "Flatten Faces",
+   "展平面"
+  ],
+  [
+   "Flatten Geometry",
+   "展平几何体"
+  ],
+  [
+   "Flatten Indices",
+   "展平索引"
+  ],
+  [
+   "Flatten Input",
+   "展平输入"
+  ],
+  [
+   "Flatten Input Layers",
+   "展平输入图层"
+  ],
+  [
+   "Flatten Layers",
+   "展平图层"
+  ],
+  [
+   "Flatten Method",
+   "展平方式"
+  ],
+  [
+   "Flatten Multiparms",
+   "展平多重参数"
+  ],
+  [
+   "Flatten Origin",
+   "展平原点"
+  ],
+  [
+   "Flatten Origin Handle Bottom",
+   "展平原点手柄底部"
+  ],
+  [
+   "Flatten Origin Handle Top",
+   "展平原点手柄顶部"
+  ],
+  [
+   "Flatten Ramps",
+   "展平渐变"
+  ],
+  [
+   "Flatten UV Z Values",
+   "展平 UV 的 Z 值"
+  ],
+  [
+   "Flatten Up Vector",
+   "展平上方向"
+  ],
+  [
+   "Flatten Visibilty Evaluation",
+   "展平可见性求值"
+  ],
+  [
+   "Flatten With Input",
+   "随输入展平"
+  ],
+  [
+   "Flatten Work Item Indices",
+   "展平工作项索引"
+  ],
+  [
+   "Flattening Constraints",
+   "展平约束"
+  ],
+  [
+   "Flex",
+   "弯曲"
+  ],
+  [
+   "Flex Amount",
+   "弯曲量"
+  ],
+  [
+   "Flip Axes",
+   "翻转轴"
+  ],
+  [
+   "Flip Axes for Mirrored Points",
+   "为镜像点翻转轴"
+  ],
+  [
+   "Flip Axes for Unmirrored Points",
+   "为未镜像点翻转轴"
+  ],
+  [
+   "Flip Coord",
+   "翻转坐标"
+  ],
+  [
+   "Flip Diagonally",
+   "对角翻转"
+  ],
+  [
+   "Flip Edges",
+   "翻转边"
+  ],
+  [
+   "Flip G",
+   "翻转 G"
+  ],
+  [
+   "Flip Green Channel (Unity)",
+   "翻转绿通道（Unity）"
+  ],
+  [
+   "Flip Hue Direction",
+   "翻转色相方向"
+  ],
+  [
+   "Flip Image",
+   "翻转图像"
+  ],
+  [
+   "Flip Input Vertically",
+   "垂直翻转输入"
+  ],
+  [
+   "Flip Normal Map X",
+   "翻转法线贴图 X"
+  ],
+  [
+   "Flip Normal Y",
+   "翻转法线 Y"
+  ],
+  [
+   "Flip Output",
+   "翻转输出"
+  ],
+  [
+   "Flip Output Vertically",
+   "垂直翻转输出"
+  ],
+  [
+   "Flip Polygon Normals",
+   "翻转多边形法线"
+  ],
+  [
+   "Flip Quaternion",
+   "翻转四元数"
+  ],
+  [
+   "Flip Tile Orientation",
+   "翻转平铺朝向"
+  ],
+  [
+   "Flip Up Vector Attribute",
+   "翻转上方向属性"
+  ],
+  [
+   "Flip Velocity",
+   "翻转速度"
+  ],
+  [
+   "Flip Z",
+   "翻转 Z"
+  ],
+  [
+   "Float Attribute",
+   "浮点属性"
+  ],
+  [
+   "Float Color Gradient",
+   "浮点颜色渐变"
+  ],
+  [
+   "Float Defaults",
+   "浮点默认值"
+  ],
+  [
+   "Float Enable",
+   "启用浮点"
+  ],
+  [
+   "Float End Value",
+   "浮点结束值"
+  ],
+  [
+   "Float Initial Value",
+   "浮点初始值"
+  ],
+  [
+   "Float Input",
+   "浮点输入"
+  ],
+  [
+   "Float Min/Max",
+   "浮点 最小/最大"
+  ],
+  [
+   "Float Point Attributes",
+   "浮点点属性"
+  ],
+  [
+   "Float Ramp",
+   "浮点渐变"
+  ],
+  [
+   "Float Ramp Presets",
+   "浮点渐变预设"
+  ],
+  [
+   "Float Range",
+   "浮点范围"
+  ],
+  [
+   "Float Step Size",
+   "浮点步长"
+  ],
+  [
+   "Float Values",
+   "浮点值"
+  ],
+  [
+   "Float Variable",
+   "浮点变量"
+  ],
+  [
+   "Float values added to the instance spins.",
+   "给实例自旋加上这些浮点值。"
+  ],
+  [
+   "Float values are added to the peak offset.",
+   "这些浮点值会加到峰值偏移上。"
+  ],
+  [
+   "Float values further scale the instances.",
+   "这些浮点值进一步缩放实例。"
+  ],
+  [
+   "Float values multiplied with spin values.",
+   "这些浮点值与自旋值相乘。"
+  ],
+  [
+   "Float/int values assign prototype groups. Any interpolation supported.",
+   "浮点/整数值用于指定原型组。支持任意插值。"
+  ],
+  [
+   "Float/int values correspond to prototype groups.",
+   "浮点/整数值对应原型组。"
+  ],
+  [
+   "Float/int values from the map correspond to prototype groups.",
+   "贴图中的浮点/整数值对应原型组。"
+  ],
+  [
+   "Floating",
+   "浮动"
+  ],
+  [
+   "Floating Distance",
+   "浮动距离"
+  ]
+ ]
+}

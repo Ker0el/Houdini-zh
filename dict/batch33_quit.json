@@ -1,0 +1,9 @@
+{
+  "_comment": "第三十三批：退出确认对话框的两个按钮（用户 2026-10-02 关闭 Houdini 时看到）。Discard and Quit 在 bin/libFUSE.dll 里（新 UI 外壳），Save and Quit 没搜到明文（可能在压缩资源或 UTF-16 里），两条都补上。沿用既有的 Quit→退出 / Save→保存 / Discard→放弃。",
+  "entries": {
+    "Save and Quit": "保存并退出",
+    "Discard and Quit": "放弃并退出",
+    "Save and Exit": "保存并退出",
+    "Discard and Exit": "放弃并退出"
+  }
+}

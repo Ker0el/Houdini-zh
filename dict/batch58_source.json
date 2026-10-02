@@ -1,0 +1,12 @@
+{
+ "_comment": "第五十八批：用户报「模拟面板汉化了、源面板没汉化」时冒出来的 7 条（pyro 源面板参数）。",
+ "entries": {
+  "Build SDF From Geometry": "从几何体构建 SDF",
+  "Cell Influence": "单元格影响",
+  "Container Padding": "容器填充",
+  "Display Source": "显示源",
+  "Half Sphere": "半球",
+  "Source Geometry": "源几何体",
+  "Source Size": "源尺寸"
+ }
+}

@@ -1,0 +1,1523 @@
+{
+ "note": "合并清单 —— 第 18 批（Image Map → Injection Method）",
+ "skip": [
+  "In Handle0",
+  "IndForces.gad",
+  "Index1",
+  "Index1 End Rotate",
+  "Index1 End Translate",
+  "Index1 Length",
+  "Index1 Muscle Color",
+  "Index1 Muscle Scale",
+  "Index1 Primitives Per Segment",
+  "Index1 Rotate",
+  "Index1 Translate",
+  "Index2",
+  "Index2 End Rotate",
+  "Index2 End Translate",
+  "Index2 Length",
+  "Index2 Muscle Color",
+  "Index2 Muscle Scale",
+  "Index2 Primitives Per Segment",
+  "Index2 Rotate",
+  "Index2 Translate",
+  "Index3",
+  "Index3 Length",
+  "Index3 Muscle Color",
+  "Index3 Muscle Scale",
+  "Index3 Primitives Per Segment",
+  "Index3 Rotate",
+  "Index3 Translate",
+  "Individual_Forces.gad"
+ ],
+ "entries": [
+  [
+   "Image Map",
+   "图像贴图"
+  ],
+  [
+   "Image Mesh",
+   "图像网格"
+  ],
+  [
+   "Image Name",
+   "图像名称"
+  ],
+  [
+   "Image Output Pattern",
+   "图像输出模式"
+  ],
+  [
+   "Image Path",
+   "图像路径"
+  ],
+  [
+   "Image Plane Exports",
+   "图像平面导出"
+  ],
+  [
+   "Image Point Attribute",
+   "图像点属性"
+  ],
+  [
+   "Image Processing",
+   "图像处理"
+  ],
+  [
+   "Image Quality Percentage",
+   "图像质量百分比"
+  ],
+  [
+   "Image Render",
+   "图像渲染"
+  ],
+  [
+   "Image Right",
+   "图像右侧"
+  ],
+  [
+   "Image Settings",
+   "图像设置"
+  ],
+  [
+   "Image Size Range",
+   "图像尺寸范围"
+  ],
+  [
+   "Image Sizes",
+   "图像尺寸"
+  ],
+  [
+   "Image Top",
+   "图像顶部"
+  ],
+  [
+   "Image/Textures",
+   "图像/纹理"
+  ],
+  [
+   "ImageMagick Binary",
+   "ImageMagick 可执行文件"
+  ],
+  [
+   "ImageMagick Path",
+   "ImageMagick 路径"
+  ],
+  [
+   "Imagemagick Binary Path",
+   "ImageMagick 可执行文件路径"
+  ],
+  [
+   "Images Per Line",
+   "每行图像数"
+  ],
+  [
+   "Imaginary Coefficient",
+   "虚部系数"
+  ],
+  [
+   "Imaging Point",
+   "成像点"
+  ],
+  [
+   "Img Path",
+   "图像路径"
+  ],
+  [
+   "Impact Propagations",
+   "冲击传播"
+  ],
+  [
+   "Implicit Bounds",
+   "隐式边界"
+  ],
+  [
+   "Implicit Function",
+   "隐函数"
+  ],
+  [
+   "Import #",
+   "导入 #"
+  ],
+  [
+   "Import All",
+   "导入全部"
+  ],
+  [
+   "Import All Nodes",
+   "导入所有节点"
+  ],
+  [
+   "Import All Time Samples",
+   "导入所有时间采样"
+  ],
+  [
+   "Import Animation",
+   "导入动画"
+  ],
+  [
+   "Import Animation Data",
+   "导入动画数据"
+  ],
+  [
+   "Import Animation Names",
+   "导入动画名称"
+  ],
+  [
+   "Import Animations",
+   "导入动画"
+  ],
+  [
+   "Import Application Specific Attributes",
+   "导入应用专属属性"
+  ],
+  [
+   "Import Attribute Values",
+   "导入属性值"
+  ],
+  [
+   "Import Attributes from Hits",
+   "从命中导入属性"
+  ],
+  [
+   "Import Attributes from Surface",
+   "从表面导入属性"
+  ],
+  [
+   "Import Bones and Skinning",
+   "导入骨骼与蒙皮"
+  ],
+  [
+   "Import Bounding Box",
+   "导入包围盒"
+  ],
+  [
+   "Import Bundles As Collections",
+   "将捆绑导入为集合"
+  ],
+  [
+   "Import By Name",
+   "按名称导入"
+  ],
+  [
+   "Import Cameras",
+   "导入相机"
+  ],
+  [
+   "Import Cameras with Slap Comp Inputs",
+   "导入相机并带 Slap Comp 输入"
+  ],
+  [
+   "Import Computed Visibility",
+   "导入计算出的可见性"
+  ],
+  [
+   "Import Constraints",
+   "导入约束"
+  ],
+  [
+   "Import Controls",
+   "导入控制"
+  ],
+  [
+   "Import Density",
+   "导入密度"
+  ],
+  [
+   "Import Edits",
+   "导入编辑"
+  ],
+  [
+   "Import Extras",
+   "导入附加项"
+  ],
+  [
+   "Import From",
+   "导入自"
+  ],
+  [
+   "Import Geo Prims",
+   "导入几何体图元"
+  ],
+  [
+   "Import Geometry",
+   "导入几何体"
+  ],
+  [
+   "Import Geometry Data",
+   "导入几何体数据"
+  ],
+  [
+   "Import Groups from Hits",
+   "从命中导入组"
+  ],
+  [
+   "Import Guide Pose...",
+   "导入引导姿态..."
+  ],
+  [
+   "Import Hit Attributes",
+   "导入命中属性"
+  ],
+  [
+   "Import Hit Groups",
+   "导入命中组"
+  ],
+  [
+   "Import Invisible Shapes",
+   "导入不可见形状"
+  ],
+  [
+   "Import Key Value Pairs",
+   "导入键值对"
+  ],
+  [
+   "Import Layers",
+   "导入图层"
+  ],
+  [
+   "Import Low Res Time Scale",
+   "导入低分辨率时间缩放"
+  ],
+  [
+   "Import Mappings",
+   "导入映射"
+  ],
+  [
+   "Import Material As",
+   "导入材质为"
+  ],
+  [
+   "Import Material Assignments",
+   "导入材质指定"
+  ],
+  [
+   "Import Material Names",
+   "导入材质名称"
+  ],
+  [
+   "Import Mesh Names",
+   "导入网格名称"
+  ],
+  [
+   "Import Metadata",
+   "导入元数据"
+  ],
+  [
+   "Import Mode",
+   "导入模式"
+  ],
+  [
+   "Import Names",
+   "导入名称"
+  ],
+  [
+   "Import Node Geometry As",
+   "导入节点几何体为"
+  ],
+  [
+   "Import Node Names",
+   "导入节点名称"
+  ],
+  [
+   "Import Non-Geometry",
+   "导入非几何体"
+  ],
+  [
+   "Import Number",
+   "导入编号"
+  ],
+  [
+   "Import Objects",
+   "导入对象"
+  ],
+  [
+   "Import Path",
+   "导入路径"
+  ],
+  [
+   "Import Polygonal Pose...",
+   "导入多边形姿态..."
+  ],
+  [
+   "Import Pose...",
+   "导入姿态..."
+  ],
+  [
+   "Import Primitives",
+   "导入图元"
+  ],
+  [
+   "Import Prop Collection",
+   "导入道具集合"
+  ],
+  [
+   "Import Properties",
+   "导入属性"
+  ],
+  [
+   "Import Prototypes From",
+   "导入原型来源"
+  ],
+  [
+   "Import Relationships",
+   "导入关系"
+  ],
+  [
+   "Import Rest Geometry Data",
+   "导入静止几何体数据"
+  ],
+  [
+   "Import SOP Geometry",
+   "导入 SOP 几何体"
+  ],
+  [
+   "Import SOP Nodes",
+   "导入 SOP 节点"
+  ],
+  [
+   "Import SOP Points",
+   "导入 SOP 点"
+  ],
+  [
+   "Import Samples",
+   "导入采样"
+  ],
+  [
+   "Import Scene Names",
+   "导入场景名称"
+  ],
+  [
+   "Import Simulation Settings",
+   "导入模拟设置"
+  ],
+  [
+   "Import Skeleton",
+   "导入骨架"
+  ],
+  [
+   "Import Skin UV",
+   "导入蒙皮 UV"
+  ],
+  [
+   "Import Style",
+   "导入样式"
+  ],
+  [
+   "Import Transform Groups",
+   "导入变换组"
+  ],
+  [
+   "Import Unused Materials",
+   "导入未使用的材质"
+  ],
+  [
+   "Import User-Defined Attributes",
+   "导入用户自定义属性"
+  ],
+  [
+   "Import Variants",
+   "导入变体"
+  ],
+  [
+   "Import Volumes",
+   "导入体积"
+  ],
+  [
+   "Import Volumes Into DOPs",
+   "将体积导入 DOP"
+  ],
+  [
+   "Import as Reference",
+   "作为引用导入"
+  ],
+  [
+   "Import from",
+   "导入自"
+  ],
+  [
+   "Import from DOPs",
+   "从 DOP 导入"
+  ],
+  [
+   "Import from SOPs",
+   "从 SOP 导入"
+  ],
+  [
+   "Import glTF Property Names",
+   "导入 glTF 属性名称"
+  ],
+  [
+   "Importance",
+   "重要性"
+  ],
+  [
+   "Importance Multiplier",
+   "重要性倍数"
+  ],
+  [
+   "Imported Ids Dictionary",
+   "导入的 ID 字典"
+  ],
+  [
+   "Imported Primvars Dictionary",
+   "导入的 Primvar 字典"
+  ],
+  [
+   "Impostor ROP",
+   "Impostor ROP"
+  ],
+  [
+   "Impostor ROP Full Path",
+   "Impostor ROP 完整路径"
+  ],
+  [
+   "Impulse",
+   "冲量"
+  ],
+  [
+   "Impulse Fluid Density",
+   "冲量流体密度"
+  ],
+  [
+   "In Color",
+   "输入颜色"
+  ],
+  [
+   "In Color Alpha",
+   "输入颜色 Alpha"
+  ],
+  [
+   "In Color Space",
+   "输入色彩空间"
+  ],
+  [
+   "In Edit Layer Block",
+   "处于编辑图层块中"
+  ],
+  [
+   "In Feather Length",
+   "输入羽化长度"
+  ],
+  [
+   "In Handle",
+   "入端手柄"
+  ],
+  [
+   "In Position Alpha",
+   "输入位置 Alpha"
+  ],
+  [
+   "In Primvary Hit",
+   "主命中输入"
+  ],
+  [
+   "In Reflection",
+   "输入反射"
+  ],
+  [
+   "In Refraction",
+   "输入折射"
+  ],
+  [
+   "In Rotation Order",
+   "输入旋转顺序"
+  ],
+  [
+   "In Shape",
+   "输入形状"
+  ],
+  [
+   "In Transform Order",
+   "输入变换顺序"
+  ],
+  [
+   "In World Space",
+   "输入世界空间"
+  ],
+  [
+   "In-Between Shape",
+   "中间形状"
+  ],
+  [
+   "In/Out Handle",
+   "入/出端手柄"
+  ],
+  [
+   "In/Out Value",
+   "入/出值"
+  ],
+  [
+   "Inactive Output",
+   "非活动输出"
+  ],
+  [
+   "Inactive Tiles",
+   "非活动平铺块"
+  ],
+  [
+   "Inactive Value Default",
+   "非活动值默认值"
+  ],
+  [
+   "Inactive to Active Falloff",
+   "非活动到活动的衰减"
+  ],
+  [
+   "Incandescence",
+   "白炽"
+  ],
+  [
+   "Incline Clips",
+   "倾斜片段"
+  ],
+  [
+   "Include All Primitives Sharing Attribute Boundary Points",
+   "包含共享属性边界点的所有图元"
+  ],
+  [
+   "Include All Unshared Curve Edges",
+   "包含所有未共享的曲线边"
+  ],
+  [
+   "Include Archived Projects",
+   "包含已归档工程"
+  ],
+  [
+   "Include Assets",
+   "包含资产"
+  ],
+  [
+   "Include BSDF Color",
+   "包含 BSDF 颜色"
+  ],
+  [
+   "Include Bones",
+   "包含骨骼"
+  ],
+  [
+   "Include Border",
+   "包含边框"
+  ],
+  [
+   "Include Boundary Edges",
+   "包含边界边"
+  ],
+  [
+   "Include Bounding Box",
+   "包含包围盒"
+  ],
+  [
+   "Include Children Outside Chain Group",
+   "包含链组外的子级"
+  ],
+  [
+   "Include Connective Tissue",
+   "包含结缔组织"
+  ],
+  [
+   "Include Default Field Value",
+   "包含默认场值"
+  ],
+  [
+   "Include Embedded Geometry",
+   "包含内嵌几何体"
+  ],
+  [
+   "Include Enable Switch",
+   "包含启用开关"
+  ],
+  [
+   "Include Entities Not Wholly Contained",
+   "包含未完全包含的实体"
+  ],
+  [
+   "Include Environment",
+   "包含环境"
+  ],
+  [
+   "Include Expected Output Files",
+   "包含预期输出文件"
+  ],
+  [
+   "Include Export Utility Folder",
+   "包含导出工具文件夹"
+  ],
+  [
+   "Include Extension in Filename Attribute",
+   "在文件名属性中包含扩展名"
+  ],
+  [
+   "Include Fail-State Parameters",
+   "包含失败状态参数"
+  ],
+  [
+   "Include Fallback Folder",
+   "包含回退文件夹"
+  ],
+  [
+   "Include Feather Id/Primitive Number",
+   "包含羽化 ID/图元编号"
+  ],
+  [
+   "Include Fiber Scale Range in Blend",
+   "在混合中包含纤维缩放范围"
+  ],
+  [
+   "Include First Pose",
+   "包含第一个姿态"
+  ],
+  [
+   "Include Geo Lights",
+   "包含几何体灯光"
+  ],
+  [
+   "Include HIP Metadata",
+   "包含 HIP 元数据"
+  ],
+  [
+   "Include Hidden Debug Plane in Geometry",
+   "在几何体中包含隐藏调试平面"
+  ],
+  [
+   "Include Inactive Value",
+   "包含非活动值"
+  ],
+  [
+   "Include Input Stage",
+   "包含输入阶段"
+  ],
+  [
+   "Include Interpolation Menu",
+   "包含插值菜单"
+  ],
+  [
+   "Include Invisible Characters",
+   "包含不可见字符"
+  ],
+  [
+   "Include Invisible Geometry",
+   "包含不可见几何体"
+  ],
+  [
+   "Include Iteration",
+   "包含迭代"
+  ],
+  [
+   "Include Kernel Iteration",
+   "包含内核迭代"
+  ],
+  [
+   "Include Keypoint 3D Metadata",
+   "包含关键点三维元数据"
+  ],
+  [
+   "Include Last Pose",
+   "包含最后一个姿态"
+  ],
+  [
+   "Include Locked Geometry",
+   "包含已锁定的几何体"
+  ],
+  [
+   "Include Mean Weight",
+   "包含平均权重"
+  ],
+  [
+   "Include Muscles",
+   "包含肌肉"
+  ],
+  [
+   "Include Offsets",
+   "包含偏移"
+  ],
+  [
+   "Include On/Off Switch",
+   "包含开/关开关"
+  ],
+  [
+   "Include Only Elements Entirely Contained in Original Group",
+   "仅包含完全位于原组内的元素"
+  ],
+  [
+   "Include Only Elements on the Boundary",
+   "仅包含边界上的元素"
+  ],
+  [
+   "Include Only Primitives Sharing an Edge with Original Group",
+   "仅包含与原组共享边的图元"
+  ],
+  [
+   "Include Only VOPs with Material Flag Set",
+   "仅包含已设置材质标记的 VOP"
+  ],
+  [
+   "Include Origin",
+   "包含原点"
+  ],
+  [
+   "Include Original Samples",
+   "包含原始采样"
+  ],
+  [
+   "Include Parents Outside Chain Group",
+   "包含链组外的父级"
+  ],
+  [
+   "Include Pattern",
+   "包含模式"
+  ],
+  [
+   "Include Pieces",
+   "包含碎块"
+  ],
+  [
+   "Include Points from Primitives",
+   "包含图元中的点"
+  ],
+  [
+   "Include Preprocessing Step",
+   "包含预处理步骤"
+  ],
+  [
+   "Include Range End",
+   "包含范围结束"
+  ],
+  [
+   "Include Range Start",
+   "包含范围起始"
+  ],
+  [
+   "Include Ratio Interpolation Menu",
+   "包含比例插值菜单"
+  ],
+  [
+   "Include Record Number In Track Name",
+   "在轨道名称中包含记录编号"
+  ],
+  [
+   "Include Rotation",
+   "包含旋转"
+  ],
+  [
+   "Include Shared Edges From Cutting Geometry",
+   "包含切割几何体的共享边"
+  ],
+  [
+   "Include Simulation Frame",
+   "包含模拟帧"
+  ],
+  [
+   "Include Size",
+   "包含尺寸"
+  ],
+  [
+   "Include Skeleton Connectivity",
+   "包含骨骼连接关系"
+  ],
+  [
+   "Include Skeleton Joints",
+   "包含骨骼关节"
+  ],
+  [
+   "Include Source Geometry in Output",
+   "在输出中包含源几何体"
+  ],
+  [
+   "Include Start Object for Subnet",
+   "为子网络包含起始对象"
+  ],
+  [
+   "Include Translation",
+   "包含平移"
+  ],
+  [
+   "Include User Field 1 (user1) in menus",
+   "在菜单中包含用户字段 1（user1）"
+  ],
+  [
+   "Include User Field 2 (user2) in menus",
+   "在菜单中包含用户字段 2（user2）"
+  ],
+  [
+   "Include User Field 3 (user3) in menus",
+   "在菜单中包含用户字段 3（user3）"
+  ],
+  [
+   "Include User Field 4 (user4) in menus",
+   "在菜单中包含用户字段 4（user4）"
+  ],
+  [
+   "Include User Field 5 (user5) in menus",
+   "在菜单中包含用户字段 5（user5）"
+  ],
+  [
+   "Include User Field 6 (user6) in menus",
+   "在菜单中包含用户字段 6（user6）"
+  ],
+  [
+   "Include Variant Sets with No Selection",
+   "包含无选择的变体集"
+  ],
+  [
+   "Include Voxel Size",
+   "包含体素尺寸"
+  ],
+  [
+   "Include World Rotation",
+   "包含世界旋转"
+  ],
+  [
+   "Include World Translation",
+   "包含世界平移"
+  ],
+  [
+   "Include in View Menu:",
+   "包含在视图菜单中："
+  ],
+  [
+   "Included Purposes",
+   "包含的用途"
+  ],
+  [
+   "Includes",
+   "包含"
+  ],
+  [
+   "Inclusive Range",
+   "包含端点范围"
+  ],
+  [
+   "Incoming Colorspace",
+   "输入色彩空间"
+  ],
+  [
+   "Incoming Vel Force Falloff From Curve",
+   "传入速度力的曲线衰减"
+  ],
+  [
+   "Incoming Velocity Force Falloff From Curve",
+   "传入速度力的曲线衰减"
+  ],
+  [
+   "Incompressibility",
+   "不可压缩性"
+  ],
+  [
+   "Incompressibility Attribute",
+   "不可压缩性属性"
+  ],
+  [
+   "Increase Elevation",
+   "提高海拔"
+  ],
+  [
+   "Increase Mesh Size of Empty Areas",
+   "增大空白区域的网格尺寸"
+  ],
+  [
+   "Increase Rate",
+   "增长率"
+  ],
+  [
+   "Increase per Turn",
+   "每圈增长"
+  ],
+  [
+   "Increase the Resolution by Borders",
+   "按边框提高分辨率"
+  ],
+  [
+   "Increment",
+   "增量"
+  ],
+  [
+   "Increment Save File",
+   "递增保存文件"
+  ],
+  [
+   "Increment per Stamp",
+   "每次图章递增"
+  ],
+  [
+   "Increments",
+   "增量"
+  ],
+  [
+   "Independent Y Control",
+   "独立 Y 控制"
+  ],
+  [
+   "Index Along Curve Attrib",
+   "沿曲线索引属性"
+  ],
+  [
+   "Index Attribute by Frame",
+   "按帧索引属性"
+  ],
+  [
+   "Index Middle1 Rotate",
+   "食指中节 1 旋转"
+  ],
+  [
+   "Index Middle2 Rotate",
+   "食指中节 2 旋转"
+  ],
+  [
+   "Index Of Refraction",
+   "折射率"
+  ],
+  [
+   "Index Offset",
+   "索引偏移"
+  ],
+  [
+   "Index Palm",
+   "食指掌部"
+  ],
+  [
+   "Index Palm Muscle Color",
+   "食指掌部肌肉颜色"
+  ],
+  [
+   "Index Palm Muscle Scale",
+   "食指掌部肌肉缩放"
+  ],
+  [
+   "Index Palm Primitives Per Segment",
+   "每段食指掌部图元数"
+  ],
+  [
+   "Index Param Name",
+   "索引参数名"
+  ],
+  [
+   "Index Primitive Attribute",
+   "索引图元属性"
+  ],
+  [
+   "Index Range",
+   "索引范围"
+  ],
+  [
+   "Index Root End Rotate",
+   "食指根部末端旋转"
+  ],
+  [
+   "Index Root End Translate",
+   "食指根部末端平移"
+  ],
+  [
+   "Index Root Rotate",
+   "食指根部旋转"
+  ],
+  [
+   "Index Root Translate",
+   "食指根部平移"
+  ],
+  [
+   "Index Stamp Name",
+   "索引图章名称"
+  ],
+  [
+   "Index Tip Rotate",
+   "食指指尖旋转"
+  ],
+  [
+   "Index Tip Translate",
+   "食指指尖平移"
+  ],
+  [
+   "Index Variable",
+   "索引变量"
+  ],
+  [
+   "Index from Right",
+   "从右编号"
+  ],
+  [
+   "Index to Visualize",
+   "要可视化的索引"
+  ],
+  [
+   "Indexed Primvars",
+   "索引 Primvar"
+  ],
+  [
+   "Indexes",
+   "索引"
+  ],
+  [
+   "Indices",
+   "索引"
+  ],
+  [
+   "Indirect Clamping",
+   "间接钳制"
+  ],
+  [
+   "Indirect Diffuse Name",
+   "间接漫反射名称"
+  ],
+  [
+   "Indirect Lighting (per-component)",
+   "间接光照（按分量）"
+  ],
+  [
+   "Indirect Ray Samples",
+   "间接光线采样"
+  ],
+  [
+   "Indirect Visibility",
+   "间接可见性"
+  ],
+  [
+   "Indirect at SSS",
+   "SSS 处的间接光"
+  ],
+  [
+   "Individual",
+   "单独"
+  ],
+  [
+   "Individual Alignment",
+   "单独对齐"
+  ],
+  [
+   "Individual Controls",
+   "单独控制"
+  ],
+  [
+   "Individual Forces",
+   "单独力"
+  ],
+  [
+   "Individual Scales",
+   "单独缩放"
+  ],
+  [
+   "Inefficiency",
+   "低效性"
+  ],
+  [
+   "Inertial Tensor Type",
+   "惯性张量类型"
+  ],
+  [
+   "Infer Attribute Type",
+   "推断属性类型"
+  ],
+  [
+   "Inference Function",
+   "推断函数"
+  ],
+  [
+   "Inference Resolution",
+   "推断分辨率"
+  ],
+  [
+   "Inflate Collisions",
+   "膨胀碰撞"
+  ],
+  [
+   "Inflate Features",
+   "膨胀特征"
+  ],
+  [
+   "Inflate Tolerance",
+   "膨胀容差"
+  ],
+  [
+   "Inflation Amount Attribute",
+   "膨胀量属性"
+  ],
+  [
+   "Inflation Frames",
+   "膨胀帧数"
+  ],
+  [
+   "Influence",
+   "影响"
+  ],
+  [
+   "Influence Decay Options",
+   "影响衰减选项"
+  ],
+  [
+   "Influence Field",
+   "影响场"
+  ],
+  [
+   "Influence Radius Options",
+   "影响半径选项"
+  ],
+  [
+   "Influence Range",
+   "影响范围"
+  ],
+  [
+   "Influence Threshold",
+   "影响阈值"
+  ],
+  [
+   "Info:",
+   "信息："
+  ],
+  [
+   "Inherit Branch Radius",
+   "继承分支半径"
+  ],
+  [
+   "Inherit Frame Range",
+   "继承帧范围"
+  ],
+  [
+   "Inherit Pivot from Point Position",
+   "从点位置继承轴心"
+  ],
+  [
+   "Inherit Upstream Work Item Index",
+   "继承上游工作项索引"
+  ],
+  [
+   "Inherit Upstream Workitems",
+   "继承上游工作项"
+  ],
+  [
+   "Inherit Velocity Scale",
+   "继承速度缩放"
+  ],
+  [
+   "Inherited Radius Profile",
+   "继承的半径剖面"
+  ],
+  [
+   "Inherited Velocity",
+   "继承的速度"
+  ],
+  [
+   "Inherits",
+   "继承"
+  ],
+  [
+   "Inherits Path",
+   "继承路径"
+  ],
+  [
+   "Inirect Diffuse Shadow",
+   "间接漫反射阴影"
+  ],
+  [
+   "Inirect Diffuse Unshadowed",
+   "间接漫反射无阴影"
+  ],
+  [
+   "Init Frame",
+   "初始帧"
+  ],
+  [
+   "Initial Angle",
+   "初始角度"
+  ],
+  [
+   "Initial Angular Velocity",
+   "初始角速度"
+  ],
+  [
+   "Initial Clip",
+   "初始片段"
+  ],
+  [
+   "Initial Color",
+   "初始颜色"
+  ],
+  [
+   "Initial Color From",
+   "初始颜色来源"
+  ],
+  [
+   "Initial Conditions From Channel",
+   "从通道获取初始条件"
+  ],
+  [
+   "Initial Configuration",
+   "初始配置"
+  ],
+  [
+   "Initial Constraints",
+   "初始约束"
+  ],
+  [
+   "Initial Deflation",
+   "初始放气"
+  ],
+  [
+   "Initial Direction",
+   "初始方向"
+  ],
+  [
+   "Initial Direction Attrib",
+   "初始方向属性"
+  ],
+  [
+   "Initial Extent",
+   "初始范围"
+  ],
+  [
+   "Initial Forward Direction",
+   "初始前向"
+  ],
+  [
+   "Initial Frame",
+   "初始帧"
+  ],
+  [
+   "Initial Fuel",
+   "初始燃料"
+  ],
+  [
+   "Initial Height",
+   "初始高度"
+  ],
+  [
+   "Initial Hold",
+   "初始保持"
+  ],
+  [
+   "Initial Layer Size",
+   "初始图层尺寸"
+  ],
+  [
+   "Initial Mask",
+   "初始遮罩"
+  ],
+  [
+   "Initial Motor Target",
+   "初始马达目标"
+  ],
+  [
+   "Initial Normal Direction",
+   "初始法线方向"
+  ],
+  [
+   "Initial Number of Points",
+   "初始点数"
+  ],
+  [
+   "Initial Opacity",
+   "初始不透明度"
+  ],
+  [
+   "Initial Pieces",
+   "初始碎块"
+  ],
+  [
+   "Initial Pose",
+   "初始姿态"
+  ],
+  [
+   "Initial Position",
+   "初始位置"
+  ],
+  [
+   "Initial Quaternion",
+   "初始四元数"
+  ],
+  [
+   "Initial Reset Frame",
+   "初始重置帧"
+  ],
+  [
+   "Initial Rotation",
+   "初始旋转"
+  ],
+  [
+   "Initial SOP Path",
+   "初始 SOP 路径"
+  ],
+  [
+   "Initial Scale",
+   "初始缩放"
+  ],
+  [
+   "Initial Setup",
+   "初始设置"
+  ],
+  [
+   "Initial Speed",
+   "初始速度"
+  ],
+  [
+   "Initial State Prefix",
+   "初始状态前缀"
+  ],
+  [
+   "Initial Surface Offset",
+   "初始表面偏移"
+  ],
+  [
+   "Initial Target Position",
+   "初始目标位置"
+  ],
+  [
+   "Initial Target Rotation",
+   "初始目标旋转"
+  ],
+  [
+   "Initial Tension",
+   "初始张力"
+  ],
+  [
+   "Initial Threshold",
+   "初始阈值"
+  ],
+  [
+   "Initial Twist",
+   "初始扭转"
+  ],
+  [
+   "Initial Voxel Size",
+   "初始体素尺寸"
+  ],
+  [
+   "Initialization Mode",
+   "初始化模式"
+  ],
+  [
+   "Initialization Volumes SOP",
+   "初始化体积 SOP"
+  ],
+  [
+   "Initialization and Cleanup",
+   "初始化与清理"
+  ],
+  [
+   "Initialize Behavior",
+   "初始化行为"
+  ],
+  [
+   "Initialize Cells",
+   "初始化单元"
+  ],
+  [
+   "Initialize Entries",
+   "初始化条目"
+  ],
+  [
+   "Initialize Extra Features",
+   "初始化额外特征"
+  ],
+  [
+   "Initialize Fluid Attributes",
+   "初始化流体属性"
+  ],
+  [
+   "Initialize From Groups",
+   "从组初始化"
+  ],
+  [
+   "Initialize From Primitives",
+   "从图元初始化"
+  ],
+  [
+   "Initialize From Rest Groups",
+   "从静止组初始化"
+  ],
+  [
+   "Initialize From Rest Primitives",
+   "从静止图元初始化"
+  ],
+  [
+   "Initialize Geometry Alignment from Curve",
+   "从曲线初始化几何体对齐"
+  ],
+  [
+   "Initialize Input Branches",
+   "初始化输入分支"
+  ],
+  [
+   "Initialize Limits from Rig",
+   "从绑定初始化限制"
+  ],
+  [
+   "Initialize Missing Names",
+   "初始化缺失名称"
+  ],
+  [
+   "Initialize Overlap Distances",
+   "初始化重叠距离"
+  ],
+  [
+   "Initialize Random Orient",
+   "初始化随机朝向"
+  ],
+  [
+   "Initialize Scale From Root",
+   "从根初始化缩放"
+  ],
+  [
+   "Initialize Transforms",
+   "初始化变换"
+  ],
+  [
+   "Initialize Value Mapping with Input",
+   "用输入初始化值映射"
+  ],
+  [
+   "Initialize Values",
+   "初始化值"
+  ],
+  [
+   "Initialize Velocity",
+   "初始化速度"
+  ],
+  [
+   "Initialize Weights",
+   "初始化权重"
+  ],
+  [
+   "Initialize as Pinned",
+   "初始化为固定"
+  ],
+  [
+   "Initialize for Engine",
+   "为引擎初始化"
+  ],
+  [
+   "Initialize from Animation Clips",
+   "从动画片段初始化"
+  ],
+  [
+   "Initialize from Computed Transition Regions",
+   "从计算出的过渡区域初始化"
+  ],
+  [
+   "Initialize from Input  Attribute",
+   "从输入属性初始化"
+  ],
+  [
+   "Initialize from Input Attribute",
+   "从输入属性初始化"
+  ],
+  [
+   "Initialize simulation OPs",
+   "初始化模拟 OP"
+  ],
+  [
+   "Initialize with World Space Rotation",
+   "用世界空间旋转初始化"
+  ],
+  [
+   "Initializer Type",
+   "初始化器类型"
+  ],
+  [
+   "Inititialize with Position",
+   "按位置初始化"
+  ],
+  [
+   "Injection Method",
+   "注入方式"
+  ]
+ ]
+}

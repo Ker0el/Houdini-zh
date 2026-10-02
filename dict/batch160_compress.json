@@ -1,0 +1,21 @@
+{
+ "note": "压缩相关（Dop I/O / 文件 DOP 的 .sim 压缩选项）",
+ "skip": ["Blosc", "Gzip"],
+ "entries": [
+  ["Compression", "压缩"],
+  ["Compress", "压缩"],
+  ["Uncompressed", "不压缩"],
+  ["No Compression", "不压缩"],
+  ["Compression Level", "压缩级别"],
+  ["Compression Method", "压缩方式"],
+  ["Compression Type", "压缩类型"],
+  ["Compression Algorithm", "压缩算法"],
+  ["Compression Ratio", "压缩比"],
+  ["Simulation File", "模拟文件"],
+  ["Save Simulation Files", "保存模拟文件"],
+  ["Save Simulation", "保存模拟"],
+  ["Load Simulation", "加载模拟"],
+  ["Unload Simulation", "卸载模拟"],
+  ["Simulation Compression", "模拟压缩"]
+ ]
+}

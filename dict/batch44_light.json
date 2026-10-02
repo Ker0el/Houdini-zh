@@ -1,0 +1,14 @@
+{
+  "_comment": "第四十四批：灯光锥角 / 麦克风参数，gap.json 的最后一轮。Cone→圆锥（既有译法），Falloff→衰减（Dropoff 同义）。CHOP 是节点类别名，保留。",
+  "entries": {
+    "Directional": "平行光",
+    "Dropoff": "衰减",
+    "Dropoff Rate": "衰减率",
+    "Filter CHOP": "过滤 CHOP",
+    "Microphone Active": "麦克风已启用",
+    "Outer Cone": "外锥角",
+    "Outer Sensitivity": "外部灵敏度",
+    "Recording Cone": "录音锥角",
+    "Sensitivity": "灵敏度"
+  }
+}

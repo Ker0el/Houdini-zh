@@ -1,0 +1,21 @@
+{
+ "note": "用户报：驱动器的临时存储选项",
+ "entries": [
+  [
+   "Local temp storage",
+   "本地临时存储"
+  ],
+  [
+   "Shared temp storage",
+   "共享临时存储"
+  ],
+  [
+   "Local Temp Storage",
+   "本地临时存储"
+  ],
+  [
+   "Shared Temp Storage",
+   "共享临时存储"
+  ]
+ ]
+}

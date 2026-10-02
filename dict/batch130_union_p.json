@@ -1,0 +1,1355 @@
+{
+ "note": "合并清单 —— 第 16 批（Geometry Mask → Hand Parameters）",
+ "skip": [
+  "Geomprop",
+  "GoZFile",
+  "GoZFiles",
+  "GprimAction",
+  "Group1.gad",
+  "GroupHeaderOpen0",
+  "HOOK_OUT_ANKLE_r",
+  "HOOK_OUT_BALL_r",
+  "HOOK_OUT_CHEST1_r",
+  "HOOK_OUT_CHEST2_r",
+  "HOOK_OUT_CHEST_r",
+  "HOOK_OUT_COLLARBONE_r",
+  "HOOK_OUT_ELBOW_r",
+  "HOOK_OUT_FINGER_r",
+  "HOOK_OUT_HEAD_r",
+  "HOOK_OUT_HIP_r",
+  "HOOK_OUT_INDEX_MIDDLE1_r",
+  "HOOK_OUT_INDEX_MIDDLE2_r",
+  "HOOK_OUT_INDEX_ROOT_r",
+  "HOOK_OUT_INDEX_TIP_r",
+  "HOOK_OUT_JAW_r",
+  "HOOK_OUT_KNEE_r",
+  "HOOK_OUT_LOWER_BACK1_r",
+  "HOOK_OUT_LOWER_BACK2_r",
+  "HOOK_OUT_LOWER_BACK3_r",
+  "HOOK_OUT_MIDDLE_MIDDLE1_r",
+  "HOOK_OUT_MIDDLE_MIDDLE2_r",
+  "HOOK_OUT_MIDDLE_ROOT_r",
+  "HOOK_OUT_MIDDLE_TIP_r",
+  "HOOK_OUT_NECK_BONE1_r",
+  "HOOK_OUT_NECK_BONE2_r",
+  "HOOK_OUT_NECK_BONE3_r",
+  "HOOK_OUT_NECK_BONE4_r",
+  "HOOK_OUT_NECK_END_r",
+  "HOOK_OUT_NECK_r",
+  "HOOK_OUT_PALM_r",
+  "HOOK_OUT_PINKY_MIDDLE1_r",
+  "HOOK_OUT_PINKY_MIDDLE2_r",
+  "HOOK_OUT_PINKY_ROOT_r",
+  "HOOK_OUT_PINKY_TIP_r",
+  "HOOK_OUT_RING_MIDDLE1_r",
+  "HOOK_OUT_RING_MIDDLE2_r",
+  "HOOK_OUT_RING_ROOT_r",
+  "HOOK_OUT_RING_TIP_r",
+  "HOOK_OUT_SACRUM_r",
+  "HOOK_OUT_SHOULDERBLADE_r",
+  "HOOK_OUT_SHOULDER_r",
+  "HOOK_OUT_SPINE_BONE1_r",
+  "HOOK_OUT_SPINE_BONE2_r",
+  "HOOK_OUT_SPINE_BONE3_r",
+  "HOOK_OUT_SPINE_BONE4_r",
+  "HOOK_OUT_SPINE_BONE5_r",
+  "HOOK_OUT_SPINE_BONE6_r",
+  "HOOK_OUT_SPINE_BONE7_r",
+  "HOOK_OUT_SPINE_BONE8_r",
+  "HOOK_OUT_SPINE_BONE9_r",
+  "HOOK_OUT_SPINE_BONE10_r",
+  "HOOK_OUT_SPINE_BONE11_r",
+  "HOOK_OUT_SPINE_BONE12_r",
+  "HOOK_OUT_SPINE_BONE13_r",
+  "HOOK_OUT_SPINE_BONE14_r",
+  "HOOK_OUT_SPINE_BONE15_r",
+  "HOOK_OUT_SPINE_BONE16_r",
+  "HOOK_OUT_SPINE_BONE17_r",
+  "HOOK_OUT_SPINE_BONE18_r",
+  "HOOK_OUT_SPINE_END_r",
+  "HOOK_OUT_TAIL1_r",
+  "HOOK_OUT_TAIL2_r",
+  "HOOK_OUT_TAIL3_r",
+  "HOOK_OUT_TAIL4_r",
+  "HOOK_OUT_TAIL5_r",
+  "HOOK_OUT_TAIL6_r",
+  "HOOK_OUT_TAIL7_r",
+  "HOOK_OUT_TAIL8_r",
+  "HOOK_OUT_TAIL9_r",
+  "HOOK_OUT_TAIL10_r",
+  "HOOK_OUT_TAIL11_r",
+  "HOOK_OUT_THIGH_r",
+  "HOOK_OUT_THUMB_MIDDLE1_r",
+  "HOOK_OUT_THUMB_MIDDLE2_r",
+  "HOOK_OUT_THUMB_ROOT_r",
+  "HOOK_OUT_THUMB_TIP_r",
+  "HOOK_OUT_TOE_r",
+  "HOOK_OUT_WRIST_r"
+ ],
+ "entries": [
+  [
+   "Geometry Mask",
+   "几何体遮罩"
+  ],
+  [
+   "Geometry Metadata",
+   "几何体元数据"
+  ],
+  [
+   "Geometry Motion Blur",
+   "几何体运动模糊"
+  ],
+  [
+   "Geometry Name",
+   "几何体名称"
+  ],
+  [
+   "Geometry Name Suffix",
+   "几何体名称后缀"
+  ],
+  [
+   "Geometry Normal",
+   "几何体法线"
+  ],
+  [
+   "Geometry Object",
+   "几何体对象"
+  ],
+  [
+   "Geometry Opacity",
+   "几何体不透明度"
+  ],
+  [
+   "Geometry Output",
+   "几何体输出"
+  ],
+  [
+   "Geometry Output Type",
+   "几何体输出类型"
+  ],
+  [
+   "Geometry Parameters",
+   "几何体参数"
+  ],
+  [
+   "Geometry Primitives",
+   "几何体图元"
+  ],
+  [
+   "Geometry Purpose",
+   "几何体用途"
+  ],
+  [
+   "Geometry Samples",
+   "几何体采样数"
+  ],
+  [
+   "Geometry Save Path",
+   "几何体保存路径"
+  ],
+  [
+   "Geometry Setup",
+   "几何体设置"
+  ],
+  [
+   "Geometry Spacing",
+   "几何体间距"
+  ],
+  [
+   "Geometry Stash Max Concavity",
+   "几何体暂存最大凹陷度"
+  ],
+  [
+   "Geometry Stash Setup",
+   "几何体暂存设置"
+  ],
+  [
+   "Geometry Stash Transform",
+   "几何体暂存变换"
+  ],
+  [
+   "Geometry Subdirectory",
+   "几何体子目录"
+  ],
+  [
+   "Geometry Suffix String",
+   "几何体后缀字符串"
+  ],
+  [
+   "Geometry Thin Walled",
+   "几何体薄壁"
+  ],
+  [
+   "Geometry To Layer",
+   "几何体到图层"
+  ],
+  [
+   "Geometry Units",
+   "几何体单位"
+  ],
+  [
+   "Geometry Weight",
+   "几何体权重"
+  ],
+  [
+   "Geometry to Cook",
+   "要计算的几何体"
+  ],
+  [
+   "Geometry to Deform",
+   "要变形的几何体"
+  ],
+  [
+   "Geometry to Keep",
+   "要保留的几何体"
+  ],
+  [
+   "Geometry to be scattered on.",
+   "用于散布的几何体。"
+  ],
+  [
+   "Get Geometry From Second Input",
+   "从第二个输入获取几何体"
+  ],
+  [
+   "Get Instances from Patterns",
+   "从模式获取实例"
+  ],
+  [
+   "Get Look At From",
+   "注视目标取自"
+  ],
+  [
+   "Get Look Up From",
+   "上方向取自"
+  ],
+  [
+   "Get Properties",
+   "获取属性"
+  ],
+  [
+   "Get Properties from SOPs",
+   "从 SOP 获取属性"
+  ],
+  [
+   "Get SOP Attributes",
+   "获取 SOP 属性"
+  ],
+  [
+   "Get Save Paths",
+   "获取保存路径"
+  ],
+  [
+   "Gimbal COG Rotate",
+   "万向节重心旋转"
+  ],
+  [
+   "Gimbal FK Upperarm",
+   "万向节 FK 上臂"
+  ],
+  [
+   "Gimbal FK Upperarm Rotate",
+   "万向节 FK 上臂旋转"
+  ],
+  [
+   "Gimbal Head Rotate",
+   "万向节头部旋转"
+  ],
+  [
+   "Gimbal Hip Rotate",
+   "万向节髋部旋转"
+  ],
+  [
+   "Gimbal Neck Rotate",
+   "万向节颈部旋转"
+  ],
+  [
+   "Gimbal Neck Translate",
+   "万向节颈部平移"
+  ],
+  [
+   "Gimbal Ribcage Rotate",
+   "万向节胸腔旋转"
+  ],
+  [
+   "Gimbal Wrist World Space",
+   "万向节手腕世界空间"
+  ],
+  [
+   "Gimbal Wrist World Space Rotate",
+   "万向节手腕世界空间旋转"
+  ],
+  [
+   "Glimmer",
+   "微光"
+  ],
+  [
+   "Glimmer Size",
+   "微光大小"
+  ],
+  [
+   "Glimmer Strength",
+   "微光强度"
+  ],
+  [
+   "Glint Gain",
+   "闪光增益"
+  ],
+  [
+   "Glint Width",
+   "闪光宽度"
+  ],
+  [
+   "Global AOV Material",
+   "全局 AOV 材质"
+  ],
+  [
+   "Global Bump",
+   "全局凹凸"
+  ],
+  [
+   "Global Curve",
+   "全局曲线"
+  ],
+  [
+   "Global Distortion Scale",
+   "全局扭曲缩放"
+  ],
+  [
+   "Global Filter Settings",
+   "全局过滤设置"
+  ],
+  [
+   "Global Force Falloff From Curve",
+   "沿曲线的全局力衰减"
+  ],
+  [
+   "Global Forces",
+   "全局力"
+  ],
+  [
+   "Global Frame Offset",
+   "全局帧偏移"
+  ],
+  [
+   "Global Handle Visible",
+   "全局手柄可见"
+  ],
+  [
+   "Global Interpolation",
+   "全局插值"
+  ],
+  [
+   "Global Light Quality",
+   "全局灯光质量"
+  ],
+  [
+   "Global Look Controls",
+   "全局外观控制"
+  ],
+  [
+   "Global Operation",
+   "全局操作"
+  ],
+  [
+   "Global Photon Map",
+   "全局光子贴图"
+  ],
+  [
+   "Global Retime",
+   "全局重定时"
+  ],
+  [
+   "Global Settings",
+   "全局设置"
+  ],
+  [
+   "Global Substep",
+   "全局子步"
+  ],
+  [
+   "Global Time Offset",
+   "全局时间偏移"
+  ],
+  [
+   "Global Time Scale",
+   "全局时间缩放"
+  ],
+  [
+   "Global Weight",
+   "全局权重"
+  ],
+  [
+   "Globals",
+   "全局变量"
+  ],
+  [
+   "Glossiness",
+   "光泽度"
+  ],
+  [
+   "Glossy",
+   "光泽"
+  ],
+  [
+   "Glossy Filter Amount",
+   "光泽过滤量"
+  ],
+  [
+   "Glossy Max",
+   "光泽最大值"
+  ],
+  [
+   "Glossy Min",
+   "光泽最小值"
+  ],
+  [
+   "Glossy Ramp",
+   "光泽渐变"
+  ],
+  [
+   "Glow Threshold",
+   "辉光阈值"
+  ],
+  [
+   "Glue Candidates",
+   "粘合候选"
+  ],
+  [
+   "Glue Center Distance Threshold",
+   "粘合中心距离阈值"
+  ],
+  [
+   "Glue End Regions",
+   "粘合末端区域"
+  ],
+  [
+   "Glue Impulses",
+   "粘合冲量"
+  ],
+  [
+   "Glue Mask",
+   "粘合遮罩"
+  ],
+  [
+   "Glue Object",
+   "粘合对象"
+  ],
+  [
+   "Gnomon",
+   "坐标轴指示器"
+  ],
+  [
+   "Goal Blur Field",
+   "目标模糊场"
+  ],
+  [
+   "Goal Color",
+   "目标颜色"
+  ],
+  [
+   "Goal Feedback",
+   "目标反馈"
+  ],
+  [
+   "Goal Feedback Options",
+   "目标反馈选项"
+  ],
+  [
+   "Goal Feedback Override",
+   "目标反馈覆盖"
+  ],
+  [
+   "Goal Feedback Remap Ramp",
+   "目标反馈重映射渐变"
+  ],
+  [
+   "Goal Flame Speed",
+   "目标火焰速度"
+  ],
+  [
+   "Goal Force Field",
+   "目标力场"
+  ],
+  [
+   "Goal Group",
+   "目标组"
+  ],
+  [
+   "Goal ID",
+   "目标 ID"
+  ],
+  [
+   "Goal Iso",
+   "目标等值"
+  ],
+  [
+   "Goal Leg Translate",
+   "目标腿部平移"
+  ],
+  [
+   "Goal Name",
+   "目标名称"
+  ],
+  [
+   "Goal Position",
+   "目标位置"
+  ],
+  [
+   "Goal Position Weight",
+   "目标位置权重"
+  ],
+  [
+   "Goal Previous",
+   "上一目标"
+  ],
+  [
+   "Goal Rotation Offset",
+   "目标旋转偏移"
+  ],
+  [
+   "Goal SDF Field",
+   "目标 SDF 场"
+  ],
+  [
+   "Goal Strength Ramp",
+   "目标强度渐变"
+  ],
+  [
+   "Goal Threshold",
+   "目标阈值"
+  ],
+  [
+   "Goal Toe Translate",
+   "目标脚趾平移"
+  ],
+  [
+   "Goal Twist Offset",
+   "目标扭转偏移"
+  ],
+  [
+   "Goal Vector",
+   "目标矢量"
+  ],
+  [
+   "Goal Vector Bias",
+   "目标矢量偏移"
+  ],
+  [
+   "Goal Volume Field",
+   "目标体积场"
+  ],
+  [
+   "Goal X",
+   "目标 X"
+  ],
+  [
+   "Goal Y",
+   "目标 Y"
+  ],
+  [
+   "Grab Fixed From Selection",
+   "从选择中抓取固定项"
+  ],
+  [
+   "Grab Source From Selection",
+   "从选择中抓取源"
+  ],
+  [
+   "Grab Transform",
+   "抓取变换"
+  ],
+  [
+   "Grace Period",
+   "宽限期"
+  ],
+  [
+   "Gradient Center",
+   "渐变中心"
+  ],
+  [
+   "Gradient Constancy Weight",
+   "梯度恒常性权重"
+  ],
+  [
+   "Gradient Descent Iterations",
+   "梯度下降迭代"
+  ],
+  [
+   "Gradient Direction",
+   "渐变方向"
+  ],
+  [
+   "Gradient Field",
+   "梯度场"
+  ],
+  [
+   "Gradient Magnitude",
+   "梯度幅值"
+  ],
+  [
+   "Gradient Offset",
+   "渐变偏移"
+  ],
+  [
+   "Gradient Radius",
+   "渐变半径"
+  ],
+  [
+   "Gradient Ramp",
+   "渐变条"
+  ],
+  [
+   "Gradient Strength",
+   "渐变强度"
+  ],
+  [
+   "Gradient Type",
+   "渐变类型"
+  ],
+  [
+   "Gradient Window Radius",
+   "渐变窗口半径"
+  ],
+  [
+   "Grain Bias",
+   "颗粒偏移"
+  ],
+  [
+   "Grain Fracture ID",
+   "颗粒碎裂 ID"
+  ],
+  [
+   "Grain Gamma",
+   "颗粒伽马"
+  ],
+  [
+   "Grain Min/Max",
+   "颗粒最小/最大"
+  ],
+  [
+   "Grain Radius",
+   "颗粒半径"
+  ],
+  [
+   "Grain SOP Path",
+   "颗粒 SOP 路径"
+  ],
+  [
+   "Grain Scale",
+   "颗粒缩放"
+  ],
+  [
+   "Grain Shape",
+   "颗粒形状"
+  ],
+  [
+   "Grain Size",
+   "颗粒大小"
+  ],
+  [
+   "Grain Spacing Attribute",
+   "颗粒间距属性"
+  ],
+  [
+   "Grain Varies Over Time",
+   "颗粒随时间变化"
+  ],
+  [
+   "Grain Varies Per Color Component",
+   "颗粒按颜色分量变化"
+  ],
+  [
+   "Grain size",
+   "颗粒大小"
+  ],
+  [
+   "Graininess",
+   "颗粒感"
+  ],
+  [
+   "Granite",
+   "花岗岩"
+  ],
+  [
+   "Granularity",
+   "粒度"
+  ],
+  [
+   "Graph File",
+   "图表文件"
+  ],
+  [
+   "Graph Geometry Path",
+   "图表几何体路径"
+  ],
+  [
+   "Graph Parameters",
+   "图表参数"
+  ],
+  [
+   "Graph Path",
+   "图表路径"
+  ],
+  [
+   "Gravity Force Direction",
+   "重力方向"
+  ],
+  [
+   "Gravity Joint Group",
+   "重力关节组"
+  ],
+  [
+   "Gravity Multiplier",
+   "重力倍数"
+  ],
+  [
+   "Gray-Scott",
+   "Gray-Scott"
+  ],
+  [
+   "Grayscale View",
+   "灰度视图"
+  ],
+  [
+   "Green Channel",
+   "绿通道"
+  ],
+  [
+   "Green Color",
+   "绿色"
+  ],
+  [
+   "Green Curve",
+   "绿色曲线"
+  ],
+  [
+   "Green From",
+   "绿从"
+  ],
+  [
+   "Green To",
+   "绿到"
+  ],
+  [
+   "Grid Columns",
+   "网格列数"
+  ],
+  [
+   "Grid Guide",
+   "网格参考线"
+  ],
+  [
+   "Grid Position on Trajectory",
+   "轨迹上的网格位置"
+  ],
+  [
+   "Grid Resolution",
+   "网格分辨率"
+  ],
+  [
+   "Grid Rows",
+   "网格行数"
+  ],
+  [
+   "Grid Settings",
+   "网格设置"
+  ],
+  [
+   "Grid Size Type",
+   "网格尺寸类型"
+  ],
+  [
+   "Grid Texture",
+   "网格纹理"
+  ],
+  [
+   "Grid Tiling",
+   "网格平铺"
+  ],
+  [
+   "Grid Tiling Multiplier",
+   "网格平铺倍数"
+  ],
+  [
+   "Groom Brushes",
+   "梳理笔刷"
+  ],
+  [
+   "Groom Frame",
+   "梳理帧"
+  ],
+  [
+   "Groom Parms",
+   "梳理参数"
+  ],
+  [
+   "Groom Prim",
+   "梳理图元"
+  ],
+  [
+   "Groom Rest",
+   "梳理静止状态"
+  ],
+  [
+   "Groomed Data",
+   "梳理数据"
+  ],
+  [
+   "Groove Color",
+   "沟槽颜色"
+  ],
+  [
+   "Groove Depth",
+   "沟槽深度"
+  ],
+  [
+   "Groove Softness",
+   "沟槽柔和度"
+  ],
+  [
+   "Groove Threshold",
+   "沟槽阈值"
+  ],
+  [
+   "Groove Width",
+   "沟槽宽度"
+  ],
+  [
+   "Ground Normal",
+   "地面法线"
+  ],
+  [
+   "Ground Origin",
+   "地面原点"
+  ],
+  [
+   "Ground Plane Height",
+   "地平面高度"
+  ],
+  [
+   "Ground Plane Override",
+   "地平面覆盖"
+  ],
+  [
+   "Ground Plane Position",
+   "地平面位置"
+  ],
+  [
+   "Ground Plane Rotation",
+   "地平面旋转"
+  ],
+  [
+   "Ground Receives Shadows",
+   "地面接收阴影"
+  ],
+  [
+   "Ground Scale",
+   "地面缩放"
+  ],
+  [
+   "Ground Skirt",
+   "地面裙边"
+  ],
+  [
+   "Ground Up Direction",
+   "地面上方向"
+  ],
+  [
+   "Ground Visibility",
+   "地面可见性"
+  ],
+  [
+   "Group # Expression",
+   "组 # 表达式"
+  ],
+  [
+   "Group # Mask",
+   "组 # 遮罩"
+  ],
+  [
+   "Group # Name",
+   "组 # 名称"
+  ],
+  [
+   "Group Arrows",
+   "组箭头"
+  ],
+  [
+   "Group Border Edges",
+   "组边界边"
+  ],
+  [
+   "Group Border Primitives",
+   "组边界图元"
+  ],
+  [
+   "Group Camera Fallback",
+   "组相机回退"
+  ],
+  [
+   "Group Color",
+   "组颜色"
+  ],
+  [
+   "Group Count",
+   "组数量"
+  ],
+  [
+   "Group Creation",
+   "组创建"
+  ],
+  [
+   "Group Data IDs",
+   "组数据 ID"
+  ],
+  [
+   "Group Files into Subdirectories",
+   "将文件归入子目录"
+  ],
+  [
+   "Group ID",
+   "组 ID"
+  ],
+  [
+   "Group ID Attribute",
+   "组 ID 属性"
+  ],
+  [
+   "Group Identifier",
+   "组标识符"
+  ],
+  [
+   "Group Individual Scans",
+   "对单个扫描分组"
+  ],
+  [
+   "Group Label",
+   "组标签"
+  ],
+  [
+   "Group Name Attribute",
+   "组名属性"
+  ],
+  [
+   "Group Options",
+   "组选项"
+  ],
+  [
+   "Group Start",
+   "组起始"
+  ],
+  [
+   "Group Threshold",
+   "组阈值"
+  ],
+  [
+   "Group Token",
+   "组标记"
+  ],
+  [
+   "Group VEXpressions",
+   "组 VEXpression"
+  ],
+  [
+   "Group Work Items Using",
+   "用于分组工作项的依据"
+  ],
+  [
+   "Group from Reference Input if Wired",
+   "若已连接则从参考输入分组"
+  ],
+  [
+   "Group instead of Delete",
+   "用分组代替删除"
+  ],
+  [
+   "Group to Affect",
+   "要影响的组"
+  ],
+  [
+   "Group to Fracture",
+   "要碎裂的组"
+  ],
+  [
+   "Group to Shatter",
+   "要打碎的组"
+  ],
+  [
+   "Group/Piece Name",
+   "组/碎块名称"
+  ],
+  [
+   "Groups Output",
+   "组输出"
+  ],
+  [
+   "Groups to Copy",
+   "要复制的组"
+  ],
+  [
+   "Groups to Keep",
+   "要保留的组"
+  ],
+  [
+   "Groups to Snap",
+   "要吸附的组"
+  ],
+  [
+   "Grout Amplitude",
+   "勾缝幅度"
+  ],
+  [
+   "Grout Color",
+   "勾缝颜色"
+  ],
+  [
+   "Grout Frequency",
+   "勾缝频率"
+  ],
+  [
+   "Grout Width",
+   "勾缝宽度"
+  ],
+  [
+   "Grow Grad 2D",
+   "二维生长梯度"
+  ],
+  [
+   "Grow Scale 2D",
+   "二维生长缩放"
+  ],
+  [
+   "Grow Scale 3D",
+   "三维生长缩放"
+  ],
+  [
+   "Growable Area Per Branch",
+   "每分支可生长面积"
+  ],
+  [
+   "Growth Field Quality",
+   "生长场质量"
+  ],
+  [
+   "Growth Generations",
+   "生长代数"
+  ],
+  [
+   "Guard",
+   "护毛"
+  ],
+  [
+   "Guard Hair",
+   "护毛"
+  ],
+  [
+   "Guard Hairs",
+   "护毛"
+  ],
+  [
+   "Guard Map",
+   "护毛贴图"
+  ],
+  [
+   "Guard Map Blend",
+   "护毛贴图混合"
+  ],
+  [
+   "Guide & Weight Attributes",
+   "引导与权重属性"
+  ],
+  [
+   "Guide Advection",
+   "引导平流"
+  ],
+  [
+   "Guide Attribute",
+   "引导属性"
+  ],
+  [
+   "Guide Button",
+   "引导按钮"
+  ],
+  [
+   "Guide Creation",
+   "引导线创建"
+  ],
+  [
+   "Guide Curves",
+   "引导曲线"
+  ],
+  [
+   "Guide Depth",
+   "引导深度"
+  ],
+  [
+   "Guide Direction Independently",
+   "独立引导方向"
+  ],
+  [
+   "Guide Geometry Scale",
+   "引导几何体缩放"
+  ],
+  [
+   "Guide Index",
+   "引导索引"
+  ],
+  [
+   "Guide Label",
+   "引导标签"
+  ],
+  [
+   "Guide Min",
+   "引导最小值"
+  ],
+  [
+   "Guide Mode",
+   "引导模式"
+  ],
+  [
+   "Guide Normal Attribute",
+   "引导法线属性"
+  ],
+  [
+   "Guide Points Group",
+   "引导点组"
+  ],
+  [
+   "Guide Position",
+   "引导位置"
+  ],
+  [
+   "Guide Primitive",
+   "引导图元"
+  ],
+  [
+   "Guide Properties",
+   "引导属性"
+  ],
+  [
+   "Guide Radius Attribute",
+   "引导半径属性"
+  ],
+  [
+   "Guide Removal Pattern",
+   "引导移除模式"
+  ],
+  [
+   "Guide Rig Name",
+   "引导绑定名称"
+  ],
+  [
+   "Guide Sample Count",
+   "引导采样数"
+  ],
+  [
+   "Guide Scale Mode",
+   "引导缩放模式"
+  ],
+  [
+   "Guide Secondary Color",
+   "引导次要颜色"
+  ],
+  [
+   "Guide Towards Hint",
+   "朝向提示引导"
+  ],
+  [
+   "Guide Type",
+   "引导类型"
+  ],
+  [
+   "Guide Width Label",
+   "引导宽度标签"
+  ],
+  [
+   "Guided Color",
+   "引导颜色"
+  ],
+  [
+   "Guides Attribute",
+   "引导属性"
+  ],
+  [
+   "Guides Group",
+   "引导组"
+  ],
+  [
+   "Guides Stash",
+   "引导暂存"
+  ],
+  [
+   "Guides Target",
+   "引导目标"
+  ],
+  [
+   "Guiding",
+   "引导"
+  ],
+  [
+   "Guiding Fields",
+   "引导场"
+  ],
+  [
+   "Guiding Sink",
+   "引导汇"
+  ],
+  [
+   "Guiding Surface",
+   "引导表面"
+  ],
+  [
+   "Guiding Surface Thickness",
+   "引导表面厚度"
+  ],
+  [
+   "Guiding Velocity",
+   "引导速度"
+  ],
+  [
+   "Guiding Volumes",
+   "引导体积"
+  ],
+  [
+   "HAPI VERSION",
+   "HAPI 版本"
+  ],
+  [
+   "HDA Type",
+   "HDA 类型"
+  ],
+  [
+   "HDAs",
+   "HDA"
+  ],
+  [
+   "HF Definition Match Message",
+   "HF 定义匹配消息"
+  ],
+  [
+   "HFS",
+   "HFS"
+  ],
+  [
+   "HIT",
+   "HIT"
+  ],
+  [
+   "HQueue",
+   "HQueue"
+  ],
+  [
+   "HSV Color",
+   "HSV 颜色"
+  ],
+  [
+   "HSV Convert",
+   "HSV 转换"
+  ],
+  [
+   "HTTP Proxy",
+   "HTTP 代理"
+  ],
+  [
+   "HTTP Request Type",
+   "HTTP 请求类型"
+  ],
+  [
+   "HUD Scale",
+   "HUD 缩放"
+  ],
+  [
+   "Hair Color",
+   "头发颜色"
+  ],
+  [
+   "Hair Generation",
+   "头发生成"
+  ],
+  [
+   "Hair ID Primvar",
+   "头发 ID Primvar"
+  ],
+  [
+   "Hair ID Seed",
+   "头发 ID 种子"
+  ],
+  [
+   "Hair Objects",
+   "头发对象"
+  ],
+  [
+   "Hair Profile",
+   "头发剖面"
+  ],
+  [
+   "Hair Settings",
+   "头发设置"
+  ],
+  [
+   "Hair Types",
+   "头发类型"
+  ],
+  [
+   "Hair Velocity Blur",
+   "头发速度模糊"
+  ],
+  [
+   "Hair Volume Force",
+   "头发体积力"
+  ],
+  [
+   "Hair Width",
+   "头发宽度"
+  ],
+  [
+   "Hair Width Scale",
+   "头发宽度缩放"
+  ],
+  [
+   "Hairs",
+   "头发"
+  ],
+  [
+   "Half Distance",
+   "半距离"
+  ],
+  [
+   "Half Life Attribute",
+   "半衰期属性"
+  ],
+  [
+   "Half-Band in Voxels",
+   "半带宽（体素）"
+  ],
+  [
+   "Half-Band in World",
+   "半带宽（世界）"
+  ],
+  [
+   "Half-Cone Angle",
+   "半锥角"
+  ],
+  [
+   "Hand",
+   "手"
+  ],
+  [
+   "Hand Brake",
+   "手刹"
+  ],
+  [
+   "Hand Direction Translate",
+   "手方向平移"
+  ],
+  [
+   "Hand Options",
+   "手部选项"
+  ],
+  [
+   "Hand Parameters",
+   "手部参数"
+  ]
+ ]
+}

@@ -1,0 +1,1550 @@
+{
+ "note": "合并清单 —— 第 20 批（Isotropic Ratio → Leaf）",
+ "skip": [
+  "Joint#",
+  "Ka",
+  "Kd",
+  "Kenjiro Maginu",
+  "KindAction",
+  "Kr",
+  "Ks",
+  "Ksheen",
+  "Ksss",
+  "Kt",
+  "L1 Lambda",
+  "Label#",
+  "Layer1",
+  "Layer2",
+  "Layer3",
+  "Layer4",
+  "Layerx",
+  "Layery",
+  "Layerz"
+ ],
+ "entries": [
+  [
+   "Isotropic Ratio",
+   "各向同性比例"
+  ],
+  [
+   "Item Count",
+   "项目数量"
+  ],
+  [
+   "Items",
+   "项目"
+  ],
+  [
+   "Iterate Names",
+   "遍历名称"
+  ],
+  [
+   "Iterate Over Strings",
+   "遍历字符串"
+  ],
+  [
+   "Iterate Step",
+   "迭代步长"
+  ],
+  [
+   "Iterate step",
+   "迭代步长"
+  ],
+  [
+   "Iteration Count",
+   "迭代次数"
+  ],
+  [
+   "Iteration Count Option Name",
+   "迭代次数选项名称"
+  ],
+  [
+   "Iteration Option Name",
+   "迭代选项名称"
+  ],
+  [
+   "Iteration Parameters",
+   "迭代参数"
+  ],
+  [
+   "Iteration Range",
+   "迭代范围"
+  ],
+  [
+   "Iteration Variable",
+   "迭代变量"
+  ],
+  [
+   "Iterations Options",
+   "迭代选项"
+  ],
+  [
+   "Iterations Override",
+   "迭代覆盖"
+  ],
+  [
+   "Iterations Remap Ramp",
+   "迭代重映射渐变"
+  ],
+  [
+   "Iterations per Frame",
+   "每帧迭代次数"
+  ],
+  [
+   "Iterations per Step",
+   "每步迭代次数"
+  ],
+  [
+   "Iterative Solver",
+   "迭代求解器"
+  ],
+  [
+   "JSON File Path",
+   "JSON 文件路径"
+  ],
+  [
+   "Jaw Bone",
+   "下颌骨骼"
+  ],
+  [
+   "Jaw Color",
+   "下颌颜色"
+  ],
+  [
+   "Jaw End Translate",
+   "下颌末端平移"
+  ],
+  [
+   "Jaw IK",
+   "下颌 IK"
+  ],
+  [
+   "Jaw LOD",
+   "下颌 LOD"
+  ],
+  [
+   "Jaw Root Translate",
+   "下颌根部平移"
+  ],
+  [
+   "Jaw Rotate",
+   "下颌旋转"
+  ],
+  [
+   "Jaw Scale",
+   "下颌缩放"
+  ],
+  [
+   "Jaw Translate",
+   "下颌平移"
+  ],
+  [
+   "Jerk",
+   "急动"
+  ],
+  [
+   "Jerk Color",
+   "急动颜色"
+  ],
+  [
+   "Jerk Scale",
+   "急动缩放"
+  ],
+  [
+   "Jiggle Amount",
+   "抖动量"
+  ],
+  [
+   "Jiggle Damping Attribute",
+   "抖动阻尼属性"
+  ],
+  [
+   "Jiggle Flex Attribute",
+   "抖动弯曲属性"
+  ],
+  [
+   "Jiggle Limit Attribute",
+   "抖动限制属性"
+  ],
+  [
+   "Jiggle Multiplier Attribute",
+   "抖动倍数属性"
+  ],
+  [
+   "Jiggle Stiffness Attribute",
+   "抖动刚度属性"
+  ],
+  [
+   "Jitter Amount",
+   "抖动幅度"
+  ],
+  [
+   "Jitter Births",
+   "抖动新生粒子"
+  ],
+  [
+   "Jitter Frequency",
+   "抖动频率"
+  ],
+  [
+   "Jitter Layer Strength",
+   "抖动图层强度"
+  ],
+  [
+   "Jitter Length",
+   "抖动长度"
+  ],
+  [
+   "Jitter Scale Mode",
+   "抖动缩放模式"
+  ],
+  [
+   "Job Environment",
+   "任务环境"
+  ],
+  [
+   "Job File Key-Values",
+   "任务文件键值"
+  ],
+  [
+   "Job ID",
+   "任务 ID"
+  ],
+  [
+   "Job Key-Values",
+   "任务键值"
+  ],
+  [
+   "Job Options",
+   "任务选项"
+  ],
+  [
+   "Job Owner",
+   "任务所有者"
+  ],
+  [
+   "Job Resources",
+   "任务资源"
+  ],
+  [
+   "Job Scripts",
+   "任务脚本"
+  ],
+  [
+   "Job Spec",
+   "任务规格"
+  ],
+  [
+   "Job Submit Batch Max",
+   "任务提交批上限"
+  ],
+  [
+   "Job Title",
+   "任务标题"
+  ],
+  [
+   "Job: At Least Hosts",
+   "任务：最少主机数"
+  ],
+  [
+   "Job: At Most Hosts",
+   "任务：最多主机数"
+  ],
+  [
+   "Jobs Check Batch Max",
+   "任务检查批上限"
+  ],
+  [
+   "Join Profiles Created By Multiple Surfaces",
+   "合并多个表面创建的剖面"
+  ],
+  [
+   "Join Speed",
+   "接合速度"
+  ],
+  [
+   "Joins With",
+   "与之连接"
+  ],
+  [
+   "Joint",
+   "关节"
+  ],
+  [
+   "Joint Axis Style",
+   "关节轴样式"
+  ],
+  [
+   "Joint Axis To Orient",
+   "用于定向的关节轴"
+  ],
+  [
+   "Joint Color",
+   "关节颜色"
+  ],
+  [
+   "Joint Color Seed",
+   "关节颜色种子"
+  ],
+  [
+   "Joint Config Attribute",
+   "关节配置属性"
+  ],
+  [
+   "Joint Configuration Name",
+   "关节配置名称"
+  ],
+  [
+   "Joint Configurations",
+   "关节配置"
+  ],
+  [
+   "Joint Count",
+   "关节数量"
+  ],
+  [
+   "Joint Influence",
+   "关节影响"
+  ],
+  [
+   "Joint Names",
+   "关节名称"
+  ],
+  [
+   "Joint Properties",
+   "关节属性"
+  ],
+  [
+   "Joint Size",
+   "关节大小"
+  ],
+  [
+   "Joint Smoothing",
+   "关节平滑"
+  ],
+  [
+   "Joint Translation",
+   "关节平移"
+  ],
+  [
+   "Joints to be excluded from FK Controls.",
+   "要从 FK 控制中排除的关节。"
+  ],
+  [
+   "Joints to be excluded from the mirroring.",
+   "要从镜像中排除的关节。"
+  ],
+  [
+   "Joystick Axes",
+   "摇杆轴"
+  ],
+  [
+   "Joystick Buttons",
+   "摇杆按钮"
+  ],
+  [
+   "Joystick POV Hats",
+   "摇杆 POV 帽"
+  ],
+  [
+   "Joystick Trackballs",
+   "摇杆轨迹球"
+  ],
+  [
+   "Jump to Frame",
+   "跳到帧"
+  ],
+  [
+   "Jump to Parameter",
+   "跳到参数"
+  ],
+  [
+   "Justify with",
+   "对齐依据"
+  ],
+  [
+   "K Scale Mode",
+   "K 缩放模式"
+  ],
+  [
+   "Karma  Inputs",
+   "Karma 输入"
+  ],
+  [
+   "Karma Built-in Image Filters",
+   "Karma 内置图像过滤器"
+  ],
+  [
+   "Karma Velocity Blur",
+   "Karma 速度模糊"
+  ],
+  [
+   "Keep All",
+   "保留全部"
+  ],
+  [
+   "Keep Clip Mask",
+   "保留片段遮罩"
+  ],
+  [
+   "Keep Color",
+   "保留颜色"
+  ],
+  [
+   "Keep Component Packed",
+   "保持组件打包"
+  ],
+  [
+   "Keep Constraints",
+   "保留约束"
+  ],
+  [
+   "Keep Detail Attribs",
+   "保留细节属性"
+  ],
+  [
+   "Keep Detail Attributes",
+   "保留细节属性"
+  ],
+  [
+   "Keep Elements Along Collision Group Boundary",
+   "保留碰撞组边界上的元素"
+  ],
+  [
+   "Keep External Reference",
+   "保留外部引用"
+  ],
+  [
+   "Keep Failed Work Items",
+   "保留失败的工作项"
+  ],
+  [
+   "Keep Fused Points",
+   "保留融合点"
+  ],
+  [
+   "Keep Ground Mesh",
+   "保留地面网格"
+  ],
+  [
+   "Keep Group",
+   "保留组"
+  ],
+  [
+   "Keep Group Order",
+   "保留组顺序"
+  ],
+  [
+   "Keep Houdini Engine Open",
+   "保持 Houdini Engine 打开"
+  ],
+  [
+   "Keep Incoming Muscle IDs",
+   "保留传入的肌肉 ID"
+  ],
+  [
+   "Keep Incoming Scatter Points",
+   "保留传入的散布点"
+  ],
+  [
+   "Keep Incoming Terrain",
+   "保留传入地形"
+  ],
+  [
+   "Keep Input",
+   "保留输入"
+  ],
+  [
+   "Keep Input Component Packed",
+   "保持输入组件打包"
+  ],
+  [
+   "Keep Input Points",
+   "保留输入点"
+  ],
+  [
+   "Keep Input Primitives",
+   "保留输入图元"
+  ],
+  [
+   "Keep Inside A",
+   "保留内部 A"
+  ],
+  [
+   "Keep Inside B",
+   "保留内部 B"
+  ],
+  [
+   "Keep Internal Attributes",
+   "保留内部属性"
+  ],
+  [
+   "Keep Luminance",
+   "保留亮度"
+  ],
+  [
+   "Keep Markers",
+   "保留标记"
+  ],
+  [
+   "Keep Material",
+   "保留材质"
+  ],
+  [
+   "Keep Node Name",
+   "保留节点名称"
+  ],
+  [
+   "Keep Node Names",
+   "保留节点名称"
+  ],
+  [
+   "Keep Non-Scoped Channels",
+   "保留非作用域通道"
+  ],
+  [
+   "Keep Normal Length",
+   "保留法线长度"
+  ],
+  [
+   "Keep Object Mesh",
+   "保留对象网格"
+  ],
+  [
+   "Keep Original Attribute",
+   "保留原始属性"
+  ],
+  [
+   "Keep Original Attributes",
+   "保留原始属性"
+  ],
+  [
+   "Keep Original Group",
+   "保留原始组"
+  ],
+  [
+   "Keep Outside A",
+   "保留外部 A"
+  ],
+  [
+   "Keep Outside B",
+   "保留外部 B"
+  ],
+  [
+   "Keep Overlap A",
+   "保留重叠 A"
+  ],
+  [
+   "Keep Overlap B",
+   "保留重叠 B"
+  ],
+  [
+   "Keep Packed",
+   "保持打包"
+  ],
+  [
+   "Keep Particles Apart",
+   "让粒子保持分离"
+  ],
+  [
+   "Keep Percent",
+   "保留百分比"
+  ],
+  [
+   "Keep Percentage",
+   "保留百分比"
+  ],
+  [
+   "Keep Point Attribs",
+   "保留点属性"
+  ],
+  [
+   "Keep Point Attributes",
+   "保留点属性"
+  ],
+  [
+   "Keep Point at Center of Mass",
+   "将点保持在质心"
+  ],
+  [
+   "Keep Polygons",
+   "保留多边形"
+  ],
+  [
+   "Keep Position When Attaching",
+   "附加时保持位置"
+  ],
+  [
+   "Keep Pressure",
+   "保留压力"
+  ],
+  [
+   "Keep Primitive Attribs",
+   "保留图元属性"
+  ],
+  [
+   "Keep Primitive Attributes",
+   "保留图元属性"
+  ],
+  [
+   "Keep Property",
+   "保留属性"
+  ],
+  [
+   "Keep Proxy on Export",
+   "导出时保留代理"
+  ],
+  [
+   "Keep Root Transform",
+   "保留根变换"
+  ],
+  [
+   "Keep Shape World Transform",
+   "保留形状世界变换"
+  ],
+  [
+   "Keep Single Biggest Piece",
+   "只保留最大的单块"
+  ],
+  [
+   "Keep Source",
+   "保留源"
+  ],
+  [
+   "Keep Source Attributes",
+   "保留源属性"
+  ],
+  [
+   "Keep Source Volumes",
+   "保留源体积"
+  ],
+  [
+   "Keep Surface",
+   "保留表面"
+  ],
+  [
+   "Keep Target Component Packed",
+   "保持目标组件打包"
+  ],
+  [
+   "Keep Template Joint Offsets",
+   "保留模板关节偏移"
+  ],
+  [
+   "Keep Template World Transform",
+   "保留模板世界变换"
+  ],
+  [
+   "Keep Temporary Files (.cmd, .txt)",
+   "保留临时文件（.cmd、.txt）"
+  ],
+  [
+   "Keep Vector Planes as Vectors",
+   "矢量平面保持为矢量"
+  ],
+  [
+   "Keep Vertex Attribs",
+   "保留顶点属性"
+  ],
+  [
+   "Keep Vertex Attributes",
+   "保留顶点属性"
+  ],
+  [
+   "Keep Where Below Crop Value",
+   "保留低于裁剪值的部分"
+  ],
+  [
+   "Keep by Chance",
+   "按概率保留"
+  ],
+  [
+   "Keep by Range",
+   "按范围保留"
+  ],
+  [
+   "Keep in Relative Range",
+   "保留在相对范围内"
+  ],
+  [
+   "Keep within Mask",
+   "保留在遮罩内"
+  ],
+  [
+   "Kernel Base Name",
+   "内核基础名称"
+  ],
+  [
+   "Kernel Folder",
+   "内核文件夹"
+  ],
+  [
+   "Kernel Iterations",
+   "内核迭代"
+  ],
+  [
+   "Kernel Plane",
+   "内核平面"
+  ],
+  [
+   "Kernels",
+   "内核"
+  ],
+  [
+   "Key 0",
+   "关键帧 0"
+  ],
+  [
+   "Key 4",
+   "关键帧 4"
+  ],
+  [
+   "Key 5",
+   "关键帧 5"
+  ],
+  [
+   "Key 6",
+   "关键帧 6"
+  ],
+  [
+   "Key 7",
+   "关键帧 7"
+  ],
+  [
+   "Key 8",
+   "关键帧 8"
+  ],
+  [
+   "Key 9",
+   "关键帧 9"
+  ],
+  [
+   "Key Attribute",
+   "关键属性"
+  ],
+  [
+   "Key Operation",
+   "键操作"
+  ],
+  [
+   "Key Plane",
+   "关键平面"
+  ],
+  [
+   "Key Pose Attribute",
+   "关键姿态属性"
+  ],
+  [
+   "Key Source",
+   "关键帧来源"
+  ],
+  [
+   "Keyframe Last Simulated Values",
+   "为最后模拟值设置关键帧"
+  ],
+  [
+   "Keyframe Last Values",
+   "为最后值设置关键帧"
+  ],
+  [
+   "Keypoint Class",
+   "关键点类别"
+  ],
+  [
+   "Keypoint Head",
+   "关键点头部"
+  ],
+  [
+   "Keypoint Input Features",
+   "关键点输入特征"
+  ],
+  [
+   "Keypoint Metadata",
+   "关键点元数据"
+  ],
+  [
+   "Keypoint Pooler",
+   "关键点池化器"
+  ],
+  [
+   "Keypoint Position",
+   "关键点位置"
+  ],
+  [
+   "Keypoint Scale",
+   "关键点缩放"
+  ],
+  [
+   "Keypoint Sigma",
+   "关键点 Sigma"
+  ],
+  [
+   "Keypoint Type",
+   "关键点类型"
+  ],
+  [
+   "Keys 1",
+   "关键帧 1"
+  ],
+  [
+   "Keys 2",
+   "关键帧 2"
+  ],
+  [
+   "Keys 3",
+   "关键帧 3"
+  ],
+  [
+   "Kill Colliding Particles",
+   "消除碰撞粒子"
+  ],
+  [
+   "Kill Inside",
+   "消除内部"
+  ],
+  [
+   "Kill Inside DOP",
+   "消除内部 DOP"
+  ],
+  [
+   "Kill Inside SOP",
+   "消除内部 SOP"
+  ],
+  [
+   "Kill Original Particle",
+   "消除原始粒子"
+  ],
+  [
+   "Kill Outside Bounding Box",
+   "消除包围盒外"
+  ],
+  [
+   "Kill Outside Volume Limits",
+   "消除体积范围外"
+  ],
+  [
+   "Kill Unmoveable Particles",
+   "消除不可移动粒子"
+  ],
+  [
+   "Kin Solver Path",
+   "运动学求解器路径"
+  ],
+  [
+   "KineFX Rest Skeleton",
+   "KineFX 静止骨架"
+  ],
+  [
+   "KineFX Rig Path",
+   "KineFX 绑定路径"
+  ],
+  [
+   "KineFX Skeleton",
+   "KineFX 骨架"
+  ],
+  [
+   "Kinematic Solver",
+   "运动学求解器"
+  ],
+  [
+   "Kinematic Solvers",
+   "运动学求解器"
+  ],
+  [
+   "Knee",
+   "膝"
+  ],
+  [
+   "Knee Rotate",
+   "膝旋转"
+  ],
+  [
+   "Knee Shin Rotate",
+   "膝部小腿旋转"
+  ],
+  [
+   "Knee Shin Translate",
+   "膝部小腿平移"
+  ],
+  [
+   "Knee Thigh Rotate",
+   "膝部大腿旋转"
+  ],
+  [
+   "Knee Thigh Translate",
+   "膝部大腿平移"
+  ],
+  [
+   "Knee Translate",
+   "膝平移"
+  ],
+  [
+   "Knit Shape",
+   "编织形状"
+  ],
+  [
+   "Knit Shape Type",
+   "编织形状类型"
+  ],
+  [
+   "Knot Sequence",
+   "结点序列"
+  ],
+  [
+   "Knots",
+   "结点"
+  ],
+  [
+   "Known Vector",
+   "已知矢量"
+  ],
+  [
+   "Knuckles",
+   "指关节"
+  ],
+  [
+   "L Arm",
+   "左臂"
+  ],
+  [
+   "L Arm Start",
+   "左臂起点"
+  ],
+  [
+   "L Bottom Eyelid",
+   "左下眼睑"
+  ],
+  [
+   "L Brow Angry",
+   "左眉愤怒"
+  ],
+  [
+   "L Brow In",
+   "左眉内收"
+  ],
+  [
+   "L Brow Sad",
+   "左眉悲伤"
+  ],
+  [
+   "L Brow Up",
+   "左眉上扬"
+  ],
+  [
+   "L Cheek Puff",
+   "左脸颊鼓起"
+  ],
+  [
+   "L Cheek Suck In",
+   "左脸颊内吸"
+  ],
+  [
+   "L Clavicle",
+   "左锁骨"
+  ],
+  [
+   "L Elbow",
+   "左肘"
+  ],
+  [
+   "L Eye Open",
+   "左眼睁开"
+  ],
+  [
+   "L Eyelid Rotate",
+   "左眼睑旋转"
+  ],
+  [
+   "L Foot Roll",
+   "左脚滚转"
+  ],
+  [
+   "L Foot Roll Angle",
+   "左脚滚转角度"
+  ],
+  [
+   "L Foot Roll Settngs",
+   "左脚滚转设置"
+  ],
+  [
+   "L Frown",
+   "左皱眉"
+  ],
+  [
+   "L Heel Roll Angle",
+   "左脚跟滚转角度"
+  ],
+  [
+   "L Index",
+   "左食指"
+  ],
+  [
+   "L Index 1 Rotate",
+   "左食指 1 旋转"
+  ],
+  [
+   "L Index 2 Rotate",
+   "左食指 2 旋转"
+  ],
+  [
+   "L Index 3 Rotate",
+   "左食指 3 旋转"
+  ],
+  [
+   "L Inner Brow Up",
+   "左内眉上扬"
+  ],
+  [
+   "L Knee",
+   "左膝"
+  ],
+  [
+   "L Leg",
+   "左腿"
+  ],
+  [
+   "L Leg Start",
+   "左腿起点"
+  ],
+  [
+   "L Leg Start Prompt",
+   "左腿起点提示"
+  ],
+  [
+   "L Little 1 Rotate",
+   "左小指 1 旋转"
+  ],
+  [
+   "L Little 2 Rotate",
+   "左小指 2 旋转"
+  ],
+  [
+   "L Little 3 Rotate",
+   "左小指 3 旋转"
+  ],
+  [
+   "L Middle",
+   "左中指"
+  ],
+  [
+   "L Outer Brow Up",
+   "左外眉上扬"
+  ],
+  [
+   "L Outer Eye Squint",
+   "左外眼眯起"
+  ],
+  [
+   "L Pinky",
+   "左小指"
+  ],
+  [
+   "L Ring",
+   "左无名指"
+  ],
+  [
+   "L Ring 1 Rotate",
+   "左无名指 1 旋转"
+  ],
+  [
+   "L Ring 2 Rotate",
+   "左无名指 2 旋转"
+  ],
+  [
+   "L Ring 3 Rotate",
+   "左无名指 3 旋转"
+  ],
+  [
+   "L Roll Blend",
+   "左滚转混合"
+  ],
+  [
+   "L Smile",
+   "左微笑"
+  ],
+  [
+   "L Snarl",
+   "左龇牙"
+  ],
+  [
+   "L Thumb",
+   "左拇指"
+  ],
+  [
+   "L Thumb 3 Rotate",
+   "左拇指 3 旋转"
+  ],
+  [
+   "L Toe Roll Angle",
+   "左脚趾滚转角度"
+  ],
+  [
+   "L Top Eyelid",
+   "左上眼睑"
+  ],
+  [
+   "L Top Lip Up",
+   "左上唇上扬"
+  ],
+  [
+   "LAS and LAZ",
+   "LAS 与 LAZ"
+  ],
+  [
+   "LMB Displacement",
+   "左键位移"
+  ],
+  [
+   "LOD Camera",
+   "LOD 相机"
+  ],
+  [
+   "LOD Group Name",
+   "LOD 组名称"
+  ],
+  [
+   "LOD Mesh Name Prefix",
+   "LOD 网格名称前缀"
+  ],
+  [
+   "LOD Mode",
+   "LOD 模式"
+  ],
+  [
+   "LOD Subsets",
+   "LOD 子集"
+  ],
+  [
+   "LOD Threshold",
+   "LOD 阈值"
+  ],
+  [
+   "LOD Viewing Mode",
+   "LOD 查看模式"
+  ],
+  [
+   "LOD1 Image",
+   "LOD1 图像"
+  ],
+  [
+   "LOD2 Image",
+   "LOD2 图像"
+  ],
+  [
+   "LOD3 Image",
+   "LOD3 图像"
+  ],
+  [
+   "LPE Tag Attribute",
+   "LPE 标签属性"
+  ],
+  [
+   "LPE tags",
+   "LPE 标签"
+  ],
+  [
+   "LR Offset",
+   "左右偏移"
+  ],
+  [
+   "LR Scale",
+   "左右缩放"
+  ],
+  [
+   "LR Width",
+   "左右宽度"
+  ],
+  [
+   "LUT Resolution",
+   "LUT 分辨率"
+  ],
+  [
+   "LUT Source",
+   "LUT 来源"
+  ],
+  [
+   "Label Attribute",
+   "标签属性"
+  ],
+  [
+   "Label Offset Seed",
+   "标签偏移种子"
+  ],
+  [
+   "Label Prefix",
+   "标签前缀"
+  ],
+  [
+   "Lace Frequency",
+   "蕾丝频率"
+  ],
+  [
+   "Lag Attribute",
+   "滞后属性"
+  ],
+  [
+   "Landmark Attribute",
+   "地标属性"
+  ],
+  [
+   "Landmark Groups",
+   "地标组"
+  ],
+  [
+   "Landmark Weights",
+   "地标权重"
+  ],
+  [
+   "Language",
+   "语言"
+  ],
+  [
+   "Laplacian Constraints",
+   "拉普拉斯约束"
+  ],
+  [
+   "Lapse Rate",
+   "递减率"
+  ],
+  [
+   "Last Frame Matches First Frame →",
+   "末帧与首帧一致"
+  ],
+  [
+   "Last Iteration",
+   "最后一次迭代"
+  ],
+  [
+   "Last LOD is Impostor",
+   "最后一个 LOD 为 Impostor"
+  ],
+  [
+   "Last Points",
+   "最后的点"
+  ],
+  [
+   "Last Pulse at Last Sample",
+   "在最后采样处发出最后脉冲"
+  ],
+  [
+   "Last Render's Embedded Data",
+   "上次渲染的内嵌数据"
+  ],
+  [
+   "Last Stroke",
+   "上一笔"
+  ],
+  [
+   "Last Stroke Brush",
+   "上一笔笔刷"
+  ],
+  [
+   "Last Template Points",
+   "最后的模板点"
+  ],
+  [
+   "Last U Cap",
+   "最后 U 端盖"
+  ],
+  [
+   "Last V Cap",
+   "最后 V 端盖"
+  ],
+  [
+   "LatLong Emission Map",
+   "经纬度发射贴图"
+  ],
+  [
+   "Lateral Phyllotaxis Pattern Check",
+   "横向叶序模式检查"
+  ],
+  [
+   "Latitude Max",
+   "纬度最大值"
+  ],
+  [
+   "Latitude Min",
+   "纬度最小值"
+  ],
+  [
+   "Launch Method",
+   "启动方式"
+  ],
+  [
+   "Lava Temperature Field",
+   "熔岩温度场"
+  ],
+  [
+   "Layer 0",
+   "图层 0"
+  ],
+  [
+   "Layer 1 Gain",
+   "图层 1 增益"
+  ],
+  [
+   "Layer 1 Mask",
+   "图层 1 遮罩"
+  ],
+  [
+   "Layer 1 Operation",
+   "图层 1 操作"
+  ],
+  [
+   "Layer 1 Scalar",
+   "图层 1 标量"
+  ],
+  [
+   "Layer 1 Vector",
+   "图层 1 矢量"
+  ],
+  [
+   "Layer 2 Gain",
+   "图层 2 增益"
+  ],
+  [
+   "Layer 2 Mask",
+   "图层 2 遮罩"
+  ],
+  [
+   "Layer 2 Operation",
+   "图层 2 操作"
+  ],
+  [
+   "Layer 2 Scalar",
+   "图层 2 标量"
+  ],
+  [
+   "Layer 2 Vector",
+   "图层 2 矢量"
+  ],
+  [
+   "Layer 3 Gain",
+   "图层 3 增益"
+  ],
+  [
+   "Layer 3 Mask",
+   "图层 3 遮罩"
+  ],
+  [
+   "Layer 3 Operation",
+   "图层 3 操作"
+  ],
+  [
+   "Layer 3 Scalar",
+   "图层 3 标量"
+  ],
+  [
+   "Layer 3 Vector",
+   "图层 3 矢量"
+  ],
+  [
+   "Layer 4",
+   "图层 4"
+  ],
+  [
+   "Layer 4 Gain",
+   "图层 4 增益"
+  ],
+  [
+   "Layer 4 Mask",
+   "图层 4 遮罩"
+  ],
+  [
+   "Layer 4 Operation",
+   "图层 4 操作"
+  ],
+  [
+   "Layer 4 Scalar",
+   "图层 4 标量"
+  ],
+  [
+   "Layer 4 Vector",
+   "图层 4 矢量"
+  ],
+  [
+   "Layer 5",
+   "图层 5"
+  ],
+  [
+   "Layer 6",
+   "图层 6"
+  ],
+  [
+   "Layer 7",
+   "图层 7"
+  ],
+  [
+   "Layer 8",
+   "图层 8"
+  ],
+  [
+   "Layer 9",
+   "图层 9"
+  ],
+  [
+   "Layer Attr.",
+   "图层属性"
+  ],
+  [
+   "Layer Attrib",
+   "图层属性"
+  ],
+  [
+   "Layer Attribute",
+   "图层属性"
+  ],
+  [
+   "Layer Choices",
+   "图层选项"
+  ],
+  [
+   "Layer Components",
+   "图层分量"
+  ],
+  [
+   "Layer Edge",
+   "图层边缘"
+  ],
+  [
+   "Layer Falloff",
+   "图层衰减"
+  ],
+  [
+   "Layer Groups",
+   "图层组"
+  ],
+  [
+   "Layer Hierarchy Type",
+   "图层层级类型"
+  ],
+  [
+   "Layer List",
+   "图层列表"
+  ],
+  [
+   "Layer Mask",
+   "图层遮罩"
+  ],
+  [
+   "Layer Name Attribute",
+   "图层名称属性"
+  ],
+  [
+   "Layer Names",
+   "图层名称"
+  ],
+  [
+   "Layer Pattern",
+   "图层模式"
+  ],
+  [
+   "Layer Planes",
+   "图层平面"
+  ],
+  [
+   "Layer Remap",
+   "图层重映射"
+  ],
+  [
+   "Layer Scale",
+   "图层缩放"
+  ],
+  [
+   "Layer Selection",
+   "图层选择"
+  ],
+  [
+   "Layer Stash",
+   "图层暂存"
+  ],
+  [
+   "Layer Tile Size",
+   "图层平铺尺寸"
+  ],
+  [
+   "Layer for Alpha",
+   "Alpha 所用图层"
+  ],
+  [
+   "Layer for Blue",
+   "蓝通道所用图层"
+  ],
+  [
+   "Layer for Green",
+   "绿通道所用图层"
+  ],
+  [
+   "Layer for Red",
+   "红通道所用图层"
+  ],
+  [
+   "Layer to Isolate",
+   "要隔离的图层"
+  ],
+  [
+   "Layer to Remap",
+   "要重映射的图层"
+  ],
+  [
+   "Layer to Trace",
+   "要描摹的图层"
+  ],
+  [
+   "Layered",
+   "分层"
+  ],
+  [
+   "Layered Noise",
+   "分层噪声"
+  ],
+  [
+   "Layers A",
+   "图层 A"
+  ],
+  [
+   "Layers Mode",
+   "图层模式"
+  ],
+  [
+   "Layers RGB",
+   "图层 RGB"
+  ],
+  [
+   "Layers to Advect",
+   "要平流的图层"
+  ],
+  [
+   "Layers to Simulate",
+   "要模拟的图层"
+  ],
+  [
+   "Layout Constraints",
+   "布局约束"
+  ],
+  [
+   "Layout Nodes",
+   "布局节点"
+  ],
+  [
+   "Layout UVs",
+   "布局 UV"
+  ],
+  [
+   "Lazy Mouse Radius",
+   "延迟鼠标半径"
+  ],
+  [
+   "Lead Island Hint",
+   "主导孤岛提示"
+  ],
+  [
+   "Leading",
+   "前导"
+  ],
+  [
+   "Leaf",
+   "叶级"
+  ]
+ ]
+}

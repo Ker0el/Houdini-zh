@@ -1,0 +1,199 @@
+{
+ "note": "gap.json 第二轮（多行悬停提示 + 用户报告的 SOP/笔刷标签）",
+ "skip": [
+  "-7.01671e-15",
+  "-8.65956e-17",
+  "8.65956e-17",
+  "1e-05",
+  "<style>",
+  "$HIP/ifds/storage",
+  "$HIP/render/$HIPNAME.$OS.$F4.checkpoint",
+  "$HOUDINI_TEMP_DIR/ifds/storage",
+  "$HOUDINI_TEMP_DIR/usd_renders/$RENDERID",
+  "$OS",
+  "*lin_rec709*",
+  "/Render/Products/Vars/*",
+  "/obj/AutoDopNetwork",
+  "/obj/ambient1/light_color",
+  "/obj/billowy_smoke/volumerasterizeattributes",
+  "/obj/billowysmoke_simulation",
+  "/obj/dopnet1<br>Network View: /obj/dopnet1",
+  "/obj/fireball_shockwave_simulation",
+  "/obj/fireball_shockwave_simulation/file_output",
+  "/obj/fireball_shockwave_simulation/pyro_solver",
+  "cloudadjustdensityprofile1",
+  "DOSCH_CARB_04SN_lowres.rat",
+  "ACES2065-1",
+  "ACEScc",
+  "ACEScct"
+ ],
+ "patterns": {
+  "^Maximum number of indirect samples: ([0-9]+)$": "间接采样数量上限：$1",
+  "^Removing \"(.+)\"\\.[ \t]*$": "正在移除 \"$1\"。",
+  "^Removing \"(.+)\"$": "正在移除 \"$1\"",
+  "^([0-9]+) nodes? copied$": "已复制 $1 个节点",
+  "^Invalid source (.+)\\.$": "无效源 $1。"
+ },
+ "entries": [
+  [
+   "PaintInstances",
+   "绘制实例"
+  ],
+  [
+   "Curve Sop",
+   "曲线 SOP"
+  ],
+  [
+   "Curve SOP",
+   "曲线 SOP"
+  ],
+  [
+   "Brush Selector",
+   "笔刷选择器"
+  ],
+  [
+   "Insertion Points",
+   "插入点"
+  ],
+  [
+   "   ALL",
+   "   全部"
+  ],
+  [
+   "ALL",
+   "全部"
+  ],
+  [
+   "16 bit float",
+   "16 位浮点"
+  ],
+  [
+   "32 bit float",
+   "32 位浮点"
+  ],
+  [
+   "48 Colors",
+   "48 色"
+  ],
+  [
+   "Galleries",
+   "图库"
+  ],
+  [
+   "Expose",
+   "显示"
+  ],
+  [
+   "Data Import",
+   "数据导入"
+  ],
+  [
+   "By Density",
+   "按密度"
+  ],
+  [
+   "Away from Sun",
+   "背离太阳"
+  ],
+  [
+   "Towards Sun",
+   "朝向太阳"
+  ],
+  [
+   "APEX",
+   "APEX"
+  ],
+  [
+   "AM",
+   "AM"
+  ],
+  [
+   "Attach",
+   "附加"
+  ],
+  [
+   "Capture LOP Network for snapshots",
+   "为快照捕捉 LOP 网络"
+  ],
+  [
+   "ACES 1.0 - SDR Video",
+   "ACES 1.0 - SDR 视频"
+  ],
+  [
+   "ACES 2.0 - SDR 100 nits (Rec.709)",
+   "ACES 2.0 - SDR 100 尼特（Rec.709）"
+  ],
+  [
+   "sRGB Encoded AP1",
+   "sRGB 编码 AP1"
+  ],
+  [
+   "sRGB Encoded P3-D65",
+   "sRGB 编码 P3-D65"
+  ],
+  [
+   "Display P3 - Display",
+   "Display P3 - 显示"
+  ],
+  [
+   "Display P3 HDR - Display",
+   "Display P3 HDR - 显示"
+  ],
+  [
+   "Display: sRGB - Display",
+   "显示：sRGB - 显示"
+  ],
+  [
+   "Maximum number of indirect samples",
+   "间接采样数量上限"
+  ],
+  [
+   "No mesh to convert",
+   "没有可转换的网格"
+  ],
+  [
+   "Could not find a reference grid",
+   "找不到参考网格"
+  ],
+  [
+   "Could not find help for Geometry",
+   "找不到 Geometry 的帮助"
+  ],
+  [
+   "Creates spirals and helices.",
+   "创建螺旋与螺线。"
+  ],
+  [
+   "Creates spirals and helices",
+   "创建螺旋与螺线"
+  ],
+  [
+   "Invalid source",
+   "无效源"
+  ],
+  [
+   "Warning",
+   "警告"
+  ],
+  [
+   "Error",
+   "错误"
+  ],
+  [
+   "Launch a background render (Karma (CPU))\nCtrl-click for configuration dialog\nRight-click for list of plugins",
+   "启动后台渲染（Karma（CPU））\nCtrl+点击打开配置对话框\n右键查看插件列表"
+  ],
+  [
+   "Invalid source /obj/geo1/cloudadjustdensityprofile1/vdbfrompolygons4.\n(Warning:     No mesh to convert\nError:       Could not find a reference grid).\n1 node copied",
+   "无效源 /obj/geo1/cloudadjustdensityprofile1/vdbfrompolygons4。\n（警告：     没有可转换的网格\n错误：       找不到参考网格）。\n已复制 1 个节点"
+  ],
+  [
+   "<body>Could not find help for Geometry</body>",
+   "<body>找不到 Geometry 的帮助</body>"
+  ],
+  [
+   "<style>\np {margin-top: 4px; margin-bottom: 4px }\ndiv.fig {margin-top: 6px; margin-bottom: 6px;}\nfigcaption {color: #808080}\ndt, .label {font-weight: bold; margin-bottom: 0}\ndd, .content {margin-left: 12px; margin-top: 0}\n</style><p class=\"summary\">Creates spirals and helices.</p>",
+   "<style>\np {margin-top: 4px; margin-bottom: 4px }\ndiv.fig {margin-top: 6px; margin-bottom: 6px;}\nfigcaption {color: #808080}\ndt, .label {font-weight: bold; margin-bottom: 0}\ndd, .content {margin-left: 12px; margin-top: 0}\n</style><p class=\"summary\">创建螺旋与螺线。</p>"
+  ]
+ ]
+}

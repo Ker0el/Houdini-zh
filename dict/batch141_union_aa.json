@@ -1,0 +1,1595 @@
+{
+ "note": "合并清单 —— 第 27 批（Output 16 Type → Pack Input Using Connectivity）",
+ "skip": [
+  "OutputName_Hidden",
+  "P1",
+  "P2",
+  "P3"
+ ],
+ "entries": [
+  [
+   "Output 16 Type",
+   "输出 16 类型"
+  ],
+  [
+   "Output 17 Name",
+   "输出 17 名称"
+  ],
+  [
+   "Output 17 Type",
+   "输出 17 类型"
+  ],
+  [
+   "Output 18 Name",
+   "输出 18 名称"
+  ],
+  [
+   "Output 18 Type",
+   "输出 18 类型"
+  ],
+  [
+   "Output 19 Name",
+   "输出 19 名称"
+  ],
+  [
+   "Output 19 Type",
+   "输出 19 类型"
+  ],
+  [
+   "Output 20 Name",
+   "输出 20 名称"
+  ],
+  [
+   "Output 20 Type",
+   "输出 20 类型"
+  ],
+  [
+   "Output 21 Name",
+   "输出 21 名称"
+  ],
+  [
+   "Output 21 Type",
+   "输出 21 类型"
+  ],
+  [
+   "Output 22 Name",
+   "输出 22 名称"
+  ],
+  [
+   "Output 22 Type",
+   "输出 22 类型"
+  ],
+  [
+   "Output 23 Name",
+   "输出 23 名称"
+  ],
+  [
+   "Output 23 Type",
+   "输出 23 类型"
+  ],
+  [
+   "Output 24 Name",
+   "输出 24 名称"
+  ],
+  [
+   "Output 24 Type",
+   "输出 24 类型"
+  ],
+  [
+   "Output 25 Name",
+   "输出 25 名称"
+  ],
+  [
+   "Output 25 Type",
+   "输出 25 类型"
+  ],
+  [
+   "Output 26 Name",
+   "输出 26 名称"
+  ],
+  [
+   "Output 26 Type",
+   "输出 26 类型"
+  ],
+  [
+   "Output 27 Name",
+   "输出 27 名称"
+  ],
+  [
+   "Output 27 Type",
+   "输出 27 类型"
+  ],
+  [
+   "Output 28 Name",
+   "输出 28 名称"
+  ],
+  [
+   "Output 28 Type",
+   "输出 28 类型"
+  ],
+  [
+   "Output 29 Name",
+   "输出 29 名称"
+  ],
+  [
+   "Output 29 Type",
+   "输出 29 类型"
+  ],
+  [
+   "Output 30 Name",
+   "输出 30 名称"
+  ],
+  [
+   "Output 30 Type",
+   "输出 30 类型"
+  ],
+  [
+   "Output 31 Name",
+   "输出 31 名称"
+  ],
+  [
+   "Output 31 Type",
+   "输出 31 类型"
+  ],
+  [
+   "Output 32 Name",
+   "输出 32 名称"
+  ],
+  [
+   "Output 32 Type",
+   "输出 32 类型"
+  ],
+  [
+   "Output 3x3 Transform",
+   "输出 3x3 变换"
+  ],
+  [
+   "Output 4x4 Transform",
+   "输出 4x4 变换"
+  ],
+  [
+   "Output A Single Variable",
+   "输出单个变量"
+  ],
+  [
+   "Output APEX Graph",
+   "输出 APEX 图表"
+  ],
+  [
+   "Output Acceleration (accel)",
+   "输出加速度（accel）"
+  ],
+  [
+   "Output All Character Shapes",
+   "输出所有角色形状"
+  ],
+  [
+   "Output Angle",
+   "输出角度"
+  ],
+  [
+   "Output Arrival Times",
+   "输出到达时间"
+  ],
+  [
+   "Output As",
+   "输出为"
+  ],
+  [
+   "Output Attrib",
+   "输出属性"
+  ],
+  [
+   "Output Attribute Name",
+   "输出属性名"
+  ],
+  [
+   "Output Attributes and Groups",
+   "输出属性与组"
+  ],
+  [
+   "Output Attributes from Volumes",
+   "从体积输出属性"
+  ],
+  [
+   "Output Back Group",
+   "输出背面组"
+  ],
+  [
+   "Output Base Name",
+   "输出基础名称"
+  ],
+  [
+   "Output Bindings",
+   "输出绑定"
+  ],
+  [
+   "Output Bit Depth",
+   "输出位深"
+  ],
+  [
+   "Output Border Group",
+   "输出边框组"
+  ],
+  [
+   "Output Boundary Edge Group",
+   "输出边界边组"
+  ],
+  [
+   "Output Boundary Point Group",
+   "输出边界点组"
+  ],
+  [
+   "Output Bounds Group",
+   "输出边界组"
+  ],
+  [
+   "Output Capture Tets",
+   "输出捕捉四面体"
+  ],
+  [
+   "Output Center of Mass",
+   "输出质心"
+  ],
+  [
+   "Output Channel Idx",
+   "输出通道索引"
+  ],
+  [
+   "Output Channels",
+   "输出通道"
+  ],
+  [
+   "Output Character Shapes",
+   "输出角色形状"
+  ],
+  [
+   "Output Checkpoint",
+   "输出检查点"
+  ],
+  [
+   "Output Child Indices",
+   "输出子级索引"
+  ],
+  [
+   "Output Clamping",
+   "输出钳制"
+  ],
+  [
+   "Output Cliff Layer",
+   "输出悬崖图层"
+  ],
+  [
+   "Output Clip",
+   "输出片段"
+  ],
+  [
+   "Output Clipped Layer",
+   "输出裁剪后的图层"
+  ],
+  [
+   "Output Cluster Centers",
+   "输出簇中心"
+  ],
+  [
+   "Output Collision Volume",
+   "输出碰撞体积"
+  ],
+  [
+   "Output Color",
+   "输出颜色"
+  ],
+  [
+   "Output Color Space",
+   "输出色彩空间"
+  ],
+  [
+   "Output Column Attribute",
+   "输出列属性"
+  ],
+  [
+   "Output Configuration Attribute",
+   "输出配置属性"
+  ],
+  [
+   "Output Configuration Attributes",
+   "输出配置属性"
+  ],
+  [
+   "Output Coordinates",
+   "输出坐标"
+  ],
+  [
+   "Output Corners Group",
+   "输出角点组"
+  ],
+  [
+   "Output Correspondence",
+   "输出对应关系"
+  ],
+  [
+   "Output Curve",
+   "输出曲线"
+  ],
+  [
+   "Output Curve Lookup Attributes",
+   "输出曲线查找属性"
+  ],
+  [
+   "Output Curve Num",
+   "输出曲线编号"
+  ],
+  [
+   "Output Curve Number",
+   "输出曲线编号"
+  ],
+  [
+   "Output Curve U Attribute",
+   "输出曲线 U 属性"
+  ],
+  [
+   "Output Curves",
+   "输出曲线"
+  ],
+  [
+   "Output Curveu",
+   "输出曲线 U"
+  ],
+  [
+   "Output DCM",
+   "输出 DCM"
+  ],
+  [
+   "Output Debug AOVs",
+   "输出调试 AOV"
+  ],
+  [
+   "Output Density",
+   "输出密度"
+  ],
+  [
+   "Output Density Attribute",
+   "输出密度属性"
+  ],
+  [
+   "Output Dictionary Bindings",
+   "输出字典绑定"
+  ],
+  [
+   "Output Distance as Color (Cd)",
+   "将距离输出为颜色（Cd）"
+  ],
+  [
+   "Output Divs",
+   "输出细分数"
+  ],
+  [
+   "Output Drop Shadow Only",
+   "仅输出投影"
+  ],
+  [
+   "Output Edge Groups",
+   "输出边组"
+  ],
+  [
+   "Output Edge Layer",
+   "输出边图层"
+  ],
+  [
+   "Output Edited Mask",
+   "输出编辑后的遮罩"
+  ],
+  [
+   "Output Emission Attributes",
+   "输出发射属性"
+  ],
+  [
+   "Output Evaluation Order",
+   "输出求值顺序"
+  ],
+  [
+   "Output Fields",
+   "输出场"
+  ],
+  [
+   "Output File Name",
+   "输出文件名"
+  ],
+  [
+   "Output File Pattern",
+   "输出文件模式"
+  ],
+  [
+   "Output File Sequence",
+   "输出文件序列"
+  ],
+  [
+   "Output File(s)",
+   "输出文件"
+  ],
+  [
+   "Output Filter",
+   "输出过滤器"
+  ],
+  [
+   "Output Float Attribute",
+   "输出浮点属性"
+  ],
+  [
+   "Output Fluid Fields",
+   "输出流体场"
+  ],
+  [
+   "Output Fog",
+   "输出雾"
+  ],
+  [
+   "Output Format",
+   "输出格式"
+  ],
+  [
+   "Output Frame Attribute",
+   "输出帧属性"
+  ],
+  [
+   "Output Front Group",
+   "输出正面组"
+  ],
+  [
+   "Output Geometry and Groups",
+   "输出几何体与组"
+  ],
+  [
+   "Output Glow Only",
+   "仅输出辉光"
+  ],
+  [
+   "Output Grayscale",
+   "输出灰度"
+  ],
+  [
+   "Output Grid Size",
+   "输出网格尺寸"
+  ],
+  [
+   "Output Group Prefix",
+   "输出组前缀"
+  ],
+  [
+   "Output Group of Affected Primitives",
+   "输出受影响图元的组"
+  ],
+  [
+   "Output Guide IDs",
+   "输出引导 ID"
+  ],
+  [
+   "Output ID Attribute",
+   "输出 ID 属性"
+  ],
+  [
+   "Output IDs",
+   "输出 ID"
+  ],
+  [
+   "Output Index Along Curve",
+   "输出沿曲线索引"
+  ],
+  [
+   "Output Inflation Amount",
+   "输出膨胀量"
+  ],
+  [
+   "Output Influence Regions as Color",
+   "将影响区域输出为颜色"
+  ],
+  [
+   "Output Info Attributes",
+   "输出信息属性"
+  ],
+  [
+   "Output Input Geometry",
+   "输出输入几何体"
+  ],
+  [
+   "Output Integer Attribute",
+   "输出整数属性"
+  ],
+  [
+   "Output Integrity",
+   "输出完整性"
+  ],
+  [
+   "Output Internal Data as Attributes",
+   "将内部数据输出为属性"
+  ],
+  [
+   "Output Intersection Segments",
+   "输出相交分段"
+  ],
+  [
+   "Output Joint Geo Group",
+   "输出关节几何体组"
+  ],
+  [
+   "Output Length Range",
+   "输出长度范围"
+  ],
+  [
+   "Output Lengths over Input Range",
+   "按输入范围输出长度"
+  ],
+  [
+   "Output Light Categories",
+   "输出灯光类别"
+  ],
+  [
+   "Output Locomotion",
+   "输出运动"
+  ],
+  [
+   "Output Mask Attribute",
+   "输出遮罩属性"
+  ],
+  [
+   "Output Matnet",
+   "输出材质网络"
+  ],
+  [
+   "Output Mesa Layer",
+   "输出台地图层"
+  ],
+  [
+   "Output Modified Layer in Isolation",
+   "单独输出修改后的图层"
+  ],
+  [
+   "Output Modified Points Group",
+   "输出已修改点组"
+  ],
+  [
+   "Output Motion Vector Visualization",
+   "输出运动矢量可视化"
+  ],
+  [
+   "Output Near Group",
+   "输出近处组"
+  ],
+  [
+   "Output Nearest Distance",
+   "输出最近距离"
+  ],
+  [
+   "Output Nearest Distances Array",
+   "输出最近距离数组"
+  ],
+  [
+   "Output Nearest Point",
+   "输出最近点"
+  ],
+  [
+   "Output Nearest Points",
+   "输出最近点"
+  ],
+  [
+   "Output Neighbors Count",
+   "输出邻居数量"
+  ],
+  [
+   "Output Node #",
+   "输出节点 #"
+  ],
+  [
+   "Output Normal",
+   "输出法线"
+  ],
+  [
+   "Output Normal Attribute",
+   "输出法线属性"
+  ],
+  [
+   "Output Octree Geometry",
+   "输出八叉树几何体"
+  ],
+  [
+   "Output Octree Visualization Geometry",
+   "输出八叉树可视化几何体"
+  ],
+  [
+   "Output Options",
+   "输出选项"
+  ],
+  [
+   "Output Orient",
+   "输出朝向"
+  ],
+  [
+   "Output Orient Attribute for Rotations",
+   "为旋转输出朝向属性"
+  ],
+  [
+   "Output Original Min/Max Lengths",
+   "输出原始最小/最大长度"
+  ],
+  [
+   "Output Original Min/Max Values",
+   "输出原始最小/最大值"
+  ],
+  [
+   "Output Padding",
+   "输出边距"
+  ],
+  [
+   "Output Parameters as Attributes",
+   "将参数输出为属性"
+  ],
+  [
+   "Output Parent Index",
+   "输出父级索引"
+  ],
+  [
+   "Output Parm Name",
+   "输出参数名"
+  ],
+  [
+   "Output Particle Trails",
+   "输出粒子拖尾"
+  ],
+  [
+   "Output Paths From",
+   "输出路径来源"
+  ],
+  [
+   "Output Pieces Matching",
+   "输出匹配的碎块"
+  ],
+  [
+   "Output Point Depth",
+   "输出点深度"
+  ],
+  [
+   "Output Position Along Curve",
+   "输出沿曲线位置"
+  ],
+  [
+   "Output Positions",
+   "输出位置"
+  ],
+  [
+   "Output Potential",
+   "输出势"
+  ],
+  [
+   "Output Precision Tolerance",
+   "输出精度容差"
+  ],
+  [
+   "Output Prefix",
+   "输出前缀"
+  ],
+  [
+   "Output Pressure",
+   "输出压力"
+  ],
+  [
+   "Output Preview Geometry",
+   "输出预览几何体"
+  ],
+  [
+   "Output Prim Group",
+   "输出图元组"
+  ],
+  [
+   "Output Prim Number",
+   "输出图元编号"
+  ],
+  [
+   "Output Primary Axis",
+   "输出主轴"
+  ],
+  [
+   "Output Primitive Clip Piece",
+   "输出图元片段"
+  ],
+  [
+   "Output Primitive Clip Point",
+   "输出图元裁切点"
+  ],
+  [
+   "Output Primitive Group",
+   "输出图元组"
+  ],
+  [
+   "Output Primitive Groups",
+   "输出图元组"
+  ],
+  [
+   "Output Projection Only",
+   "仅输出投影"
+  ],
+  [
+   "Output Properties",
+   "输出属性"
+  ],
+  [
+   "Output Property Name",
+   "输出属性名"
+  ],
+  [
+   "Output Quad Group",
+   "输出四边形组"
+  ],
+  [
+   "Output Radii Attribute",
+   "输出半径属性"
+  ],
+  [
+   "Output Radius and Density in Texture Space",
+   "在纹理空间输出半径与密度"
+  ],
+  [
+   "Output Recording",
+   "输出录制"
+  ],
+  [
+   "Output Relative Channels",
+   "输出相对通道"
+  ],
+  [
+   "Output Root Group",
+   "输出根组"
+  ],
+  [
+   "Output Rotation Order",
+   "输出旋转顺序"
+  ],
+  [
+   "Output SDF",
+   "输出 SDF"
+  ],
+  [
+   "Output Sample Rate",
+   "输出采样率"
+  ],
+  [
+   "Output Scale Factor",
+   "输出缩放系数"
+  ],
+  [
+   "Output Secondary Axis",
+   "输出次轴"
+  ],
+  [
+   "Output Segment Attribute",
+   "输出分段属性"
+  ],
+  [
+   "Output Shear Channels",
+   "输出切变通道"
+  ],
+  [
+   "Output Shot Pattern",
+   "输出镜头模式"
+  ],
+  [
+   "Output Slope Mask as Color (Cd)",
+   "将坡度遮罩输出为颜色（Cd）"
+  ],
+  [
+   "Output Speed Function",
+   "输出速度函数"
+  ],
+  [
+   "Output Split Trails",
+   "输出分裂拖尾"
+  ],
+  [
+   "Output Star Glow Only",
+   "仅输出星芒"
+  ],
+  [
+   "Output Start Frame",
+   "输出起始帧"
+  ],
+  [
+   "Output Strata Only",
+   "仅输出岩层"
+  ],
+  [
+   "Output Streamlines",
+   "输出流线"
+  ],
+  [
+   "Output Stress Attributes",
+   "输出应力属性"
+  ],
+  [
+   "Output Surfaces",
+   "输出表面"
+  ],
+  [
+   "Output Tangent",
+   "输出切线"
+  ],
+  [
+   "Output Tangent (Z Axis)",
+   "输出切线（Z 轴）"
+  ],
+  [
+   "Output Target Name",
+   "输出目标名称"
+  ],
+  [
+   "Output Targets Group",
+   "输出目标组"
+  ],
+  [
+   "Output Terrain Includes Water Height",
+   "输出地形包含水面高度"
+  ],
+  [
+   "Output Text to Console",
+   "将文本输出到控制台"
+  ],
+  [
+   "Output Texture 1",
+   "输出纹理 1"
+  ],
+  [
+   "Output Texture 2",
+   "输出纹理 2"
+  ],
+  [
+   "Output Texture 3",
+   "输出纹理 3"
+  ],
+  [
+   "Output Texture 4",
+   "输出纹理 4"
+  ],
+  [
+   "Output Texture 5",
+   "输出纹理 5"
+  ],
+  [
+   "Output Texture Resolution",
+   "输出纹理分辨率"
+  ],
+  [
+   "Output Thickness as Color (Cd)",
+   "将厚度输出为颜色（Cd）"
+  ],
+  [
+   "Output Tiles",
+   "输出平铺块"
+  ],
+  [
+   "Output Time Attribute",
+   "输出时间属性"
+  ],
+  [
+   "Output TraceFlowLines",
+   "输出流线追踪线"
+  ],
+  [
+   "Output Transform Attribute",
+   "输出变换属性"
+  ],
+  [
+   "Output Transform Order",
+   "输出变换顺序"
+  ],
+  [
+   "Output Translation",
+   "输出平移"
+  ],
+  [
+   "Output Turn Rate Attribute",
+   "输出转向速率属性"
+  ],
+  [
+   "Output Type Info",
+   "输出类型信息"
+  ],
+  [
+   "Output UDIMs",
+   "输出 UDIM"
+  ],
+  [
+   "Output UV Object #",
+   "输出 UV 对象 #"
+  ],
+  [
+   "Output Unit Vectors",
+   "输出单位矢量"
+  ],
+  [
+   "Output Update",
+   "输出更新"
+  ],
+  [
+   "Output Value",
+   "输出值"
+  ],
+  [
+   "Output Values",
+   "输出值"
+  ],
+  [
+   "Output Values over Input Range",
+   "按输入范围输出值"
+  ],
+  [
+   "Output Variables",
+   "输出变量"
+  ],
+  [
+   "Output Vector Attribute",
+   "输出矢量属性"
+  ],
+  [
+   "Output Velocity (vel)",
+   "输出速度（vel）"
+  ],
+  [
+   "Output Velocity Corrected by Ambient",
+   "按环境修正后的输出速度"
+  ],
+  [
+   "Output Velocity Corrected by Timescale",
+   "按时间缩放修正后的输出速度"
+  ],
+  [
+   "Output Visualization Geometry",
+   "输出可视化几何体"
+  ],
+  [
+   "Output Volume",
+   "输出体积"
+  ],
+  [
+   "Output Volumes",
+   "输出体积"
+  ],
+  [
+   "Output Vorticity (vorticity)",
+   "输出涡量（vorticity）"
+  ],
+  [
+   "Output Water Height Is Absolute",
+   "输出水面高度为绝对值"
+  ],
+  [
+   "Output Wave Velocity Attributes",
+   "输出波浪速度属性"
+  ],
+  [
+   "Output as Integer Attribute",
+   "输出为整数属性"
+  ],
+  [
+   "Outputs 1-4",
+   "输出 1-4"
+  ],
+  [
+   "Outputs and Caching",
+   "输出与缓存"
+  ],
+  [
+   "Outside A",
+   "外部 A"
+  ],
+  [
+   "Outside B",
+   "外部 B"
+  ],
+  [
+   "Outside Bounds",
+   "边界外"
+  ],
+  [
+   "Outside Cusp Angle",
+   "外侧尖角角度"
+  ],
+  [
+   "Outside Distance",
+   "外侧距离"
+  ],
+  [
+   "Outside Edge Width",
+   "外侧边宽度"
+  ],
+  [
+   "Outside Feather",
+   "外侧羽化"
+  ],
+  [
+   "Outside Fold",
+   "外侧折叠"
+  ],
+  [
+   "Outside Group Name",
+   "外部组名称"
+  ],
+  [
+   "Outside Primitives",
+   "外部图元"
+  ],
+  [
+   "Outside Removal",
+   "外部移除"
+  ],
+  [
+   "Outside Value",
+   "外侧值"
+  ],
+  [
+   "Outside Values",
+   "外部值"
+  ],
+  [
+   "Outter Radius",
+   "外半径"
+  ],
+  [
+   "Outward Reachable From Constraint Primitives",
+   "从约束图元向外可达"
+  ],
+  [
+   "Over Relaxation",
+   "过度松弛"
+  ],
+  [
+   "Overall Damping Ratio",
+   "总阻尼比"
+  ],
+  [
+   "Overall Gain",
+   "总增益"
+  ],
+  [
+   "Overall Lift",
+   "总抬升"
+  ],
+  [
+   "Overall Lightness",
+   "总明度"
+  ],
+  [
+   "Overall Stiffness",
+   "总刚度"
+  ],
+  [
+   "Overcast",
+   "阴天"
+  ],
+  [
+   "Overflow Loss Weight",
+   "溢出损失权重"
+  ],
+  [
+   "Overlap A",
+   "重叠 A"
+  ],
+  [
+   "Overlap B",
+   "重叠 B"
+  ],
+  [
+   "Overlap Density",
+   "重叠密度"
+  ],
+  [
+   "Overlap Exponent",
+   "重叠指数"
+  ],
+  [
+   "Overlap Gradient",
+   "重叠梯度"
+  ],
+  [
+   "Overlap Gradient Ramp",
+   "重叠梯度渐变"
+  ],
+  [
+   "Overlap Group Name",
+   "重叠组名称"
+  ],
+  [
+   "Overlap Mode",
+   "重叠模式"
+  ],
+  [
+   "Overlap Priority",
+   "重叠优先级"
+  ],
+  [
+   "Overlap Threshold",
+   "重叠阈值"
+  ],
+  [
+   "Overlap with Camera",
+   "与相机重叠"
+  ],
+  [
+   "Overlapping Expansion",
+   "重叠扩张"
+  ],
+  [
+   "Overlapping Volumes",
+   "重叠体积"
+  ],
+  [
+   "Overlay Sequence",
+   "叠加序列"
+  ],
+  [
+   "Overlay Sequence Cross-Fade",
+   "叠加序列交叉淡入淡出"
+  ],
+  [
+   "Override A",
+   "覆盖 A"
+  ],
+  [
+   "Override Alpha",
+   "覆盖 Alpha"
+  ],
+  [
+   "Override Aspect Ratio",
+   "覆盖宽高比"
+  ],
+  [
+   "Override Bounding Box",
+   "覆盖包围盒"
+  ],
+  [
+   "Override Bounds",
+   "覆盖边界"
+  ],
+  [
+   "Override C",
+   "覆盖 C"
+  ],
+  [
+   "Override CVEX Node",
+   "覆盖 CVEX 节点"
+  ],
+  [
+   "Override Clip Speed",
+   "覆盖片段速度"
+  ],
+  [
+   "Override Clipping",
+   "覆盖裁剪"
+  ],
+  [
+   "Override Cloud Center",
+   "覆盖云中心"
+  ],
+  [
+   "Override Collider with Second Input",
+   "用第二个输入覆盖碰撞体"
+  ],
+  [
+   "Override Collision Separation",
+   "覆盖碰撞间距"
+  ],
+  [
+   "Override Color",
+   "覆盖颜色"
+  ],
+  [
+   "Override Container Size",
+   "覆盖容器尺寸"
+  ],
+  [
+   "Override Crisp Range",
+   "覆盖清晰范围"
+  ],
+  [
+   "Override Dicing Camera",
+   "覆盖切割相机"
+  ],
+  [
+   "Override Division Size",
+   "覆盖细分尺寸"
+  ],
+  [
+   "Override Existing Attribute",
+   "覆盖已有属性"
+  ],
+  [
+   "Override Existing Rest Attribute",
+   "覆盖已有静止属性"
+  ],
+  [
+   "Override FFmpeg Path",
+   "覆盖 FFmpeg 路径"
+  ],
+  [
+   "Override Far Plane",
+   "覆盖远平面"
+  ],
+  [
+   "Override Fiber Direction (materialW) if it exists",
+   "若存在则覆盖纤维方向（materialW）"
+  ],
+  [
+   "Override File",
+   "覆盖文件"
+  ],
+  [
+   "Override Forward Vector",
+   "覆盖前向矢量"
+  ],
+  [
+   "Override Frame Range",
+   "覆盖帧范围"
+  ],
+  [
+   "Override GPU",
+   "覆盖 GPU"
+  ],
+  [
+   "Override Gamma",
+   "覆盖伽马"
+  ],
+  [
+   "Override Gnonom Scale",
+   "覆盖坐标轴指示器缩放"
+  ],
+  [
+   "Override Heuristic",
+   "覆盖启发式"
+  ],
+  [
+   "Override ImageMagick Path",
+   "覆盖 ImageMagick 路径"
+  ],
+  [
+   "Override Joint Color",
+   "覆盖关节颜色"
+  ],
+  [
+   "Override Link Color",
+   "覆盖链接颜色"
+  ],
+  [
+   "Override Local Shared Root",
+   "覆盖本地共享根目录"
+  ],
+  [
+   "Override Menu",
+   "覆盖菜单"
+  ],
+  [
+   "Override Merge Mode",
+   "覆盖合并模式"
+  ],
+  [
+   "Override Minimum with Data",
+   "用数据覆盖最小值"
+  ],
+  [
+   "Override Near Plane",
+   "覆盖近平面"
+  ],
+  [
+   "Override Normal Name",
+   "覆盖法线名称"
+  ],
+  [
+   "Override Output",
+   "覆盖输出"
+  ],
+  [
+   "Override Output Divs",
+   "覆盖输出细分数"
+  ],
+  [
+   "Override P A",
+   "覆盖 P A"
+  ],
+  [
+   "Override Path",
+   "覆盖路径"
+  ],
+  [
+   "Override Perforce Path",
+   "覆盖 Perforce 路径"
+  ],
+  [
+   "Override Plugin",
+   "覆盖插件"
+  ],
+  [
+   "Override Prim Area",
+   "覆盖图元面积"
+  ],
+  [
+   "Override Primitive Seed",
+   "覆盖图元种子"
+  ],
+  [
+   "Override Priority",
+   "覆盖优先级"
+  ],
+  [
+   "Override Properties",
+   "覆盖属性"
+  ],
+  [
+   "Override Ptnum",
+   "覆盖点号"
+  ],
+  [
+   "Override Query",
+   "覆盖查询"
+  ],
+  [
+   "Override Radius",
+   "覆盖半径"
+  ],
+  [
+   "Override Remote",
+   "覆盖远程"
+  ],
+  [
+   "Override Repo",
+   "覆盖仓库"
+  ],
+  [
+   "Override Seam Material",
+   "覆盖接缝材质"
+  ],
+  [
+   "Override Skeleton Root Path",
+   "覆盖骨架根路径"
+  ],
+  [
+   "Override Spline Type with Attribute",
+   "用属性覆盖样条类型"
+  ],
+  [
+   "Override Type",
+   "覆盖类型"
+  ],
+  [
+   "Override Type with Input",
+   "用输入覆盖类型"
+  ],
+  [
+   "Override Udim",
+   "覆盖 UDIM"
+  ],
+  [
+   "Override Up Vector",
+   "覆盖上方向矢量"
+  ],
+  [
+   "Override Velocity",
+   "覆盖速度"
+  ],
+  [
+   "Override Vexpression",
+   "覆盖 Vexpression"
+  ],
+  [
+   "Override Visibility for Selection",
+   "覆盖选择的可见性"
+  ],
+  [
+   "Override with Default",
+   "用默认值覆盖"
+  ],
+  [
+   "Override with Detail Attribute",
+   "用细节属性覆盖"
+  ],
+  [
+   "Overrides use local variables",
+   "覆盖使用局部变量"
+  ],
+  [
+   "Oversamples",
+   "过采样"
+  ],
+  [
+   "Oversampling Boundaries",
+   "过采样边界"
+  ],
+  [
+   "Overshoot Attribute",
+   "过冲属性"
+  ],
+  [
+   "Overwrite Constraints from SOP",
+   "从 SOP 覆盖约束"
+  ],
+  [
+   "Overwrite End Frame",
+   "覆盖结束帧"
+  ],
+  [
+   "Overwrite Existing Muscle IDs",
+   "覆盖已有肌肉 ID"
+  ],
+  [
+   "Overwrite Existing Render",
+   "覆盖已有渲染"
+  ],
+  [
+   "Overwrite External Constraints from SOP",
+   "从 SOP 覆盖外部约束"
+  ],
+  [
+   "Overwrite Height",
+   "覆盖高度"
+  ],
+  [
+   "Overwrite Initial Color",
+   "覆盖初始颜色"
+  ],
+  [
+   "Overwrite Internal Constraints from SOP",
+   "从 SOP 覆盖内部约束"
+  ],
+  [
+   "Overwrite Mask",
+   "覆盖遮罩"
+  ],
+  [
+   "Overwrite Source File",
+   "覆盖源文件"
+  ],
+  [
+   "Overwrite Target Parameter on Work Item Selection",
+   "选择工作项时覆盖目标参数"
+  ],
+  [
+   "Overwrite Time Scale",
+   "覆盖时间缩放"
+  ],
+  [
+   "Overwrite Voxel Size",
+   "覆盖体素尺寸"
+  ],
+  [
+   "Owner",
+   "所有者"
+  ],
+  [
+   "Ozone",
+   "臭氧"
+  ],
+  [
+   "P Attribute",
+   "P 属性"
+  ],
+  [
+   "P Maximum Bounds",
+   "P 最大边界"
+  ],
+  [
+   "P Minimum Bounds",
+   "P 最小边界"
+  ],
+  [
+   "P Name",
+   "P 名称"
+  ],
+  [
+   "P Noise",
+   "P 噪声"
+  ],
+  [
+   "P4 Config File",
+   "P4 配置文件"
+  ],
+  [
+   "PC File",
+   "PC 文件"
+  ],
+  [
+   "PDG",
+   "PDG"
+  ],
+  [
+   "PDG Data Type",
+   "PDG 数据类型"
+  ],
+  [
+   "PDG Deadline Plugin",
+   "PDG Deadline 插件"
+  ],
+  [
+   "PDG Log Output",
+   "PDG 日志输出"
+  ],
+  [
+   "PDG Node Dep",
+   "PDG 节点依赖"
+  ],
+  [
+   "PDG Value Index",
+   "PDG 值索引"
+  ],
+  [
+   "PDGMQ Server as Task",
+   "PDGMQ 服务器作为任务"
+  ],
+  [
+   "PEM File",
+   "PEM 文件"
+  ],
+  [
+   "PLY Export Interval",
+   "PLY 导出间隔"
+  ],
+  [
+   "PRMan Attributes",
+   "PRMan 属性"
+  ],
+  [
+   "PSD Definition Match Message",
+   "PSD 定义匹配消息"
+  ],
+  [
+   "PSD File",
+   "PSD 文件"
+  ],
+  [
+   "PTexture Face",
+   "PTexture 面"
+  ],
+  [
+   "PTexture Map",
+   "PTexture 贴图"
+  ],
+  [
+   "PWI Parameters",
+   "PWI 参数"
+  ],
+  [
+   "Pack Between Non-Group Islands",
+   "在非组孤岛之间打包"
+  ],
+  [
+   "Pack Bone",
+   "打包骨骼"
+  ],
+  [
+   "Pack By Name",
+   "按名称打包"
+  ],
+  [
+   "Pack Control Geometry",
+   "打包控制几何体"
+  ],
+  [
+   "Pack Data",
+   "打包数据"
+  ],
+  [
+   "Pack Geometry",
+   "打包几何体"
+  ],
+  [
+   "Pack Geometry Before Copying",
+   "复制前打包几何体"
+  ],
+  [
+   "Pack Guide Output",
+   "打包引导输出"
+  ],
+  [
+   "Pack Input",
+   "打包输入"
+  ],
+  [
+   "Pack Input Using Connectivity",
+   "按连通性打包输入"
+  ]
+ ]
+}

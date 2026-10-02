@@ -1,0 +1,661 @@
+{
+ "note": "合并清单 —— 第 46 批（X/Y/Z 收尾 + 真实剩余 UI 标签）",
+ "skip": [
+  "Folder5",
+  "Folder10",
+  "Oh",
+  "Uselinearthreshold",
+  "Varname",
+  "X+Y+",
+  "X+Y-",
+  "X+Z+",
+  "X+Z-",
+  "X,Y",
+  "X,Y,Z",
+  "X,Y,Z,W",
+  "X,Y,Z,W,#5,#6,#7,#8,#9",
+  "X,Y,Z,W,#5,#6,#7,#8,#9,#10,#11,#12,#13,#14,#15,#16",
+  "X-Y+",
+  "X-Y-",
+  "X-Z+",
+  "X-Z-",
+  "Y#",
+  "Y+Z+",
+  "Y+Z-",
+  "Y-Z+",
+  "Y-Z-",
+  "conetwistconrel Motor Target Color",
+  "du(U)",
+  "du(V)",
+  "dv(U)",
+  "dv(V)",
+  "float Afire",
+  "float Asmoke",
+  "float Mfire",
+  "group1 Group 1",
+  "group1 Group 2",
+  "group1 Group 3",
+  "group1 Group 4",
+  "layer1Amount",
+  "layer1Comp",
+  "layer1Enabled",
+  "layer1Mask",
+  "layer2Amount",
+  "layer2Comp",
+  "layer2Enabled",
+  "layer2Mask",
+  "layer3Amount",
+  "layer3Comp",
+  "layer3Enabled",
+  "layer3Mask",
+  "layer4Amount",
+  "layer4Comp",
+  "layer4Enabled",
+  "layer4Mask",
+  "node node:port node:*",
+  "proxim ptpos",
+  "pscale (P.w)",
+  "pscale (pscale.x)",
+  "sopguide1 Show Guide Geometry",
+  "uv (uv.xy)",
+  "uv3 (uv3.xy)",
+  "vector Cfire",
+  "vector Cillum",
+  "vector Csmoke",
+  "标签"
+ ],
+ "entries": [
+  [
+   "Isometric Contraction",
+   "等长收缩"
+  ],
+  [
+   "Isometric Scale",
+   "等长缩放"
+  ],
+  [
+   "Isosceles Base Ratio",
+   "等腰底边比例"
+  ],
+  [
+   "Isosurface",
+   "等值面"
+  ],
+  [
+   "Isosurface Field",
+   "等值面场"
+  ],
+  [
+   "Number of Splits",
+   "分裂数量"
+  ],
+  [
+   "Number of Splits Mode",
+   "分裂数量模式"
+  ],
+  [
+   "Number of Sticky Collisions",
+   "粘连碰撞数量"
+  ],
+  [
+   "Quiver Plot",
+   "矢量图"
+  ],
+  [
+   "Quoting",
+   "引号处理"
+  ],
+  [
+   "Skin Layer Properties",
+   "蒙皮图层属性"
+  ],
+  [
+   "Skin Lookup",
+   "蒙皮查找"
+  ],
+  [
+   "Tissue Rest Scale",
+   "组织静止缩放"
+  ],
+  [
+   "X Cycles",
+   "X 循环数"
+  ],
+  [
+   "X Damping Angle",
+   "X 阻尼角度"
+  ],
+  [
+   "X Damping Rolloff",
+   "X 阻尼衰减"
+  ],
+  [
+   "X Direction",
+   "X 方向"
+  ],
+  [
+   "X Group",
+   "X 组"
+  ],
+  [
+   "X Max",
+   "X 最大值"
+  ],
+  [
+   "X Min",
+   "X 最小值"
+  ],
+  [
+   "X Min/Max",
+   "X 最小/最大值"
+  ],
+  [
+   "X Offset",
+   "X 偏移"
+  ],
+  [
+   "X Pane Size",
+   "X 窗格尺寸"
+  ],
+  [
+   "X Pivot",
+   "X 轴心"
+  ],
+  [
+   "X Shift",
+   "X 偏移"
+  ],
+  [
+   "X Size",
+   "X 尺寸"
+  ],
+  [
+   "X Tile Side",
+   "X 平铺侧"
+  ],
+  [
+   "X Weight",
+   "X 权重"
+  ],
+  [
+   "X-Axis Attribute",
+   "X 轴属性"
+  ],
+  [
+   "X-Section Groups",
+   "横截面组"
+  ],
+  [
+   "X-Z Blending",
+   "X-Z 混合"
+  ],
+  [
+   "X/Y Filters",
+   "X/Y 过滤"
+  ],
+  [
+   "XDSM Channel",
+   "XDSM 通道"
+  ],
+  [
+   "XML",
+   "XML"
+  ],
+  [
+   "XML File",
+   "XML 文件"
+  ],
+  [
+   "XML Source",
+   "XML 源"
+  ],
+  [
+   "XPath Expression",
+   "XPath 表达式"
+  ],
+  [
+   "XSPH Constant",
+   "XSPH 常数"
+  ],
+  [
+   "XYZ Path",
+   "XYZ 路径"
+  ],
+  [
+   "XZ Blend",
+   "XZ 混合"
+  ],
+  [
+   "Y Axis Attribute",
+   "Y 轴属性"
+  ],
+  [
+   "Y Axis Profile",
+   "Y 轴剖面"
+  ],
+  [
+   "Y Axis Random Seed",
+   "Y 轴随机种子"
+  ],
+  [
+   "Y Blend",
+   "Y 混合"
+  ],
+  [
+   "Y Border",
+   "Y 边框"
+  ],
+  [
+   "Y Channels",
+   "Y 通道"
+  ],
+  [
+   "Y Cycles",
+   "Y 循环数"
+  ],
+  [
+   "Y Damping Angle",
+   "Y 阻尼角度"
+  ],
+  [
+   "Y Damping Rolloff",
+   "Y 阻尼衰减"
+  ],
+  [
+   "Y Direction",
+   "Y 方向"
+  ],
+  [
+   "Y Group",
+   "Y 组"
+  ],
+  [
+   "Y Max",
+   "Y 最大值"
+  ],
+  [
+   "Y Min",
+   "Y 最小值"
+  ],
+  [
+   "Y Min/Max",
+   "Y 最小/最大值"
+  ],
+  [
+   "Y Offset",
+   "Y 偏移"
+  ],
+  [
+   "Y Pane Size",
+   "Y 窗格尺寸"
+  ],
+  [
+   "Y Pivot",
+   "Y 轴心"
+  ],
+  [
+   "Y Shift",
+   "Y 偏移"
+  ],
+  [
+   "Y Size",
+   "Y 尺寸"
+  ],
+  [
+   "Y Takes Precedence Over Z",
+   "Y 优先于 Z"
+  ],
+  [
+   "Y Weight",
+   "Y 权重"
+  ],
+  [
+   "Yarn Width",
+   "纱线宽度"
+  ],
+  [
+   "Yaw Profile",
+   "偏航剖面"
+  ],
+  [
+   "Year",
+   "年"
+  ],
+  [
+   "Yellow",
+   "黄色"
+  ],
+  [
+   "Yellow Color",
+   "黄色"
+  ],
+  [
+   "Yield Ratio",
+   "屈服比"
+  ],
+  [
+   "Z Axis Attribute",
+   "Z 轴属性"
+  ],
+  [
+   "Z Axis Profile",
+   "Z 轴剖面"
+  ],
+  [
+   "Z Axis Random Seed",
+   "Z 轴随机种子"
+  ],
+  [
+   "Z Bias",
+   "Z 偏移"
+  ],
+  [
+   "Z Border",
+   "Z 边框"
+  ],
+  [
+   "Z Channels",
+   "Z 通道"
+  ],
+  [
+   "Z Cycles",
+   "Z 循环数"
+  ],
+  [
+   "Z Damping Angle",
+   "Z 阻尼角度"
+  ],
+  [
+   "Z Damping Rolloff",
+   "Z 阻尼衰减"
+  ],
+  [
+   "Z Density Falloff",
+   "Z 密度衰减"
+  ],
+  [
+   "Z Direction",
+   "Z 方向"
+  ],
+  [
+   "Z Factor",
+   "Z 系数"
+  ],
+  [
+   "Z Falloff",
+   "Z 衰减"
+  ],
+  [
+   "Z Group",
+   "Z 组"
+  ],
+  [
+   "Z Max",
+   "Z 最大值"
+  ],
+  [
+   "Z Min",
+   "Z 最小值"
+  ],
+  [
+   "Z Min/Max",
+   "Z 最小/最大值"
+  ],
+  [
+   "Z Scale",
+   "Z 缩放"
+  ],
+  [
+   "Z Shift",
+   "Z 偏移"
+  ],
+  [
+   "Z Tile Side",
+   "Z 平铺侧"
+  ],
+  [
+   "Z Weight",
+   "Z 权重"
+  ],
+  [
+   "Z+1 Kernel",
+   "Z+1 核"
+  ],
+  [
+   "Z-1 Kernel",
+   "Z-1 核"
+  ],
+  [
+   "Z=0 Kernel",
+   "Z=0 核"
+  ],
+  [
+   "Z-Axis Attribute",
+   "Z 轴属性"
+  ],
+  [
+   "Z-Axis Offset",
+   "Z 轴偏移"
+  ],
+  [
+   "Z-Depth Bias",
+   "Z 深度偏移"
+  ],
+  [
+   "Z-Depth Blur",
+   "Z 深度模糊"
+  ],
+  [
+   "Z-Depth Map",
+   "Z 深度贴图"
+  ],
+  [
+   "Z-Depth Quality",
+   "Z 深度质量"
+  ],
+  [
+   "Z-Depth Softness",
+   "Z 深度柔和度"
+  ],
+  [
+   "ZMap Image",
+   "ZMap 图像"
+  ],
+  [
+   "ZPS",
+   "ZPS"
+  ],
+  [
+   "ZPS at Infinity",
+   "无穷远处的 ZPS"
+  ],
+  [
+   "Zero Boundary",
+   "零边界"
+  ],
+  [
+   "Zero Depth Value",
+   "零深度值"
+  ],
+  [
+   "Zero Parallax Setting",
+   "零视差设置"
+  ],
+  [
+   "Zero Scatter Attenuation",
+   "零散射衰减"
+  ],
+  [
+   "Zero weight point color",
+   "零权重点颜色"
+  ],
+  [
+   "Zip Files",
+   "压缩文件"
+  ],
+  [
+   "Zombie",
+   "僵尸"
+  ],
+  [
+   "Zombie Clips",
+   "僵尸片段"
+  ],
+  [
+   "Zone",
+   "区域"
+  ],
+  [
+   "[-1,1] Layers",
+   "[-1,1] 图层"
+  ],
+  [
+   "[0,1] Layers",
+   "[0,1] 图层"
+  ],
+  [
+   "back left leg",
+   "后左腿"
+  ],
+  [
+   "back left toes",
+   "后左脚趾"
+  ],
+  [
+   "back right leg",
+   "后右腿"
+  ],
+  [
+   "back right toes",
+   "后右脚趾"
+  ],
+  [
+   "cfm scaling",
+   "CFM 缩放"
+  ],
+  [
+   "character placer",
+   "角色放置器"
+  ],
+  [
+   "crv index",
+   "曲线索引"
+  ],
+  [
+   "custom folder",
+   "自定义文件夹"
+  ],
+  [
+   "erp scaling",
+   "ERP 缩放"
+  ],
+  [
+   "forearm Bone Length",
+   "前臂骨骼长度"
+  ],
+  [
+   "front left leg",
+   "前左腿"
+  ],
+  [
+   "front left toes",
+   "前左脚趾"
+  ],
+  [
+   "front right leg",
+   "前右腿"
+  ],
+  [
+   "front right toes",
+   "前右脚趾"
+  ],
+  [
+   "halflife scaling",
+   "半衰期缩放"
+  ],
+  [
+   "head and neck",
+   "头与颈"
+  ],
+  [
+   "indices attribute",
+   "索引属性"
+  ],
+  [
+   "invisible strokes",
+   "不可见笔触"
+  ],
+  [
+   "left arm",
+   "左臂"
+  ],
+  [
+   "left hand",
+   "左手"
+  ],
+  [
+   "left leg",
+   "左腿"
+  ],
+  [
+   "number of inputs",
+   "输入数量"
+  ],
+  [
+   "preset folder",
+   "预设文件夹"
+  ],
+  [
+   "propagation rate scaling",
+   "传播速率缩放"
+  ],
+  [
+   "right arm",
+   "右臂"
+  ],
+  [
+   "right hand",
+   "右手"
+  ],
+  [
+   "right leg",
+   "右腿"
+  ],
+  [
+   "sss on both sides",
+   "两侧 SSS"
+  ],
+  [
+   "strength scaling",
+   "强度缩放"
+  ],
+  [
+   "stroke Projection Center",
+   "笔触投影中心"
+  ],
+  [
+   "stroke Projection Direction",
+   "笔触投影方向"
+  ],
+  [
+   "stroke Raw Data",
+   "笔触原始数据"
+  ],
+  [
+   "temperature high",
+   "高温"
+  ],
+  [
+   "temperature low",
+   "低温"
+  ],
+  [
+   "unit mass",
+   "单位质量"
+  ],
+  [
+   "weights attribute",
+   "权重属性"
+  ]
+ ]
+}

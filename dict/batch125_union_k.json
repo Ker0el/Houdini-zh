@@ -1,0 +1,1506 @@
+{
+ "note": "合并清单 —— 第 11 批",
+ "skip": [
+  "    Plane Scope",
+  "  Mult",
+  "  Sort By",
+  "DoCollection",
+  "DoConfigFolder",
+  "DoValidateGprim",
+  "DoValidateKind",
+  "DoValidateParms",
+  "DoValidateValueClips",
+  "Dobias",
+  "Doclamp",
+  "Doclampmax",
+  "Doclampmin",
+  "Docontrast",
+  "Dogain",
+  "Dogamma",
+  "Doupvector",
+  "DownTriangle",
+  "Dx",
+  "DynamicLoad",
+  "E57",
+  "EEE",
+  "EQ",
+  "EdgeCutHelp2",
+  "EdgeDetect",
+  "Editopparms",
+  "EmitColor_Color",
+  "EmitColor_Field_flt",
+  "EmitColor_Field_rgb",
+  "EmitDensity_flt",
+  "EmitDensity_rgb"
+ ],
+ "entries": [
+  [
+   "Distance Adjustment",
+   "距离调整"
+  ],
+  [
+   "Distance Atten",
+   "距离衰减"
+  ],
+  [
+   "Distance Bias",
+   "距离偏置"
+  ],
+  [
+   "Distance Dropoff",
+   "距离衰减"
+  ],
+  [
+   "Distance Falloff",
+   "距离衰减"
+  ],
+  [
+   "Distance Multiplier",
+   "距离倍率"
+  ],
+  [
+   "Distance Offset",
+   "距离偏移"
+  ],
+  [
+   "Distance Power",
+   "距离幂"
+  ],
+  [
+   "Distance Range Max",
+   "距离范围最大值"
+  ],
+  [
+   "Distance Range Min",
+   "距离范围最小值"
+  ],
+  [
+   "Distance Settings",
+   "距离设置"
+  ],
+  [
+   "Distance Softness",
+   "距离柔和度"
+  ],
+  [
+   "Distance Threshold Mode",
+   "距离阈值模式"
+  ],
+  [
+   "Distance To Geometry",
+   "到几何体的距离"
+  ],
+  [
+   "Distance Volume Loss",
+   "距离体积损失"
+  ],
+  [
+   "Distance and Screen Percentage",
+   "距离与屏幕百分比"
+  ],
+  [
+   "Distance from model",
+   "到模型的距离"
+  ],
+  [
+   "Distance to Curve Attribute",
+   "到曲线的距离属性"
+  ],
+  [
+   "Distant",
+   "远距离"
+  ],
+  [
+   "Distinct",
+   "不同"
+  ],
+  [
+   "Distort Angle",
+   "扭曲角度"
+  ],
+  [
+   "Distort Density",
+   "扭曲密度"
+  ],
+  [
+   "Distort Layers",
+   "扭曲图层"
+  ],
+  [
+   "Distort Pattern",
+   "扭曲图案"
+  ],
+  [
+   "Distort Shape",
+   "扭曲形状"
+  ],
+  [
+   "Distort Size",
+   "扭曲大小"
+  ],
+  [
+   "Distorted Group",
+   "已扭曲的组"
+  ],
+  [
+   "Distortion Amount",
+   "畸变量"
+  ],
+  [
+   "Distortion Attribute",
+   "畸变属性"
+  ],
+  [
+   "Distortion Mode",
+   "畸变模式"
+  ],
+  [
+   "Distortion Scale Mask",
+   "畸变缩放遮罩"
+  ],
+  [
+   "Distortion Size",
+   "畸变大小"
+  ],
+  [
+   "Distortion Strength",
+   "畸变强度"
+  ],
+  [
+   "Distribute IFD Generation",
+   "分布式生成 IFD"
+  ],
+  [
+   "Distribute USD Generation",
+   "分布式生成 USD"
+  ],
+  [
+   "Distribute by",
+   "分布依据"
+  ],
+  [
+   "Distribution Along Length",
+   "沿长度的分布"
+  ],
+  [
+   "Distribution Angle",
+   "分布角度"
+  ],
+  [
+   "Distribution of Radii",
+   "半径分布"
+  ],
+  [
+   "Disturb Field is Vector Field",
+   "扰动场是矢量场"
+  ],
+  [
+   "Disturb Settings",
+   "扰动设置"
+  ],
+  [
+   "Dither",
+   "抖动"
+  ],
+  [
+   "Dive-Target Mask",
+   "进入目标遮罩"
+  ],
+  [
+   "Diverge by Attribute",
+   "按属性发散"
+  ],
+  [
+   "Divergence (divergence)",
+   "散度（divergence）"
+  ],
+  [
+   "Divergence Attribute",
+   "散度属性"
+  ],
+  [
+   "Divergence Groups",
+   "散度组"
+  ],
+  [
+   "Divergence Sampling",
+   "散度采样"
+  ],
+  [
+   "Divergence by Attribute",
+   "按属性取散度"
+  ],
+  [
+   "Divide Error Value",
+   "除法误差值"
+  ],
+  [
+   "Divide Transformation",
+   "除法变换"
+  ],
+  [
+   "Divide by Element Area",
+   "按元素面积相除"
+  ],
+  [
+   "Divider",
+   "分隔条"
+  ],
+  [
+   "Division Spacing",
+   "分段间距"
+  ],
+  [
+   "Divisions Attribute",
+   "分段属性"
+  ],
+  [
+   "Divisions Mode",
+   "分段模式"
+  ],
+  [
+   "Divisions Per Span",
+   "每跨段数"
+  ],
+  [
+   "Divisions Scale",
+   "分段缩放"
+  ],
+  [
+   "Divisions per Curve",
+   "每条曲线的分段数"
+  ],
+  [
+   "Divisions per Turn",
+   "每圈分段数"
+  ],
+  [
+   "Djp Filter",
+   "Djp 过滤器"
+  ],
+  [
+   "Do Area Threshold",
+   "执行面积阈值"
+  ],
+  [
+   "Do Blur",
+   "执行模糊"
+  ],
+  [
+   "Do Brake Calipers",
+   "使用制动卡钳"
+  ],
+  [
+   "Do Clumping",
+   "执行成簇"
+  ],
+  [
+   "Do Collisions",
+   "执行碰撞"
+  ],
+  [
+   "Do Color Correct",
+   "执行颜色校正"
+  ],
+  [
+   "Do Combustion",
+   "执行燃烧"
+  ],
+  [
+   "Do Compress",
+   "执行压缩"
+  ],
+  [
+   "Do Compress to 16-bit",
+   "压缩为 16 位"
+  ],
+  [
+   "Do Cone Lighting",
+   "使用锥形光照"
+  ],
+  [
+   "Do Config",
+   "执行配置"
+  ],
+  [
+   "Do Configure",
+   "执行配置"
+  ],
+  [
+   "Do Depth Blend",
+   "执行深度混合"
+  ],
+  [
+   "Do Edge Density",
+   "执行边密度"
+  ],
+  [
+   "Do Edge Falloff",
+   "执行边衰减"
+  ],
+  [
+   "Do Erosion",
+   "执行侵蚀"
+  ],
+  [
+   "Do Freeze",
+   "执行冻结"
+  ],
+  [
+   "Do Gathering",
+   "执行聚集"
+  ],
+  [
+   "Do Internal Density",
+   "使用内部密度"
+  ],
+  [
+   "Do Loop",
+   "执行循环"
+  ],
+  [
+   "Do Multiple Scattering",
+   "执行多重散射"
+  ],
+  [
+   "Do Name Attribute",
+   "使用 name 属性"
+  ],
+  [
+   "Do Not Deform End Pieces",
+   "不变形末端碎块"
+  ],
+  [
+   "Do Not Import Rest",
+   "不导入静止"
+  ],
+  [
+   "Do Not Reset Live Update After Render",
+   "渲染后不重置实时更新"
+  ],
+  [
+   "Do Overlap",
+   "执行重叠"
+  ],
+  [
+   "Do Particle Size",
+   "执行粒子大小"
+  ],
+  [
+   "Do Path Attribute",
+   "使用路径属性"
+  ],
+  [
+   "Do Post Mirror",
+   "执行后置镜像"
+  ],
+  [
+   "Do Pre-Blur",
+   "执行预模糊"
+  ],
+  [
+   "Do Prune",
+   "执行修剪"
+  ],
+  [
+   "Do Random Scale",
+   "执行随机缩放"
+  ],
+  [
+   "Do Remap",
+   "执行重映射"
+  ],
+  [
+   "Do Retarget Anchors",
+   "执行锚点重定向"
+  ],
+  [
+   "Do Rounding",
+   "执行取整"
+  ],
+  [
+   "Do Shadows",
+   "执行阴影"
+  ],
+  [
+   "Do Size Ratio",
+   "执行尺寸比"
+  ],
+  [
+   "Do Size Variance",
+   "执行尺寸方差"
+  ],
+  [
+   "Do Springs",
+   "使用弹簧"
+  ],
+  [
+   "Do Suspensions",
+   "使用悬挂"
+  ],
+  [
+   "Do Tires",
+   "使用轮胎"
+  ],
+  [
+   "Do Transformation",
+   "执行变换"
+  ],
+  [
+   "Do Validate Material Bind",
+   "验证材质绑定"
+  ],
+  [
+   "Do mirror",
+   "执行镜像"
+  ],
+  [
+   "Domain Direction",
+   "模拟域方向"
+  ],
+  [
+   "Domain Error Value",
+   "模拟域误差值"
+  ],
+  [
+   "Domain Mask Type",
+   "模拟域遮罩类型"
+  ],
+  [
+   "Dome",
+   "穹顶"
+  ],
+  [
+   "Dome Camera",
+   "穹顶相机"
+  ],
+  [
+   "Don't Trace Subset",
+   "不追踪子集"
+  ],
+  [
+   "Dop Network",
+   "DOP 网络"
+  ],
+  [
+   "Dop Path",
+   "DOP 路径"
+  ],
+  [
+   "Dot Color",
+   "点颜色"
+  ],
+  [
+   "Dot Frequency",
+   "点频率"
+  ],
+  [
+   "Dot Jitter",
+   "点抖动"
+  ],
+  [
+   "Dot Offset",
+   "点偏移"
+  ],
+  [
+   "Dot Scale",
+   "点缩放"
+  ],
+  [
+   "Dot Style",
+   "点样式"
+  ],
+  [
+   "Double Knit",
+   "双面针织"
+  ],
+  [
+   "Double Precision Solve",
+   "双精度求解"
+  ],
+  [
+   "Double Star",
+   "双星"
+  ],
+  [
+   "Down Activation",
+   "向下激活"
+  ],
+  [
+   "Down Smoothing Iterations",
+   "向下平滑迭代次数"
+  ],
+  [
+   "Down Vector",
+   "下方向矢量"
+  ],
+  [
+   "Down-Scaling Filter",
+   "降尺度过滤器"
+  ],
+  [
+   "Download Checkpoint",
+   "下载检查点"
+  ],
+  [
+   "Download Path",
+   "下载路径"
+  ],
+  [
+   "Download Weights",
+   "下载权重"
+  ],
+  [
+   "Downscale Filter",
+   "降尺度过滤器"
+  ],
+  [
+   "Downstream Range",
+   "下游范围"
+  ],
+  [
+   "Drag Comp Attrib",
+   "阻力补偿属性"
+  ],
+  [
+   "Drag Compensation",
+   "阻力补偿"
+  ],
+  [
+   "Drag Connected Pins Only",
+   "仅拖动相连的图钉"
+  ],
+  [
+   "Drag Drop Interaction",
+   "拖放交互"
+  ],
+  [
+   "Drag Global Handle",
+   "拖动全局手柄"
+  ],
+  [
+   "Drag Mode",
+   "拖动模式"
+  ],
+  [
+   "Drag Pins",
+   "拖动图钉"
+  ],
+  [
+   "Drag Resistance",
+   "拖动阻力"
+  ],
+  [
+   "Drag Shape",
+   "拖动形状"
+  ],
+  [
+   "Draping",
+   "披挂"
+  ],
+  [
+   "Draw Active Tiles",
+   "绘制活动平铺"
+  ],
+  [
+   "Draw As",
+   "绘制为"
+  ],
+  [
+   "Draw Internal Nodes",
+   "绘制内部节点"
+  ],
+  [
+   "Draw Leaf Nodes",
+   "绘制叶节点"
+  ],
+  [
+   "Draw On",
+   "绘制于"
+  ],
+  [
+   "Draw Parting Line",
+   "绘制分缝线"
+  ],
+  [
+   "Draw Sprites for",
+   "绘制精灵（用于）"
+  ],
+  [
+   "Draw Square Bonds",
+   "绘制方形键"
+  ],
+  [
+   "Draw Symmetric Tangents",
+   "绘制对称切线"
+  ],
+  [
+   "Draw Tool",
+   "绘制工具"
+  ],
+  [
+   "Draw Wide Curves",
+   "绘制宽曲线"
+  ],
+  [
+   "Draw Wireframe",
+   "绘制线框"
+  ],
+  [
+   "Draw as Wireframe",
+   "以线框绘制"
+  ],
+  [
+   "Draw line",
+   "绘制线"
+  ],
+  [
+   "Draw on Skin",
+   "在蒙皮上绘制"
+  ],
+  [
+   "Drawing Mode",
+   "绘制模式"
+  ],
+  [
+   "Drift Rate",
+   "漂移速率"
+  ],
+  [
+   "Drift Threshold",
+   "漂移阈值"
+  ],
+  [
+   "Drips",
+   "滴落"
+  ],
+  [
+   "Drive",
+   "驱动"
+  ],
+  [
+   "Drive Mode",
+   "驱动模式"
+  ],
+  [
+   "Driven Data",
+   "被驱动数据"
+  ],
+  [
+   "Driven Output",
+   "被驱动输出"
+  ],
+  [
+   "Driven Rig",
+   "被驱动绑定"
+  ],
+  [
+   "Driven by Tension",
+   "由张力驱动"
+  ],
+  [
+   "Driver Data",
+   "驱动数据"
+  ],
+  [
+   "Driver Joint",
+   "驱动关节"
+  ],
+  [
+   "Driver Name",
+   "驱动名称"
+  ],
+  [
+   "Driver Output",
+   "驱动输出"
+  ],
+  [
+   "Driver Rig",
+   "驱动绑定"
+  ],
+  [
+   "Droop Mode",
+   "下垂模式"
+  ],
+  [
+   "Drop Colour",
+   "滴落颜色"
+  ],
+  [
+   "Drop Points Groups",
+   "丢弃点组"
+  ],
+  [
+   "Drop Rate",
+   "滴落速率"
+  ],
+  [
+   "Droplets",
+   "液滴"
+  ],
+  [
+   "Dropoff Function",
+   "衰减函数"
+  ],
+  [
+   "Dry Current Paint",
+   "干燥当前绘制"
+  ],
+  [
+   "Dry Run",
+   "试运行"
+  ],
+  [
+   "Ds Name",
+   "Ds 名称"
+  ],
+  [
+   "Dual Quaternion Blend Attribute",
+   "双四元数混合属性"
+  ],
+  [
+   "Dual Rest Fields",
+   "双静止场"
+  ],
+  [
+   "Dual bone chains with twist affectors",
+   "带扭转影响器的双骨骼链"
+  ],
+  [
+   "Duplicate Instancer Name",
+   "复制实例化器名称"
+  ],
+  [
+   "Duplicate Name",
+   "复制名称"
+  ],
+  [
+   "Duplicate Recording",
+   "复制录制"
+  ],
+  [
+   "During Transition",
+   "过渡期间"
+  ],
+  [
+   "Dye",
+   "染料"
+  ],
+  [
+   "Dye Color",
+   "染料颜色"
+  ],
+  [
+   "Dye Random Hue",
+   "染料随机色相"
+  ],
+  [
+   "Dye Random Saturation",
+   "染料随机饱和度"
+  ],
+  [
+   "Dynamic Echo Effect",
+   "动态回声效果"
+  ],
+  [
+   "Dynamic Object",
+   "动态物体"
+  ],
+  [
+   "Dynamic Properties",
+   "动态属性"
+  ],
+  [
+   "Dynamic Remeshing",
+   "动态重设网格"
+  ],
+  [
+   "Dynamic SDF Enable",
+   "启用动态 SDF"
+  ],
+  [
+   "Dynamic Springs (Suspensions)",
+   "动态弹簧（悬挂）"
+  ],
+  [
+   "Dynamically Resize Fields",
+   "动态调整场大小"
+  ],
+  [
+   "E Scale Mode",
+   "E 缩放模式"
+  ],
+  [
+   "EXR Image Directory",
+   "EXR 图像目录"
+  ],
+  [
+   "EXR Transfer Func",
+   "EXR 传递函数"
+  ],
+  [
+   "Eccentricity",
+   "偏心率"
+  ],
+  [
+   "Eccentricity Direction",
+   "偏心率方向"
+  ],
+  [
+   "Echo Delay",
+   "回声延迟"
+  ],
+  [
+   "Echo Method",
+   "回声方式"
+  ],
+  [
+   "Echo Objects",
+   "回声物体"
+  ],
+  [
+   "Echo Volume",
+   "回声体积"
+  ],
+  [
+   "Edge Bend",
+   "边弯曲"
+  ],
+  [
+   "Edge Bend Bias",
+   "边弯曲偏置"
+  ],
+  [
+   "Edge Blend",
+   "边混合"
+  ],
+  [
+   "Edge Case Handling",
+   "边界情况处理"
+  ],
+  [
+   "Edge Cusp Angle",
+   "边折角"
+  ],
+  [
+   "Edge Cutting Angle",
+   "边切割角度"
+  ],
+  [
+   "Edge Debris",
+   "边缘碎屑"
+  ],
+  [
+   "Edge Density Ramp",
+   "边密度渐变"
+  ],
+  [
+   "Edge Detect Mode",
+   "边检测模式"
+  ],
+  [
+   "Edge Faces",
+   "边面"
+  ],
+  [
+   "Edge Fillet Polygons",
+   "边圆角多边形"
+  ],
+  [
+   "Edge Flow Control",
+   "边流动控制"
+  ],
+  [
+   "Edge Force",
+   "边力"
+  ],
+  [
+   "Edge Gain",
+   "边增益"
+  ],
+  [
+   "Edge Gradient",
+   "边梯度"
+  ],
+  [
+   "Edge Length",
+   "边长"
+  ],
+  [
+   "Edge Lit Color",
+   "边受光颜色"
+  ],
+  [
+   "Edge Location",
+   "边位置"
+  ],
+  [
+   "Edge Mask Radius",
+   "边遮罩半径"
+  ],
+  [
+   "Edge Merge Method",
+   "边合并方式"
+  ],
+  [
+   "Edge Percentage",
+   "边百分比"
+  ],
+  [
+   "Edge Point 1",
+   "边点 1"
+  ],
+  [
+   "Edge Point 2",
+   "边点 2"
+  ],
+  [
+   "Edge Radius",
+   "边半径"
+  ],
+  [
+   "Edge Ray Bias",
+   "边射线偏置"
+  ],
+  [
+   "Edge Scale",
+   "边缩放"
+  ],
+  [
+   "Edge Sharpness Tolerance",
+   "边锐度容差"
+  ],
+  [
+   "Edge Smoothing",
+   "边平滑"
+  ],
+  [
+   "Edge Split Method",
+   "边拆分方式"
+  ],
+  [
+   "Edge gain",
+   "边增益"
+  ],
+  [
+   "Edge to Collapse",
+   "要塌陷的边"
+  ],
+  [
+   "Edge to Dissolve",
+   "要消融的边"
+  ],
+  [
+   "Edge/Edge Collisions",
+   "边/边 碰撞"
+  ],
+  [
+   "Edge/Face Flips",
+   "边/面 翻转"
+  ],
+  [
+   "Edges to Avoid",
+   "要避开的边"
+  ],
+  [
+   "Edit Capture Pose",
+   "编辑捕捉姿态"
+  ],
+  [
+   "Edit Capture Pose (All Rig Sources)",
+   "编辑捕捉姿态（所有绑定来源）"
+  ],
+  [
+   "Edit Color Curves",
+   "编辑颜色曲线"
+  ],
+  [
+   "Edit Delta",
+   "编辑 Delta"
+  ],
+  [
+   "Edit Folder Paths",
+   "编辑文件夹路径"
+  ],
+  [
+   "Edit Geometry",
+   "编辑几何体"
+  ],
+  [
+   "Edit Graph",
+   "编辑图"
+  ],
+  [
+   "Edit Hue Curves",
+   "编辑色相曲线"
+  ],
+  [
+   "Edit Landmark Group",
+   "编辑地标组"
+  ],
+  [
+   "Edit Landmarks",
+   "编辑地标"
+  ],
+  [
+   "Edit Layer Pattern",
+   "编辑图层模式"
+  ],
+  [
+   "Edit Layer is Referenced",
+   "编辑图层已被引用"
+  ],
+  [
+   "Edit List",
+   "编辑列表"
+  ],
+  [
+   "Edit Mode",
+   "编辑模式"
+  ],
+  [
+   "Edit Root Layer",
+   "编辑根图层"
+  ],
+  [
+   "Edit Sampling",
+   "编辑采样"
+  ],
+  [
+   "Edit Selection as a Clump",
+   "以簇为单位编辑所选"
+  ],
+  [
+   "Edit Source",
+   "编辑源"
+  ],
+  [
+   "Edit Source Curves",
+   "编辑源曲线"
+  ],
+  [
+   "Edit Source Script as Snippet",
+   "把源脚本作为代码片段编辑"
+  ],
+  [
+   "Edit String",
+   "编辑字符串"
+  ],
+  [
+   "Edit Target Curves",
+   "编辑目标曲线"
+  ],
+  [
+   "Edit View",
+   "编辑视图"
+  ],
+  [
+   "Edit the U Basis",
+   "编辑 U 基"
+  ],
+  [
+   "Edit the V Basis",
+   "编辑 V 基"
+  ],
+  [
+   "Edit...",
+   "编辑..."
+  ],
+  [
+   "Edited Path Group",
+   "已编辑的路径组"
+  ],
+  [
+   "Edits Destination",
+   "编辑目标"
+  ],
+  [
+   "Effect Anim",
+   "效果动画"
+  ],
+  [
+   "Effect Configuration",
+   "效果配置"
+  ],
+  [
+   "Effect Files",
+   "效果文件"
+  ],
+  [
+   "Effect Multiplier",
+   "效果倍率"
+  ],
+  [
+   "Effect Radius",
+   "效果半径"
+  ],
+  [
+   "Effect Width",
+   "效果宽度"
+  ],
+  [
+   "Effective Stiffness",
+   "有效劲度"
+  ],
+  [
+   "Effective Thickness",
+   "有效厚度"
+  ],
+  [
+   "Efficient Emissive Sampling",
+   "高效自发光采样"
+  ],
+  [
+   "Eg Name",
+   "Eg 名称"
+  ],
+  [
+   "Eigen Values",
+   "特征值"
+  ],
+  [
+   "Eigen Vectors",
+   "特征矢量"
+  ],
+  [
+   "Eigensolver",
+   "特征求解器"
+  ],
+  [
+   "Elastic Damping",
+   "弹性阻尼"
+  ],
+  [
+   "Elastic Limit",
+   "弹性极限"
+  ],
+  [
+   "Elastic Repulsion",
+   "弹性排斥"
+  ],
+  [
+   "Elasticity Constant",
+   "弹性常数"
+  ],
+  [
+   "Elbow",
+   "肘"
+  ],
+  [
+   "Elbow Forearm Rotate",
+   "肘前臂旋转"
+  ],
+  [
+   "Elbow Forearm Translate",
+   "肘前臂平移"
+  ],
+  [
+   "Elbow Rotate",
+   "肘旋转"
+  ],
+  [
+   "Elbow Translate",
+   "肘平移"
+  ],
+  [
+   "Elbow Upperarm Rotate",
+   "肘上臂旋转"
+  ],
+  [
+   "Elbow Upperarm Translate",
+   "肘上臂平移"
+  ],
+  [
+   "Element Count",
+   "元素数量"
+  ],
+  [
+   "Element Name",
+   "元素名称"
+  ],
+  [
+   "Element Nums Attribute",
+   "元素编号属性"
+  ],
+  [
+   "Element Pos from End",
+   "从末端算的元素位置"
+  ],
+  [
+   "Element Range",
+   "元素范围"
+  ],
+  [
+   "Element Size Mode",
+   "元素尺寸模式"
+  ],
+  [
+   "Ellipsoid",
+   "椭球"
+  ],
+  [
+   "Email",
+   "邮箱"
+  ],
+  [
+   "Embed Into Asset",
+   "嵌入到资产"
+  ],
+  [
+   "Embedded Import",
+   "内嵌导入"
+  ],
+  [
+   "Embeded Dimensions",
+   "内嵌尺寸"
+  ],
+  [
+   "Embeded Dimentions",
+   "内嵌尺寸"
+  ],
+  [
+   "Emission Bound",
+   "自发光边界"
+  ],
+  [
+   "Emission COP",
+   "自发光 COP"
+  ],
+  [
+   "Emission Center",
+   "自发光中心"
+  ],
+  [
+   "Emission Coefficient",
+   "自发光系数"
+  ],
+  [
+   "Emission Color Group",
+   "自发光颜色组"
+  ],
+  [
+   "Emission Color Map",
+   "自发光颜色贴图"
+  ],
+  [
+   "Emission Color Name",
+   "自发光颜色名称"
+  ],
+  [
+   "Emission Color Texture",
+   "自发光颜色贴图"
+  ],
+  [
+   "Emission Cone",
+   "自发光锥体"
+  ],
+  [
+   "Emission Defaults",
+   "自发光默认值"
+  ],
+  [
+   "Emission File",
+   "自发光文件"
+  ],
+  [
+   "Emission Focus",
+   "自发光焦点"
+  ],
+  [
+   "Emission Focus Tint",
+   "自发光焦点色调"
+  ],
+  [
+   "Emission Group",
+   "自发光组"
+  ],
+  [
+   "Emission Map Offset S",
+   "自发光贴图 S 偏移"
+  ],
+  [
+   "Emission Map Offset T",
+   "自发光贴图 T 偏移"
+  ],
+  [
+   "Emission Map Resolution",
+   "自发光贴图分辨率"
+  ],
+  [
+   "Emission Map Scale S",
+   "自发光贴图 S 缩放"
+  ],
+  [
+   "Emission Map Scale T",
+   "自发光贴图 T 缩放"
+  ],
+  [
+   "Emission Map is MatCap",
+   "自发光贴图是 MatCap"
+  ],
+  [
+   "Emission Multiplier",
+   "自发光倍率"
+  ],
+  [
+   "Emission Name",
+   "自发光名称"
+  ],
+  [
+   "Emission Output",
+   "自发光输出"
+  ],
+  [
+   "Emission Parameters",
+   "自发光参数"
+  ],
+  [
+   "Emission Size",
+   "自发光大小"
+  ],
+  [
+   "Emission Source",
+   "自发光源"
+  ],
+  [
+   "Emission Tint",
+   "自发光色调"
+  ],
+  [
+   "Emission Volume",
+   "自发光体积"
+  ],
+  [
+   "Emissive Factor",
+   "自发光系数"
+  ],
+  [
+   "Emissive Property",
+   "自发光属性"
+  ],
+  [
+   "Emissive Texture",
+   "自发光贴图"
+  ],
+  [
+   "Emit Based on Pressure",
+   "按压力发射"
+  ],
+  [
+   "Emit Based on Surface Deformation",
+   "按表面变形发射"
+  ],
+  [
+   "Emit Color",
+   "发射颜色"
+  ],
+  [
+   "Emit Color Multiplier",
+   "发射颜色倍率"
+  ],
+  [
+   "Emit Fuel",
+   "发射燃料"
+  ],
+  [
+   "Emit Scale Multiplier",
+   "发射缩放倍率"
+  ],
+  [
+   "Emit Smoke from Fire",
+   "从火焰发射烟"
+  ],
+  [
+   "Emit from Attribute",
+   "按属性发射"
+  ],
+  [
+   "Emitters",
+   "发射器"
+  ],
+  [
+   "Empty Changelist",
+   "清空变更列表"
+  ],
+  [
+   "Empty Geometry If Unwired",
+   "未连接时几何体为空"
+  ],
+  [
+   "Empty Interior",
+   "清空内部"
+  ],
+  [
+   "Enable 0",
+   "启用 0"
+  ],
+  [
+   "Enable 1",
+   "启用 1"
+  ],
+  [
+   "Enable 2",
+   "启用 2"
+  ],
+  [
+   "Enable 3",
+   "启用 3"
+  ],
+  [
+   "Enable 4",
+   "启用 4"
+  ],
+  [
+   "Enable 5",
+   "启用 5"
+  ],
+  [
+   "Enable 6",
+   "启用 6"
+  ],
+  [
+   "Enable 7",
+   "启用 7"
+  ],
+  [
+   "Enable Aberration",
+   "启用像差"
+  ],
+  [
+   "Enable Activation",
+   "启用激活"
+  ],
+  [
+   "Enable Activation Frame",
+   "启用激活帧"
+  ],
+  [
+   "Enable Add Attributes",
+   "启用「添加属性」"
+  ],
+  [
+   "Enable Adjacency Array Attribute",
+   "启用邻接数组属性"
+  ],
+  [
+   "Enable Ambient Velocity",
+   "启用环境速度"
+  ],
+  [
+   "Enable Angular Cost Attribute",
+   "启用角度代价属性"
+  ],
+  [
+   "Enable Angular Velocity Constraint",
+   "启用角速度约束"
+  ],
+  [
+   "Enable Animation Save Path",
+   "启用动画保存路径"
+  ],
+  [
+   "Enable Ankle Axis",
+   "启用脚踝轴"
+  ]
+ ]
+}

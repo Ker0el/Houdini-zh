@@ -1,0 +1,25 @@
+{
+  "_comment": "第四十批：网络编辑器「视图」菜单那一组。Ctrl+- / Ctrl+= 是键位名，进 skip。",
+  "entries": {
+    "Change Network Wiring Style": "更改网络连线样式",
+    "Dependency Links": "依赖连线",
+    "Dim Unused Nodes": "淡化未使用的节点",
+    "Performance Data to Show": "要显示的性能数据",
+    "Show Custom Node Shapes": "显示自定义节点形体",
+    "Show Dependency Links for Child Nodes": "显示子节点的依赖连线",
+    "Show Dependency Links for Spare Inputs": "显示备用输入的依赖连线",
+    "Show Help Messages": "显示帮助消息",
+    "Show LOP Layer Colors": "显示 LOP 层颜色",
+    "Show Node Previews": "显示节点预览",
+    "Show Node Type": "显示节点类型",
+    "Show Performance Data": "显示性能数据",
+    "Show for All Nodes": "对全部节点显示",
+    "Show for Selected Nodes": "对所选节点显示",
+    "Zoom to Show All": "缩放以显示全部",
+    "Zoom to Show Selected": "缩放以显示所选"
+  },
+  "skip": [
+    "Ctrl+-",
+    "Ctrl+="
+  ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "参数右键菜单 + 热键动作名（用户 2026-10-02 报「Copy Parameter / Revert to Previous Value / Paste Values / Unlock Parameter 还是英文」）",
+ "entries": [
+  ["Copy Parameter", "复制参数"],
+  ["Copy Parameters", "复制参数"],
+  ["Revert to Previous Value", "还原为上一个值"],
+  ["Revert To Prev Value", "还原为上一个值"],
+  ["Revert to Prev Value", "还原为上一个值"],
+  ["Revert to prev value", "还原为上一个值"],
+  ["Paste Values", "粘贴值"],
+  ["Paste Copied Values", "粘贴复制的值"],
+  ["Unlock Parameter", "解锁参数"],
+  ["Unlock Parameters", "解锁参数"],
+  ["Lock parameters", "锁定参数"],
+  ["Revert Parameter Interface", "还原参数接口"],
+  ["Paste Copied Channels", "粘贴复制的通道"],
+  ["Paste Copied Expressions", "粘贴复制的表达式"],
+  ["Paste Copied References", "粘贴复制的引用"],
+  ["Paste Copied Relative Refs", "粘贴复制的相对引用"]
+ ]
+}

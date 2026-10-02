@@ -1,0 +1,10 @@
+{
+  "_comment": "第三十六批：动画编辑器收尾 5 条。剩下的 8 条是键位名（Ctrl+\\ / Shift+, / Shift+. / Shift+=）、HTML 包裹串、色彩空间名（Un-tone-mapped / sRGB - Display）和内部标识 UI_Viewport —— 都不该翻。注意 Slope Handle Size 原文带尾空格，词典键按去空格写，运行时走「剥首尾空白」那条路径能命中。",
+  "entries": {
+    "Attribute Filter": "属性过滤",
+    "Group Filter": "组过滤",
+    "Handle Size Presets": "手柄尺寸预设",
+    "Intrinsics": "内参",
+    "Slope Handle Size": "斜率手柄尺寸"
+  }
+}

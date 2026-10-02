@@ -1,0 +1,14 @@
+{
+  "_comment": "第三十八批：gap.json 187 条的最后一轮（用户边点边攒的）。F11 是键位名，进 skip。",
+  "entries": {
+    "Always Highlight Object Selection in Viewer": "在视口中始终高亮所选物体",
+    "Show Current Definition": "显示当前定义",
+    "Show Menu Always": "始终显示菜单",
+    "Show Menu When Needed": "需要时显示菜单",
+    "Stereo": "立体",
+    "Use Object Flag": "使用物体标记"
+  },
+  "skip": [
+    "F11"
+  ]
+}

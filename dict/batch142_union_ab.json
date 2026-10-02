@@ -1,0 +1,1583 @@
+{
+ "note": "合并清单 —— 第 28 批（Pack Islands → Pinch Transform）",
+ "skip": [
+  "Parm",
+  "Param10",
+  "Parent#",
+  "Pboxmax",
+  "Pboxmin",
+  "Pboxmode",
+  "Pboxuniform",
+  "Pickscript"
+ ],
+ "entries": [
+  [
+   "Pack Inputs",
+   "打包输入"
+  ],
+  [
+   "Pack Islands In Cavities",
+   "在空腔中打包孤岛"
+  ],
+  [
+   "Pack Islands in Cavities of Other Islands",
+   "在其它孤岛的空腔中打包孤岛"
+  ],
+  [
+   "Pack Normal into Alpha",
+   "将法线打包进 Alpha"
+  ],
+  [
+   "Pack Output",
+   "打包输出"
+  ],
+  [
+   "Pack Properties",
+   "打包属性"
+  ],
+  [
+   "Pack Pscale into Position Alpha",
+   "将 Pscale 打包进位置 Alpha"
+  ],
+  [
+   "Pack Type",
+   "打包类型"
+  ],
+  [
+   "Pack and Instance Geometry",
+   "打包并实例化几何体"
+  ],
+  [
+   "Pack normals into Position Alpha",
+   "将法线打包进位置 Alpha"
+  ],
+  [
+   "Package List",
+   "包列表"
+  ],
+  [
+   "Packages",
+   "包"
+  ],
+  [
+   "Packed Characters",
+   "打包角色"
+  ],
+  [
+   "Packed Disk Primitive",
+   "打包磁盘图元"
+  ],
+  [
+   "Packed Disk Sequence",
+   "打包磁盘序列"
+  ],
+  [
+   "Packed Folder Prefix",
+   "打包文件夹前缀"
+  ],
+  [
+   "Packed Folder Skeleton Path",
+   "打包文件夹骨架路径"
+  ],
+  [
+   "Packed Geometry Setup",
+   "打包几何体设置"
+  ],
+  [
+   "Packing",
+   "打包"
+  ],
+  [
+   "Packing Optimizations",
+   "打包优化"
+  ],
+  [
+   "Packing Style",
+   "打包样式"
+  ],
+  [
+   "Pad Scale",
+   "边距缩放"
+  ],
+  [
+   "Pad Texture Size to Powers of Two",
+   "将纹理尺寸补齐到 2 的幂"
+  ],
+  [
+   "Pad Textures to Power of 2",
+   "将纹理补齐到 2 的幂"
+  ],
+  [
+   "Pad Value",
+   "补齐值"
+  ],
+  [
+   "Pad by Velocity",
+   "按速度补齐"
+  ],
+  [
+   "Pad to Power of 2",
+   "补齐到 2 的幂"
+  ],
+  [
+   "Padding Bandwidth",
+   "边距带宽"
+  ],
+  [
+   "Padding Direction",
+   "边距方向"
+  ],
+  [
+   "Padding Max",
+   "最大边距"
+  ],
+  [
+   "Padding Min",
+   "最小边距"
+  ],
+  [
+   "Padding:",
+   "边距："
+  ],
+  [
+   "Paint Amount Attrib",
+   "绘制量属性"
+  ],
+  [
+   "Paint Amount Attrib Texture",
+   "绘制量属性纹理"
+  ],
+  [
+   "Paint Amplitude Attrib",
+   "绘制幅度属性"
+  ],
+  [
+   "Paint Amplitude Attrib Texture",
+   "绘制幅度属性纹理"
+  ],
+  [
+   "Paint Amplitude Bitangent Attrib",
+   "绘制副切线幅度属性"
+  ],
+  [
+   "Paint Amplitude Bitangent Attrib Texture",
+   "绘制副切线幅度属性纹理"
+  ],
+  [
+   "Paint Amplitude Normal Attrib",
+   "绘制法线幅度属性"
+  ],
+  [
+   "Paint Amplitude Normal Attrib Texture",
+   "绘制法线幅度属性纹理"
+  ],
+  [
+   "Paint Amplitude Tangent Attrib",
+   "绘制切线幅度属性"
+  ],
+  [
+   "Paint Amplitude Tangent Attrib Texture",
+   "绘制切线幅度属性纹理"
+  ],
+  [
+   "Paint Ampltitude Attrib",
+   "绘制幅度属性"
+  ],
+  [
+   "Paint Ampltitude Attrib Texture",
+   "绘制幅度属性纹理"
+  ],
+  [
+   "Paint Angle Attrib",
+   "绘制角度属性"
+  ],
+  [
+   "Paint Angle Attrib Texture",
+   "绘制角度属性纹理"
+  ],
+  [
+   "Paint Barb Frequency Attrib",
+   "绘制倒钩频率属性"
+  ],
+  [
+   "Paint Barb Frequency Attrib Texture",
+   "绘制倒钩频率属性纹理"
+  ],
+  [
+   "Paint Barb Width Attrib",
+   "绘制倒钩宽度属性"
+  ],
+  [
+   "Paint Barb Width Attrib Texture",
+   "绘制倒钩宽度属性纹理"
+  ],
+  [
+   "Paint Bias Attrib",
+   "绘制偏移属性"
+  ],
+  [
+   "Paint Blend Attrib",
+   "绘制混合属性"
+  ],
+  [
+   "Paint Blend Attrib Texture",
+   "绘制混合属性纹理"
+  ],
+  [
+   "Paint Blend in Skin Space Attrib",
+   "蒙皮空间绘制混合属性"
+  ],
+  [
+   "Paint Blend in Skin Space Attrib Texture",
+   "蒙皮空间绘制混合属性纹理"
+  ],
+  [
+   "Paint Bucket Mode",
+   "油漆桶模式"
+  ],
+  [
+   "Paint Clump Crossover Attrib",
+   "绘制成簇交叉属性"
+  ],
+  [
+   "Paint Clump Crossover Attrib Texture",
+   "绘制成簇交叉属性纹理"
+  ],
+  [
+   "Paint Clump Size Attrib",
+   "绘制簇大小属性"
+  ],
+  [
+   "Paint Clump Size Attrib Texture",
+   "绘制簇大小属性纹理"
+  ],
+  [
+   "Paint Deform Barbs Attrib",
+   "绘制变形倒钩属性"
+  ],
+  [
+   "Paint Deform Barbs Attrib Texture",
+   "绘制变形倒钩属性纹理"
+  ],
+  [
+   "Paint Density Attrib",
+   "绘制密度属性"
+  ],
+  [
+   "Paint Falloff Attrib",
+   "绘制衰减属性"
+  ],
+  [
+   "Paint Falloff Attrib Texture",
+   "绘制衰减属性纹理"
+  ],
+  [
+   "Paint Falloff Decay Attrib",
+   "绘制衰减速率属性"
+  ],
+  [
+   "Paint Falloff Range Attrib",
+   "绘制衰减范围属性"
+  ],
+  [
+   "Paint Frequency Attrib",
+   "绘制频率属性"
+  ],
+  [
+   "Paint Frequency Attrib Texture",
+   "绘制频率属性纹理"
+  ],
+  [
+   "Paint Gain Attrib",
+   "绘制增益属性"
+  ],
+  [
+   "Paint Goal Feedback Attrib",
+   "绘制目标反馈属性"
+  ],
+  [
+   "Paint Goal Feedback Attrib Texture",
+   "绘制目标反馈属性纹理"
+  ],
+  [
+   "Paint Influence Decay Attrib",
+   "绘制影响衰减属性"
+  ],
+  [
+   "Paint Influence Decay Attrib Texture",
+   "绘制影响衰减属性纹理"
+  ],
+  [
+   "Paint Influence Radius Attrib",
+   "绘制影响半径属性"
+  ],
+  [
+   "Paint Influence Radius Attrib Texture",
+   "绘制影响半径属性纹理"
+  ],
+  [
+   "Paint Input Mask Attrib",
+   "绘制输入遮罩属性"
+  ],
+  [
+   "Paint Iterations Attrib",
+   "绘制迭代属性"
+  ],
+  [
+   "Paint Iterations Attrib Texture",
+   "绘制迭代属性纹理"
+  ],
+  [
+   "Paint Length Attrib",
+   "绘制长度属性"
+  ],
+  [
+   "Paint Length Attrib Texture",
+   "绘制长度属性纹理"
+  ],
+  [
+   "Paint Mask Attrib",
+   "绘制遮罩属性"
+  ],
+  [
+   "Paint Mask Attrib Texture",
+   "绘制遮罩属性纹理"
+  ],
+  [
+   "Paint Mask Attribute.",
+   "绘制遮罩属性。"
+  ],
+  [
+   "Paint Mask Texture",
+   "绘制遮罩纹理"
+  ],
+  [
+   "Paint Max Guide Angle Attrib",
+   "绘制最大引导角度属性"
+  ],
+  [
+   "Paint Max Guide Angle Attrib Texture",
+   "绘制最大引导角度属性纹理"
+  ],
+  [
+   "Paint Max Length Attrib",
+   "绘制最大长度属性"
+  ],
+  [
+   "Paint Max Length Attrib Texture",
+   "绘制最大长度属性纹理"
+  ],
+  [
+   "Paint Max Scale Factor Attrib",
+   "绘制最大缩放系数属性"
+  ],
+  [
+   "Paint Max Scale Factor Attrib Texture",
+   "绘制最大缩放系数属性纹理"
+  ],
+  [
+   "Paint Maximum Guide Count Attrib",
+   "绘制最大引导数属性"
+  ],
+  [
+   "Paint Maximum Guide Count Attrib Texture",
+   "绘制最大引导数属性纹理"
+  ],
+  [
+   "Paint Meshes",
+   "绘制网格"
+  ],
+  [
+   "Paint Method",
+   "绘制方式"
+  ],
+  [
+   "Paint Min Length Attrib",
+   "绘制最小长度属性"
+  ],
+  [
+   "Paint Min Length Attrib Texture",
+   "绘制最小长度属性纹理"
+  ],
+  [
+   "Paint Min Scale Factor Attrib",
+   "绘制最小缩放系数属性"
+  ],
+  [
+   "Paint Min Scale Factor Attrib Texture",
+   "绘制最小缩放系数属性纹理"
+  ],
+  [
+   "Paint Points",
+   "绘制点"
+  ],
+  [
+   "Paint Radius Attrib",
+   "绘制半径属性"
+  ],
+  [
+   "Paint Random Angle Attrib",
+   "绘制随机角度属性"
+  ],
+  [
+   "Paint Random Angle Attrib Texture",
+   "绘制随机角度属性纹理"
+  ],
+  [
+   "Paint Randomness Bias Attrib",
+   "绘制随机偏移属性"
+  ],
+  [
+   "Paint Randomness Bias Attrib Texture",
+   "绘制随机偏移属性纹理"
+  ],
+  [
+   "Paint Roughness Attrib",
+   "绘制粗糙度属性"
+  ],
+  [
+   "Paint Scale Factor Attrib",
+   "绘制缩放系数属性"
+  ],
+  [
+   "Paint Scale Factor Attrib Texture",
+   "绘制缩放系数属性纹理"
+  ],
+  [
+   "Paint Shaft Frequency Attrib",
+   "绘制发干频率属性"
+  ],
+  [
+   "Paint Shaft Frequency Attrib Texture",
+   "绘制发干频率属性纹理"
+  ],
+  [
+   "Paint Shaft Offset Attrib",
+   "绘制发干偏移属性"
+  ],
+  [
+   "Paint Shaft Offset Attrib Texture",
+   "绘制发干偏移属性纹理"
+  ],
+  [
+   "Paint Shaft Width Attrib",
+   "绘制发干宽度属性"
+  ],
+  [
+   "Paint Shaft Width Attrib Texture",
+   "绘制发干宽度属性纹理"
+  ],
+  [
+   "Paint Shift Attrib",
+   "绘制偏移属性"
+  ],
+  [
+   "Paint Shift Attrib Texture",
+   "绘制偏移属性纹理"
+  ],
+  [
+   "Paint Size Reduction Attrib",
+   "绘制尺寸缩减属性"
+  ],
+  [
+   "Paint Size Reduction Attrib Texture",
+   "绘制尺寸缩减属性纹理"
+  ],
+  [
+   "Paint Skin-Relative Interpolation Attrib",
+   "绘制蒙皮相对插值属性"
+  ],
+  [
+   "Paint Skin-Relative Interpolation Attrib Texture",
+   "绘制蒙皮相对插值属性纹理"
+  ],
+  [
+   "Paint Split Depth Attrib",
+   "绘制分裂深度属性"
+  ],
+  [
+   "Paint Split Depth Attrib Texture",
+   "绘制分裂深度属性纹理"
+  ],
+  [
+   "Paint Stray Amount Attrib",
+   "绘制散逸量属性"
+  ],
+  [
+   "Paint Stray Amount Attrib Texture",
+   "绘制散逸量属性纹理"
+  ],
+  [
+   "Paint Stray Falloff Attrib",
+   "绘制散逸衰减属性"
+  ],
+  [
+   "Paint Stray Falloff Attrib Texture",
+   "绘制散逸衰减属性纹理"
+  ],
+  [
+   "Paint Stray Rate Attrib",
+   "绘制散逸速率属性"
+  ],
+  [
+   "Paint Stray Rate Attrib Texture",
+   "绘制散逸速率属性纹理"
+  ],
+  [
+   "Paint Strength Attrib",
+   "绘制强度属性"
+  ],
+  [
+   "Paint Template Tool",
+   "绘制模板工具"
+  ],
+  [
+   "Paint Thickness Attrib",
+   "绘制厚度属性"
+  ],
+  [
+   "Paint Tightness Attrib",
+   "绘制紧度属性"
+  ],
+  [
+   "Paint Tightness Attrib Texture",
+   "绘制紧度属性纹理"
+  ],
+  [
+   "Paint Tightness Reduction Attrib",
+   "绘制紧度缩减属性"
+  ],
+  [
+   "Paint Tightness Reduction Attrib Texture",
+   "绘制紧度缩减属性纹理"
+  ],
+  [
+   "Paint UDIM Tiles",
+   "绘制 UDIM 平铺块"
+  ],
+  [
+   "Paint Value",
+   "绘制值"
+  ],
+  [
+   "Paint on Display Node",
+   "在显示节点上绘制"
+  ],
+  [
+   "Pair Attribute",
+   "配对属性"
+  ],
+  [
+   "Pairs",
+   "配对"
+  ],
+  [
+   "Palm",
+   "手掌"
+  ],
+  [
+   "Palm Bone",
+   "手掌骨骼"
+  ],
+  [
+   "Palm End",
+   "手掌末端"
+  ],
+  [
+   "Palm Muscle Color",
+   "手掌肌肉颜色"
+  ],
+  [
+   "Palm Muscle Scale",
+   "手掌肌肉缩放"
+  ],
+  [
+   "Palm Primitives Per Segment",
+   "每段手掌图元数"
+  ],
+  [
+   "Palm Rotate",
+   "手掌旋转"
+  ],
+  [
+   "Palm Scale",
+   "手掌缩放"
+  ],
+  [
+   "Palm Translate",
+   "手掌平移"
+  ],
+  [
+   "Panel Deletion Chance",
+   "面板删除概率"
+  ],
+  [
+   "Parallel Lines",
+   "平行线"
+  ],
+  [
+   "Parallel Opacity",
+   "并行不透明度"
+  ],
+  [
+   "Parallel Processing",
+   "并行处理"
+  ],
+  [
+   "Parallelogram Shape",
+   "平行四边形形状"
+  ],
+  [
+   "Param #",
+   "参数 #"
+  ],
+  [
+   "Param 1",
+   "参数 1"
+  ],
+  [
+   "Param 2",
+   "参数 2"
+  ],
+  [
+   "Param 3",
+   "参数 3"
+  ],
+  [
+   "Param 4",
+   "参数 4"
+  ],
+  [
+   "Param 5",
+   "参数 5"
+  ],
+  [
+   "Param 6",
+   "参数 6"
+  ],
+  [
+   "Param 7",
+   "参数 7"
+  ],
+  [
+   "Param 8",
+   "参数 8"
+  ],
+  [
+   "Param 9",
+   "参数 9"
+  ],
+  [
+   "Parameter Attributes",
+   "参数属性"
+  ],
+  [
+   "Parameter Limits",
+   "参数限制"
+  ],
+  [
+   "Parameter Path",
+   "参数路径"
+  ],
+  [
+   "Parameter Pivot Rotates",
+   "参数轴心旋转"
+  ],
+  [
+   "Parameter Pivot Translates",
+   "参数轴心平移"
+  ],
+  [
+   "Parameter Rotates",
+   "参数旋转"
+  ],
+  [
+   "Parameter Scales",
+   "参数缩放"
+  ],
+  [
+   "Parameter Source",
+   "参数来源"
+  ],
+  [
+   "Parameter Storage",
+   "参数存储"
+  ],
+  [
+   "Parameter Translates",
+   "参数平移"
+  ],
+  [
+   "Parameterize",
+   "参数化"
+  ],
+  [
+   "Parameters From Node →",
+   "来自节点的参数"
+  ],
+  [
+   "Parameters Override",
+   "参数覆盖"
+  ],
+  [
+   "Parametric Coordinate",
+   "参数坐标"
+  ],
+  [
+   "Parametrically",
+   "按参数"
+  ],
+  [
+   "Parametrically to X Y",
+   "按参数映射到 X Y"
+  ],
+  [
+   "Parent Attribute",
+   "父级属性"
+  ],
+  [
+   "Parent Bone",
+   "父骨骼"
+  ],
+  [
+   "Parent Folder",
+   "父文件夹"
+  ],
+  [
+   "Parent Group",
+   "父组"
+  ],
+  [
+   "Parent Joint",
+   "父关节"
+  ],
+  [
+   "Parent Mixer",
+   "父混合器"
+  ],
+  [
+   "Parent Node",
+   "父节点"
+  ],
+  [
+   "Parent Take",
+   "父 Take"
+  ],
+  [
+   "Parent Transform Name",
+   "父变换名称"
+  ],
+  [
+   "Parm Source",
+   "参数来源"
+  ],
+  [
+   "Parm Transfers",
+   "参数传递"
+  ],
+  [
+   "Parm Type",
+   "参数类型"
+  ],
+  [
+   "Parm Type As String",
+   "字符串形式的参数类型"
+  ],
+  [
+   "Parse Method",
+   "解析方式"
+  ],
+  [
+   "Part Fur",
+   "部件毛发"
+  ],
+  [
+   "Part Scale",
+   "部件缩放"
+  ],
+  [
+   "Partial Ragdoll Group →",
+   "部分布娃娃组"
+  ],
+  [
+   "Particle Advection CFL",
+   "粒子平流 CFL"
+  ],
+  [
+   "Particle Behavior",
+   "粒子行为"
+  ],
+  [
+   "Particle Blur",
+   "粒子模糊"
+  ],
+  [
+   "Particle Duplicates",
+   "粒子重复"
+  ],
+  [
+   "Particle Geometry",
+   "粒子几何体"
+  ],
+  [
+   "Particle ID",
+   "粒子 ID"
+  ],
+  [
+   "Particle Noise",
+   "粒子噪声"
+  ],
+  [
+   "Particle Operation",
+   "粒子操作"
+  ],
+  [
+   "Particle Overlap",
+   "粒子重叠"
+  ],
+  [
+   "Particle Render Type",
+   "粒子渲染类型"
+  ],
+  [
+   "Particle Scale Limit",
+   "粒子缩放限制"
+  ],
+  [
+   "Particle Scale Range",
+   "粒子缩放范围"
+  ],
+  [
+   "Particle Separation Override",
+   "粒子间距覆盖"
+  ],
+  [
+   "Particle Size Ratio",
+   "粒子尺寸比"
+  ],
+  [
+   "Particle Source",
+   "粒子源"
+  ],
+  [
+   "Particle Sprites",
+   "粒子精灵"
+  ],
+  [
+   "Particle Trail Group",
+   "粒子拖尾组"
+  ],
+  [
+   "Particle Type",
+   "粒子类型"
+  ],
+  [
+   "Particle Update",
+   "粒子更新"
+  ],
+  [
+   "Particle Wrap Mode",
+   "粒子环绕模式"
+  ],
+  [
+   "Particle to Field",
+   "粒子转场"
+  ],
+  [
+   "Parting",
+   "分缝"
+  ],
+  [
+   "Parting Lines Group",
+   "分缝线组"
+  ],
+  [
+   "Parting Properties",
+   "分缝属性"
+  ],
+  [
+   "Partition Attributes Independently",
+   "独立分区属性"
+  ],
+  [
+   "Partition Expression",
+   "分区表达式"
+  ],
+  [
+   "Partition For Each",
+   "每个分区"
+  ],
+  [
+   "Partition From Secondary Input",
+   "从第二个输入分区"
+  ],
+  [
+   "Partition Range",
+   "分区范围"
+  ],
+  [
+   "Partitioning Type",
+   "分区类型"
+  ],
+  [
+   "Partitions",
+   "分区"
+  ],
+  [
+   "Pass",
+   "遍"
+  ],
+  [
+   "Pass Band Frequency",
+   "通带频率"
+  ],
+  [
+   "Pass Fraction",
+   "通过比例"
+  ],
+  [
+   "Pass Gain",
+   "通过增益"
+  ],
+  [
+   "Pass Gain (dB)",
+   "通过增益（dB）"
+  ],
+  [
+   "Pass If",
+   "通过条件"
+  ],
+  [
+   "Pass Offset",
+   "遍偏移"
+  ],
+  [
+   "Pass Type",
+   "遍类型"
+  ],
+  [
+   "Passive Geo Representation",
+   "被动几何体表示"
+  ],
+  [
+   "Passive Primitives",
+   "被动图元"
+  ],
+  [
+   "Paste Attributes",
+   "粘贴属性"
+  ],
+  [
+   "Paste Coordinates",
+   "粘贴坐标"
+  ],
+  [
+   "Patch Index Geometry",
+   "面片索引几何体"
+  ],
+  [
+   "Patch Layer",
+   "面片图层"
+  ],
+  [
+   "Patch Name",
+   "面片名称"
+  ],
+  [
+   "Patch Number",
+   "面片编号"
+  ],
+  [
+   "Patch Offset",
+   "面片偏移"
+  ],
+  [
+   "Patch Stride",
+   "面片步幅"
+  ],
+  [
+   "Patch U",
+   "面片 U"
+  ],
+  [
+   "Patch V",
+   "面片 V"
+  ],
+  [
+   "Patches",
+   "面片"
+  ],
+  [
+   "Path Attrib",
+   "路径属性"
+  ],
+  [
+   "Path Configuration",
+   "路径配置"
+  ],
+  [
+   "Path Cost Attribute",
+   "路径代价属性"
+  ],
+  [
+   "Path Cost Calculation",
+   "路径代价计算"
+  ],
+  [
+   "Path Costs",
+   "路径代价"
+  ],
+  [
+   "Path Number",
+   "路径编号"
+  ],
+  [
+   "Path Point Index",
+   "路径点索引"
+  ],
+  [
+   "Path Properties",
+   "路径属性"
+  ],
+  [
+   "Path Tracing",
+   "路径追踪"
+  ],
+  [
+   "Path Variance",
+   "路径方差"
+  ],
+  [
+   "Path to Plant Scatter",
+   "植物散布路径"
+  ],
+  [
+   "Path to a png icon file for the component catalog",
+   "组件目录 PNG 图标文件路径"
+  ],
+  [
+   "Path to a png icon file for the component catalog.",
+   "组件目录 PNG 图标文件路径。"
+  ],
+  [
+   "Pathfinding",
+   "寻路"
+  ],
+  [
+   "Paths Group",
+   "路径组"
+  ],
+  [
+   "Pattern Layer",
+   "图案图层"
+  ],
+  [
+   "Pattern Matching Options",
+   "模式匹配选项"
+  ],
+  [
+   "Pattern Rotate",
+   "图案旋转"
+  ],
+  [
+   "Pattern Rotation",
+   "图案旋转"
+  ],
+  [
+   "Pattern Scale",
+   "图案缩放"
+  ],
+  [
+   "Pattern Scale XY",
+   "图案缩放 XY"
+  ],
+  [
+   "Pattern Search Size",
+   "模式搜索尺寸"
+  ],
+  [
+   "Pattern Settings",
+   "图案设置"
+  ],
+  [
+   "Pause Refine after Reset",
+   "重置后暂停细化"
+  ],
+  [
+   "Payload Input Primitives",
+   "载荷输入图元"
+  ],
+  [
+   "Payload Layer",
+   "载荷图层"
+  ],
+  [
+   "Payloads",
+   "载荷"
+  ],
+  [
+   "Peak Force Distance",
+   "峰值力距离"
+  ],
+  [
+   "Peak Length",
+   "峰值长度"
+  ],
+  [
+   "Peak Level",
+   "峰值电平"
+  ],
+  [
+   "Peak Offset",
+   "峰值偏移"
+  ],
+  [
+   "Peak Turbulence",
+   "峰值湍流"
+  ],
+  [
+   "Peak Variation",
+   "峰值变化"
+  ],
+  [
+   "Pedestrian",
+   "行人"
+  ],
+  [
+   "Peer Number",
+   "对等节点编号"
+  ],
+  [
+   "Pelting Method",
+   "剥皮方式"
+  ],
+  [
+   "Pelvis Bone",
+   "骨盆骨骼"
+  ],
+  [
+   "Pelvis Bone Color",
+   "骨盆骨骼颜色"
+  ],
+  [
+   "Pelvis Bone Length",
+   "骨盆骨骼长度"
+  ],
+  [
+   "Pelvis Bone Rest Angles",
+   "骨盆骨骼静止角度"
+  ],
+  [
+   "Pelvis Bone Rotate",
+   "骨盆骨骼旋转"
+  ],
+  [
+   "Pelvis Joint",
+   "骨盆关节"
+  ],
+  [
+   "Pelvis Kinematic Solver",
+   "骨盆运动学求解器"
+  ],
+  [
+   "Pelvis Rotate",
+   "骨盆旋转"
+  ],
+  [
+   "Pelvis Space IK Leg Twist Translate",
+   "骨盆空间 IK 腿部扭转平移"
+  ],
+  [
+   "Pelvis Translate",
+   "骨盆平移"
+  ],
+  [
+   "Pending Transition",
+   "待处理过渡"
+  ],
+  [
+   "Pendulum",
+   "摆"
+  ],
+  [
+   "Pendulum Sections",
+   "摆分段数"
+  ],
+  [
+   "Pendulum Type",
+   "摆类型"
+  ],
+  [
+   "Penumbra Angle",
+   "半影角度"
+  ],
+  [
+   "Penumbra Exponent",
+   "半影指数"
+  ],
+  [
+   "Pepper Amplitude",
+   "胡椒幅度"
+  ],
+  [
+   "Pepper Color",
+   "胡椒颜色"
+  ],
+  [
+   "Pepper Roughness",
+   "胡椒粗糙度"
+  ],
+  [
+   "Pepper Stone Color",
+   "胡椒石颜色"
+  ],
+  [
+   "Per Axis Triplanar Controls",
+   "按轴三平面控制"
+  ],
+  [
+   "Per Component",
+   "按分量"
+  ],
+  [
+   "Per Index Channel",
+   "按索引通道"
+  ],
+  [
+   "Per Pixel Velocity",
+   "每像素速度"
+  ],
+  [
+   "Per Point Count Method",
+   "按点计数方式"
+  ],
+  [
+   "Per Prototype",
+   "按原型"
+  ],
+  [
+   "Per-Pixel Blur",
+   "逐像素模糊"
+  ],
+  [
+   "Per-Pixel Defocus",
+   "逐像素散焦"
+  ],
+  [
+   "Per-Platform Command",
+   "按平台命令"
+  ],
+  [
+   "Per-axis Controls",
+   "按轴控制"
+  ],
+  [
+   "Per-point noise",
+   "逐点噪声"
+  ],
+  [
+   "Percent To Keep",
+   "保留百分比"
+  ],
+  [
+   "Percent Triangles",
+   "三角形百分比"
+  ],
+  [
+   "Percent of Agents",
+   "代理百分比"
+  ],
+  [
+   "Percent to Select",
+   "选择百分比"
+  ],
+  [
+   "Percent to Split",
+   "拆分百分比"
+  ],
+  [
+   "Percentage Of Guide to Use as Root",
+   "用作根的引导线百分比"
+  ],
+  [
+   "Percentage to Render",
+   "渲染百分比"
+  ],
+  [
+   "Percentile of Guide Distances",
+   "引导距离百分位"
+  ],
+  [
+   "Perforation Threshold",
+   "穿孔阈值"
+  ],
+  [
+   "Perforce Operation",
+   "Perforce 操作"
+  ],
+  [
+   "Perform Fracture",
+   "执行碎裂"
+  ],
+  [
+   "Perform Layer Break",
+   "执行图层断开"
+  ],
+  [
+   "Perform Layer Break Before Import",
+   "导入前执行图层断开"
+  ],
+  [
+   "Perform Op During",
+   "在此期间执行操作"
+  ],
+  [
+   "Perform Partial Update",
+   "执行部分更新"
+  ],
+  [
+   "Perform Request During",
+   "在此期间执行请求"
+  ],
+  [
+   "Perform Vector Test",
+   "执行矢量测试"
+  ],
+  [
+   "Period Name",
+   "周期名称"
+  ],
+  [
+   "Period Start Name",
+   "周期起始名称"
+  ],
+  [
+   "Period w",
+   "周期 w"
+  ],
+  [
+   "Period x",
+   "周期 x"
+  ],
+  [
+   "Period y",
+   "周期 y"
+  ],
+  [
+   "Period z",
+   "周期 z"
+  ],
+  [
+   "Periodic",
+   "周期"
+  ],
+  [
+   "Perp Opacity",
+   "垂直不透明度"
+  ],
+  [
+   "Perspective Camera",
+   "透视相机"
+  ],
+  [
+   "Phantom",
+   "幻影"
+  ],
+  [
+   "Phase Attribute",
+   "相位属性"
+  ],
+  [
+   "Phase Control Volume",
+   "相位控制体积"
+  ],
+  [
+   "Phase Mode",
+   "相位模式"
+  ],
+  [
+   "Phase Model",
+   "相位模型"
+  ],
+  [
+   "Phase Offset",
+   "相位偏移"
+  ],
+  [
+   "Phase Ramp",
+   "相位渐变"
+  ],
+  [
+   "Phase Scale Mode",
+   "相位缩放模式"
+  ],
+  [
+   "Phase Suffix",
+   "相位后缀"
+  ],
+  [
+   "Pheomelanin",
+   "褐黑色素"
+  ],
+  [
+   "Pheomelanin Color",
+   "褐黑色素颜色"
+  ],
+  [
+   "Phong Exponent",
+   "Phong 指数"
+  ],
+  [
+   "Photon",
+   "光子"
+  ],
+  [
+   "Photon Iterations",
+   "光子迭代"
+  ],
+  [
+   "Photon Jitter Radius",
+   "光子抖动半径"
+  ],
+  [
+   "Photon Maps",
+   "光子贴图"
+  ],
+  [
+   "Photon Samples",
+   "光子采样"
+  ],
+  [
+   "Photon Volume",
+   "光子体积"
+  ],
+  [
+   "Photoshop File",
+   "Photoshop 文件"
+  ],
+  [
+   "Physical Intensity",
+   "物理强度"
+  ],
+  [
+   "Physical Model",
+   "物理模型"
+  ],
+  [
+   "Pic Image File",
+   "Pic 图像文件"
+  ],
+  [
+   "Pick Single Best Guide (Fast)",
+   "选择单个最佳引导线（快速）"
+  ],
+  [
+   "Pick a Density from the Groom",
+   "从梳理中选取密度"
+  ],
+  [
+   "Pick relevant guides joints on the center or left",
+   "在中心或左侧选取相关引导关节"
+  ],
+  [
+   "Picker Size",
+   "拾取器大小"
+  ],
+  [
+   "Piece Attribute Name",
+   "碎块属性名"
+  ],
+  [
+   "Piece Block Path",
+   "碎块块路径"
+  ],
+  [
+   "Piece Detection",
+   "碎块检测"
+  ],
+  [
+   "Piece Filter",
+   "碎块过滤器"
+  ],
+  [
+   "Piece Group Prefix",
+   "碎块组前缀"
+  ],
+  [
+   "Piece Mass",
+   "碎块质量"
+  ],
+  [
+   "Piece Names",
+   "碎块名称"
+  ],
+  [
+   "Piece Number Attribute",
+   "碎块编号属性"
+  ],
+  [
+   "Piece Rotation",
+   "碎块旋转"
+  ],
+  [
+   "Piece Spacing",
+   "碎块间距"
+  ],
+  [
+   "Piece Type",
+   "碎块类型"
+  ],
+  [
+   "Piece to Piece Group",
+   "碎块到碎块组"
+  ],
+  [
+   "Pieces Selection",
+   "碎块选择"
+  ],
+  [
+   "Pin Barbs",
+   "固定倒钩"
+  ],
+  [
+   "Pin Borders",
+   "固定边框"
+  ],
+  [
+   "Pin Color",
+   "固定颜色"
+  ],
+  [
+   "Pin Constraints",
+   "固定约束"
+  ],
+  [
+   "Pin Group",
+   "固定组"
+  ],
+  [
+   "Pin Orient Group",
+   "固定朝向组"
+  ],
+  [
+   "Pin Scale Weight Attribute",
+   "固定缩放权重属性"
+  ],
+  [
+   "Pin Shapes With No Rotation Limits",
+   "固定无旋转限制的形状"
+  ],
+  [
+   "Pin Weight Attribute",
+   "固定权重属性"
+  ],
+  [
+   "Pinch Angle",
+   "捏合角度"
+  ],
+  [
+   "Pinch Transform",
+   "捏合变换"
+  ]
+ ]
+}

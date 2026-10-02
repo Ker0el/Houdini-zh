@@ -1,0 +1,1593 @@
+{
+ "note": "参数标签长尾 —— 第 10 批",
+ "entries": [
+  [
+   "Angle Limit",
+   "角度限制"
+  ],
+  [
+   "Angle Mode",
+   "角度模式"
+  ],
+  [
+   "Angle Offset",
+   "角度偏移"
+  ],
+  [
+   "Angle Scale",
+   "角度缩放"
+  ],
+  [
+   "Angle Tolerance",
+   "角度容差"
+  ],
+  [
+   "Angle Variation",
+   "角度变化"
+  ],
+  [
+   "Angular Momentum Prefix",
+   "角动量前缀"
+  ],
+  [
+   "Animate",
+   "动画"
+  ],
+  [
+   "Animated Attributes",
+   "动画属性"
+  ],
+  [
+   "Animation End",
+   "动画结束"
+  ],
+  [
+   "Animation Save Path",
+   "动画保存路径"
+  ],
+  [
+   "Animation Start",
+   "动画开始"
+  ],
+  [
+   "Anisotropy Direction",
+   "各向异性方向"
+  ],
+  [
+   "Apply Transform from Parameters",
+   "从参数应用变换"
+  ],
+  [
+   "Arc",
+   "弧"
+  ],
+  [
+   "Arc End",
+   "弧结束"
+  ],
+  [
+   "Arc Start",
+   "弧开始"
+  ],
+  [
+   "Area Samples",
+   "面积采样数"
+  ],
+  [
+   "Asset (Dead) Path",
+   "资产（失效）路径"
+  ],
+  [
+   "Asset (Dead) Path #",
+   "资产（失效）路径 #"
+  ],
+  [
+   "Asset Dependencies",
+   "资产依赖"
+  ],
+  [
+   "Asset Info Value",
+   "资产信息值"
+  ],
+  [
+   "Asset Path",
+   "资产路径"
+  ],
+  [
+   "Asset Path #",
+   "资产路径 #"
+  ],
+  [
+   "Asset Path Attributes",
+   "资产路径属性"
+  ],
+  [
+   "Asset Version",
+   "资产版本"
+  ],
+  [
+   "Assign Random Colors",
+   "分配随机颜色"
+  ],
+  [
+   "Assume Uniform Scaling",
+   "假定等比缩放"
+  ],
+  [
+   "At Distance",
+   "距离为"
+  ],
+  [
+   "Attach Damping",
+   "附着阻尼"
+  ],
+  [
+   "Attach Stiffness",
+   "附着劲度"
+  ],
+  [
+   "Attribute Alpha",
+   "属性 Alpha"
+  ],
+  [
+   "Attribute Menu",
+   "属性菜单"
+  ],
+  [
+   "Attribute Ramp",
+   "属性渐变"
+  ],
+  [
+   "Attribute Source",
+   "属性源"
+  ],
+  [
+   "Attribute Value",
+   "属性值"
+  ],
+  [
+   "Author Time Samples",
+   "写入时间采样"
+  ],
+  [
+   "Auto Cook",
+   "自动计算"
+  ],
+  [
+   "Auto Remap",
+   "自动重映射"
+  ],
+  [
+   "Auto-fill Materials",
+   "自动填充材质"
+  ],
+  [
+   "Autofill",
+   "自动填充"
+  ],
+  [
+   "Autofill Mode",
+   "自动填充模式"
+  ],
+  [
+   "Autofill Pieces",
+   "自动填充碎块"
+  ],
+  [
+   "Autofill Radii on Load",
+   "载入时自动填充半径"
+  ],
+  [
+   "Autofill Variants",
+   "自动填充变体"
+  ],
+  [
+   "Automatic Headlight Creation",
+   "自动创建头灯"
+  ],
+  [
+   "Automatically Adjust for Length Changes",
+   "自动适应长度变化"
+  ],
+  [
+   "Available Masks",
+   "可用遮罩"
+  ],
+  [
+   "Axial Ramp Correction",
+   "轴向渐变校正"
+  ],
+  [
+   "Axis System",
+   "轴系统"
+  ],
+  [
+   "Axis-Aligned Vertex Groups",
+   "轴对齐顶点组"
+  ],
+  [
+   "BG Float",
+   "背景浮点"
+  ],
+  [
+   "BG Integer",
+   "背景整数"
+  ],
+  [
+   "BSDF Default",
+   "BSDF 默认值"
+  ],
+  [
+   "Back L/R",
+   "后 左/右"
+  ],
+  [
+   "Backface Removal",
+   "背面移除"
+  ],
+  [
+   "Background Alpha",
+   "背景 Alpha"
+  ],
+  [
+   "Background Weight",
+   "背景权重"
+  ],
+  [
+   "Bake",
+   "烘焙"
+  ],
+  [
+   "Bake Attributes",
+   "烘焙属性"
+  ],
+  [
+   "Bake From Input",
+   "从输入烘焙"
+  ],
+  [
+   "Bake Options",
+   "烘焙选项"
+  ],
+  [
+   "Bake Settings",
+   "烘焙设置"
+  ],
+  [
+   "Baked Geometry",
+   "已烘焙的几何体"
+  ],
+  [
+   "Baker",
+   "烘焙器"
+  ],
+  [
+   "Bank Angle Mask",
+   "侧倾角遮罩"
+  ],
+  [
+   "Barb Segments",
+   "倒钩分段"
+  ],
+  [
+   "Base Properties",
+   "基础属性"
+  ],
+  [
+   "BaseColor Texture",
+   "基础色贴图"
+  ],
+  [
+   "Basic Shapes",
+   "基本形状"
+  ],
+  [
+   "Bedrock Layer",
+   "基岩层"
+  ],
+  [
+   "Bend Along Parent",
+   "沿父级弯曲"
+  ],
+  [
+   "Bend Profile",
+   "弯曲剖面"
+  ],
+  [
+   "Best Score Threshold",
+   "最佳得分阈值"
+  ],
+  [
+   "Bevel",
+   "倒角"
+  ],
+  [
+   "Bg",
+   "背景"
+  ],
+  [
+   "Bias Attribute",
+   "偏置属性"
+  ],
+  [
+   "Billowy Noise",
+   "翻滚噪声"
+  ],
+  [
+   "Bind As Geometry Input",
+   "绑定为几何体输入"
+  ],
+  [
+   "Bind Materials",
+   "绑定材质"
+  ],
+  [
+   "Bind Named Primitives as Inputs",
+   "把命名图元绑定为输入"
+  ],
+  [
+   "Bind Parms Dictionary",
+   "绑定参数字典"
+  ],
+  [
+   "Bind To Geometry Parameter",
+   "绑定到几何体参数"
+  ],
+  [
+   "Biome",
+   "生物群系"
+  ],
+  [
+   "Biome Attributes",
+   "生物群系属性"
+  ],
+  [
+   "Biome Average Height",
+   "生物群系平均高度"
+  ],
+  [
+   "Biome Color B",
+   "生物群系颜色 B"
+  ],
+  [
+   "Biome Color G",
+   "生物群系颜色 G"
+  ],
+  [
+   "Biome Color R",
+   "生物群系颜色 R"
+  ],
+  [
+   "Biome ID",
+   "生物群系 ID"
+  ],
+  [
+   "Biome Name",
+   "生物群系名称"
+  ],
+  [
+   "Biomes",
+   "生物群系"
+  ],
+  [
+   "Bitangent",
+   "副切线"
+  ],
+  [
+   "Bitwise Operation",
+   "位运算"
+  ],
+  [
+   "Blend Attrib",
+   "混合属性"
+  ],
+  [
+   "Blend Falloff",
+   "混合衰减"
+  ],
+  [
+   "Blend In",
+   "淡入"
+  ],
+  [
+   "Blend Mode",
+   "混合模式"
+  ],
+  [
+   "Blend Offset Translates",
+   "混合偏移平移"
+  ],
+  [
+   "Blend Out",
+   "淡出"
+  ],
+  [
+   "Blend Override",
+   "覆盖混合"
+  ],
+  [
+   "Blend Texture",
+   "混合贴图"
+  ],
+  [
+   "Blend Type",
+   "混合类型"
+  ],
+  [
+   "Blend Type Attribute",
+   "混合类型属性"
+  ],
+  [
+   "Blend Volume",
+   "混合体积"
+  ],
+  [
+   "Blend to Next",
+   "混合到下一个"
+  ],
+  [
+   "Block Path",
+   "块路径"
+  ],
+  [
+   "Block Size",
+   "块大小"
+  ],
+  [
+   "Blur Amount",
+   "模糊量"
+  ],
+  [
+   "Bone Color",
+   "骨骼颜色"
+  ],
+  [
+   "Bone Geometry",
+   "骨骼几何体"
+  ],
+  [
+   "Boolean Attributes",
+   "布尔属性"
+  ],
+  [
+   "Border Side",
+   "边框侧"
+  ],
+  [
+   "Bottom Barndoor",
+   "底部挡光板"
+  ],
+  [
+   "Bottom Barndoor Edge",
+   "底部挡光板边缘"
+  ],
+  [
+   "Bottom Radius",
+   "底部半径"
+  ],
+  [
+   "Bottom Right",
+   "右下"
+  ],
+  [
+   "Bounding Box Center",
+   "包围盒中心"
+  ],
+  [
+   "Bounding Box Relative",
+   "包围盒相对"
+  ],
+  [
+   "Bounding Box Rule",
+   "包围盒规则"
+  ],
+  [
+   "Bounding Box Size",
+   "包围盒大小"
+  ],
+  [
+   "Bounds Radius",
+   "边界半径"
+  ],
+  [
+   "Branch Level",
+   "分支层级"
+  ],
+  [
+   "Branch on Group",
+   "按组分支"
+  ],
+  [
+   "Branches",
+   "分支"
+  ],
+  [
+   "Branching Angle",
+   "分支角度"
+  ],
+  [
+   "Branching Pattern",
+   "分支图案"
+  ],
+  [
+   "Brightness Multiplier",
+   "亮度倍率"
+  ],
+  [
+   "Browse Path",
+   "浏览路径"
+  ],
+  [
+   "Brush Radius",
+   "笔刷半径"
+  ],
+  [
+   "Brushes",
+   "笔刷"
+  ],
+  [
+   "Build Polygon Soup",
+   "构建多边形面汤"
+  ],
+  [
+   "By End Angle",
+   "按结束角度"
+  ],
+  [
+   "By Initial Angle",
+   "按初始角度"
+  ],
+  [
+   "Bypass Chipping Constraints",
+   "跳过碎裂约束"
+  ],
+  [
+   "Bypass Point Cache",
+   "跳过点缓存"
+  ],
+  [
+   "Bypass Primitives",
+   "跳过图元"
+  ],
+  [
+   "COM Joint",
+   "质心关节"
+  ],
+  [
+   "Cache Behavior",
+   "缓存行为"
+  ],
+  [
+   "Cache File",
+   "缓存文件"
+  ],
+  [
+   "Cached Frames",
+   "已缓存的帧"
+  ],
+  [
+   "Camber",
+   "外倾角"
+  ],
+  [
+   "Camera Init",
+   "相机初始"
+  ],
+  [
+   "Camera Prim",
+   "相机图元"
+  ],
+  [
+   "Cap Divisions",
+   "端盖分段"
+  ],
+  [
+   "Capture Frame",
+   "捕捉帧"
+  ],
+  [
+   "Caster Angle",
+   "主销后倾角"
+  ],
+  [
+   "Cavity",
+   "凹痕"
+  ],
+  [
+   "Channel Index",
+   "通道索引"
+  ],
+  [
+   "Channel Name",
+   "通道名称"
+  ],
+  [
+   "Channel Names",
+   "通道名称"
+  ],
+  [
+   "Channel Order",
+   "通道顺序"
+  ],
+  [
+   "Channel Size",
+   "通道大小"
+  ],
+  [
+   "Check Attrib",
+   "检查属性"
+  ],
+  [
+   "Chipping Color",
+   "碎裂颜色"
+  ],
+  [
+   "Chipping Ratio",
+   "碎裂比例"
+  ],
+  [
+   "Choose Resolution",
+   "选择分辨率"
+  ],
+  [
+   "Clamp Maximum",
+   "钳制最大值"
+  ],
+  [
+   "Clamp Maxmimum",
+   "钳制最大值"
+  ],
+  [
+   "Clamp Minimum",
+   "钳制最小值"
+  ],
+  [
+   "Clamp Texture UVs",
+   "钳制贴图 UV"
+  ],
+  [
+   "Clamp To Bandwidth",
+   "钳制到带宽"
+  ],
+  [
+   "Clamp at Strata Bounds",
+   "在层理边界处钳制"
+  ],
+  [
+   "Class Ancestor",
+   "类祖先"
+  ],
+  [
+   "Clear Overrides",
+   "清除覆盖"
+  ],
+  [
+   "Clear Stroke History",
+   "清除笔画历史"
+  ],
+  [
+   "Clear Value",
+   "清除值"
+  ],
+  [
+   "Clearcoat",
+   "清漆"
+  ],
+  [
+   "Client Groups",
+   "客户端组"
+  ],
+  [
+   "Clients",
+   "客户端"
+  ],
+  [
+   "Clip Time",
+   "片段时间"
+  ],
+  [
+   "Clip Time Units",
+   "片段时间单位"
+  ],
+  [
+   "Cloud Shapes",
+   "云形状"
+  ],
+  [
+   "Clump Size Attrib",
+   "簇大小属性"
+  ],
+  [
+   "Cluster Lots",
+   "聚类批次"
+  ],
+  [
+   "Clustering",
+   "聚类"
+  ],
+  [
+   "Co-Shader",
+   "协同着色器"
+  ],
+  [
+   "Co-Shader Array Default",
+   "协同着色器数组默认值"
+  ],
+  [
+   "Collapse Distance",
+   "塌陷距离"
+  ],
+  [
+   "Collate Channels Separately",
+   "分别合并通道"
+  ],
+  [
+   "Collection Name",
+   "Collection 名称"
+  ],
+  [
+   "Collection Options",
+   "Collection 选项"
+  ],
+  [
+   "Collections",
+   "Collection"
+  ],
+  [
+   "Collider",
+   "碰撞体"
+  ],
+  [
+   "Collision Index",
+   "碰撞索引"
+  ],
+  [
+   "Collision SDF Offset",
+   "碰撞 SDF 偏移"
+  ],
+  [
+   "Color Array Default",
+   "颜色数组默认值"
+  ],
+  [
+   "Color Attribute",
+   "颜色属性"
+  ],
+  [
+   "Color By",
+   "着色依据"
+  ],
+  [
+   "Color COP",
+   "颜色 COP"
+  ],
+  [
+   "Color Default",
+   "颜色默认值"
+  ],
+  [
+   "Color File",
+   "颜色文件"
+  ],
+  [
+   "Color Limits",
+   "颜色限制"
+  ],
+  [
+   "Color Selected",
+   "给所选上色"
+  ],
+  [
+   "Color Temperature",
+   "色温"
+  ],
+  [
+   "Color Texture",
+   "颜色贴图"
+  ],
+  [
+   "Color with Alpha Default",
+   "带 Alpha 的颜色默认值"
+  ],
+  [
+   "ColorTemperature",
+   "色温"
+  ],
+  [
+   "Column",
+   "列"
+  ],
+  [
+   "Combine with Existing",
+   "与已有内容合并"
+  ],
+  [
+   "Common",
+   "通用"
+  ],
+  [
+   "Comparison",
+   "比较"
+  ],
+  [
+   "Comparison Distance",
+   "比较距离"
+  ],
+  [
+   "Component 4",
+   "分量 4"
+  ],
+  [
+   "Component Name",
+   "分量名称"
+  ],
+  [
+   "Component Output File",
+   "分量输出文件"
+  ],
+  [
+   "Component Source",
+   "分量源"
+  ],
+  [
+   "Component Source Version Count",
+   "分量源版本数量"
+  ],
+  [
+   "Compute Angular Velocity",
+   "计算角速度"
+  ],
+  [
+   "Compute Derivative outside Image",
+   "在图像外计算导数"
+  ],
+  [
+   "Compute Extent Attribute",
+   "计算范围属性"
+  ],
+  [
+   "Compute Interior Normals",
+   "计算内部法线"
+  ],
+  [
+   "Compute Normal Maps",
+   "计算法线贴图"
+  ],
+  [
+   "Concave Corner Module",
+   "凹角模块"
+  ],
+  [
+   "Cone Angle To Sample",
+   "采样锥角"
+  ],
+  [
+   "Cone Width",
+   "锥体宽度"
+  ],
+  [
+   "Configuration Attribute",
+   "配置属性"
+  ],
+  [
+   "Configurations",
+   "配置"
+  ],
+  [
+   "Connected Only",
+   "仅连通的"
+  ],
+  [
+   "Connection Type",
+   "连接类型"
+  ],
+  [
+   "Connectivity Partition",
+   "连通性分区"
+  ],
+  [
+   "Constraint Direction Attribute",
+   "约束方向属性"
+  ],
+  [
+   "Constraint Name",
+   "约束名称"
+  ],
+  [
+   "Constraint Options",
+   "约束选项"
+  ],
+  [
+   "Constraint Type Attribute",
+   "约束类型属性"
+  ],
+  [
+   "Contain in Selected Biomes",
+   "包含在所选生物群系中"
+  ],
+  [
+   "Continue Reducing Within Quality Tolerance",
+   "在质量容差内继续简化"
+  ],
+  [
+   "Contrast Filtering",
+   "对比度过滤"
+  ],
+  [
+   "Contribute Marigin Factor",
+   "贡献余量系数"
+  ],
+  [
+   "Contributions",
+   "贡献"
+  ],
+  [
+   "Control Type",
+   "控制类型"
+  ],
+  [
+   "Conversion",
+   "转换"
+  ],
+  [
+   "Convert To",
+   "转换为"
+  ],
+  [
+   "Convert to In-Place",
+   "转换为原地"
+  ],
+  [
+   "Convex Corner Module",
+   "凸角模块"
+  ],
+  [
+   "Convex Multiplier",
+   "凸度倍率"
+  ],
+  [
+   "Convexity",
+   "凸度"
+  ],
+  [
+   "Cook Now",
+   "立即计算"
+  ],
+  [
+   "Copy Cell Point Attributes",
+   "复制单元点属性"
+  ],
+  [
+   "Copy Source Layer",
+   "复制源图层"
+  ],
+  [
+   "Core Count",
+   "核心数量"
+  ],
+  [
+   "Corner Depth",
+   "角深度"
+  ],
+  [
+   "Correct Exposure",
+   "校正曝光"
+  ],
+  [
+   "Correct images exposure",
+   "校正图像曝光"
+  ],
+  [
+   "Coving",
+   "拱边"
+  ],
+  [
+   "Crease Weights",
+   "折痕权重"
+  ],
+  [
+   "Create Group from Selected",
+   "从所选创建组"
+  ],
+  [
+   "Create Interior Surfaces",
+   "创建内部表面"
+  ],
+  [
+   "Create Primitives",
+   "创建图元"
+  ],
+  [
+   "Create Variable Mapping",
+   "创建变量映射"
+  ],
+  [
+   "Crop to Content",
+   "裁剪到内容"
+  ],
+  [
+   "Cross Matching",
+   "交叉匹配"
+  ],
+  [
+   "Cull Type",
+   "剔除类型"
+  ],
+  [
+   "CurAttr",
+   "当前属性"
+  ],
+  [
+   "CurAttrName",
+   "当前属性名"
+  ],
+  [
+   "Curling",
+   "卷曲"
+  ],
+  [
+   "Current COP Output Picture",
+   "当前 COP 输出图像"
+  ],
+  [
+   "Current COP Path",
+   "当前 COP 路径"
+  ],
+  [
+   "Current Color Plane",
+   "当前颜色通道"
+  ],
+  [
+   "Current Custom Attribute",
+   "当前自定义属性"
+  ],
+  [
+   "Current Custom Suffix",
+   "当前自定义后缀"
+  ],
+  [
+   "Current Gamma",
+   "当前 Gamma"
+  ],
+  [
+   "Current High Mesh",
+   "当前高模"
+  ],
+  [
+   "Current Low Mesh",
+   "当前低模"
+  ],
+  [
+   "Curve Attribute",
+   "曲线属性"
+  ],
+  [
+   "Curve Group",
+   "曲线组"
+  ],
+  [
+   "Curve Mask Ramp",
+   "曲线遮罩渐变"
+  ],
+  [
+   "Curve Ramp",
+   "曲线渐变"
+  ],
+  [
+   "Cusp Polygons",
+   "折角多边形"
+  ],
+  [
+   "Custom Attributes",
+   "自定义属性"
+  ],
+  [
+   "Custom Branch Profile",
+   "自定义分支剖面"
+  ],
+  [
+   "Custom Color",
+   "自定义颜色"
+  ],
+  [
+   "Custom Data Name",
+   "自定义数据名称"
+  ],
+  [
+   "Custom Data Type",
+   "自定义数据类型"
+  ],
+  [
+   "Custom Data Value",
+   "自定义数据值"
+  ],
+  [
+   "Custom Data Value is True",
+   "自定义数据值为真"
+  ],
+  [
+   "Custom Default",
+   "自定义默认值"
+  ],
+  [
+   "Custom Fine-cell Field",
+   "自定义细单元场"
+  ],
+  [
+   "Custom Planes",
+   "自定义平面"
+  ],
+  [
+   "Custom Texturing Images",
+   "自定义纹理图像"
+  ],
+  [
+   "Cut Sphere",
+   "切割球"
+  ],
+  [
+   "Data Type",
+   "数据类型"
+  ],
+  [
+   "Dead Ratio",
+   "失效比例"
+  ],
+  [
+   "Debug Sphere Color",
+   "调试球颜色"
+  ],
+  [
+   "Debug Sphere Scale",
+   "调试球缩放"
+  ],
+  [
+   "Default Color Space",
+   "默认色彩空间"
+  ],
+  [
+   "Default Field of View",
+   "默认视场角"
+  ],
+  [
+   "Define Only Leaf Primitives",
+   "仅定义叶图元"
+  ],
+  [
+   "Deform Normals",
+   "变形法线"
+  ],
+  [
+   "Degrees",
+   "度"
+  ],
+  [
+   "Delete All Existing Color Attributes",
+   "删除所有已有颜色属性"
+  ],
+  [
+   "Delete Capture Attributes",
+   "删除捕捉属性"
+  ],
+  [
+   "Delete Original UVs",
+   "删除原始 UV"
+  ],
+  [
+   "Delete Previous Levels",
+   "删除上一级"
+  ],
+  [
+   "Delta",
+   "增量"
+  ],
+  [
+   "Delta Export Attribute (P)",
+   "增量导出属性（P）"
+  ],
+  [
+   "Dense Pointcloud",
+   "稠密点云"
+  ],
+  [
+   "Densify Number Back",
+   "后方加密数量"
+  ],
+  [
+   "Densify Number Front",
+   "前方加密数量"
+  ],
+  [
+   "Density Multiplier",
+   "密度倍率"
+  ],
+  [
+   "Density Volume",
+   "密度体积"
+  ],
+  [
+   "Deposition Rate Mask",
+   "沉积速率遮罩"
+  ],
+  [
+   "Depth Conversion",
+   "深度转换"
+  ],
+  [
+   "Depth Divisions",
+   "深度分段"
+  ],
+  [
+   "Depth Map Filter",
+   "深度贴图过滤器"
+  ],
+  [
+   "Depth Menu",
+   "深度菜单"
+  ],
+  [
+   "Depth Ramp",
+   "深度渐变"
+  ],
+  [
+   "Describer Preset",
+   "描述符预设"
+  ],
+  [
+   "Describer Quality",
+   "描述符质量"
+  ],
+  [
+   "Describer Types",
+   "描述符类型"
+  ],
+  [
+   "Dest Conversion",
+   "目标转换"
+  ],
+  [
+   "Dest Scale",
+   "目标缩放"
+  ],
+  [
+   "Destination Max",
+   "目标最大值"
+  ],
+  [
+   "Destination Min",
+   "目标最小值"
+  ],
+  [
+   "Destination Path",
+   "目标路径"
+  ],
+  [
+   "Destination Primitive",
+   "目标图元"
+  ],
+  [
+   "Detect Hard-Edges by angle",
+   "按角度检测硬边"
+  ],
+  [
+   "Device ID",
+   "设备 ID"
+  ],
+  [
+   "Dicing Flatness",
+   "微多边形平坦度"
+  ],
+  [
+   "Dictionary Array Default",
+   "字典数组默认值"
+  ],
+  [
+   "Dictionary Default",
+   "字典默认值"
+  ],
+  [
+   "Dictionary To Bind",
+   "要绑定的字典"
+  ],
+  [
+   "Diffuse Intensity",
+   "漫反射强度"
+  ],
+  [
+   "Diffuse Multiplier",
+   "漫反射倍率"
+  ],
+  [
+   "Diffuse Ramp",
+   "漫反射渐变"
+  ],
+  [
+   "Diminish",
+   "递减"
+  ],
+  [
+   "Dimmer",
+   "调光器"
+  ],
+  [
+   "Direction Default",
+   "方向默认值"
+  ],
+  [
+   "Direction Layer Mask",
+   "方向图层遮罩"
+  ],
+  [
+   "Direction Mode",
+   "方向模式"
+  ],
+  [
+   "Directional Angle",
+   "方向角"
+  ],
+  [
+   "Directional Noise",
+   "方向噪声"
+  ],
+  [
+   "Displacement Intensity",
+   "置换强度"
+  ],
+  [
+   "Displacement Shader",
+   "置换着色器"
+  ],
+  [
+   "Display As Subdivision Curves",
+   "显示为细分曲线"
+  ],
+  [
+   "Display Bone Geometry",
+   "显示骨骼几何体"
+  ],
+  [
+   "Display Center",
+   "显示中心"
+  ],
+  [
+   "Display Collision Shapes",
+   "显示碰撞形状"
+  ],
+  [
+   "Display Custom",
+   "显示自定义"
+  ],
+  [
+   "Display Group",
+   "显示组"
+  ],
+  [
+   "Display Guides at Rest Transform",
+   "在静止变换处显示导向"
+  ],
+  [
+   "Display Rotate",
+   "显示旋转"
+  ],
+  [
+   "Display Scale",
+   "显示缩放"
+  ],
+  [
+   "Display Uniform Scale",
+   "显示等比缩放"
+  ],
+  [
+   "Distance Input",
+   "距离输入"
+  ],
+  [
+   "Distance Max",
+   "距离最大值"
+  ],
+  [
+   "Distance Min",
+   "距离最小值"
+  ],
+  [
+   "Distance Ratio",
+   "距离比例"
+  ],
+  [
+   "Distance Value",
+   "距离值"
+  ],
+  [
+   "Distortion",
+   "畸变"
+  ],
+  [
+   "Distribution Seed",
+   "分布种子"
+  ],
+  [
+   "Divide into tiled maps",
+   "分割为平铺贴图"
+  ],
+  [
+   "Division Mode",
+   "分段模式"
+  ],
+  [
+   "Divisor",
+   "除数"
+  ],
+  [
+   "Do Droop",
+   "执行下垂"
+  ],
+  [
+   "Do Operation in Unpremultiplied Space",
+   "在非预乘空间中执行操作"
+  ],
+  [
+   "Do Tiling",
+   "执行平铺"
+  ],
+  [
+   "Domain",
+   "模拟域"
+  ],
+  [
+   "Double Sided",
+   "双面"
+  ],
+  [
+   "Down/Up Res Filters",
+   "降/升分辨率过滤器"
+  ],
+  [
+   "Downscale",
+   "降尺度"
+  ],
+  [
+   "Downward Facing Angle",
+   "朝下角度"
+  ],
+  [
+   "Droop",
+   "下垂"
+  ],
+  [
+   "Droplet Scale",
+   "液滴缩放"
+  ],
+  [
+   "Edge",
+   "边"
+  ],
+  [
+   "Edge Length Threshold",
+   "边长阈值"
+  ],
+  [
+   "Edge Loops Control",
+   "边循环控制"
+  ],
+  [
+   "Edit Reference Frame",
+   "编辑参考帧"
+  ],
+  [
+   "Effect Amount",
+   "效果量"
+  ],
+  [
+   "Effect Scale",
+   "效果缩放"
+  ],
+  [
+   "Element (Raw Id)",
+   "元素（原始 ID）"
+  ],
+  [
+   "Emission Illuminates Objects",
+   "自发光照亮物体"
+  ],
+  [
+   "Enable Asset Path Attributes",
+   "启用资产路径属性"
+  ],
+  [
+   "Enable Attribute Scale",
+   "启用属性缩放"
+  ],
+  [
+   "Enable Blend",
+   "启用混合"
+  ],
+  [
+   "Enable Boolean Attributes",
+   "启用布尔属性"
+  ],
+  [
+   "Enable Color Temperature",
+   "启用色温"
+  ],
+  [
+   "Enable Culling",
+   "启用剔除"
+  ],
+  [
+   "Enable Define Only Leaf Primitives",
+   "启用「仅定义叶图元」"
+  ],
+  [
+   "Enable Displacement",
+   "启用置换"
+  ],
+  [
+   "Enable Import Height Fields as Mesh",
+   "启用「把高度场作为网格导入」"
+  ],
+  [
+   "Enable Import Path Prefix",
+   "启用导入路径前缀"
+  ],
+  [
+   "Enable Import as Single Element Array",
+   "启用「作为单元素数组导入」"
+  ],
+  [
+   "Enable Import as Single Value",
+   "启用「作为单值导入」"
+  ],
+  [
+   "Enable Indexed Attributes",
+   "启用索引属性"
+  ],
+  [
+   "Enable Kind Authoring",
+   "启用 Kind 写入"
+  ],
+  [
+   "Enable Mesh ID",
+   "启用网格 ID"
+  ],
+  [
+   "Enable Motion Blur",
+   "启用运动模糊"
+  ],
+  [
+   "Enable NURBS Curves",
+   "启用 NURBS 曲线"
+  ],
+  [
+   "Enable NURBS Surfaces",
+   "启用 NURBS 曲面"
+  ],
+  [
+   "Enable Other Primitives",
+   "启用其它图元"
+  ],
+  [
+   "Enable Packed Primitives",
+   "启用打包图元"
+  ],
+  [
+   "Enable Packed USD Primitives",
+   "启用打包 USD 图元"
+  ],
+  [
+   "Enable Partial Evaluation",
+   "启用部分求值"
+  ],
+  [
+   "Enable Path Attributes",
+   "启用路径属性"
+  ],
+  [
+   "Enable Prefix Subsets with Attribute Name",
+   "用属性名作为前缀子集"
+  ],
+  [
+   "Enable Remap Ramp",
+   "启用重映射渐变"
+  ]
+ ]
+}

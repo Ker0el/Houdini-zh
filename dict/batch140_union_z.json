@@ -1,0 +1,1630 @@
+{
+ "note": "合并清单 —— 第 26 批（Number of Sub Cables → Output 16 Name）",
+ "skip": [
+  "Oc",
+  "OH",
+  "OOO",
+  "Of",
+  "Offset#",
+  "OpExists",
+  "OpInput2",
+  "Optype",
+  "Otis Attributes Only",
+  "Ouptut",
+  "Out Handle0"
+ ],
+ "entries": [
+  [
+   "Number of Sub Cables",
+   "子缆索数量"
+  ],
+  [
+   "Number of Test Inputs",
+   "测试输入数量"
+  ],
+  [
+   "Number of Tests",
+   "测试数量"
+  ],
+  [
+   "Number of Textures",
+   "纹理数量"
+  ],
+  [
+   "Number of Tokens",
+   "标记数量"
+  ],
+  [
+   "Number of Trails",
+   "拖尾数量"
+  ],
+  [
+   "Number of Trails Mode",
+   "拖尾数量模式"
+  ],
+  [
+   "Number of Turns",
+   "圈数"
+  ],
+  [
+   "Number of Types",
+   "类型数量"
+  ],
+  [
+   "Number of VEXpressions",
+   "VEXpression 数量"
+  ],
+  [
+   "Number of Variables",
+   "变量数量"
+  ],
+  [
+   "Number of Visualizers",
+   "可视化器数量"
+  ],
+  [
+   "Number of Volumes",
+   "体积数量"
+  ],
+  [
+   "Number of Wheels",
+   "车轮数量"
+  ],
+  [
+   "Number of imports",
+   "导入数量"
+  ],
+  [
+   "Number of points",
+   "点数"
+  ],
+  [
+   "Number or Rigs",
+   "绑定数量"
+  ],
+  [
+   "Numeric Pattern",
+   "数字模式"
+  ],
+  [
+   "OBJ File",
+   "OBJ 文件"
+  ],
+  [
+   "OBJ Subnet",
+   "OBJ 子网络"
+  ],
+  [
+   "OCIO Color Space",
+   "OCIO 色彩空间"
+  ],
+  [
+   "OCIO Is Set",
+   "已设置 OCIO"
+  ],
+  [
+   "OCIO Is from Labs",
+   "OCIO 来自 Labs"
+  ],
+  [
+   "OCIO Look",
+   "OCIO 外观"
+  ],
+  [
+   "ODE",
+   "ODE"
+  ],
+  [
+   "ODE Primitive",
+   "ODE 图元"
+  ],
+  [
+   "ODE Primitives",
+   "ODE 图元"
+  ],
+  [
+   "OGL",
+   "OGL"
+  ],
+  [
+   "OGL Bump Map",
+   "OGL 凹凸贴图"
+  ],
+  [
+   "OGL Environment Map",
+   "OGL 环境贴图"
+  ],
+  [
+   "OGL Hair",
+   "OGL 头发"
+  ],
+  [
+   "OGL Inner IOR",
+   "OGL 内部折射率"
+  ],
+  [
+   "OGL Normal Map",
+   "OGL 法线贴图"
+  ],
+  [
+   "OGL Normal Map Type",
+   "OGL 法线贴图类型"
+  ],
+  [
+   "OGL Opacity Map",
+   "OGL 不透明度贴图"
+  ],
+  [
+   "OGL Outer IOR",
+   "OGL 外部折射率"
+  ],
+  [
+   "OGL Roughness Channel",
+   "OGL 粗糙度通道"
+  ],
+  [
+   "OGL Roughness Map",
+   "OGL 粗糙度贴图"
+  ],
+  [
+   "OGL Specular Map",
+   "OGL 高光贴图"
+  ],
+  [
+   "OGL Texture Layers",
+   "OGL 纹理图层"
+  ],
+  [
+   "OGL Transparent Texture",
+   "OGL 透明纹理"
+  ],
+  [
+   "OGL Use Lighting",
+   "OGL 使用光照"
+  ],
+  [
+   "ONNX Checkpointing",
+   "ONNX 检查点"
+  ],
+  [
+   "ONNX Opset Version",
+   "ONNX Opset 版本"
+  ],
+  [
+   "ONNX Path",
+   "ONNX 路径"
+  ],
+  [
+   "ONNX Version",
+   "ONNX 版本"
+  ],
+  [
+   "OP",
+   "OP"
+  ],
+  [
+   "OP Path",
+   "OP 路径"
+  ],
+  [
+   "OSD FVar Interp",
+   "OSD FVar 插值"
+  ],
+  [
+   "OSD Vtx Interp",
+   "OSD 顶点插值"
+  ],
+  [
+   "OSM File",
+   "OSM 文件"
+  ],
+  [
+   "Object Attribute",
+   "对象属性"
+  ],
+  [
+   "Object Axis",
+   "对象轴"
+  ],
+  [
+   "Object Bounds",
+   "对象边界"
+  ],
+  [
+   "Object Classes",
+   "对象类别"
+  ],
+  [
+   "Object Definitions",
+   "对象定义"
+  ],
+  [
+   "Object Distance",
+   "对象距离"
+  ],
+  [
+   "Object Distance (pointcloud)",
+   "对象距离（点云）"
+  ],
+  [
+   "Object Exclude",
+   "排除对象"
+  ],
+  [
+   "Object File",
+   "对象文件"
+  ],
+  [
+   "Object Group #",
+   "对象组 #"
+  ],
+  [
+   "Object Index",
+   "对象索引"
+  ],
+  [
+   "Object Points A",
+   "对象点 A"
+  ],
+  [
+   "Object Points B",
+   "对象点 B"
+  ],
+  [
+   "Object Radius",
+   "对象半径"
+  ],
+  [
+   "Object Raycast",
+   "对象光线投射"
+  ],
+  [
+   "Object Reflections",
+   "对象反射"
+  ],
+  [
+   "Object Sample Rate",
+   "对象采样率"
+  ],
+  [
+   "Object Selection",
+   "对象选择"
+  ],
+  [
+   "Object Skirt",
+   "对象裙边"
+  ],
+  [
+   "Object Style Sheet",
+   "对象样式表"
+  ],
+  [
+   "Object Subnet",
+   "对象子网络"
+  ],
+  [
+   "Object To Copy",
+   "要复制的对象"
+  ],
+  [
+   "Objects To Archive",
+   "要归档的对象"
+  ],
+  [
+   "Obsolete",
+   "已废弃"
+  ],
+  [
+   "Obstacle DOP Data",
+   "障碍物 DOP 数据"
+  ],
+  [
+   "Obstacle DOP Object",
+   "障碍物 DOP 对象"
+  ],
+  [
+   "Obstacle Distance",
+   "障碍物距离"
+  ],
+  [
+   "Obstacle Softness",
+   "障碍物柔和度"
+  ],
+  [
+   "Oc Name",
+   "Oc 名称"
+  ],
+  [
+   "Occlude Mesh",
+   "遮挡网格"
+  ],
+  [
+   "Occluded",
+   "已遮挡"
+  ],
+  [
+   "Occluded AOV",
+   "遮挡 AOV"
+  ],
+  [
+   "Occlusion (Oc)",
+   "环境光遮蔽（Oc）"
+  ],
+  [
+   "Occlusion Map",
+   "环境光遮蔽贴图"
+  ],
+  [
+   "Occlusion Max Distance",
+   "遮蔽最大距离"
+  ],
+  [
+   "Occlusion Ray Bias",
+   "遮蔽光线偏移"
+  ],
+  [
+   "Occlusion-based Curvature",
+   "基于遮蔽的曲率"
+  ],
+  [
+   "Ocean Evaluation",
+   "海洋求值"
+  ],
+  [
+   "Ocean Floor Brightness",
+   "海底亮度"
+  ],
+  [
+   "Ocean Size",
+   "海洋尺寸"
+  ],
+  [
+   "Octave Shift",
+   "八度偏移"
+  ],
+  [
+   "Octree Geometry",
+   "八叉树几何体"
+  ],
+  [
+   "Octree Visualization Geometry",
+   "八叉树可视化几何体"
+  ],
+  [
+   "Odd Color",
+   "奇数颜色"
+  ],
+  [
+   "Odd Step Size",
+   "奇数步长"
+  ],
+  [
+   "Of Attribute",
+   "的属性"
+  ],
+  [
+   "Of Type",
+   "的类型"
+  ],
+  [
+   "Off To On",
+   "从关到开"
+  ],
+  [
+   "Offline Optimization",
+   "离线优化"
+  ],
+  [
+   "Offset Assignment",
+   "偏移指定"
+  ],
+  [
+   "Offset Colour",
+   "偏移颜色"
+  ],
+  [
+   "Offset Cut Center",
+   "偏移切割中心"
+  ],
+  [
+   "Offset Distance",
+   "偏移距离"
+  ],
+  [
+   "Offset Edge Networks In W",
+   "在 W 方向偏移边网络"
+  ],
+  [
+   "Offset Edges",
+   "偏移边"
+  ],
+  [
+   "Offset Floor Seed on Different Sides",
+   "在不同侧偏移楼层种子"
+  ],
+  [
+   "Offset From Branch",
+   "距分支偏移"
+  ],
+  [
+   "Offset From Centroid",
+   "距形心偏移"
+  ],
+  [
+   "Offset Group",
+   "偏移组"
+  ],
+  [
+   "Offset Initial Step",
+   "偏移初始步"
+  ],
+  [
+   "Offset Joint",
+   "偏移关节"
+  ],
+  [
+   "Offset Limit",
+   "偏移限制"
+  ],
+  [
+   "Offset Markers",
+   "偏移标记"
+  ],
+  [
+   "Offset Mask",
+   "偏移遮罩"
+  ],
+  [
+   "Offset Module Seed on Different Sides",
+   "在不同侧偏移模块种子"
+  ],
+  [
+   "Offset Points",
+   "偏移点"
+  ],
+  [
+   "Offset Position Using",
+   "偏移位置依据"
+  ],
+  [
+   "Offset Range",
+   "偏移范围"
+  ],
+  [
+   "Offset Rotate",
+   "偏移旋转"
+  ],
+  [
+   "Offset S",
+   "偏移 S"
+  ],
+  [
+   "Offset Scale",
+   "偏移缩放"
+  ],
+  [
+   "Offset Segments in U",
+   "在 U 方向偏移分段"
+  ],
+  [
+   "Offset T",
+   "偏移 T"
+  ],
+  [
+   "Offset Translate",
+   "偏移平移"
+  ],
+  [
+   "Offset Type",
+   "偏移类型"
+  ],
+  [
+   "Offset U",
+   "偏移 U"
+  ],
+  [
+   "Offset UDIM",
+   "偏移 UDIM"
+  ],
+  [
+   "Offset V",
+   "偏移 V"
+  ],
+  [
+   "Offset X",
+   "偏移 X"
+  ],
+  [
+   "Offset Y",
+   "偏移 Y"
+  ],
+  [
+   "Offset along Curve",
+   "沿曲线偏移"
+  ],
+  [
+   "Offset with Bias",
+   "带偏置偏移"
+  ],
+  [
+   "Offsetting",
+   "偏移"
+  ],
+  [
+   "Old Name",
+   "旧名称"
+  ],
+  [
+   "Old Temp",
+   "旧温度"
+  ],
+  [
+   "Old Temperature",
+   "旧温度"
+  ],
+  [
+   "Old Variant Set Name",
+   "旧变体集名称"
+  ],
+  [
+   "Omega",
+   "Omega"
+  ],
+  [
+   "Omit Distance from Cost",
+   "从代价中省略距离"
+  ],
+  [
+   "Omit Dynamic Solve",
+   "省略动态求解"
+  ],
+  [
+   "Omit Entities in New Group not Wholly Contained in the Old Group",
+   "省略新组中未完全包含于旧组的实体"
+  ],
+  [
+   "Omit First Weight Channel",
+   "省略第一个权重通道"
+  ],
+  [
+   "On Attribute Collision",
+   "属性冲突时"
+  ],
+  [
+   "On Attribute Not Found",
+   "找不到属性时"
+  ],
+  [
+   "On Custom Cards (If Enabled)",
+   "在自定义卡片上（若启用）"
+  ],
+  [
+   "On Empty Geometry",
+   "几何体为空时"
+  ],
+  [
+   "On Empty Input",
+   "输入为空时"
+  ],
+  [
+   "On Index Error",
+   "索引错误时"
+  ],
+  [
+   "On Memory Exceeded",
+   "内存超限时"
+  ],
+  [
+   "On Missing Input",
+   "输入缺失时"
+  ],
+  [
+   "On No Match",
+   "无匹配时"
+  ],
+  [
+   "On Pause",
+   "暂停时"
+  ],
+  [
+   "On Priority Change",
+   "优先级变化时"
+  ],
+  [
+   "On Query Failure",
+   "查询失败时"
+  ],
+  [
+   "On Request Failure",
+   "请求失败时"
+  ],
+  [
+   "On Reschedule",
+   "重新调度时"
+  ],
+  [
+   "On Resume",
+   "恢复时"
+  ],
+  [
+   "On Start",
+   "启动时"
+  ],
+  [
+   "On Success",
+   "成功时"
+  ],
+  [
+   "On Task Timeout",
+   "任务超时时"
+  ],
+  [
+   "On Test Input",
+   "测试输入时"
+  ],
+  [
+   "On To Off",
+   "从开到关"
+  ],
+  [
+   "On Volume Boundaries",
+   "在体积边界上"
+  ],
+  [
+   "One Blend Weight Parameter per Packed Primitive",
+   "每个打包图元一个混合权重参数"
+  ],
+  [
+   "One Key per Sample",
+   "每个采样一个关键帧"
+  ],
+  [
+   "One Surface Face per Tetrahedron",
+   "每个四面体一个表面面"
+  ],
+  [
+   "Only Add",
+   "仅添加"
+  ],
+  [
+   "Only Affect One Connected Region",
+   "仅影响一个连通区域"
+  ],
+  [
+   "Only Affect Retimed",
+   "仅影响重定时项"
+  ],
+  [
+   "Only Close Building Shapes",
+   "仅闭合建筑形状"
+  ],
+  [
+   "Only Clump Within Existing Clumps",
+   "仅在已有簇内成簇"
+  ],
+  [
+   "Only Clump within Existing Clumps",
+   "仅在已有簇内成簇"
+  ],
+  [
+   "Only Connected",
+   "仅连通的"
+  ],
+  [
+   "Only Copy Specified Prototype Primitives",
+   "仅复制指定的原型图元"
+  ],
+  [
+   "Only Define Missing Prims",
+   "仅定义缺失的图元"
+  ],
+  [
+   "Only Display Roots",
+   "仅显示根"
+  ],
+  [
+   "Only Emit on Integer Frames",
+   "仅在整数帧发射"
+  ],
+  [
+   "Only Fuse when Primitive Attribute Matches",
+   "仅在图元属性匹配时融合"
+  ],
+  [
+   "Only Generate Octree Geometry",
+   "仅生成八叉树几何体"
+  ],
+  [
+   "Only Merge When Primitive Attributes Match",
+   "仅在图元属性匹配时合并"
+  ],
+  [
+   "Only Merge on Fuse Filter Selection",
+   "仅在融合过滤器选中时合并"
+  ],
+  [
+   "Only Once",
+   "仅一次"
+  ],
+  [
+   "Only Once Per Timestep",
+   "每个时间步仅一次"
+  ],
+  [
+   "Only Output Created Geometry",
+   "仅输出生成的几何体"
+  ],
+  [
+   "Only Output Octree",
+   "仅输出八叉树"
+  ],
+  [
+   "Only Pack Unpacked",
+   "仅打包未打包的"
+  ],
+  [
+   "Only Promote Full Primitives",
+   "仅提升完整图元"
+  ],
+  [
+   "Only Repeat Full Pattern",
+   "仅重复完整模式"
+  ],
+  [
+   "Only Shorten Edges",
+   "仅缩短边"
+  ],
+  [
+   "Only Source Seeding",
+   "仅在源处播种"
+  ],
+  [
+   "Only Sourcing",
+   "仅作为源"
+  ],
+  [
+   "Only Use Open Curves",
+   "仅使用开放曲线"
+  ],
+  [
+   "Only Write to Visible",
+   "仅写入可见项"
+  ],
+  [
+   "Opacity Amplitude",
+   "不透明度幅度"
+  ],
+  [
+   "Opacity Blend Rate",
+   "不透明度混合速率"
+  ],
+  [
+   "Opacity COP",
+   "不透明度 COP"
+  ],
+  [
+   "Opacity Channel",
+   "不透明度通道"
+  ],
+  [
+   "Opacity Color",
+   "不透明度颜色"
+  ],
+  [
+   "Opacity Cutoff",
+   "不透明度截止"
+  ],
+  [
+   "Opacity Defaults",
+   "不透明度默认值"
+  ],
+  [
+   "Opacity Export",
+   "不透明度导出"
+  ],
+  [
+   "Opacity Falloff",
+   "不透明度衰减"
+  ],
+  [
+   "Opacity Field",
+   "不透明度场"
+  ],
+  [
+   "Opacity File",
+   "不透明度文件"
+  ],
+  [
+   "Opacity Group",
+   "不透明度组"
+  ],
+  [
+   "Opacity Layer",
+   "不透明度图层"
+  ],
+  [
+   "Opacity Learning Rate",
+   "不透明度学习率"
+  ],
+  [
+   "Opacity Mode",
+   "不透明度模式"
+  ],
+  [
+   "Opacity Multiplier",
+   "不透明度倍数"
+  ],
+  [
+   "Opacity Name",
+   "不透明度名称"
+  ],
+  [
+   "Opacity On",
+   "不透明度开启"
+  ],
+  [
+   "Opacity Ramp",
+   "不透明度渐变"
+  ],
+  [
+   "Opacity Regularization",
+   "不透明度正则化"
+  ],
+  [
+   "Opacity Rolloff",
+   "不透明度衰减"
+  ],
+  [
+   "Opacity Threshold",
+   "不透明度阈值"
+  ],
+  [
+   "Open Arc",
+   "开放弧"
+  ],
+  [
+   "Open Component Catalog",
+   "打开组件目录"
+  ],
+  [
+   "Open Cylinder",
+   "开放圆柱"
+  ],
+  [
+   "Open HQueue in Webbrowser",
+   "在浏览器中打开 HQueue"
+  ],
+  [
+   "Open Marmoset Viewer after Export",
+   "导出后在 Marmoset Viewer 中打开"
+  ],
+  [
+   "Open Shader Effects menu (Ctrl+LMB to promote this parameter)",
+   "打开着色器特效菜单（Ctrl+左键可提升此参数）"
+  ],
+  [
+   "Open Shot Sculpt Pane",
+   "打开镜头雕刻面板"
+  ],
+  [
+   "Open Subdiv Quality",
+   "开放细分质量"
+  ],
+  [
+   "Open Viewer",
+   "打开查看器"
+  ],
+  [
+   "Open Web Interface",
+   "打开网页界面"
+  ],
+  [
+   "Open a web brower to the HQueue server",
+   "用浏览器打开 HQueue 服务器"
+  ],
+  [
+   "Open floating directory chooser",
+   "打开浮动目录选择器"
+  ],
+  [
+   "Open floating file chooser",
+   "打开浮动文件选择器"
+  ],
+  [
+   "Open floating operator chooser",
+   "打开浮动算子选择器"
+  ],
+  [
+   "OpenCL Force GPU Rendering",
+   "OpenCL 强制 GPU 渲染"
+  ],
+  [
+   "OpenCL Input",
+   "OpenCL 输入"
+  ],
+  [
+   "OpenCL Mode",
+   "OpenCL 模式"
+  ],
+  [
+   "OpenCL Output",
+   "OpenCL 输出"
+  ],
+  [
+   "OpenCV",
+   "OpenCV"
+  ],
+  [
+   "OpenEXR Mode",
+   "OpenEXR 模式"
+  ],
+  [
+   "OpenGL Specular Tint",
+   "OpenGL 高光着色"
+  ],
+  [
+   "OpenGL Use Bump Texture",
+   "OpenGL 使用凹凸纹理"
+  ],
+  [
+   "OpenGL Use Normal Texture",
+   "OpenGL 使用法线纹理"
+  ],
+  [
+   "OpenImageIO Binary",
+   "OpenImageIO 可执行文件"
+  ],
+  [
+   "Operate Bitwise",
+   "按位运算"
+  ],
+  [
+   "Operating System",
+   "操作系统"
+  ],
+  [
+   "Operation 0",
+   "操作 0"
+  ],
+  [
+   "Operation 1",
+   "操作 1"
+  ],
+  [
+   "Operation 2",
+   "操作 2"
+  ],
+  [
+   "Operation 3",
+   "操作 3"
+  ],
+  [
+   "Operation 4",
+   "操作 4"
+  ],
+  [
+   "Operation 5",
+   "操作 5"
+  ],
+  [
+   "Operation 6",
+   "操作 6"
+  ],
+  [
+   "Operation 7",
+   "操作 7"
+  ],
+  [
+   "Operation Mode",
+   "操作模式"
+  ],
+  [
+   "Operation On",
+   "操作对象"
+  ],
+  [
+   "Operation Parameters",
+   "操作参数"
+  ],
+  [
+   "Operation Points",
+   "操作点"
+  ],
+  [
+   "Operators",
+   "算子"
+  ],
+  [
+   "Optical",
+   "光学"
+  ],
+  [
+   "Optimization Method",
+   "优化方式"
+  ],
+  [
+   "Optimization Mode",
+   "优化模式"
+  ],
+  [
+   "Optimize",
+   "优化"
+  ],
+  [
+   "Optimize Curves",
+   "优化曲线"
+  ],
+  [
+   "Optimize Cutting Based on Clustering",
+   "基于成簇优化切割"
+  ],
+  [
+   "Optimize Exact Instances",
+   "优化精确实例"
+  ],
+  [
+   "Optimize Identical Poses",
+   "优化相同姿态"
+  ],
+  [
+   "Optimize Light Transfer",
+   "优化光传输"
+  ],
+  [
+   "Optimize Options",
+   "优化选项"
+  ],
+  [
+   "Optimize Pieces Into Chunks",
+   "将碎块优化为块"
+  ],
+  [
+   "Optimize Secondary Rays",
+   "优化次级光线"
+  ],
+  [
+   "Optimize Surface",
+   "优化表面"
+  ],
+  [
+   "Optimize for Memory",
+   "为内存优化"
+  ],
+  [
+   "Optimized Ray Depth",
+   "优化光线深度"
+  ],
+  [
+   "Option",
+   "选项"
+  ],
+  [
+   "Option Driver Value",
+   "选项驱动值"
+  ],
+  [
+   "Option Test Pattern",
+   "选项测试模式"
+  ],
+  [
+   "Option Value Size",
+   "选项值大小"
+  ],
+  [
+   "Option to select Segments for Sets",
+   "为集合选择分段的选项"
+  ],
+  [
+   "Optional (tissue layers must be separate)",
+   "可选（组织层必须分开）"
+  ],
+  [
+   "Optional Input",
+   "可选输入"
+  ],
+  [
+   "Orange",
+   "橙色"
+  ],
+  [
+   "Orbit",
+   "轨道"
+  ],
+  [
+   "Orbit Divisions",
+   "轨道分段数"
+  ],
+  [
+   "Orbit Force",
+   "轨道力"
+  ],
+  [
+   "Orbit Force Falloff",
+   "轨道力衰减"
+  ],
+  [
+   "Orbit Force Falloff From Curve",
+   "沿曲线的轨道力衰减"
+  ],
+  [
+   "Orbit Scale",
+   "轨道缩放"
+  ],
+  [
+   "Orbit Speed",
+   "轨道速度"
+  ],
+  [
+   "Orbital Density",
+   "轨道密度"
+  ],
+  [
+   "Orbital Direction Attribute",
+   "轨道方向属性"
+  ],
+  [
+   "Orbital Radius Attribute",
+   "轨道半径属性"
+  ],
+  [
+   "Orbital Velocity Attribute",
+   "轨道速度属性"
+  ],
+  [
+   "Orbital Velocity Type",
+   "轨道速度类型"
+  ],
+  [
+   "Order Direction",
+   "排序方向"
+  ],
+  [
+   "Order Mode",
+   "排序模式"
+  ],
+  [
+   "Order Of Results",
+   "结果顺序"
+  ],
+  [
+   "Ordered Products",
+   "有序乘积"
+  ],
+  [
+   "Ordering Attribute",
+   "排序属性"
+  ],
+  [
+   "Oren-Nayar Roughness",
+   "Oren-Nayar 粗糙度"
+  ],
+  [
+   "Organize Error Value",
+   "整理误差值"
+  ],
+  [
+   "Organize Method",
+   "整理方式"
+  ],
+  [
+   "Orient Along Curve",
+   "沿曲线定向"
+  ],
+  [
+   "Orient Attrib",
+   "定向属性"
+  ],
+  [
+   "Orient Attribute Name",
+   "定向属性名"
+  ],
+  [
+   "Orient Axes",
+   "定向轴"
+  ],
+  [
+   "Orient Brush",
+   "定向笔刷"
+  ],
+  [
+   "Orient Name",
+   "定向名称"
+  ],
+  [
+   "Orient Overlapping Joints",
+   "定向重叠关节"
+  ],
+  [
+   "Orient PTEX Subfaces Clockwise",
+   "顺时针定向 PTEX 子面"
+  ],
+  [
+   "Orient Points",
+   "定向点"
+  ],
+  [
+   "Orient Ratio",
+   "定向比例"
+  ],
+  [
+   "Orient Tiles",
+   "定向平铺块"
+  ],
+  [
+   "Orient Tip",
+   "定向末端"
+  ],
+  [
+   "Orient Tip to Goal",
+   "让末端朝向目标"
+  ],
+  [
+   "Orient To Surface",
+   "朝向表面"
+  ],
+  [
+   "Orient Up Vector Attribute",
+   "定向上方向矢量属性"
+  ],
+  [
+   "Orient Using",
+   "定向依据"
+  ],
+  [
+   "Orient Using Point Attributes",
+   "用点属性定向"
+  ],
+  [
+   "Orient to Skin Vector Attribute",
+   "朝向蒙皮矢量属性"
+  ],
+  [
+   "Orient to Surface",
+   "朝向表面"
+  ],
+  [
+   "Orient to Surface Variation",
+   "朝向表面变化"
+  ],
+  [
+   "Orientation Attributes",
+   "朝向属性"
+  ],
+  [
+   "Orientation Constraint",
+   "朝向约束"
+  ],
+  [
+   "Orientation Damping",
+   "朝向阻尼"
+  ],
+  [
+   "Orientation Stiffness",
+   "朝向刚度"
+  ],
+  [
+   "Orientation Update",
+   "朝向更新"
+  ],
+  [
+   "Oriented Bounding Rectangle",
+   "有向包围矩形"
+  ],
+  [
+   "Orig Point Attribute",
+   "原始点属性"
+  ],
+  [
+   "Origin Attribute",
+   "原点属性"
+  ],
+  [
+   "Origin Mode",
+   "原点模式"
+  ],
+  [
+   "Original Geometry",
+   "原始几何体"
+  ],
+  [
+   "Original Piece Attribute",
+   "原始碎块属性"
+  ],
+  [
+   "Original Point Group",
+   "原始点组"
+  ],
+  [
+   "Original Position",
+   "原始位置"
+  ],
+  [
+   "Ortho Angle CFM",
+   "正交角度 CFM"
+  ],
+  [
+   "Ortho Angle Softness",
+   "正交角度柔和度"
+  ],
+  [
+   "Ortho Position CFM",
+   "正交位置 CFM"
+  ],
+  [
+   "Ortho Position Softness",
+   "正交位置柔和度"
+  ],
+  [
+   "Orthographic Projection",
+   "正交投影"
+  ],
+  [
+   "Oscillate Amplitude",
+   "振荡幅度"
+  ],
+  [
+   "Oscillate Speed",
+   "振荡速度"
+  ],
+  [
+   "Other Attributes",
+   "其它属性"
+  ],
+  [
+   "Other Data",
+   "其它数据"
+  ],
+  [
+   "Other Tracks",
+   "其它轨道"
+  ],
+  [
+   "Ouput Deep Camera Map",
+   "输出深度相机贴图"
+  ],
+  [
+   "Ouput Point Velocity",
+   "输出点速度"
+  ],
+  [
+   "Out",
+   "输出"
+  ],
+  [
+   "Out Feather Length",
+   "输出羽化长度"
+  ],
+  [
+   "Out Features",
+   "输出特征"
+  ],
+  [
+   "Out Handle",
+   "出端手柄"
+  ],
+  [
+   "Out Of Bounds Behavior",
+   "越界行为"
+  ],
+  [
+   "Out Pivot",
+   "出端轴心"
+  ],
+  [
+   "Out Rotation Order",
+   "输出旋转顺序"
+  ],
+  [
+   "Out Rotation Range",
+   "输出旋转范围"
+  ],
+  [
+   "Out Shape",
+   "输出形状"
+  ],
+  [
+   "Out Transform Order",
+   "输出变换顺序"
+  ],
+  [
+   "Outer Angle",
+   "外侧角度"
+  ],
+  [
+   "Outer Area Drop Rate",
+   "外部区域衰减速率"
+  ],
+  [
+   "Outer Boundary Group Name",
+   "外边界组名称"
+  ],
+  [
+   "Outer Circle",
+   "外圆"
+  ],
+  [
+   "Outer Circle Divisions",
+   "外圆分段数"
+  ],
+  [
+   "Outer Code",
+   "外部代码"
+  ],
+  [
+   "Outer Color",
+   "外侧颜色"
+  ],
+  [
+   "Outer Cooling Rate",
+   "外侧冷却速率"
+  ],
+  [
+   "Outer Distance",
+   "外侧距离"
+  ],
+  [
+   "Outer Foot Marker Offset",
+   "外侧脚部标记偏移"
+  ],
+  [
+   "Outer Size",
+   "外侧尺寸"
+  ],
+  [
+   "Outer Strength",
+   "外侧强度"
+  ],
+  [
+   "Outer Volume",
+   "外部体积"
+  ],
+  [
+   "Outlier Color",
+   "离群颜色"
+  ],
+  [
+   "Outliers",
+   "离群值"
+  ],
+  [
+   "Outline Glossy",
+   "描边光泽"
+  ],
+  [
+   "Outline Scale",
+   "描边缩放"
+  ],
+  [
+   "Outline Value",
+   "描边值"
+  ],
+  [
+   "Outlines",
+   "描边"
+  ],
+  [
+   "Output 1 Name",
+   "输出 1 名称"
+  ],
+  [
+   "Output 1 Type",
+   "输出 1 类型"
+  ],
+  [
+   "Output 2 Name",
+   "输出 2 名称"
+  ],
+  [
+   "Output 2 Type",
+   "输出 2 类型"
+  ],
+  [
+   "Output 3 Name",
+   "输出 3 名称"
+  ],
+  [
+   "Output 3 Type",
+   "输出 3 类型"
+  ],
+  [
+   "Output 4 Name",
+   "输出 4 名称"
+  ],
+  [
+   "Output 4 Type",
+   "输出 4 类型"
+  ],
+  [
+   "Output 5 Name",
+   "输出 5 名称"
+  ],
+  [
+   "Output 5 Type",
+   "输出 5 类型"
+  ],
+  [
+   "Output 6 Name",
+   "输出 6 名称"
+  ],
+  [
+   "Output 6 Type",
+   "输出 6 类型"
+  ],
+  [
+   "Output 7 Name",
+   "输出 7 名称"
+  ],
+  [
+   "Output 7 Type",
+   "输出 7 类型"
+  ],
+  [
+   "Output 8 Name",
+   "输出 8 名称"
+  ],
+  [
+   "Output 8 Type",
+   "输出 8 类型"
+  ],
+  [
+   "Output 9 Name",
+   "输出 9 名称"
+  ],
+  [
+   "Output 9 Type",
+   "输出 9 类型"
+  ],
+  [
+   "Output 10 Name",
+   "输出 10 名称"
+  ],
+  [
+   "Output 10 Type",
+   "输出 10 类型"
+  ],
+  [
+   "Output 11 Name",
+   "输出 11 名称"
+  ],
+  [
+   "Output 11 Type",
+   "输出 11 类型"
+  ],
+  [
+   "Output 12 Name",
+   "输出 12 名称"
+  ],
+  [
+   "Output 12 Type",
+   "输出 12 类型"
+  ],
+  [
+   "Output 13 Name",
+   "输出 13 名称"
+  ],
+  [
+   "Output 13 Type",
+   "输出 13 类型"
+  ],
+  [
+   "Output 14 Name",
+   "输出 14 名称"
+  ],
+  [
+   "Output 14 Type",
+   "输出 14 类型"
+  ],
+  [
+   "Output 15 Name",
+   "输出 15 名称"
+  ],
+  [
+   "Output 15 Type",
+   "输出 15 类型"
+  ],
+  [
+   "Output 16 Name",
+   "输出 16 名称"
+  ]
+ ]
+}

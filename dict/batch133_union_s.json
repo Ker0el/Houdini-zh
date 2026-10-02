@@ -1,0 +1,1583 @@
+{
+ "note": "合并清单 —— 第 19 批（Injection Noise → Isolation Filters）",
+ "skip": [
+  "Int",
+  "Int2",
+  "Int3",
+  "Int4",
+  "Input1 Bindings",
+  "Input2 Bindings",
+  "Input3 Bindings",
+  "InvisibleIds"
+ ],
+ "entries": [
+  [
+   "Injection Noise",
+   "注入噪声"
+  ],
+  [
+   "Injection Rate",
+   "注入速率"
+  ],
+  [
+   "Injested Prim",
+   "摄入图元"
+  ],
+  [
+   "Injured Clips",
+   "受损片段"
+  ],
+  [
+   "Inline Points",
+   "共线点"
+  ],
+  [
+   "Inline Points Threshold",
+   "共线点阈值"
+  ],
+  [
+   "Inline VEX Code",
+   "内联 VEX 代码"
+  ],
+  [
+   "Inner Angle",
+   "内侧角度"
+  ],
+  [
+   "Inner Blend Region",
+   "内侧混合区域"
+  ],
+  [
+   "Inner Blend Region Scale #",
+   "内侧混合区域缩放 #"
+  ],
+  [
+   "Inner Blend Width",
+   "内侧混合宽度"
+  ],
+  [
+   "Inner Boundary Polygon Group Name",
+   "内边界多边形组名称"
+  ],
+  [
+   "Inner Circle",
+   "内圆"
+  ],
+  [
+   "Inner Circle Divisions",
+   "内圆分段数"
+  ],
+  [
+   "Inner Color",
+   "内侧颜色"
+  ],
+  [
+   "Inner Cooling Rate",
+   "内侧冷却速率"
+  ],
+  [
+   "Inner Copies",
+   "内侧副本"
+  ],
+  [
+   "Inner Copy Scale",
+   "内侧副本缩放"
+  ],
+  [
+   "Inner Core",
+   "内芯"
+  ],
+  [
+   "Inner Distance",
+   "内侧距离"
+  ],
+  [
+   "Inner Foot Marker Offset",
+   "内侧脚部标记偏移"
+  ],
+  [
+   "Inner Offset",
+   "内侧偏移"
+  ],
+  [
+   "Inner Radius Scale #",
+   "内侧半径缩放 #"
+  ],
+  [
+   "Inner Scale",
+   "内侧缩放"
+  ],
+  [
+   "Inner Side",
+   "内侧"
+  ],
+  [
+   "Inner Size",
+   "内侧尺寸"
+  ],
+  [
+   "Inner Strength",
+   "内侧强度"
+  ],
+  [
+   "Inner Surface",
+   "内表面"
+  ],
+  [
+   "Inplace Gate Speed",
+   "原地闸门速度"
+  ],
+  [
+   "Inplace Mocap",
+   "原地动捕"
+  ],
+  [
+   "Input # Name",
+   "输入 # 名称"
+  ],
+  [
+   "Input # Scope",
+   "输入 # 作用域"
+  ],
+  [
+   "Input & Output",
+   "输入与输出"
+  ],
+  [
+   "Input 1 Attribute",
+   "输入 1 属性"
+  ],
+  [
+   "Input 1 SOP Path",
+   "输入 1 SOP 路径"
+  ],
+  [
+   "Input 1 Weight",
+   "输入 1 权重"
+  ],
+  [
+   "Input 2 Attribute",
+   "输入 2 属性"
+  ],
+  [
+   "Input 2 SOP Path",
+   "输入 2 SOP 路径"
+  ],
+  [
+   "Input 2 Weight",
+   "输入 2 权重"
+  ],
+  [
+   "Input 3 SOP Path",
+   "输入 3 SOP 路径"
+  ],
+  [
+   "Input 4 SOP Path",
+   "输入 4 SOP 路径"
+  ],
+  [
+   "Input AOV",
+   "输入 AOV"
+  ],
+  [
+   "Input Attenuation",
+   "输入衰减"
+  ],
+  [
+   "Input Attribute Name",
+   "输入属性名"
+  ],
+  [
+   "Input Attribute Names",
+   "输入属性名"
+  ],
+  [
+   "Input Attributes",
+   "输入属性"
+  ],
+  [
+   "Input B",
+   "输入 B"
+  ],
+  [
+   "Input Batch Size",
+   "输入批大小"
+  ],
+  [
+   "Input Bind Pose FBX",
+   "输入绑定姿态 FBX"
+  ],
+  [
+   "Input Blend",
+   "输入混合"
+  ],
+  [
+   "Input Bump",
+   "输入凹凸"
+  ],
+  [
+   "Input Clump Attribute",
+   "输入成簇属性"
+  ],
+  [
+   "Input Columns Attribute",
+   "输入列属性"
+  ],
+  [
+   "Input Configuration",
+   "输入配置"
+  ],
+  [
+   "Input Connection ID",
+   "输入连接 ID"
+  ],
+  [
+   "Input Constraints",
+   "输入约束"
+  ],
+  [
+   "Input Count",
+   "输入数量"
+  ],
+  [
+   "Input Cutting Geo",
+   "输入切割几何体"
+  ],
+  [
+   "Input Dataset Storage",
+   "输入数据集存储"
+  ],
+  [
+   "Input Defaults",
+   "输入默认值"
+  ],
+  [
+   "Input Dimension Attribute",
+   "输入维度属性"
+  ],
+  [
+   "Input Directory",
+   "输入目录"
+  ],
+  [
+   "Input Effect",
+   "输入效果"
+  ],
+  [
+   "Input Features",
+   "输入特征"
+  ],
+  [
+   "Input File #",
+   "输入文件 #"
+  ],
+  [
+   "Input File Source",
+   "输入文件来源"
+  ],
+  [
+   "Input File Tag",
+   "输入文件标签"
+  ],
+  [
+   "Input Float",
+   "输入浮点"
+  ],
+  [
+   "Input Frame",
+   "输入帧"
+  ],
+  [
+   "Input Frame Attribute",
+   "输入帧属性"
+  ],
+  [
+   "Input Frame Range",
+   "输入帧范围"
+  ],
+  [
+   "Input G",
+   "输入 G"
+  ],
+  [
+   "Input Geometry Is Cached to Integer Frames",
+   "输入几何体缓存为整数帧"
+  ],
+  [
+   "Input Image",
+   "输入图像"
+  ],
+  [
+   "Input Image Dir",
+   "输入图像目录"
+  ],
+  [
+   "Input Images",
+   "输入图像"
+  ],
+  [
+   "Input Interpolation",
+   "输入插值"
+  ],
+  [
+   "Input Is Scene",
+   "输入为场景"
+  ],
+  [
+   "Input Label #",
+   "输入标签 #"
+  ],
+  [
+   "Input Layers",
+   "输入图层"
+  ],
+  [
+   "Input Local Transform",
+   "输入局部变换"
+  ],
+  [
+   "Input Locomotion",
+   "输入运动"
+  ],
+  [
+   "Input Mask Attrib",
+   "输入遮罩属性"
+  ],
+  [
+   "Input Mask Override",
+   "输入遮罩覆盖"
+  ],
+  [
+   "Input Mask Texture",
+   "输入遮罩纹理"
+  ],
+  [
+   "Input Mode",
+   "输入模式"
+  ],
+  [
+   "Input Name #",
+   "输入名称 #"
+  ],
+  [
+   "Input Name Default",
+   "输入名称默认值"
+  ],
+  [
+   "Input Normal",
+   "输入法线"
+  ],
+  [
+   "Input Normal Space",
+   "输入法线空间"
+  ],
+  [
+   "Input Number",
+   "输入编号"
+  ],
+  [
+   "Input Padding",
+   "输入边距"
+  ],
+  [
+   "Input Passes",
+   "输入遍数"
+  ],
+  [
+   "Input Path",
+   "输入路径"
+  ],
+  [
+   "Input Point Attributes",
+   "输入点属性"
+  ],
+  [
+   "Input Primitives Group Name",
+   "输入图元组名称"
+  ],
+  [
+   "Input Primvars",
+   "输入 Primvar"
+  ],
+  [
+   "Input R",
+   "输入 R"
+  ],
+  [
+   "Input RGB",
+   "输入 RGB"
+  ],
+  [
+   "Input Randomization",
+   "输入随机化"
+  ],
+  [
+   "Input Range Min",
+   "输入范围最小值"
+  ],
+  [
+   "Input Reference Axis",
+   "输入参考轴"
+  ],
+  [
+   "Input Rotation",
+   "输入旋转"
+  ],
+  [
+   "Input Rotation Order",
+   "输入旋转顺序"
+  ],
+  [
+   "Input Sample Rate",
+   "输入采样率"
+  ],
+  [
+   "Input Scope",
+   "输入作用域"
+  ],
+  [
+   "Input Shift",
+   "输入偏移"
+  ],
+  [
+   "Input Skeleton",
+   "输入骨架"
+  ],
+  [
+   "Input Skeleton To FK",
+   "输入骨架转 FK"
+  ],
+  [
+   "Input Skin SOP",
+   "输入蒙皮 SOP"
+  ],
+  [
+   "Input State Filter",
+   "输入状态过滤"
+  ],
+  [
+   "Input States",
+   "输入状态"
+  ],
+  [
+   "Input Tensor Type",
+   "输入张量类型"
+  ],
+  [
+   "Input Terrain Includes Water Height",
+   "输入地形包含水面高度"
+  ],
+  [
+   "Input Texture Resolution",
+   "输入纹理分辨率"
+  ],
+  [
+   "Input Timestep",
+   "输入时间步"
+  ],
+  [
+   "Input Transform Order",
+   "输入变换顺序"
+  ],
+  [
+   "Input USD",
+   "输入 USD"
+  ],
+  [
+   "Input Validity Attribute",
+   "输入有效性属性"
+  ],
+  [
+   "Input Vector",
+   "输入矢量"
+  ],
+  [
+   "Input Vectorr",
+   "输入矢量"
+  ],
+  [
+   "Input Water Height Is Absolute",
+   "输入水面高度为绝对值"
+  ],
+  [
+   "Input for Metadata",
+   "元数据输入"
+  ],
+  [
+   "Insert At",
+   "插入位置"
+  ],
+  [
+   "Insert New Keys",
+   "插入新关键帧"
+  ],
+  [
+   "Insert Points at Intersections",
+   "在交点处插入点"
+  ],
+  [
+   "Insert Points at Quad Corners",
+   "在四边形角点插入点"
+  ],
+  [
+   "Inserted Point Group",
+   "插入点组"
+  ],
+  [
+   "Inserts",
+   "插入"
+  ],
+  [
+   "Inset Group",
+   "内缩组"
+  ],
+  [
+   "Inset Mode",
+   "内缩模式"
+  ],
+  [
+   "Inset Scale",
+   "内缩缩放"
+  ],
+  [
+   "Inset Scale Mode",
+   "内缩缩放模式"
+  ],
+  [
+   "Inset Skin Settings",
+   "内缩蒙皮设置"
+  ],
+  [
+   "Insets and Gradients",
+   "内缩与渐变"
+  ],
+  [
+   "Insetting",
+   "内缩"
+  ],
+  [
+   "Inside A",
+   "内部 A"
+  ],
+  [
+   "Inside B",
+   "内部 B"
+  ],
+  [
+   "Inside Cusp Angle",
+   "内侧尖角角度"
+  ],
+  [
+   "Inside Distance",
+   "内侧距离"
+  ],
+  [
+   "Inside Edge Width",
+   "内侧边宽度"
+  ],
+  [
+   "Inside Faces",
+   "内侧面"
+  ],
+  [
+   "Inside Feather",
+   "内侧羽化"
+  ],
+  [
+   "Inside Fold",
+   "内侧折叠"
+  ],
+  [
+   "Inside Group Name",
+   "内部组名称"
+  ],
+  [
+   "Inside Is",
+   "内部为"
+  ],
+  [
+   "Inside Primitives",
+   "内部图元"
+  ],
+  [
+   "Inside Radius Group",
+   "内侧半径组"
+  ],
+  [
+   "Inside Value",
+   "内侧值"
+  ],
+  [
+   "Insides",
+   "内侧"
+  ],
+  [
+   "Instance Base Name",
+   "实例基础名称"
+  ],
+  [
+   "Instance Color",
+   "实例颜色"
+  ],
+  [
+   "Instance Density",
+   "实例密度"
+  ],
+  [
+   "Instance Guides",
+   "实例引导线"
+  ],
+  [
+   "Instance ID",
+   "实例 ID"
+  ],
+  [
+   "Instance Level Attribute",
+   "实例层级属性"
+  ],
+  [
+   "Instance Mode",
+   "实例模式"
+  ],
+  [
+   "Instance Naming",
+   "实例命名"
+  ],
+  [
+   "Instance Path",
+   "实例路径"
+  ],
+  [
+   "Instance Payload Geometry",
+   "实例载荷几何体"
+  ],
+  [
+   "Instance Points",
+   "实例点"
+  ],
+  [
+   "Instance Prefix",
+   "实例前缀"
+  ],
+  [
+   "Instance Target",
+   "实例目标"
+  ],
+  [
+   "Instance Variants",
+   "实例变体"
+  ],
+  [
+   "Instance on New Points",
+   "在新点上实例化"
+  ],
+  [
+   "Instance per Face",
+   "每面实例化"
+  ],
+  [
+   "Instance to Transform",
+   "实例转变换"
+  ],
+  [
+   "Instanceable Geometry Scopes",
+   "可实例化几何体范围"
+  ],
+  [
+   "Instanceable by Default",
+   "默认可实例化"
+  ],
+  [
+   "Instancer Parameters",
+   "实例化器参数"
+  ],
+  [
+   "Instancer Path",
+   "实例化器路径"
+  ],
+  [
+   "Instancer Paths",
+   "实例化器路径"
+  ],
+  [
+   "Instancers",
+   "实例化器"
+  ],
+  [
+   "Instancing Attributes",
+   "实例化属性"
+  ],
+  [
+   "Instantaneous Strain",
+   "瞬时应变"
+  ],
+  [
+   "Instruction:",
+   "说明："
+  ],
+  [
+   "Int Min/Max",
+   "整数最小/最大"
+  ],
+  [
+   "Intangible",
+   "无形"
+  ],
+  [
+   "Integer Attrib",
+   "整数属性"
+  ],
+  [
+   "Integer Attrib Name",
+   "整数属性名"
+  ],
+  [
+   "Integer Defaults",
+   "整数默认值"
+  ],
+  [
+   "Integer Enable",
+   "启用整数"
+  ],
+  [
+   "Integer End Value",
+   "整数结束值"
+  ],
+  [
+   "Integer Initial Value",
+   "整数初始值"
+  ],
+  [
+   "Integer Input",
+   "整数输入"
+  ],
+  [
+   "Integer Range",
+   "整数范围"
+  ],
+  [
+   "Integer Step Size",
+   "整数步长"
+  ],
+  [
+   "Integer Values",
+   "整数值"
+  ],
+  [
+   "Integers",
+   "整数"
+  ],
+  [
+   "Integral Coefficient",
+   "积分系数"
+  ],
+  [
+   "Integral Decay Rate",
+   "积分衰减率"
+  ],
+  [
+   "Integrate Blackbody Curve",
+   "积分黑体曲线"
+  ],
+  [
+   "Integrate Orientation",
+   "积分朝向"
+  ],
+  [
+   "Integrate Particles",
+   "积分粒子"
+  ],
+  [
+   "Integrate Positions",
+   "积分位置"
+  ],
+  [
+   "Integrate a Constant Value",
+   "积分常量值"
+  ],
+  [
+   "Integration Method",
+   "积分方式"
+  ],
+  [
+   "Integration Mode",
+   "积分模式"
+  ],
+  [
+   "Integration Step Size",
+   "积分步长"
+  ],
+  [
+   "Integrator Type",
+   "积分器类型"
+  ],
+  [
+   "Intensity Across Length Ramp",
+   "横向长度强度渐变"
+  ],
+  [
+   "Intensity Along Length Ramp",
+   "沿长度强度渐变"
+  ],
+  [
+   "Intensity Controls",
+   "强度控制"
+  ],
+  [
+   "Intensity Map",
+   "强度贴图"
+  ],
+  [
+   "Intensity Map Filter",
+   "强度贴图过滤"
+  ],
+  [
+   "Intensity Map Width",
+   "强度贴图宽度"
+  ],
+  [
+   "Intensity Mode",
+   "强度模式"
+  ],
+  [
+   "Intensity Multiplier",
+   "强度倍数"
+  ],
+  [
+   "Intensity Near Dist",
+   "近处强度距离"
+  ],
+  [
+   "Intensity Over Normalized Age Ramp",
+   "按归一化年龄的强度渐变"
+  ],
+  [
+   "Interaction",
+   "交互"
+  ],
+  [
+   "Interaction Force",
+   "交互力"
+  ],
+  [
+   "Interaction Mode",
+   "交互模式"
+  ],
+  [
+   "Interactive",
+   "交互式"
+  ],
+  [
+   "Interaxial Distance",
+   "轴间距"
+  ],
+  [
+   "Interior Density",
+   "内部密度"
+  ],
+  [
+   "Interior Edge Length",
+   "内部边长"
+  ],
+  [
+   "Interior Geometry",
+   "内部几何体"
+  ],
+  [
+   "Interior Material",
+   "内部材质"
+  ],
+  [
+   "Interior Points",
+   "内部点"
+  ],
+  [
+   "Interior Range",
+   "内部范围"
+  ],
+  [
+   "Interior Spread Radius",
+   "内部扩散半径"
+  ],
+  [
+   "Interior Surface",
+   "内表面"
+  ],
+  [
+   "Interior Surface Blur",
+   "内表面模糊"
+  ],
+  [
+   "Interior Tet Mesh",
+   "内部四面体网格"
+  ],
+  [
+   "Interior Tets",
+   "内部四面体"
+  ],
+  [
+   "Interior Volume Samples",
+   "内部体积采样"
+  ],
+  [
+   "Intermediate Directory",
+   "中间目录"
+  ],
+  [
+   "Intermediate Images",
+   "中间图像"
+  ],
+  [
+   "Intermediate Output",
+   "中间输出"
+  ],
+  [
+   "Internal Adaptivity",
+   "内部自适应性"
+  ],
+  [
+   "Internal Attach Geometry",
+   "内部附加几何体"
+  ],
+  [
+   "Internal Attributes",
+   "内部属性"
+  ],
+  [
+   "Internal Collisions",
+   "内部碰撞"
+  ],
+  [
+   "Internal Color",
+   "内部颜色"
+  ],
+  [
+   "Internal Color Space",
+   "内部色彩空间"
+  ],
+  [
+   "Internal Constraints",
+   "内部约束"
+  ],
+  [
+   "Internal Density",
+   "内部密度"
+  ],
+  [
+   "Internal Forces",
+   "内力"
+  ],
+  [
+   "Internal Glue",
+   "内部粘合"
+  ],
+  [
+   "Internal Offset",
+   "内部偏移"
+  ],
+  [
+   "Internal Strength",
+   "内部强度"
+  ],
+  [
+   "Interpolate Between Input Frames",
+   "在输入帧之间插值"
+  ],
+  [
+   "Interpolate Boundary",
+   "插值边界"
+  ],
+  [
+   "Interpolate Color",
+   "插值颜色"
+  ],
+  [
+   "Interpolate Fast Transforms",
+   "插值快速变换"
+  ],
+  [
+   "Interpolate Frames",
+   "插值帧"
+  ],
+  [
+   "Interpolate Guide Attributes",
+   "插值引导属性"
+  ],
+  [
+   "Interpolate Guides",
+   "插值引导线"
+  ],
+  [
+   "Interpolate Neighbors",
+   "插值邻居"
+  ],
+  [
+   "Interpolate Orient",
+   "插值朝向"
+  ],
+  [
+   "Interpolate Orientation",
+   "插值朝向"
+  ],
+  [
+   "Interpolate Point Attributes",
+   "插值点属性"
+  ],
+  [
+   "Interpolate Point Values",
+   "插值点值"
+  ],
+  [
+   "Interpolate Relative to Skin",
+   "相对蒙皮插值"
+  ],
+  [
+   "Interpolate Samples",
+   "插值采样"
+  ],
+  [
+   "Interpolate Shaft as Subdivision Curve",
+   "将发干作为细分曲线插值"
+  ],
+  [
+   "Interpolate Through Hulls",
+   "穿过凸包插值"
+  ],
+  [
+   "Interpolate UVs",
+   "插值 UV"
+  ],
+  [
+   "Interpolate Velocity Field",
+   "插值速度场"
+  ],
+  [
+   "Interpolate Velocity In Boundary",
+   "在边界内插值速度"
+  ],
+  [
+   "Interpolate in Plane",
+   "在平面内插值"
+  ],
+  [
+   "Interpolated Orbits Color",
+   "插值轨道颜色"
+  ],
+  [
+   "Interpolation Bias",
+   "插值偏移"
+  ],
+  [
+   "Interpolation Falloff Exponent",
+   "插值衰减指数"
+  ],
+  [
+   "Interpolation Mode",
+   "插值模式"
+  ],
+  [
+   "Interpret As Motion Data",
+   "解释为运动数据"
+  ],
+  [
+   "Interpretation",
+   "解释方式"
+  ],
+  [
+   "Interpupilary Distance",
+   "瞳距"
+  ],
+  [
+   "Interrupt Active Transitions",
+   "中断活动过渡"
+  ],
+  [
+   "Intersect Farthest Surface",
+   "与最远表面相交"
+  ],
+  [
+   "Intersect Tolerance",
+   "相交容差"
+  ],
+  [
+   "Intersecting Tetrahedra",
+   "相交四面体"
+  ],
+  [
+   "Intersection",
+   "相交"
+  ],
+  [
+   "Intersection Color",
+   "相交颜色"
+  ],
+  [
+   "Intersection Group",
+   "相交组"
+  ],
+  [
+   "Intersection Node Id",
+   "相交节点 ID"
+  ],
+  [
+   "Intersection Number",
+   "相交编号"
+  ],
+  [
+   "Intersection Options",
+   "相交选项"
+  ],
+  [
+   "Intersection Settings",
+   "相交设置"
+  ],
+  [
+   "Interval",
+   "间隔"
+  ],
+  [
+   "Interval 1",
+   "间隔 1"
+  ],
+  [
+   "Interval 2",
+   "间隔 2"
+  ],
+  [
+   "Interval 3",
+   "间隔 3"
+  ],
+  [
+   "Interval 4",
+   "间隔 4"
+  ],
+  [
+   "Interval 5",
+   "间隔 5"
+  ],
+  [
+   "Interval 6",
+   "间隔 6"
+  ],
+  [
+   "Interval 7",
+   "间隔 7"
+  ],
+  [
+   "Interval 8",
+   "间隔 8"
+  ],
+  [
+   "Interval 9",
+   "间隔 9"
+  ],
+  [
+   "Interval 10",
+   "间隔 10"
+  ],
+  [
+   "Interval Num",
+   "间隔编号"
+  ],
+  [
+   "Intialize Force and Mass",
+   "初始化力与质量"
+  ],
+  [
+   "Intracluster Group",
+   "簇内组"
+  ],
+  [
+   "Intrinsic",
+   "固有"
+  ],
+  [
+   "Intrinsic Field",
+   "固有场"
+  ],
+  [
+   "Invalid Index",
+   "无效索引"
+  ],
+  [
+   "Invalid Names",
+   "无效名称"
+  ],
+  [
+   "Invalid Prim Color",
+   "无效图元颜色"
+  ],
+  [
+   "Invalid Prim Group",
+   "无效图元组"
+  ],
+  [
+   "Invalidate Output Caches",
+   "使输出缓存失效"
+  ],
+  [
+   "Inverse",
+   "反转"
+  ],
+  [
+   "Inverse Transform",
+   "反转变换"
+  ],
+  [
+   "Inversion",
+   "反转"
+  ],
+  [
+   "Inversion Color",
+   "反转颜色"
+  ],
+  [
+   "Inversions",
+   "反转"
+  ],
+  [
+   "Invert Attribute",
+   "反转属性"
+  ],
+  [
+   "Invert Blend Mask",
+   "反转混合遮罩"
+  ],
+  [
+   "Invert Blockers",
+   "反转阻挡"
+  ],
+  [
+   "Invert Boundary",
+   "反转边界"
+  ],
+  [
+   "Invert Bounding Box",
+   "反转包围盒"
+  ],
+  [
+   "Invert Bump",
+   "反转凹凸"
+  ],
+  [
+   "Invert Bumps",
+   "反转凹凸"
+  ],
+  [
+   "Invert By",
+   "反转依据"
+  ],
+  [
+   "Invert Cells",
+   "反转单元"
+  ],
+  [
+   "Invert Channel 0",
+   "反转通道 0"
+  ],
+  [
+   "Invert Channel 1",
+   "反转通道 1"
+  ],
+  [
+   "Invert Channel 2",
+   "反转通道 2"
+  ],
+  [
+   "Invert Clipping",
+   "反转裁剪"
+  ],
+  [
+   "Invert Collider",
+   "反转碰撞体"
+  ],
+  [
+   "Invert Color",
+   "反转颜色"
+  ],
+  [
+   "Invert Density",
+   "反转密度"
+  ],
+  [
+   "Invert Extraction Direction",
+   "反转提取方向"
+  ],
+  [
+   "Invert Fetched Transform",
+   "反转获取的变换"
+  ],
+  [
+   "Invert Group",
+   "反转组"
+  ],
+  [
+   "Invert Knit",
+   "反转编织"
+  ],
+  [
+   "Invert Offset",
+   "反转偏移"
+  ],
+  [
+   "Invert Output",
+   "反转输出"
+  ],
+  [
+   "Invert PreTransform",
+   "反转预变换"
+  ],
+  [
+   "Invert Profile",
+   "反转剖面"
+  ],
+  [
+   "Invert Range",
+   "反转范围"
+  ],
+  [
+   "Invert Roughness Map (Glossiness)",
+   "反转粗糙度贴图（光泽度）"
+  ],
+  [
+   "Invert S",
+   "反转 S"
+  ],
+  [
+   "Invert SDF",
+   "反转 SDF"
+  ],
+  [
+   "Invert Surface Mask",
+   "反转表面遮罩"
+  ],
+  [
+   "Invert T",
+   "反转 T"
+  ],
+  [
+   "Invert Thickness Map",
+   "反转厚度贴图"
+  ],
+  [
+   "Invert U",
+   "反转 U"
+  ],
+  [
+   "Invert Up Axis",
+   "反转上轴"
+  ],
+  [
+   "Invert V",
+   "反转 V"
+  ],
+  [
+   "Invert Values",
+   "反转值"
+  ],
+  [
+   "Invert X",
+   "反转 X"
+  ],
+  [
+   "Invert Y",
+   "反转 Y"
+  ],
+  [
+   "Invert Z",
+   "反转 Z"
+  ],
+  [
+   "Invert?",
+   "反转？"
+  ],
+  [
+   "Invisible",
+   "不可见"
+  ],
+  [
+   "Invisible Ids",
+   "不可见 ID"
+  ],
+  [
+   "Invisible Object Parms To Keep",
+   "要保留的不可见对象参数"
+  ],
+  [
+   "Invisible Parms",
+   "不可见参数"
+  ],
+  [
+   "Invocation",
+   "调用"
+  ],
+  [
+   "Invoke Block Output",
+   "调用块输出"
+  ],
+  [
+   "Invoke Geometry Output",
+   "调用几何体输出"
+  ],
+  [
+   "Inward Reachable From Constraint Primitives",
+   "从约束图元向内可达"
+  ],
+  [
+   "Iridescence",
+   "虹彩"
+  ],
+  [
+   "Iridescence Index of Refraction",
+   "虹彩折射率"
+  ],
+  [
+   "Iridescence Thickness",
+   "虹彩厚度"
+  ],
+  [
+   "Iris",
+   "虹膜"
+  ],
+  [
+   "Irradiance Roughness",
+   "辐照度粗糙度"
+  ],
+  [
+   "Irradiance Style",
+   "辐照度样式"
+  ],
+  [
+   "Irradiance Tint",
+   "辐照度着色"
+  ],
+  [
+   "Is Current Operation",
+   "是当前操作"
+  ],
+  [
+   "Is Input Groom Node",
+   "是输入梳理节点"
+  ],
+  [
+   "Is Legal",
+   "是否合法"
+  ],
+  [
+   "Is Namespace",
+   "是命名空间"
+  ],
+  [
+   "Is RHS Space",
+   "是 RHS 空间"
+  ],
+  [
+   "Is Rest Pose",
+   "是静止姿态"
+  ],
+  [
+   "Is Tiled",
+   "是否平铺"
+  ],
+  [
+   "Is Visible",
+   "是否可见"
+  ],
+  [
+   "Island Count",
+   "孤岛数量"
+  ],
+  [
+   "Island ID",
+   "孤岛 ID"
+  ],
+  [
+   "Island Number",
+   "孤岛编号"
+  ],
+  [
+   "Island Offset Attribute",
+   "孤岛偏移属性"
+  ],
+  [
+   "Island Rotation Step",
+   "孤岛旋转步长"
+  ],
+  [
+   "Island Scale Attribute",
+   "孤岛缩放属性"
+  ],
+  [
+   "Island Stacking",
+   "孤岛堆叠"
+  ],
+  [
+   "Island Transformations",
+   "孤岛变换"
+  ],
+  [
+   "Islands To Pack",
+   "要排布的孤岛"
+  ],
+  [
+   "Iso",
+   "等值"
+  ],
+  [
+   "Iso Distance",
+   "等值距离"
+  ],
+  [
+   "Iso Div Size",
+   "等值细分尺寸"
+  ],
+  [
+   "Iso Range",
+   "等值范围"
+  ],
+  [
+   "Isolate Center of Mass",
+   "隔离质心"
+  ],
+  [
+   "Isolate Current Tab Selection",
+   "隔离当前标签页选择"
+  ],
+  [
+   "Isolate Group",
+   "隔离组"
+  ],
+  [
+   "Isolate Index",
+   "隔离索引"
+  ],
+  [
+   "Isolate Inverted",
+   "隔离反转"
+  ],
+  [
+   "Isolate Key Poses",
+   "隔离关键姿态"
+  ],
+  [
+   "Isolate Primitives Below Threshold",
+   "隔离低于阈值的图元"
+  ],
+  [
+   "Isolate Section Geo",
+   "隔离分区几何体"
+  ],
+  [
+   "Isolate Sequence",
+   "隔离序列"
+  ],
+  [
+   "Isolate Static Frames",
+   "隔离静态帧"
+  ],
+  [
+   "Isolation Filters",
+   "隔离过滤器"
+  ]
+ ]
+}

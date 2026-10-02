@@ -1,0 +1,1556 @@
+{
+ "note": "合并清单 —— 第 4 批",
+ "skip": [
+  "    Plane Scope",
+  "  Mult",
+  "  Sort By",
+  "Basecolor",
+  "Beta1",
+  "Beta2",
+  "Bool",
+  "Bone1",
+  "Bone2",
+  "Bone3",
+  "Bone4",
+  "Bone5",
+  "Bone6",
+  "Bone7",
+  "Bone8",
+  "Bone9",
+  "Bone10",
+  "Bone11",
+  "Bone12",
+  "Bone13",
+  "Bone14",
+  "Bone15",
+  "Bone16",
+  "Bone17",
+  "Bone18"
+ ],
+ "entries": [
+  [
+   "Arm Twist Translate",
+   "手臂扭转平移"
+  ],
+  [
+   "Barb Density",
+   "倒钩密度"
+  ],
+  [
+   "Barb Frequency",
+   "倒钩频率"
+  ],
+  [
+   "Barb Frequency Options",
+   "倒钩频率选项"
+  ],
+  [
+   "Barb Frequency Override",
+   "覆盖倒钩频率"
+  ],
+  [
+   "Barb Frequency Remap Ramp",
+   "倒钩频率重映射渐变"
+  ],
+  [
+   "Barb Mode",
+   "倒钩模式"
+  ],
+  [
+   "Barb Resolution",
+   "倒钩分辨率"
+  ],
+  [
+   "Barb Rows",
+   "倒钩行数"
+  ],
+  [
+   "Barb Segment Mode",
+   "倒钩分段模式"
+  ],
+  [
+   "Barb Side",
+   "倒钩侧"
+  ],
+  [
+   "Barb Start on Shape",
+   "倒钩从形状起算"
+  ],
+  [
+   "Barb Width",
+   "倒钩宽度"
+  ],
+  [
+   "Barb Width Options",
+   "倒钩宽度选项"
+  ],
+  [
+   "Barb Width Override",
+   "覆盖倒钩宽度"
+  ],
+  [
+   "Barb Width Remap Ramp",
+   "倒钩宽度重映射渐变"
+  ],
+  [
+   "Bark Intensity",
+   "树皮强度"
+  ],
+  [
+   "Bark Roughness",
+   "树皮粗糙度"
+  ],
+  [
+   "Bark Size",
+   "树皮大小"
+  ],
+  [
+   "Bark Strips",
+   "树皮条"
+  ],
+  [
+   "Barn Bottom",
+   "谷仓底部"
+  ],
+  [
+   "Barn Doors",
+   "挡光板"
+  ],
+  [
+   "Barn Left",
+   "谷仓左侧"
+  ],
+  [
+   "Barn Mode",
+   "谷仓模式"
+  ],
+  [
+   "Barn Right",
+   "谷仓右侧"
+  ],
+  [
+   "Barn Shape",
+   "谷仓形状"
+  ],
+  [
+   "Barn Top",
+   "谷仓顶部"
+  ],
+  [
+   "Barndoor Bottom",
+   "底部挡光板"
+  ],
+  [
+   "Barndoor Left",
+   "左侧挡光板"
+  ],
+  [
+   "Barndoor Right",
+   "右侧挡光板"
+  ],
+  [
+   "Barndoor Texture",
+   "挡光板贴图"
+  ],
+  [
+   "Barndoor Top",
+   "顶部挡光板"
+  ],
+  [
+   "Base Ambient",
+   "基础环境光"
+  ],
+  [
+   "Base Amount",
+   "基础量"
+  ],
+  [
+   "Base Aspect Ratio",
+   "基础宽高比"
+  ],
+  [
+   "Base Asset Path",
+   "基础资产路径"
+  ],
+  [
+   "Base Boundary Group",
+   "基础边界组"
+  ],
+  [
+   "Base Cells",
+   "基础单元"
+  ],
+  [
+   "Base Clip Name",
+   "基础片段名称"
+  ],
+  [
+   "Base Color COP",
+   "基础色 COP"
+  ],
+  [
+   "Base Color Defaults",
+   "基础色默认值"
+  ],
+  [
+   "Base Color Group",
+   "基础色组"
+  ],
+  [
+   "Base Color Name",
+   "基础色名称"
+  ],
+  [
+   "Base Combined Name",
+   "基础合成名称"
+  ],
+  [
+   "Base Command",
+   "基础命令"
+  ],
+  [
+   "Base Coverage",
+   "基础覆盖"
+  ],
+  [
+   "Base Diffuse",
+   "基础漫反射"
+  ],
+  [
+   "Base Diffuse Roughness",
+   "基础漫反射粗糙度"
+  ],
+  [
+   "Base Distortion",
+   "基础畸变"
+  ],
+  [
+   "Base Frequency",
+   "基础频率"
+  ],
+  [
+   "Base Gain",
+   "基础增益"
+  ],
+  [
+   "Base Group Type",
+   "基础组类型"
+  ],
+  [
+   "Base Height Influence",
+   "基础高度影响"
+  ],
+  [
+   "Base Height Scale",
+   "基础高度缩放"
+  ],
+  [
+   "Base Hold",
+   "基础保持"
+  ],
+  [
+   "Base Layer Gain",
+   "基础图层增益"
+  ],
+  [
+   "Base Layer Scalar",
+   "基础图层标量"
+  ],
+  [
+   "Base Layer Vector",
+   "基础图层矢量"
+  ],
+  [
+   "Base Level",
+   "基础级别"
+  ],
+  [
+   "Base Lift",
+   "基础提亮"
+  ],
+  [
+   "Base Light Model",
+   "基础光照模型"
+  ],
+  [
+   "Base Metalness",
+   "基础金属度"
+  ],
+  [
+   "Base Noise 1",
+   "基础噪声 1"
+  ],
+  [
+   "Base Noise 2",
+   "基础噪声 2"
+  ],
+  [
+   "Base Offset",
+   "基础偏移"
+  ],
+  [
+   "Base Padding",
+   "基础留白"
+  ],
+  [
+   "Base Parameters",
+   "基础参数"
+  ],
+  [
+   "Base Primitive Path",
+   "基础图元路径"
+  ],
+  [
+   "Base Reflect",
+   "基础反射"
+  ],
+  [
+   "Base Reflection",
+   "基础反射"
+  ],
+  [
+   "Base Reflection Label",
+   "基础反射标签"
+  ],
+  [
+   "Base Resolution",
+   "基础分辨率"
+  ],
+  [
+   "Base Roughness",
+   "基础粗糙度"
+  ],
+  [
+   "Base Scale",
+   "基础缩放"
+  ],
+  [
+   "Base Sharpness",
+   "基础锐度"
+  ],
+  [
+   "Base Shift",
+   "基础偏移"
+  ],
+  [
+   "Base Specular",
+   "基础高光"
+  ],
+  [
+   "Base URL",
+   "基础 URL"
+  ],
+  [
+   "Base Value",
+   "基础值"
+  ],
+  [
+   "Based on Y and Z Axes (below)",
+   "基于 Y 和 Z 轴（见下）"
+  ],
+  [
+   "Basic Options",
+   "基本选项"
+  ],
+  [
+   "Batch All Frames in One Job",
+   "在一个任务中批处理所有帧"
+  ],
+  [
+   "Batch Type",
+   "批处理类型"
+  ],
+  [
+   "Batching",
+   "批处理"
+  ],
+  [
+   "Beam Thickness",
+   "光束粗细"
+  ],
+  [
+   "Bearing Reference",
+   "方位参考"
+  ],
+  [
+   "Bearing Vector",
+   "方位矢量"
+  ],
+  [
+   "Beauty Name",
+   "最终着色名称"
+  ],
+  [
+   "Before Transition",
+   "过渡之前"
+  ],
+  [
+   "Before/After/Inc",
+   "之前/之后/增量"
+  ],
+  [
+   "Begin Block Path",
+   "起始块路径"
+  ],
+  [
+   "Begin Distance",
+   "起始距离"
+  ],
+  [
+   "Below Primitives",
+   "下方图元"
+  ],
+  [
+   "Bend Map",
+   "弯曲贴图"
+  ],
+  [
+   "Bend Map Blend",
+   "弯曲贴图混合"
+  ],
+  [
+   "Bend Noise",
+   "弯曲噪声"
+  ],
+  [
+   "Bend Noise Map",
+   "弯曲噪声贴图"
+  ],
+  [
+   "Bend Noise Map Blend",
+   "弯曲噪声贴图混合"
+  ],
+  [
+   "Bend Plastic Flow",
+   "弯曲塑性流动"
+  ],
+  [
+   "Bend Spring",
+   "弯曲弹簧"
+  ],
+  [
+   "Bend Stiffness Ratio",
+   "弯曲劲度比"
+  ],
+  [
+   "Bend Stress",
+   "弯曲应力"
+  ],
+  [
+   "Beta Raw",
+   "原始 Beta"
+  ],
+  [
+   "Beta Raw (Feed)",
+   "原始 Beta（反馈）"
+  ],
+  [
+   "Between Cluster Constraint Strength",
+   "簇间约束强度"
+  ],
+  [
+   "Bevel Size",
+   "倒角大小"
+  ],
+  [
+   "Bias Direction",
+   "偏置方向"
+  ],
+  [
+   "Bias Map",
+   "偏置贴图"
+  ],
+  [
+   "Bias Normal",
+   "偏置法线"
+  ],
+  [
+   "Bias Override",
+   "覆盖偏置"
+  ],
+  [
+   "Bias Texture",
+   "偏置贴图"
+  ],
+  [
+   "Bidirectional Ray Result",
+   "双向射线结果"
+  ],
+  [
+   "Big Digit",
+   "大号数字"
+  ],
+  [
+   "Biharmonic Capture Mesh",
+   "双调和捕捉网格"
+  ],
+  [
+   "Billow Offset",
+   "翻滚偏移"
+  ],
+  [
+   "Bind Attrib",
+   "绑定属性"
+  ],
+  [
+   "Bind Attribute Name",
+   "绑定属性名称"
+  ],
+  [
+   "Bind Cuts to Nearest Source Primitive (Faster)",
+   "把切缝绑定到最近的源图元（更快）"
+  ],
+  [
+   "Bind Each Volume to Density",
+   "把每个体积绑定到密度"
+  ],
+  [
+   "Bind Each to Density",
+   "把每个绑定到密度"
+  ],
+  [
+   "Bind Geometry Subset Materials",
+   "绑定几何体子集材质"
+  ],
+  [
+   "Bind Material",
+   "绑定材质"
+  ],
+  [
+   "Bind Method",
+   "绑定方式"
+  ],
+  [
+   "Bind Multiple Configurations",
+   "绑定多个配置"
+  ],
+  [
+   "Bind Multiple Outputs",
+   "绑定多个输出"
+  ],
+  [
+   "Bind Pose",
+   "绑定姿态"
+  ],
+  [
+   "Bind to Work Item",
+   "绑定到工作项"
+  ],
+  [
+   "Binding Name",
+   "绑定名称"
+  ],
+  [
+   "Binding Options",
+   "绑定选项"
+  ],
+  [
+   "Binding Path",
+   "绑定路径"
+  ],
+  [
+   "Bindings to Export",
+   "要导出的绑定"
+  ],
+  [
+   "Bindpose FBX",
+   "绑定姿态 FBX"
+  ],
+  [
+   "Binormal Generation",
+   "副法线生成"
+  ],
+  [
+   "BioVision Motion Capture File",
+   "BioVision 动作捕捉文件"
+  ],
+  [
+   "Biome Blur",
+   "生物群系模糊"
+  ],
+  [
+   "Biome Blur Radius",
+   "生物群系模糊半径"
+  ],
+  [
+   "Biome Classification",
+   "生物群系分类"
+  ],
+  [
+   "Biome Define Path",
+   "生物群系定义路径"
+  ],
+  [
+   "Biome Visualization",
+   "生物群系可视化"
+  ],
+  [
+   "Biped Attribute",
+   "双足属性"
+  ],
+  [
+   "Biped Groups",
+   "双足组"
+  ],
+  [
+   "Biped Tags",
+   "双足标签"
+  ],
+  [
+   "Birch Bark",
+   "桦树皮"
+  ],
+  [
+   "Birth Group",
+   "出生组"
+  ],
+  [
+   "Birth Rate",
+   "出生率"
+  ],
+  [
+   "Bit Depth Attribute",
+   "位深属性"
+  ],
+  [
+   "Bit Shift",
+   "位移"
+  ],
+  [
+   "Bit Twiddle",
+   "位翻转"
+  ],
+  [
+   "Black Pixel Frame",
+   "黑像素帧"
+  ],
+  [
+   "Bleed",
+   "渗色"
+  ],
+  [
+   "Blemish Contrast",
+   "瑕疵对比度"
+  ],
+  [
+   "Blemish Spread",
+   "瑕疵扩散"
+  ],
+  [
+   "Blend Dual Quaternion and Linear Skinning",
+   "混合双四元数与线性蒙皮"
+  ],
+  [
+   "Blend Fingers",
+   "手指混合"
+  ],
+  [
+   "Blend Input",
+   "混合输入"
+  ],
+  [
+   "Blend Parent",
+   "混合父级"
+  ],
+  [
+   "Blend Radius",
+   "混合半径"
+  ],
+  [
+   "Blend Range",
+   "混合范围"
+  ],
+  [
+   "Blend Ratio Attribute",
+   "混合比例属性"
+  ],
+  [
+   "Blend Ratio Mode",
+   "混合比例模式"
+  ],
+  [
+   "Blend Region Scale #",
+   "混合区域缩放 #"
+  ],
+  [
+   "Blend Root",
+   "混合根部"
+  ],
+  [
+   "Blend Rotation",
+   "混合旋转"
+  ],
+  [
+   "Blend Scope",
+   "混合范围"
+  ],
+  [
+   "Blend Shapes Source",
+   "混合变形来源"
+  ],
+  [
+   "Blend Simulated Values",
+   "混合模拟值"
+  ],
+  [
+   "Blend Tangents",
+   "混合切线"
+  ],
+  [
+   "Blend Type Attrib",
+   "混合类型属性"
+  ],
+  [
+   "Blend Variation",
+   "混合变化"
+  ],
+  [
+   "Blend While Looping",
+   "循环时混合"
+  ],
+  [
+   "Blend in Skin Space Options",
+   "「在蒙皮空间混合」选项"
+  ],
+  [
+   "Blend into Group",
+   "混合到组"
+  ],
+  [
+   "Blend to Blur",
+   "混合到模糊"
+  ],
+  [
+   "Blend to Pose",
+   "混合到姿态"
+  ],
+  [
+   "Blended Ankle Rotate",
+   "混合后的脚踝旋转"
+  ],
+  [
+   "Blended Ankle Translate",
+   "混合后的脚踝平移"
+  ],
+  [
+   "Blended Index1 Rotate",
+   "混合后的食指 1 旋转"
+  ],
+  [
+   "Blended Index1 Translate",
+   "混合后的食指 1 平移"
+  ],
+  [
+   "Blended Index2 Rotate",
+   "混合后的食指 2 旋转"
+  ],
+  [
+   "Blended Index2 Translate",
+   "混合后的食指 2 平移"
+  ],
+  [
+   "Blended Index3 Rotate",
+   "混合后的食指 3 旋转"
+  ],
+  [
+   "Blended Index3 Translate",
+   "混合后的食指 3 平移"
+  ],
+  [
+   "Blended Middle1 Rotate",
+   "混合后的中指 1 旋转"
+  ],
+  [
+   "Blended Middle1 Translate",
+   "混合后的中指 1 平移"
+  ],
+  [
+   "Blended Middle2 Rotate",
+   "混合后的中指 2 旋转"
+  ],
+  [
+   "Blended Middle2 Translate",
+   "混合后的中指 2 平移"
+  ],
+  [
+   "Blended Middle3 Rotate",
+   "混合后的中指 3 旋转"
+  ],
+  [
+   "Blended Middle3 Translate",
+   "混合后的中指 3 平移"
+  ],
+  [
+   "Blended Pinky1 Rotate",
+   "混合后的无名指 1 旋转"
+  ],
+  [
+   "Blended Pinky1 Translate",
+   "混合后的无名指 1 平移"
+  ],
+  [
+   "Blended Pinky2 Rotate",
+   "混合后的无名指 2 旋转"
+  ],
+  [
+   "Blended Pinky2 Translate",
+   "混合后的无名指 2 平移"
+  ],
+  [
+   "Blended Pinky3 Rotate",
+   "混合后的无名指 3 旋转"
+  ],
+  [
+   "Blended Pinky3 Translate",
+   "混合后的无名指 3 平移"
+  ],
+  [
+   "Blended Ring1 Rotate",
+   "混合后的小指 1 旋转"
+  ],
+  [
+   "Blended Ring1 Translate",
+   "混合后的小指 1 平移"
+  ],
+  [
+   "Blended Ring2 Rotate",
+   "混合后的小指 2 旋转"
+  ],
+  [
+   "Blended Ring2 Translate",
+   "混合后的小指 2 平移"
+  ],
+  [
+   "Blended Ring3 Rotate",
+   "混合后的小指 3 旋转"
+  ],
+  [
+   "Blended Ring3 Translate",
+   "混合后的小指 3 平移"
+  ],
+  [
+   "Blended Thumb1 Rotate",
+   "混合后的拇指 1 旋转"
+  ],
+  [
+   "Blended Thumb1 Translate",
+   "混合后的拇指 1 平移"
+  ],
+  [
+   "Blended Thumb2 Rotate",
+   "混合后的拇指 2 旋转"
+  ],
+  [
+   "Blended Thumb2 Translate",
+   "混合后的拇指 2 平移"
+  ],
+  [
+   "Blended Thumb3 Rotate",
+   "混合后的拇指 3 旋转"
+  ],
+  [
+   "Blended Thumb3 Translate",
+   "混合后的拇指 3 平移"
+  ],
+  [
+   "Blended Toe Rotate",
+   "混合后的脚趾旋转"
+  ],
+  [
+   "Blended Toe Translate",
+   "混合后的脚趾平移"
+  ],
+  [
+   "Blending Blur",
+   "混合模糊"
+  ],
+  [
+   "Blending Radius",
+   "混合半径"
+  ],
+  [
+   "Blending Space",
+   "混合空间"
+  ],
+  [
+   "Blendshape Brushes",
+   "混合变形笔刷"
+  ],
+  [
+   "Blendshape Target",
+   "混合变形目标"
+  ],
+  [
+   "Blinn Roughness",
+   "Blinn 粗糙度"
+  ],
+  [
+   "Blob when",
+   "团块条件"
+  ],
+  [
+   "Block Begin Path",
+   "块起始路径"
+  ],
+  [
+   "Block Geometry Properties",
+   "块几何体属性"
+  ],
+  [
+   "Block Input Name",
+   "块输入名称"
+  ],
+  [
+   "Block Inputs",
+   "块输入"
+  ],
+  [
+   "Block Inputs While Editing",
+   "编辑时阻止输入"
+  ],
+  [
+   "Block Outputs",
+   "块输出"
+  ],
+  [
+   "Block Source",
+   "块来源"
+  ],
+  [
+   "Blockers",
+   "阻挡器"
+  ],
+  [
+   "Blocks Lighting",
+   "阻挡光照"
+  ],
+  [
+   "Blosc Compression",
+   "Blosc 压缩"
+  ],
+  [
+   "Blue Boost",
+   "蓝通道增益"
+  ],
+  [
+   "Blue Channel",
+   "蓝通道"
+  ],
+  [
+   "Blue Color",
+   "蓝色"
+  ],
+  [
+   "Blue Curve",
+   "蓝色曲线"
+  ],
+  [
+   "Blue From",
+   "蓝色起始"
+  ],
+  [
+   "Blue To",
+   "蓝色结束"
+  ],
+  [
+   "Blur Before",
+   "之前模糊"
+  ],
+  [
+   "Blur Blend Amount",
+   "模糊混合量"
+  ],
+  [
+   "Blur Exponent",
+   "模糊指数"
+  ],
+  [
+   "Blur Far Dist",
+   "远距模糊距离"
+  ],
+  [
+   "Blur Far Value",
+   "远距模糊值"
+  ],
+  [
+   "Blur Filter",
+   "模糊过滤器"
+  ],
+  [
+   "Blur Group",
+   "模糊组"
+  ],
+  [
+   "Blur Layer",
+   "模糊图层"
+  ],
+  [
+   "Blur Mask",
+   "模糊遮罩"
+  ],
+  [
+   "Blur Mask Field",
+   "模糊遮罩场"
+  ],
+  [
+   "Blur Mid Value",
+   "中距模糊值"
+  ],
+  [
+   "Blur Midpoint",
+   "模糊中点"
+  ],
+  [
+   "Blur Muscle Transitions",
+   "模糊肌肉过渡"
+  ],
+  [
+   "Blur Muscles",
+   "模糊肌肉"
+  ],
+  [
+   "Blur Near Dist",
+   "近距模糊距离"
+  ],
+  [
+   "Blur Near Value",
+   "近距模糊值"
+  ],
+  [
+   "Blur Noise",
+   "模糊噪声"
+  ],
+  [
+   "Blur Offset",
+   "模糊偏移"
+  ],
+  [
+   "Blur Relative to Skin",
+   "相对蒙皮模糊"
+  ],
+  [
+   "Blur Scatter",
+   "模糊散布"
+  ],
+  [
+   "Blur Step Falloff",
+   "模糊步长衰减"
+  ],
+  [
+   "Blur Tool",
+   "模糊工具"
+  ],
+  [
+   "Blur Voxel Values",
+   "模糊体素值"
+  ],
+  [
+   "Blur by Muscle Distance",
+   "按肌肉距离模糊"
+  ],
+  [
+   "Blur by Skin-Muscle Angle",
+   "按蒙皮-肌肉角度模糊"
+  ],
+  [
+   "Blur/Density",
+   "模糊/密度"
+  ],
+  [
+   "Blur/Sharpen Radius",
+   "模糊/锐化半径"
+  ],
+  [
+   "Blurring",
+   "模糊"
+  ],
+  [
+   "Blurring Radius",
+   "模糊半径"
+  ],
+  [
+   "Boder Fuse Tolerance",
+   "边界融合容差"
+  ],
+  [
+   "Body Group",
+   "身体组"
+  ],
+  [
+   "Body Part Size Match",
+   "身体部件尺寸匹配"
+  ],
+  [
+   "Body Segments",
+   "身体分段"
+  ],
+  [
+   "Bokeh Gain",
+   "散景增益"
+  ],
+  [
+   "Bokeh Offset",
+   "散景偏移"
+  ],
+  [
+   "Bokeh Resolution",
+   "散景分辨率"
+  ],
+  [
+   "Bokeh and Distortion",
+   "散景与畸变"
+  ],
+  [
+   "Bone 1",
+   "骨骼 1"
+  ],
+  [
+   "Bone 2",
+   "骨骼 2"
+  ],
+  [
+   "Bone 3",
+   "骨骼 3"
+  ],
+  [
+   "Bone 4",
+   "骨骼 4"
+  ],
+  [
+   "Bone 5",
+   "骨骼 5"
+  ],
+  [
+   "Bone 9",
+   "骨骼 9"
+  ],
+  [
+   "Bone 11",
+   "骨骼 11"
+  ],
+  [
+   "Bone 13",
+   "骨骼 13"
+  ],
+  [
+   "Bone 15",
+   "骨骼 15"
+  ],
+  [
+   "Bone 17",
+   "骨骼 17"
+  ],
+  [
+   "Bone 10 Position",
+   "骨骼 10 位置"
+  ],
+  [
+   "Bone 11 Position",
+   "骨骼 11 位置"
+  ],
+  [
+   "Bone 12 Position",
+   "骨骼 12 位置"
+  ],
+  [
+   "Bone 13 Position",
+   "骨骼 13 位置"
+  ],
+  [
+   "Bone 14 Position",
+   "骨骼 14 位置"
+  ],
+  [
+   "Bone 15 Position",
+   "骨骼 15 位置"
+  ],
+  [
+   "Bone 16 Position",
+   "骨骼 16 位置"
+  ],
+  [
+   "Bone 17 Position",
+   "骨骼 17 位置"
+  ],
+  [
+   "Bone 18 Position",
+   "骨骼 18 位置"
+  ],
+  [
+   "Bone 2 Position",
+   "骨骼 2 位置"
+  ],
+  [
+   "Bone 3 Position",
+   "骨骼 3 位置"
+  ],
+  [
+   "Bone 4 Position",
+   "骨骼 4 位置"
+  ],
+  [
+   "Bone 5 Position",
+   "骨骼 5 位置"
+  ],
+  [
+   "Bone 6 Position",
+   "骨骼 6 位置"
+  ],
+  [
+   "Bone 7 Position",
+   "骨骼 7 位置"
+  ],
+  [
+   "Bone 8 Position",
+   "骨骼 8 位置"
+  ],
+  [
+   "Bone 9 Position",
+   "骨骼 9 位置"
+  ],
+  [
+   "Bone Animation",
+   "骨骼动画"
+  ],
+  [
+   "Bone Animation from Capture Weights",
+   "从捕捉权重生成骨骼动画"
+  ],
+  [
+   "Bone Capture Pose",
+   "骨骼捕捉姿态"
+  ],
+  [
+   "Bone Capture Pose:",
+   "骨骼捕捉姿态："
+  ],
+  [
+   "Bone Capture Post:",
+   "骨骼捕捉后："
+  ],
+  [
+   "Bone Deform Method",
+   "骨骼变形方式"
+  ],
+  [
+   "Bone Group",
+   "骨骼组"
+  ],
+  [
+   "Bone IK Solvers",
+   "骨骼 IK 求解器"
+  ],
+  [
+   "Bone Kinematic Solvers",
+   "骨骼运动学求解器"
+  ],
+  [
+   "Bone Lengths",
+   "骨骼长度"
+  ],
+  [
+   "Bone Mass Density",
+   "骨骼质量密度"
+  ],
+  [
+   "Bone Name",
+   "骨骼名称"
+  ],
+  [
+   "Bone Object Capture Options",
+   "骨骼物体捕捉选项"
+  ],
+  [
+   "Bone Object Hierarchy Options",
+   "骨骼物体层级选项"
+  ],
+  [
+   "Bone Object Hierarchy Root",
+   "骨骼物体层级根"
+  ],
+  [
+   "Bone Rest Angles",
+   "骨骼静止角度"
+  ],
+  [
+   "Bone Rest Attribute",
+   "骨骼静止属性"
+  ],
+  [
+   "Bone Rotations",
+   "骨骼旋转"
+  ],
+  [
+   "Bone Target Strength",
+   "骨骼目标强度"
+  ],
+  [
+   "Bone1 Color",
+   "骨骼 1 颜色"
+  ],
+  [
+   "Bone1 Rotate",
+   "骨骼 1 旋转"
+  ],
+  [
+   "Bone1 Scale",
+   "骨骼 1 缩放"
+  ],
+  [
+   "Bone1 Translate",
+   "骨骼 1 平移"
+  ],
+  [
+   "Bone2 Color",
+   "骨骼 2 颜色"
+  ],
+  [
+   "Bone2 Rotate",
+   "骨骼 2 旋转"
+  ],
+  [
+   "Bone2 Scale",
+   "骨骼 2 缩放"
+  ],
+  [
+   "Bone2 Translate",
+   "骨骼 2 平移"
+  ],
+  [
+   "Bone3 Color",
+   "骨骼 3 颜色"
+  ],
+  [
+   "Bone3 Rotate",
+   "骨骼 3 旋转"
+  ],
+  [
+   "Bone3 Scale",
+   "骨骼 3 缩放"
+  ],
+  [
+   "Bone3 Translate",
+   "骨骼 3 平移"
+  ],
+  [
+   "Bone4 Color",
+   "骨骼 4 颜色"
+  ],
+  [
+   "Bone4 Rotate",
+   "骨骼 4 旋转"
+  ],
+  [
+   "Bone4 Scale",
+   "骨骼 4 缩放"
+  ],
+  [
+   "Bone4 Translate",
+   "骨骼 4 平移"
+  ],
+  [
+   "Bone5 Color",
+   "骨骼 5 颜色"
+  ],
+  [
+   "Bone5 Rotate",
+   "骨骼 5 旋转"
+  ],
+  [
+   "Bone5 Scale",
+   "骨骼 5 缩放"
+  ],
+  [
+   "Bone5 Translate",
+   "骨骼 5 平移"
+  ],
+  [
+   "Bone6 Rotate",
+   "骨骼 6 旋转"
+  ],
+  [
+   "Bone7 Rotate",
+   "骨骼 7 旋转"
+  ],
+  [
+   "Bone7 Scale",
+   "骨骼 7 缩放"
+  ],
+  [
+   "Bone7 Translate",
+   "骨骼 7 平移"
+  ],
+  [
+   "Bone8 Rotate",
+   "骨骼 8 旋转"
+  ],
+  [
+   "Bone9 Rotate",
+   "骨骼 9 旋转"
+  ],
+  [
+   "Bone9 Scale",
+   "骨骼 9 缩放"
+  ],
+  [
+   "Bone9 Translate",
+   "骨骼 9 平移"
+  ],
+  [
+   "Bone10 Rotate",
+   "骨骼 10 旋转"
+  ],
+  [
+   "Bone11 Rotate",
+   "骨骼 11 旋转"
+  ],
+  [
+   "Bone11 Scale",
+   "骨骼 11 缩放"
+  ],
+  [
+   "Bone11 Translate",
+   "骨骼 11 平移"
+  ],
+  [
+   "Bone12 Rotate",
+   "骨骼 12 旋转"
+  ],
+  [
+   "Bone13 Rotate",
+   "骨骼 13 旋转"
+  ],
+  [
+   "Bone13 Scale",
+   "骨骼 13 缩放"
+  ],
+  [
+   "Bone13 Translate",
+   "骨骼 13 平移"
+  ],
+  [
+   "Bone14 Rotate",
+   "骨骼 14 旋转"
+  ],
+  [
+   "Bone15 Rotate",
+   "骨骼 15 旋转"
+  ],
+  [
+   "Bone15 Scale",
+   "骨骼 15 缩放"
+  ],
+  [
+   "Bone15 Translate",
+   "骨骼 15 平移"
+  ],
+  [
+   "Bone16 Rotate",
+   "骨骼 16 旋转"
+  ],
+  [
+   "Bone17 Rotate",
+   "骨骼 17 旋转"
+  ],
+  [
+   "Bone17 Scale",
+   "骨骼 17 缩放"
+  ],
+  [
+   "Bone17 Translate",
+   "骨骼 17 平移"
+  ],
+  [
+   "Bone18 Rotate",
+   "骨骼 18 旋转"
+  ],
+  [
+   "Boolean Against Original",
+   "与原始几何体做布尔"
+  ],
+  [
+   "Boolean Buildings",
+   "布尔建筑"
+  ],
+  [
+   "Boolean Precision",
+   "布尔精度"
+  ],
+  [
+   "Boolean Settings",
+   "布尔设置"
+  ],
+  [
+   "Boolean Threshold",
+   "布尔阈值"
+  ],
+  [
+   "Boolean Union before Remesh",
+   "重设网格前先布尔并集"
+  ],
+  [
+   "Boost",
+   "增益"
+  ],
+  [
+   "Boost 1",
+   "增益 1"
+  ],
+  [
+   "Boost 2",
+   "增益 2"
+  ],
+  [
+   "Boost 3",
+   "增益 3"
+  ],
+  [
+   "Boost 4",
+   "增益 4"
+  ],
+  [
+   "Boost 5",
+   "增益 5"
+  ],
+  [
+   "Boost 6",
+   "增益 6"
+  ],
+  [
+   "Boost 7",
+   "增益 7"
+  ],
+  [
+   "Boost 8",
+   "增益 8"
+  ],
+  [
+   "Boost Bias",
+   "增益偏置"
+  ],
+  [
+   "Boost Edge Loss",
+   "增益边损失"
+  ],
+  [
+   "Boost Factor",
+   "增益系数"
+  ],
+  [
+   "Boost Intensity of Bright Spots",
+   "提升亮点强度"
+  ],
+  [
+   "Boost Level",
+   "增益级别"
+  ],
+  [
+   "Boost Long Guides",
+   "增强长导向"
+  ],
+  [
+   "Boost Slice Sensitivity For Micro-scale or Dense Inputs",
+   "提升微尺度或稠密输入的切片灵敏度"
+  ]
+ ]
+}

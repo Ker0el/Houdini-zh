@@ -1,0 +1,8 @@
+{
+ "_comment": "第六十一批：星空汉化自己的菜单标签。Houdini 的菜单 XML 必须纯 ASCII（内置文件 0 个非 ASCII 字节），中文标签会让整个 subMenu 被静默丢弃 —— 所以 XML 里写英文，靠我们自己的 QAction::setText 钩子把它翻成中文。切到英文时这几条自然保持英文，正好。",
+ "entries": {
+  "Starry Localization": "星空汉化",
+  "Toggle Chinese / English": "切换中英文界面",
+  "Starry Localization - Bilibili": "星空汉化 · B站主页"
+ }
+}

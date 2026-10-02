@@ -1,0 +1,65 @@
+{
+ "note": "用户 2026-10-02 报的漏译：Pyro 模拟域的手柄显示项、Ramp 模式枚举、pyro_solver 温度页",
+ "entries": [
+  [
+   "Arrow Thickness",
+   "箭头粗细"
+  ],
+  [
+   "Arrow Sizes",
+   "箭头大小"
+  ],
+  [
+   "Arrow Size",
+   "箭头大小"
+  ],
+  [
+   "No Ramp",
+   "无渐变"
+  ],
+  [
+   "Clamped Ramp",
+   "钳制渐变"
+  ],
+  [
+   "Periodic Ramp",
+   "周期渐变"
+  ],
+  [
+   "Add Temperature",
+   "添加温度"
+  ],
+  [
+   "Add Density",
+   "添加密度"
+  ],
+  [
+   "Add Divergence",
+   "添加散度"
+  ],
+  [
+   "Add Rest",
+   "添加静止"
+  ],
+  [
+   "Ramp Mode",
+   "渐变模式"
+  ],
+  [
+   "Extrapolation Mode",
+   "外推模式"
+  ],
+  [
+   "Continuous",
+   "连续"
+  ],
+  [
+   "Block-Based",
+   "分块式"
+  ],
+  [
+   "Block-Based Culling",
+   "分块剔除"
+  ]
+ ]
+}

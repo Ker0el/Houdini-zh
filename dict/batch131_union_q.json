@@ -1,0 +1,1565 @@
+{
+ "note": "合并清单 —— 第 17 批（Hand Pin → Image Location）",
+ "skip": [
+  "HandleParms",
+  "Headingx",
+  "Headingy",
+  "Headingz",
+  "Height#",
+  "Hitnormal",
+  "IMAGE_components_all",
+  "IMAGE_components_alpha",
+  "IMAGE_components_blue",
+  "IMAGE_components_green",
+  "IMAGE_components_red",
+  "IX",
+  "IY",
+  "IZ"
+ ],
+ "entries": [
+  [
+   "Hand Pin",
+   "手部固定"
+  ],
+  [
+   "Hand Roll",
+   "手部滚转"
+  ],
+  [
+   "Hand Rotate",
+   "手部旋转"
+  ],
+  [
+   "Hand Translate",
+   "手部平移"
+  ],
+  [
+   "Hand Type",
+   "手部类型"
+  ],
+  [
+   "Hand Up Translate",
+   "手上方向平移"
+  ],
+  [
+   "Handle 1",
+   "手柄 1"
+  ],
+  [
+   "Handle 2",
+   "手柄 2"
+  ],
+  [
+   "Handle 3",
+   "手柄 3"
+  ],
+  [
+   "Handle 4",
+   "手柄 4"
+  ],
+  [
+   "Handle 5",
+   "手柄 5"
+  ],
+  [
+   "Handle By",
+   "控制依据"
+  ],
+  [
+   "Handle Center Point Pos",
+   "手柄中心点位置"
+  ],
+  [
+   "Handle Dragged Point",
+   "拖拽点手柄"
+  ],
+  [
+   "Handle Failure",
+   "手柄失效"
+  ],
+  [
+   "Handle Invalid Relocate",
+   "处理无效重定位"
+  ],
+  [
+   "Handle Lower Point Pos",
+   "手柄下点位置"
+  ],
+  [
+   "Handle Points",
+   "手柄点"
+  ],
+  [
+   "Handle Target",
+   "手柄目标"
+  ],
+  [
+   "Handle Transform Matrix Row 1",
+   "手柄变换矩阵第 1 行"
+  ],
+  [
+   "Handle Transform Matrix Row 2",
+   "手柄变换矩阵第 2 行"
+  ],
+  [
+   "Handle Transform Matrix Row 3",
+   "手柄变换矩阵第 3 行"
+  ],
+  [
+   "Handle Transforms",
+   "手柄变换"
+  ],
+  [
+   "Handle Upper Point Pos",
+   "手柄上点位置"
+  ],
+  [
+   "Handle to Point Dictionary",
+   "手柄到点字典"
+  ],
+  [
+   "Handplaced Override",
+   "手动放置覆盖"
+  ],
+  [
+   "Hands",
+   "手"
+  ],
+  [
+   "Hands Center",
+   "手部中心"
+  ],
+  [
+   "Hard Angle",
+   "硬边角度"
+  ],
+  [
+   "Hard Color",
+   "硬色"
+  ],
+  [
+   "Hard Decay",
+   "硬衰减"
+  ],
+  [
+   "Hard Edges",
+   "硬边"
+  ],
+  [
+   "Hard Limit",
+   "硬限制"
+  ],
+  [
+   "Hard Points",
+   "硬点"
+  ],
+  [
+   "Hard Points Group",
+   "硬点组"
+  ],
+  [
+   "Hard Vein Edge",
+   "硬脉边"
+  ],
+  [
+   "Hard and Soft Controls",
+   "硬/软控制"
+  ],
+  [
+   "Harden UV Seams",
+   "硬化 UV 接缝"
+  ],
+  [
+   "Harden to Features",
+   "硬化到特征"
+  ],
+  [
+   "Harmonic Detection",
+   "谐波检测"
+  ],
+  [
+   "Harmonic Error",
+   "谐波误差"
+  ],
+  [
+   "Harmonic Frequency Correction",
+   "谐波频率校正"
+  ],
+  [
+   "Harmonic Spread",
+   "谐波扩散"
+  ],
+  [
+   "Harmonics",
+   "谐波"
+  ],
+  [
+   "Harshness",
+   "刺激性"
+  ],
+  [
+   "Has Big Toe",
+   "有大脚趾"
+  ],
+  [
+   "Has Corresponding Connector",
+   "有对应连接器"
+  ],
+  [
+   "Has Guides",
+   "有引导线"
+  ],
+  [
+   "Has Header",
+   "有表头"
+  ],
+  [
+   "Has Header Row",
+   "有表头行"
+  ],
+  [
+   "Has Input Groom",
+   "有输入梳理"
+  ],
+  [
+   "Has Input Skin",
+   "有输入蒙皮"
+  ],
+  [
+   "Has Input World Space Shape Group",
+   "有输入世界空间形状组"
+  ],
+  [
+   "Has Proxy",
+   "有代理"
+  ],
+  [
+   "Has Skin",
+   "有蒙皮"
+  ],
+  [
+   "Has Stash",
+   "有暂存"
+  ],
+  [
+   "Has Surface Input",
+   "有表面输入"
+  ],
+  [
+   "Has Thumb",
+   "有拇指"
+  ],
+  [
+   "Has Volume Input",
+   "有体积输入"
+  ],
+  [
+   "Head And Neck",
+   "头与颈"
+  ],
+  [
+   "Head Bone",
+   "头部骨骼"
+  ],
+  [
+   "Head Bone Length",
+   "头部骨骼长度"
+  ],
+  [
+   "Head Color",
+   "头部颜色"
+  ],
+  [
+   "Head End",
+   "头部末端"
+  ],
+  [
+   "Head End Target Object",
+   "头部末端目标对象"
+  ],
+  [
+   "Head End Translate",
+   "头部末端平移"
+  ],
+  [
+   "Head Gimbal",
+   "头部万向节"
+  ],
+  [
+   "Head Gimbal LOD",
+   "头部万向节 LOD"
+  ],
+  [
+   "Head Gimbal Rotate",
+   "头部万向节旋转"
+  ],
+  [
+   "Head Helper Translate",
+   "头部辅助平移"
+  ],
+  [
+   "Head Kinematic Solver",
+   "头部运动学求解器"
+  ],
+  [
+   "Head LOD",
+   "头部 LOD"
+  ],
+  [
+   "Head Options",
+   "头部选项"
+  ],
+  [
+   "Head Paramters",
+   "头部参数"
+  ],
+  [
+   "Head Radius",
+   "头部半径"
+  ],
+  [
+   "Head Root",
+   "头部根"
+  ],
+  [
+   "Head Scale",
+   "头部缩放"
+  ],
+  [
+   "Head Space Blend",
+   "头部空间混合"
+  ],
+  [
+   "Head Target Object",
+   "头部目标对象"
+  ],
+  [
+   "Head Translate",
+   "头部平移"
+  ],
+  [
+   "Head Type",
+   "头部类型"
+  ],
+  [
+   "Head Width",
+   "头部宽度"
+  ],
+  [
+   "Head Width Mode",
+   "头部宽度模式"
+  ],
+  [
+   "Head and Neck",
+   "头与颈"
+  ],
+  [
+   "Heart",
+   "心脏"
+  ],
+  [
+   "Heat",
+   "热量"
+  ],
+  [
+   "Heat (heat)",
+   "热量（heat）"
+  ],
+  [
+   "Heat Bias",
+   "热量偏移"
+  ],
+  [
+   "Heat Cutoff",
+   "热量截止"
+  ],
+  [
+   "Heat Influence",
+   "热量影响"
+  ],
+  [
+   "Heat Output",
+   "热量输出"
+  ],
+  [
+   "Heat Ripples",
+   "热波纹"
+  ],
+  [
+   "Heat SOP Path",
+   "热量 SOP 路径"
+  ],
+  [
+   "Heel Marker Offset",
+   "脚跟标记偏移"
+  ],
+  [
+   "Height And Normals",
+   "高度与法线"
+  ],
+  [
+   "Height Attribute",
+   "高度属性"
+  ],
+  [
+   "Height COP",
+   "高度 COP"
+  ],
+  [
+   "Height Factor",
+   "高度系数"
+  ],
+  [
+   "Height File",
+   "高度文件"
+  ],
+  [
+   "Height Group",
+   "高度组"
+  ],
+  [
+   "Height Map Scale",
+   "高度贴图缩放"
+  ],
+  [
+   "Height Mask",
+   "高度遮罩"
+  ],
+  [
+   "Height Pass Number",
+   "高度遍号"
+  ],
+  [
+   "Height Range",
+   "高度范围"
+  ],
+  [
+   "Height Scaling",
+   "高度缩放"
+  ],
+  [
+   "Height Seed",
+   "高度种子"
+  ],
+  [
+   "Height Space",
+   "高度空间"
+  ],
+  [
+   "Height Texture",
+   "高度纹理"
+  ],
+  [
+   "HeightField Mask",
+   "高度场遮罩"
+  ],
+  [
+   "Heightmap",
+   "高度图"
+  ],
+  [
+   "Heightmap Name",
+   "高度图名称"
+  ],
+  [
+   "Heliodon",
+   "日照仪"
+  ],
+  [
+   "Helix Type",
+   "螺旋类型"
+  ],
+  [
+   "Help Label",
+   "帮助标签"
+  ],
+  [
+   "Hero Shape Name",
+   "主形状名称"
+  ],
+  [
+   "Hex Size",
+   "六边形大小"
+  ],
+  [
+   "Hexagon Orientation",
+   "六边形朝向"
+  ],
+  [
+   "Hexagon Shape",
+   "六边形形状"
+  ],
+  [
+   "Hexness",
+   "六边形程度"
+  ],
+  [
+   "Hidden Layer Format",
+   "隐藏图层格式"
+  ],
+  [
+   "Hidden Layers",
+   "隐藏图层"
+  ],
+  [
+   "Hide Child Agent Paths",
+   "隐藏子代理路径"
+  ],
+  [
+   "Hide Controls",
+   "隐藏控件"
+  ],
+  [
+   "Hide Examples",
+   "隐藏示例"
+  ],
+  [
+   "Hide Linked UI <<",
+   "隐藏关联界面 <<"
+  ],
+  [
+   "Hide Mirrored Side",
+   "隐藏镜像侧"
+  ],
+  [
+   "Hide Other Section Geo when Selecting",
+   "选择时隐藏其它分区的几何体"
+  ],
+  [
+   "Hide Primitive In Scene Graph Trees",
+   "在场景图树中隐藏图元"
+  ],
+  [
+   "Hide Rest",
+   "隐藏静止状态"
+  ],
+  [
+   "Hide Simulation Links",
+   "隐藏模拟链接"
+  ],
+  [
+   "Hide Toggle when no layers",
+   "无图层时隐藏开关"
+  ],
+  [
+   "Hide Unselected",
+   "隐藏未选中的"
+  ],
+  [
+   "Hide color",
+   "隐藏颜色"
+  ],
+  [
+   "Hide exposure",
+   "隐藏曝光"
+  ],
+  [
+   "Hide height",
+   "隐藏高度"
+  ],
+  [
+   "Hide intensity",
+   "隐藏强度"
+  ],
+  [
+   "Hide length",
+   "隐藏长度"
+  ],
+  [
+   "Hide radius",
+   "隐藏半径"
+  ],
+  [
+   "Hide radiusBottom",
+   "隐藏底部半径"
+  ],
+  [
+   "Hide radiusTop",
+   "隐藏顶部半径"
+  ],
+  [
+   "Hide size",
+   "隐藏大小"
+  ],
+  [
+   "Hide width",
+   "隐藏宽度"
+  ],
+  [
+   "Hierarchical Order",
+   "层级顺序"
+  ],
+  [
+   "Hierarchy Attribute Construction",
+   "层级属性构建"
+  ],
+  [
+   "Hierarchy Source",
+   "层级来源"
+  ],
+  [
+   "High Bias",
+   "高偏移"
+  ],
+  [
+   "High Color",
+   "高光颜色"
+  ],
+  [
+   "High Contraction",
+   "高收缩"
+  ],
+  [
+   "High Cutoff",
+   "高截止"
+  ],
+  [
+   "High Frequency",
+   "高频"
+  ],
+  [
+   "High Order Barrel (k3)",
+   "高阶桶形（k3）"
+  ],
+  [
+   "High Order Inverse (k6)",
+   "高阶反畸变（k6）"
+  ],
+  [
+   "High Precision Mode [Experimental]",
+   "高精度模式 [实验性]"
+  ],
+  [
+   "High Res Mesh",
+   "高分辨率网格"
+  ],
+  [
+   "High Resolution",
+   "高分辨率"
+  ],
+  [
+   "High Tension Bias",
+   "高张力偏移"
+  ],
+  [
+   "High Tension Contraction",
+   "高张力收缩"
+  ],
+  [
+   "High Tension Scale",
+   "高张力缩放"
+  ],
+  [
+   "High Tension Tightness",
+   "高张力紧度"
+  ],
+  [
+   "High Tightness",
+   "高紧度"
+  ],
+  [
+   "High Value",
+   "高值"
+  ],
+  [
+   "Higher-End Attribute",
+   "高端属性"
+  ],
+  [
+   "Higher-End Filter",
+   "高端过滤"
+  ],
+  [
+   "Higher-End Model",
+   "高端模型"
+  ],
+  [
+   "Higher-End Points",
+   "高端点"
+  ],
+  [
+   "Higher-End Strength",
+   "高端强度"
+  ],
+  [
+   "Higher-End Time",
+   "高端时间"
+  ],
+  [
+   "Highlight Add",
+   "高光叠加"
+  ],
+  [
+   "Highlight Angle",
+   "高光角度"
+  ],
+  [
+   "Highlight Constrained Group",
+   "高亮受约束组"
+  ],
+  [
+   "Highlight Contrast",
+   "高光对比度"
+  ],
+  [
+   "Highlight Gamma",
+   "高光伽马"
+  ],
+  [
+   "Highlight Mult",
+   "高光相乘"
+  ],
+  [
+   "Highlight Prim",
+   "高亮图元"
+  ],
+  [
+   "Highlight Size",
+   "高光大小"
+  ],
+  [
+   "Hinge Angle",
+   "铰链角度"
+  ],
+  [
+   "Hinge Angle Attribute",
+   "铰链角度属性"
+  ],
+  [
+   "Hinge Angle CFM",
+   "铰链角度 CFM"
+  ],
+  [
+   "Hinge Angle Damping",
+   "铰链角度阻尼"
+  ],
+  [
+   "Hinge Angle Softness",
+   "铰链角度柔和度"
+  ],
+  [
+   "Hinge Edge",
+   "铰链边"
+  ],
+  [
+   "Hinge Position CFM",
+   "铰链位置 CFM"
+  ],
+  [
+   "Hinge Position Damping",
+   "铰链位置阻尼"
+  ],
+  [
+   "Hinge Position Softness",
+   "铰链位置柔和度"
+  ],
+  [
+   "Hint Bias",
+   "提示偏移"
+  ],
+  [
+   "Hip",
+   "髋部"
+  ],
+  [
+   "Hip Axis",
+   "髋轴"
+  ],
+  [
+   "Hip Bone",
+   "髋部骨骼"
+  ],
+  [
+   "Hip Bone Kinematic Solver",
+   "髋部骨骼运动学求解器"
+  ],
+  [
+   "Hip Bone Length",
+   "髋部骨骼长度"
+  ],
+  [
+   "Hip Bone Rest Angles",
+   "髋部骨骼静止角度"
+  ],
+  [
+   "Hip Bone Rotate",
+   "髋部骨骼旋转"
+  ],
+  [
+   "Hip File Path",
+   "髋部文件路径"
+  ],
+  [
+   "Hip Gimbal",
+   "髋部万向节"
+  ],
+  [
+   "Hip Helper Translate",
+   "髋部辅助平移"
+  ],
+  [
+   "Hip Joint",
+   "髋关节"
+  ],
+  [
+   "Hip Lean",
+   "髋部倾斜"
+  ],
+  [
+   "Hip Lean Blend",
+   "髋部倾斜混合"
+  ],
+  [
+   "Hip Lean Range",
+   "髋部倾斜范围"
+  ],
+  [
+   "Hip Offset Space",
+   "髋部偏移空间"
+  ],
+  [
+   "Hip Options",
+   "髋部选项"
+  ],
+  [
+   "Hip Rotate",
+   "髋部旋转"
+  ],
+  [
+   "Hip Rotate Y",
+   "髋部旋转 Y"
+  ],
+  [
+   "Hip Scale",
+   "髋部缩放"
+  ],
+  [
+   "Hip Target Object",
+   "髋部目标对象"
+  ],
+  [
+   "Hip Translate",
+   "髋部平移"
+  ],
+  [
+   "Hip-Chest Lead",
+   "髋-胸引导"
+  ],
+  [
+   "History Label",
+   "历史标签"
+  ],
+  [
+   "Hit Behavior",
+   "命中行为"
+  ],
+  [
+   "Hit Dist",
+   "命中距离"
+  ],
+  [
+   "Hit Farthest",
+   "命中最远"
+  ],
+  [
+   "Hit Index Attr",
+   "命中索引属性"
+  ],
+  [
+   "Hit Normal",
+   "命中法线"
+  ],
+  [
+   "Hit Normals Attr",
+   "命中法线属性"
+  ],
+  [
+   "Hit Piece",
+   "命中碎块"
+  ],
+  [
+   "Hit Points",
+   "命中点"
+  ],
+  [
+   "Hit Points Attr",
+   "命中点属性"
+  ],
+  [
+   "Hit Prim",
+   "命中图元"
+  ],
+  [
+   "Hit Primitive Type",
+   "命中图元类型"
+  ],
+  [
+   "Hit Stack",
+   "命中堆栈"
+  ],
+  [
+   "Hit Types Attr",
+   "命中类型属性"
+  ],
+  [
+   "Hit UV",
+   "命中 UV"
+  ],
+  [
+   "Hit UVs Attr",
+   "命中 UV 属性"
+  ],
+  [
+   "Hit Vertex Attr",
+   "命中顶点属性"
+  ],
+  [
+   "Hit in UV",
+   "按 UV 命中"
+  ],
+  [
+   "Hold Edges Outside Image Bounds",
+   "保持图像边界外的边"
+  ],
+  [
+   "Hold Scale",
+   "保持缩放"
+  ],
+  [
+   "Holdout",
+   "遮罩排除"
+  ],
+  [
+   "Holdout Primitives",
+   "排除图元"
+  ],
+  [
+   "Holdout RenderVars (AOVs)",
+   "排除渲染变量（AOV）"
+  ],
+  [
+   "Holdout Shadow AOV",
+   "排除阴影 AOV"
+  ],
+  [
+   "Holdout Shadow Alpha",
+   "排除阴影 Alpha"
+  ],
+  [
+   "Hole Edges",
+   "孔洞边"
+  ],
+  [
+   "Hole Points",
+   "孔洞点"
+  ],
+  [
+   "Hole Threshold",
+   "孔洞阈值"
+  ],
+  [
+   "Holes",
+   "孔洞"
+  ],
+  [
+   "Hollow Interior",
+   "中空内部"
+  ],
+  [
+   "Hook Controls",
+   "挂钩控制"
+  ],
+  [
+   "Hook Object",
+   "挂钩对象"
+  ],
+  [
+   "Hook Out Head Rotate",
+   "挂钩输出头部旋转"
+  ],
+  [
+   "Hook Out Rotations",
+   "挂钩输出旋转"
+  ],
+  [
+   "Hooks",
+   "挂钩"
+  ],
+  [
+   "Horizontal Aperture",
+   "水平孔径"
+  ],
+  [
+   "Horizontal Aperture (converted)",
+   "水平孔径（已换算）"
+  ],
+  [
+   "Horizontal Aperture Offset",
+   "水平孔径偏移"
+  ],
+  [
+   "Horizontal Aperture Offset (converted)",
+   "水平孔径偏移（已换算）"
+  ],
+  [
+   "Horizontal Area",
+   "水平面积"
+  ],
+  [
+   "Horizontal Crop",
+   "水平裁剪"
+  ],
+  [
+   "Horizontal Curvature",
+   "水平曲率"
+  ],
+  [
+   "Horizontal Flip",
+   "水平翻转"
+  ],
+  [
+   "Horizontal Image Translation",
+   "水平图像平移"
+  ],
+  [
+   "Horizontal Max",
+   "水平最大值"
+  ],
+  [
+   "Horizontal Min",
+   "水平最小值"
+  ],
+  [
+   "Horizontal Resolution",
+   "水平分辨率"
+  ],
+  [
+   "Horizontal Scale Mode",
+   "水平缩放模式"
+  ],
+  [
+   "Horizontal Slack",
+   "水平松弛"
+  ],
+  [
+   "Horizontal Tiles",
+   "水平平铺数"
+  ],
+  [
+   "Horizontal Tilt (p2)",
+   "水平倾斜（p2）"
+  ],
+  [
+   "Horseshoe",
+   "马蹄形"
+  ],
+  [
+   "Host IP",
+   "主机 IP"
+  ],
+  [
+   "Hou Shift Mode",
+   "Hou 位移模式"
+  ],
+  [
+   "Houdini Engine Options",
+   "Houdini Engine 选项"
+  ],
+  [
+   "Houdini HeightField Layers",
+   "Houdini 高度场图层"
+  ],
+  [
+   "Houdini Modules",
+   "Houdini 模块"
+  ],
+  [
+   "Houdini Name",
+   "Houdini 名称"
+  ],
+  [
+   "Houdini Polygon Number",
+   "Houdini 多边形编号"
+  ],
+  [
+   "Houdini Texture U",
+   "Houdini 纹理 U"
+  ],
+  [
+   "Houdini Texture V",
+   "Houdini 纹理 V"
+  ],
+  [
+   "Houdini Timeline",
+   "Houdini 时间轴"
+  ],
+  [
+   "Houdini Version",
+   "Houdini 版本"
+  ],
+  [
+   "Houdini-specific Shaping (consider using Light Filters instead)",
+   "Houdini 专属成形（建议改用灯光过滤器）"
+  ],
+  [
+   "Hour",
+   "小时"
+  ],
+  [
+   "Hue High",
+   "色相高值"
+  ],
+  [
+   "Hue Low",
+   "色相低值"
+  ],
+  [
+   "Hue Mode",
+   "色相模式"
+  ],
+  [
+   "Hue Operation",
+   "色相操作"
+  ],
+  [
+   "Hue Rolloff",
+   "色相衰减"
+  ],
+  [
+   "Hue Shift Attribute",
+   "色相偏移属性"
+  ],
+  [
+   "Hue Shift Mode",
+   "色相偏移模式"
+  ],
+  [
+   "Hue Shift Variation",
+   "色相偏移变化"
+  ],
+  [
+   "Hue Shift Width",
+   "色相偏移宽度"
+  ],
+  [
+   "Husk Options",
+   "Husk 选项"
+  ],
+  [
+   "Hydro Erosion",
+   "水力侵蚀"
+  ],
+  [
+   "Hydrostatic Pressure",
+   "流体静压"
+  ],
+  [
+   "Hyperparameter Base Name",
+   "超参数基础名称"
+  ],
+  [
+   "Hyperparameter Folder",
+   "超参数文件夹"
+  ],
+  [
+   "Hyperparameters",
+   "超参数"
+  ],
+  [
+   "I3D",
+   "I3D"
+  ],
+  [
+   "ID Offset",
+   "ID 偏移"
+  ],
+  [
+   "ID Pattern",
+   "ID 模式"
+  ],
+  [
+   "ID String",
+   "ID 字符串"
+  ],
+  [
+   "ID Type",
+   "ID 类型"
+  ],
+  [
+   "ID map",
+   "ID 贴图"
+  ],
+  [
+   "IES Map",
+   "IES 贴图"
+  ],
+  [
+   "IES Profile",
+   "IES 剖面"
+  ],
+  [
+   "IFDs",
+   "IFD"
+  ],
+  [
+   "IK Ankle Rotate",
+   "IK 踝部旋转"
+  ],
+  [
+   "IK Ankle Translate",
+   "IK 踝部平移"
+  ],
+  [
+   "IK Ball",
+   "IK 脚掌球"
+  ],
+  [
+   "IK Ball Translate",
+   "IK 脚掌球平移"
+  ],
+  [
+   "IK Chains Line Format",
+   "IK 链行格式"
+  ],
+  [
+   "IK Chains List",
+   "IK 链列表"
+  ],
+  [
+   "IK Controls",
+   "IK 控制"
+  ],
+  [
+   "IK Controls Scale",
+   "IK 控制缩放"
+  ],
+  [
+   "IK Dampening",
+   "IK 阻尼"
+  ],
+  [
+   "IK Foot",
+   "IK 脚部"
+  ],
+  [
+   "IK Interaction with Pose Handle",
+   "IK 与姿态手柄的交互"
+  ],
+  [
+   "IK Leg Twist",
+   "IK 腿部扭转"
+  ],
+  [
+   "IK Rotate From Toe",
+   "从脚趾旋转 IK"
+  ],
+  [
+   "IK Rotate From Toe Translate",
+   "从脚趾旋转 IK 平移"
+  ],
+  [
+   "IK Shoulderblade",
+   "IK 肩胛骨"
+  ],
+  [
+   "IK Shoulderblade Translate",
+   "IK 肩胛骨平移"
+  ],
+  [
+   "IK Thigh Rotate",
+   "IK 大腿旋转"
+  ],
+  [
+   "IK Toe",
+   "IK 脚趾"
+  ],
+  [
+   "IK Twist Shoulderblade",
+   "IK 肩胛骨扭转"
+  ],
+  [
+   "IK Twist Shoulderblade Translate",
+   "IK 肩胛骨扭转平移"
+  ],
+  [
+   "IK Twist Translate",
+   "IK 扭转平移"
+  ],
+  [
+   "IK Wrist",
+   "IK 手腕"
+  ],
+  [
+   "IK Wrist Translate",
+   "IK 手腕平移"
+  ],
+  [
+   "Identifier Attribute",
+   "标识符属性"
+  ],
+  [
+   "Identifier Point Attribute",
+   "标识符点属性"
+  ],
+  [
+   "Identity Transform",
+   "单位变换"
+  ],
+  [
+   "If No Matches",
+   "若无匹配"
+  ],
+  [
+   "If Ray Length Missing:",
+   "若缺少光线长度："
+  ],
+  [
+   "Ignite Attribute",
+   "点燃属性"
+  ],
+  [
+   "Ignition Frame Attribute",
+   "点燃帧属性"
+  ],
+  [
+   "Ignition Range",
+   "点燃范围"
+  ],
+  [
+   "Ignition Rules",
+   "点燃规则"
+  ],
+  [
+   "Ignore Accum Opacity",
+   "忽略累积不透明度"
+  ],
+  [
+   "Ignore Active Tiles",
+   "忽略活动平铺块"
+  ],
+  [
+   "Ignore Boundary Edges",
+   "忽略边界边"
+  ],
+  [
+   "Ignore Camera Far Clip",
+   "忽略相机远裁剪"
+  ],
+  [
+   "Ignore Collisions When Scaling",
+   "缩放时忽略碰撞"
+  ],
+  [
+   "Ignore Collisions with Muscle Interior Points",
+   "忽略与肌肉内部点的碰撞"
+  ],
+  [
+   "Ignore Collisions with Same Name or Piece",
+   "忽略与同名或同碎块的碰撞"
+  ],
+  [
+   "Ignore Command Exit Code",
+   "忽略命令退出码"
+  ],
+  [
+   "Ignore Distorted Faces",
+   "忽略畸变面"
+  ],
+  [
+   "Ignore Edges",
+   "忽略边"
+  ],
+  [
+   "Ignore Edges Shared Between Group Polygons",
+   "忽略组内多边形共享的边"
+  ],
+  [
+   "Ignore Empty Inputs",
+   "忽略空输入"
+  ],
+  [
+   "Ignore Errors",
+   "忽略错误"
+  ],
+  [
+   "Ignore Extensions",
+   "忽略扩展名"
+  ],
+  [
+   "Ignore Failed Dependencies",
+   "忽略失败的依赖"
+  ],
+  [
+   "Ignore Flat Edges",
+   "忽略平边"
+  ],
+  [
+   "Ignore Flat Edges (Coplanar Incident Polygons)",
+   "忽略平边（共面相邻多边形）"
+  ],
+  [
+   "Ignore Flat Points (Coplanar Incident Polygon)",
+   "忽略平点（共面相邻多边形）"
+  ],
+  [
+   "Ignore Group",
+   "忽略组"
+  ],
+  [
+   "Ignore Height",
+   "忽略高度"
+  ],
+  [
+   "Ignore Incoming Stiffness",
+   "忽略传入刚度"
+  ],
+  [
+   "Ignore Inline Points (Incident Polygons on Two Planes)",
+   "忽略共线点（两个平面上的相邻多边形）"
+  ],
+  [
+   "Ignore Inputs",
+   "忽略输入"
+  ],
+  [
+   "Ignore Joint Scales",
+   "忽略关节缩放"
+  ],
+  [
+   "Ignore Leaf Children",
+   "忽略叶级子项"
+  ],
+  [
+   "Ignore Merge Relationships",
+   "忽略合并关系"
+  ],
+  [
+   "Ignore Minus One",
+   "忽略负一"
+  ],
+  [
+   "Ignore Missing Sources",
+   "忽略缺失的源"
+  ],
+  [
+   "Ignore Non-Constraint Points",
+   "忽略非约束点"
+  ],
+  [
+   "Ignore Parent Transforms",
+   "忽略父级变换"
+  ],
+  [
+   "Ignore Polygon Bridge Edges",
+   "忽略多边形桥接边"
+  ],
+  [
+   "Ignore Primitives Outside Bounds",
+   "忽略边界外的图元"
+  ],
+  [
+   "Ignore Sampling Rate",
+   "忽略采样率"
+  ],
+  [
+   "Ignore Scales From Inputs",
+   "忽略输入中的缩放"
+  ],
+  [
+   "Ignore Sequences",
+   "忽略序列"
+  ],
+  [
+   "Ignore Shared Edges",
+   "忽略共享边"
+  ],
+  [
+   "Ignore Skeleton Connectivity",
+   "忽略骨骼连接关系"
+  ],
+  [
+   "Ignore Staggered Vectors",
+   "忽略错开的矢量"
+  ],
+  [
+   "Ignore Unsupported Required Extensions",
+   "忽略不支持的必要扩展"
+  ],
+  [
+   "Ignore Value",
+   "忽略值"
+  ],
+  [
+   "Ignore `@attrib` calls",
+   "忽略 `@attrib` 调用"
+  ],
+  [
+   "Illegal Pixel Limit",
+   "非法像素上限"
+  ],
+  [
+   "Illuminate Objects",
+   "照亮对象"
+  ],
+  [
+   "Image 3D",
+   "三维图像"
+  ],
+  [
+   "Image Base Name",
+   "图像基础名称"
+  ],
+  [
+   "Image Bottom",
+   "图像底部"
+  ],
+  [
+   "Image Center",
+   "图像中心"
+  ],
+  [
+   "Image Channel",
+   "图像通道"
+  ],
+  [
+   "Image Color Space",
+   "图像色彩空间"
+  ],
+  [
+   "Image Compositing",
+   "图像合成"
+  ],
+  [
+   "Image Compositor",
+   "图像合成器"
+  ],
+  [
+   "Image Extension",
+   "图像扩展名"
+  ],
+  [
+   "Image Folder",
+   "图像文件夹"
+  ],
+  [
+   "Image Fraction",
+   "图像比例"
+  ],
+  [
+   "Image Import Settings",
+   "图像导入设置"
+  ],
+  [
+   "Image Input",
+   "图像输入"
+  ],
+  [
+   "Image Left",
+   "图像左侧"
+  ],
+  [
+   "Image Location",
+   "图像位置"
+  ]
+ ]
+}

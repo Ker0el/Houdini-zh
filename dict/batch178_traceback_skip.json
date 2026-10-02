@@ -1,0 +1,7 @@
+{
+ "entries": [],
+ "note": "Python traceback 行 —— 不是界面文案，保持原样（用户要贴给官方报 bug）",
+ "skip": [
+  "  File \"dynamics_rbdheroobject\", line 3, in <module>"
+ ]
+}

@@ -1,0 +1,2144 @@
+{
+ "note": "合并清单 —— 第 15 批（Floating Viewer → Geometry Layer）",
+ "skip": [
+  "Mult",
+  ".json",
+  "\"\"",
+  "#",
+  "# 参数标签缺口 24053 条，按「被多少种节点共用」降序",
+  "$HFS",
+  "-1",
+  "-2",
+  "-3",
+  "-4",
+  "-apply_trc",
+  "11",
+  "12",
+  "13",
+  "13-16",
+  "14",
+  "15",
+  "17-20",
+  "20",
+  "21-24",
+  "24",
+  "25-28",
+  "29-32",
+  "30",
+  "5-8",
+  "9-12",
+  ":",
+  "AMSGrad",
+  "Aa",
+  "Abs",
+  "Af",
+  "Alpha2",
+  "Alpha3",
+  "Alpha4",
+  "Alpha5",
+  "Alpha6",
+  "Alpha7",
+  "Alpha8",
+  "Alpha9",
+  "Alpha10",
+  "Alpha11",
+  "Alpha12",
+  "Alpha13",
+  "Alpha14",
+  "Alpha15",
+  "Alpha16",
+  "Animation.gad",
+  "Aprofiles",
+  "BBOX MAX",
+  "BBOX MAX 1",
+  "BBOX MIN",
+  "BBOX MIN 1",
+  "BUTTONS_add",
+  "BUTTONS_add_constraints",
+  "BUTTONS_chooser",
+  "BUTTONS_chooser_file",
+  "BUTTONS_chooser_node",
+  "BUTTONS_clear",
+  "BUTTONS_create_parm_from_ch",
+  "BUTTONS_curve_close",
+  "BUTTONS_curve_point_delete",
+  "BUTTONS_curve_point_join",
+  "BUTTONS_curve_point_split",
+  "BUTTONS_curve_pointmode_auto",
+  "BUTTONS_curve_pointmode_normal",
+  "BUTTONS_curve_rounded",
+  "BUTTONS_curve_segment_delete",
+  "BUTTONS_curve_segment_join",
+  "BUTTONS_curve_segment_makestraight",
+  "BUTTONS_curve_tangents_expand",
+  "BUTTONS_curve_tangents_retract",
+  "BUTTONS_curve_type_balanced",
+  "BUTTONS_curve_type_corner",
+  "BUTTONS_curve_type_smooth",
+  "BUTTONS_curve_unrounded",
+  "BUTTONS_debug",
+  "BUTTONS_delete",
+  "BUTTONS_delete2",
+  "BUTTONS_displayoptions",
+  "BUTTONS_edit",
+  "BUTTONS_flatlist",
+  "BUTTONS_folder",
+  "BUTTONS_gear",
+  "BUTTONS_hq_browser",
+  "BUTTONS_image_color_picker",
+  "BUTTONS_jump",
+  "BUTTONS_layer_position_sample",
+  "BUTTONS_layer_sample",
+  "BUTTONS_match_pivot",
+  "BUTTONS_match_pivot_rotation",
+  "BUTTONS_match_rotation",
+  "BUTTONS_match_scale",
+  "BUTTONS_match_transform",
+  "BUTTONS_material",
+  "BUTTONS_ramp_flip_x",
+  "BUTTONS_ramp_flip_y",
+  "BUTTONS_ramp_presets",
+  "BUTTONS_randomize",
+  "BUTTONS_reload",
+  "BUTTONS_reselect",
+  "BUTTONS_reselect.svg",
+  "BUTTONS_restore_mini",
+  "BUTTONS_show_controls",
+  "BUTTONS_sync_values",
+  "BUTTONS_tree",
+  "Ba",
+  "Backsurfaceshader",
+  "Basecolor",
+  "Beta1",
+  "Beta2",
+  "Bone1",
+  "Bone2",
+  "Bone3",
+  "Bone4",
+  "Bone5",
+  "Bone6",
+  "Bone7",
+  "Bone8",
+  "Bone9",
+  "Bone10",
+  "Bone11",
+  "Bool",
+  "Bprofiles",
+  "Bsdf",
+  "C1",
+  "C2",
+  "C5",
+  "COG",
+  "COP2_ramp",
+  "CSV",
+  "CURIDX",
+  "Ca",
+  "Ca2",
+  "Ca3",
+  "Ca4",
+  "Ca5",
+  "Ca6",
+  "Ca7",
+  "Ca8",
+  "Ca9",
+  "Ca10",
+  "Ca11",
+  "Ca12",
+  "Ca13",
+  "Ca14",
+  "Ca15",
+  "Ca16",
+  "CacheParms",
+  "CamRotate",
+  "CamTranslate",
+  "CameraBounds",
+  "CascadeROIHeads",
+  "Category_Name",
+  "Cd2",
+  "Cd3",
+  "Cd4",
+  "Cd5",
+  "Cd6",
+  "Cd7",
+  "Cd8",
+  "Cd9",
+  "Cd10",
+  "Cd11",
+  "Cd12",
+  "Cd13",
+  "Cd14",
+  "Cd15",
+  "Cd16",
+  "Cdbias",
+  "Cf",
+  "Chest1",
+  "Chest2",
+  "ClearCoat",
+  "Clearcoatgloss",
+  "ClrIn",
+  "ColorCurve",
+  "ColorRamp",
+  "Cols",
+  "Compiler.gad",
+  "Compoent",
+  "ComponentType",
+  "Concat",
+  "Coneangle",
+  "Config",
+  "Constraint_Offset.gad",
+  "Constraint_Parent.gad",
+  "Content Plugin ->",
+  "Copy#_#",
+  "CornerRamp",
+  "Cr",
+  "Cr2",
+  "Cr3",
+  "Cr4",
+  "Cr5",
+  "Cr6",
+  "Cr7",
+  "Cr8",
+  "Cr9",
+  "Cr10",
+  "Cr11",
+  "Cr12",
+  "Cr13",
+  "Cr14",
+  "Cr15",
+  "Cr16",
+  "Create Os from density",
+  "Cs",
+  "Cs2",
+  "Cs3",
+  "Cs4",
+  "Cs5",
+  "Cs6",
+  "Cs7",
+  "Cs8",
+  "Cs9",
+  "Cs10",
+  "Cs11",
+  "Cs12",
+  "Cs13",
+  "Cs14",
+  "Cs15",
+  "Cs16",
+  "Ct",
+  "Curve_Force.gad",
+  "D",
+  "DelayedReadArchive",
+  "Dest",
+  "Diff Rough",
+  "Difftrans",
+  "DispAmplitude_flt",
+  "DispAmplitude_rgb",
+  "DispDirection_flt",
+  "DispDirection_rgb",
+  "Displacementshader",
+  "DoCollection",
+  "DoConfigFolder",
+  "DoValidateGprim",
+  "DoValidateKind",
+  "DoValidateParms",
+  "DoValidateValueClips",
+  "Dobias",
+  "Doclamp",
+  "Doclampmax",
+  "Doclampmin",
+  "Docontrast",
+  "Dogain",
+  "Dogamma",
+  "Doupvector",
+  "DownTriangle",
+  "Dx",
+  "DynamicLoad",
+  "E57",
+  "EEE",
+  "EQ",
+  "EdgeCutHelp2",
+  "EdgeDetect",
+  "Editopparms",
+  "EmitColor_Color",
+  "EmitColor_Field_flt",
+  "EmitColor_Field_rgb",
+  "EmitDensity_flt",
+  "EmitDensity_rgb",
+  "Enableend",
+  "Enablestart",
+  "Exclusive1",
+  "Exclusive2",
+  "Exclusive3",
+  "Exe",
+  "Expr",
+  "F0",
+  "F90",
+  "FPN",
+  "Faceforward",
+  "Field1",
+  "Field2",
+  "Field3",
+  "Field4",
+  "Field5",
+  "Field6",
+  "FieldShape.gad",
+  "File#",
+  "Filex",
+  "Filey",
+  "Filez",
+  "Filter#",
+  "Filterwidth",
+  "FindIndex",
+  "Float2",
+  "Float3",
+  "Float4",
+  "Floats",
+  "Force_Falloffs.gad",
+  "FourthIsConnected",
+  "Frameendaction",
+  "Frameoffset",
+  "Fx",
+  "Fzero"
+ ],
+ "entries": [
+  [
+   "<-- Copy to package manager.",
+   "<-- 复制到包管理器。"
+  ],
+  [
+   "Floating Viewer Position",
+   "浮动查看器位置"
+  ],
+  [
+   "Flood",
+   "泛洪"
+  ],
+  [
+   "Flood from Convex Hull Boundary",
+   "从凸包边界泛洪"
+  ],
+  [
+   "Floor Description",
+   "楼层描述"
+  ],
+  [
+   "Floor Field",
+   "楼层场"
+  ],
+  [
+   "Floor Height",
+   "楼层高度"
+  ],
+  [
+   "Floor Index",
+   "楼层索引"
+  ],
+  [
+   "Floor Name",
+   "楼层名称"
+  ],
+  [
+   "Floor Overrides",
+   "楼层覆盖"
+  ],
+  [
+   "Floor Overwrite",
+   "楼层覆盖写入"
+  ],
+  [
+   "Floor Seed",
+   "楼层种子"
+  ],
+  [
+   "Flop 90deg",
+   "翻转 90 度"
+  ],
+  [
+   "Flow Dir Layer",
+   "流向图层"
+  ],
+  [
+   "Flow Direction",
+   "流动方向"
+  ],
+  [
+   "Flow Direction Layer",
+   "流动方向图层"
+  ],
+  [
+   "Flow Field",
+   "流场"
+  ],
+  [
+   "Flow Force Mask",
+   "流力遮罩"
+  ],
+  [
+   "Flow Force Mask Mode",
+   "流力遮罩模式"
+  ],
+  [
+   "Flow Frequency",
+   "流动频率"
+  ],
+  [
+   "Flow Method",
+   "流动方式"
+  ],
+  [
+   "Flow Roughness",
+   "流动粗糙度"
+  ],
+  [
+   "Flower",
+   "花"
+  ],
+  [
+   "Flowmap",
+   "流图"
+  ],
+  [
+   "Fluid Color",
+   "流体颜色"
+  ],
+  [
+   "Fluid Fields",
+   "流体场"
+  ],
+  [
+   "Fluid Geometry File",
+   "流体几何体文件"
+  ],
+  [
+   "Fluid Properties",
+   "流体属性"
+  ],
+  [
+   "Fluid Surface Options",
+   "流体表面选项"
+  ],
+  [
+   "Fluid Vertex Animation UE4 code",
+   "流体顶点动画 UE4 代码"
+  ],
+  [
+   "Fluid Vertex Material",
+   "流体顶点材质"
+  ],
+  [
+   "Fluid Vertex Material Function",
+   "流体顶点材质函数"
+  ],
+  [
+   "FluidVertexAnimation ShaderCode",
+   "流体顶点动画着色器代码"
+  ],
+  [
+   "Flush Attributes",
+   "清空属性"
+  ],
+  [
+   "Foam Attribute",
+   "泡沫属性"
+  ],
+  [
+   "Foam Displacement",
+   "泡沫置换"
+  ],
+  [
+   "Foam Evolution",
+   "泡沫演化"
+  ],
+  [
+   "Foam File",
+   "泡沫文件"
+  ],
+  [
+   "Foam Gamma",
+   "泡沫伽马"
+  ],
+  [
+   "Foam Intensity",
+   "泡沫强度"
+  ],
+  [
+   "Foam Min/Max",
+   "泡沫最小/最大"
+  ],
+  [
+   "Foam Particles",
+   "泡沫粒子"
+  ],
+  [
+   "Foam Pattern",
+   "泡沫模式"
+  ],
+  [
+   "Foam Solver",
+   "泡沫求解器"
+  ],
+  [
+   "Focal Length (converted)",
+   "焦距（已换算）"
+  ],
+  [
+   "Focus 1",
+   "焦点 1"
+  ],
+  [
+   "Focus 2",
+   "焦点 2"
+  ],
+  [
+   "Focus 3",
+   "焦点 3"
+  ],
+  [
+   "Focus Far",
+   "焦点远"
+  ],
+  [
+   "Focus Mapping",
+   "对焦映射"
+  ],
+  [
+   "Focus Method",
+   "对焦方式"
+  ],
+  [
+   "Focus Near",
+   "焦点近"
+  ],
+  [
+   "Focus Plane Blur",
+   "焦平面模糊"
+  ],
+  [
+   "Focus Position",
+   "对焦位置"
+  ],
+  [
+   "Focus Ramp",
+   "对焦渐变"
+  ],
+  [
+   "Focus Target Group",
+   "对焦目标组"
+  ],
+  [
+   "Focus Texture Map",
+   "对焦纹理贴图"
+  ],
+  [
+   "Fog Boost",
+   "雾增强"
+  ],
+  [
+   "Fog Direction",
+   "雾方向"
+  ],
+  [
+   "Fog Point Size",
+   "雾点大小"
+  ],
+  [
+   "Fog Quality Factor",
+   "雾质量系数"
+  ],
+  [
+   "Fog Rolloff",
+   "雾衰减"
+  ],
+  [
+   "Fog Type",
+   "雾类型"
+  ],
+  [
+   "Fog Volume Name",
+   "雾体积名称"
+  ],
+  [
+   "Fog Volume Tests",
+   "雾体积测试"
+  ],
+  [
+   "Fog in Shadow",
+   "阴影中的雾"
+  ],
+  [
+   "Fold Angle",
+   "折叠角度"
+  ],
+  [
+   "Fold Each Octave",
+   "每次八度折叠"
+  ],
+  [
+   "Fold each Octave",
+   "每次八度折叠"
+  ],
+  [
+   "Folder Name 2",
+   "文件夹名称 2"
+  ],
+  [
+   "Folding",
+   "折叠"
+  ],
+  [
+   "Folding Amount",
+   "折叠量"
+  ],
+  [
+   "Folding Profile",
+   "折叠剖面"
+  ],
+  [
+   "Follow Force Falloff",
+   "跟随力衰减"
+  ],
+  [
+   "Follow Force Falloff From Curve",
+   "沿曲线跟随力衰减"
+  ],
+  [
+   "Follow Scale",
+   "跟随缩放"
+  ],
+  [
+   "Follow Skin",
+   "跟随蒙皮"
+  ],
+  [
+   "Follow Skin Contour",
+   "跟随蒙皮轮廓"
+  ],
+  [
+   "Follow Skin Contour Attrib",
+   "跟随蒙皮轮廓属性"
+  ],
+  [
+   "Follow Skin Contour Options",
+   "跟随蒙皮轮廓选项"
+  ],
+  [
+   "Follow Skin Contour Override",
+   "跟随蒙皮轮廓覆盖"
+  ],
+  [
+   "Follow Skin Contour Remap Ramp",
+   "跟随蒙皮轮廓重映射渐变"
+  ],
+  [
+   "Follow Skin Contour Texture",
+   "跟随蒙皮轮廓纹理"
+  ],
+  [
+   "Follow Surface",
+   "跟随表面"
+  ],
+  [
+   "Follow Symlinks",
+   "跟随符号链接"
+  ],
+  [
+   "Follow Topology",
+   "跟随拓扑"
+  ],
+  [
+   "Font Detail",
+   "字体细节"
+  ],
+  [
+   "Font File",
+   "字体文件"
+  ],
+  [
+   "Foot Options",
+   "脚部选项"
+  ],
+  [
+   "Foot Paramters",
+   "脚部参数"
+  ],
+  [
+   "Foot Roll",
+   "脚部滚转"
+  ],
+  [
+   "Foot Rotate",
+   "脚部旋转"
+  ],
+  [
+   "Foot Translate",
+   "脚部平移"
+  ],
+  [
+   "Foot Type",
+   "脚部类型"
+  ],
+  [
+   "Foot/Hip Twist Space Blend",
+   "脚/髋扭转空间混合"
+  ],
+  [
+   "Footway",
+   "人行道"
+  ],
+  [
+   "For Path",
+   "用于路径"
+  ],
+  [
+   "Force Align",
+   "强制对齐"
+  ],
+  [
+   "Force Along Length",
+   "沿长度施加力"
+  ],
+  [
+   "Force Aspect",
+   "强制宽高比"
+  ],
+  [
+   "Force Blurring",
+   "强制模糊"
+  ],
+  [
+   "Force Closed SDF",
+   "强制闭合 SDF"
+  ],
+  [
+   "Force Cook",
+   "强制计算"
+  ],
+  [
+   "Force DCM Pixel Fiter on Image Planes",
+   "对图像平面强制 DCM 像素过滤器"
+  ],
+  [
+   "Force Division Size",
+   "强制细分尺寸"
+  ],
+  [
+   "Force Exclude Prims",
+   "强制排除图元"
+  ],
+  [
+   "Force Height Scaling",
+   "强制高度缩放"
+  ],
+  [
+   "Force Mask Layer",
+   "强制遮罩图层"
+  ],
+  [
+   "Force Method",
+   "施加力方式"
+  ],
+  [
+   "Force Orthogonal Tangent",
+   "强制正交切线"
+  ],
+  [
+   "Force Output to Update",
+   "强制更新输出"
+  ],
+  [
+   "Force Override",
+   "强制覆盖"
+  ],
+  [
+   "Force Poly Segmentation",
+   "强制多边形分段"
+  ],
+  [
+   "Force Ramp",
+   "力渐变"
+  ],
+  [
+   "Force Recapture",
+   "强制重新捕捉"
+  ],
+  [
+   "Force Recook",
+   "强制重新计算"
+  ],
+  [
+   "Force Regenerate Query",
+   "强制重新生成查询"
+  ],
+  [
+   "Force Reload Graph",
+   "强制重新加载图表"
+  ],
+  [
+   "Force Reload Plugin",
+   "强制重新加载插件"
+  ],
+  [
+   "Force Remove Edges",
+   "强制移除边"
+  ],
+  [
+   "Force Scale Blur",
+   "力缩放模糊"
+  ],
+  [
+   "Force Scale Field",
+   "力缩放场"
+  ],
+  [
+   "Force Scale Range",
+   "力缩放范围"
+  ],
+  [
+   "Force Scale Source",
+   "力缩放源"
+  ],
+  [
+   "Force Sequence Blending",
+   "强制序列混合"
+  ],
+  [
+   "Force Sync",
+   "强制同步"
+  ],
+  [
+   "Force Tilable V",
+   "强制 V 方向可平铺"
+  ],
+  [
+   "Force Type",
+   "力类型"
+  ],
+  [
+   "Force Vector Color",
+   "力矢量颜色"
+  ],
+  [
+   "Force Visualization",
+   "力可视化"
+  ],
+  [
+   "Force per Unit Area",
+   "单位面积上的力"
+  ],
+  [
+   "Forced Output Type",
+   "强制输出类型"
+  ],
+  [
+   "Forces Frequency",
+   "力频率"
+  ],
+  [
+   "Forces to Apply",
+   "要施加的力"
+  ],
+  [
+   "Foreach",
+   "遍历"
+  ],
+  [
+   "Forearm",
+   "前臂"
+  ],
+  [
+   "Forearm Bone",
+   "前臂骨骼"
+  ],
+  [
+   "Forearm Bone Length",
+   "前臂骨骼长度"
+  ],
+  [
+   "Forearm Bone Rest Angles",
+   "前臂骨骼静止角度"
+  ],
+  [
+   "Forearm Bone Rotate",
+   "前臂骨骼旋转"
+  ],
+  [
+   "Forearm Bone1",
+   "前臂骨骼 1"
+  ],
+  [
+   "Forearm Bone1 Color",
+   "前臂骨骼 1 颜色"
+  ],
+  [
+   "Forearm Bone2",
+   "前臂骨骼 2"
+  ],
+  [
+   "Forearm Bone2 Color",
+   "前臂骨骼 2 颜色"
+  ],
+  [
+   "Forearm Kinematic Solver",
+   "前臂运动学求解器"
+  ],
+  [
+   "Forearm Middle Rotate",
+   "前臂中段旋转"
+  ],
+  [
+   "Forearm Middle Translate",
+   "前臂中段平移"
+  ],
+  [
+   "Forearm Muscle Color",
+   "前臂肌肉颜色"
+  ],
+  [
+   "Forearm Muscle Scale",
+   "前臂肌肉缩放"
+  ],
+  [
+   "Forearm Primitives Per Segment",
+   "每段前臂图元数"
+  ],
+  [
+   "Forearm Rotate",
+   "前臂旋转"
+  ],
+  [
+   "Forearm Scale",
+   "前臂缩放"
+  ],
+  [
+   "Forearm Tip Rotate",
+   "前臂末端旋转"
+  ],
+  [
+   "Forearm Tip Translate",
+   "前臂末端平移"
+  ],
+  [
+   "Forearm Translate",
+   "前臂平移"
+  ],
+  [
+   "Foreground",
+   "前景"
+  ],
+  [
+   "Foreground Depth",
+   "前景深度"
+  ],
+  [
+   "Foreground Offset",
+   "前景偏移"
+  ],
+  [
+   "Foreground Options",
+   "前景选项"
+  ],
+  [
+   "Foreground Scale",
+   "前景缩放"
+  ],
+  [
+   "Foreground Value",
+   "前景值"
+  ],
+  [
+   "Foreground Value On",
+   "前景值开启"
+  ],
+  [
+   "Format String",
+   "格式字符串"
+  ],
+  [
+   "Formula Settings",
+   "公式设置"
+  ],
+  [
+   "Forward Axis Vector",
+   "前向轴矢量"
+  ],
+  [
+   "Forward Bias",
+   "前向偏移"
+  ],
+  [
+   "Forward Group",
+   "前向组"
+  ],
+  [
+   "Forward Mode",
+   "前向模式"
+  ],
+  [
+   "Forward Source Axis",
+   "前向源轴"
+  ],
+  [
+   "Forward Source Group",
+   "前向源组"
+  ],
+  [
+   "Forward Source Index",
+   "前向源索引"
+  ],
+  [
+   "Forward Vector",
+   "前向矢量"
+  ],
+  [
+   "Forwarded Coords",
+   "转发坐标"
+  ],
+  [
+   "Forwarded X Coord",
+   "转发的 X 坐标"
+  ],
+  [
+   "Forwarded Y Coord",
+   "转发的 Y 坐标"
+  ],
+  [
+   "Found Point Index",
+   "找到的点索引"
+  ],
+  [
+   "Fourth Component",
+   "第四个分量"
+  ],
+  [
+   "Fourth Dimension",
+   "第四维"
+  ],
+  [
+   "Fps",
+   "帧/秒"
+  ],
+  [
+   "Fractal Clumping",
+   "分形成簇"
+  ],
+  [
+   "Fraction of Curve",
+   "曲线比例"
+  ],
+  [
+   "Fracture By Name",
+   "按名称碎裂"
+  ],
+  [
+   "Fracture Count",
+   "碎裂数量"
+  ],
+  [
+   "Fracture Density",
+   "碎裂密度"
+  ],
+  [
+   "Fracture Points",
+   "碎裂点"
+  ],
+  [
+   "Fracture Tires",
+   "碎裂轮胎"
+  ],
+  [
+   "Fractured Constraint",
+   "碎裂约束"
+  ],
+  [
+   "Fractured Geometry",
+   "碎裂几何体"
+  ],
+  [
+   "Fracturing Ignores Resting Objects",
+   "碎裂时忽略静止物体"
+  ],
+  [
+   "Fragment Group",
+   "片段组"
+  ],
+  [
+   "Frame Dependency #",
+   "帧依赖 #"
+  ],
+  [
+   "Frame Depends On",
+   "帧依赖于"
+  ],
+  [
+   "Frame Drag Strength",
+   "帧拖拽强度"
+  ],
+  [
+   "Frame End Action",
+   "帧结束动作"
+  ],
+  [
+   "Frame Export Attribute (N)",
+   "帧导出属性（N）"
+  ],
+  [
+   "Frame Export Attribute (orient)",
+   "帧导出属性（orient）"
+  ],
+  [
+   "Frame Frequency",
+   "帧频率"
+  ],
+  [
+   "Frame Frozen",
+   "帧冻结"
+  ],
+  [
+   "Frame Index",
+   "帧索引"
+  ],
+  [
+   "Frame Length",
+   "帧长度"
+  ],
+  [
+   "Frame List File",
+   "帧列表文件"
+  ],
+  [
+   "Frame Minimum",
+   "最小帧"
+  ],
+  [
+   "Frame Offset Mode",
+   "帧偏移模式"
+  ],
+  [
+   "Frame Operation",
+   "帧操作"
+  ],
+  [
+   "Frame Parameter",
+   "帧参数"
+  ],
+  [
+   "Frame Range Attrib",
+   "帧范围属性"
+  ],
+  [
+   "Frame Range Clamp",
+   "帧范围钳制"
+  ],
+  [
+   "Frame Range Mode",
+   "帧范围模式"
+  ],
+  [
+   "Frame Range To Bake",
+   "要烘焙的帧范围"
+  ],
+  [
+   "Frame Round",
+   "帧取整"
+  ],
+  [
+   "Frame Rounding",
+   "帧取整"
+  ],
+  [
+   "Frame Settings",
+   "帧设置"
+  ],
+  [
+   "Frame Source",
+   "帧源"
+  ],
+  [
+   "Frame Start/Step",
+   "起始帧/步长"
+  ],
+  [
+   "Frame To Export",
+   "要导出的帧"
+  ],
+  [
+   "Frame Width",
+   "帧宽度"
+  ],
+  [
+   "Framerate",
+   "帧速率"
+  ],
+  [
+   "Frames / Second",
+   "帧/秒"
+  ],
+  [
+   "Frames After End",
+   "结束后帧数"
+  ],
+  [
+   "Frames Between Solves",
+   "求解间隔帧数"
+  ],
+  [
+   "Frames Between Triggers",
+   "触发间隔帧数"
+  ],
+  [
+   "Frames per Job",
+   "每任务帧数"
+  ],
+  [
+   "Frames to Blur",
+   "要模糊的帧数"
+  ],
+  [
+   "Framing",
+   "取景"
+  ],
+  [
+   "Free Launch",
+   "自由发射"
+  ],
+  [
+   "Freeze At",
+   "冻结于"
+  ],
+  [
+   "Freeze Frame",
+   "冻结帧"
+  ],
+  [
+   "Freeze Outside",
+   "冻结外部"
+  ],
+  [
+   "Freeze Time Dependent Attributes",
+   "冻结与时间相关的属性"
+  ],
+  [
+   "Freq. Resolution",
+   "频率分辨率"
+  ],
+  [
+   "Frequency Anisotropy",
+   "频率各向异性"
+  ],
+  [
+   "Frequency Map",
+   "频率贴图"
+  ],
+  [
+   "Frequency Map Blend",
+   "频率贴图混合"
+  ],
+  [
+   "Frequency Mode",
+   "频率模式"
+  ],
+  [
+   "Frequency Range",
+   "频率范围"
+  ],
+  [
+   "Frequency Scale",
+   "频率缩放"
+  ],
+  [
+   "Frequency Spectrum Extraction",
+   "频谱提取"
+  ],
+  [
+   "Frequency X",
+   "频率 X"
+  ],
+  [
+   "Frequency Y",
+   "频率 Y"
+  ],
+  [
+   "Fresnel Darken",
+   "菲涅尔变暗"
+  ],
+  [
+   "Fresnel Eta",
+   "菲涅尔 Eta"
+  ],
+  [
+   "Fresnel Exponent",
+   "菲涅尔指数"
+  ],
+  [
+   "Fresnel Mix",
+   "菲涅尔混合"
+  ],
+  [
+   "Fresnel Mode",
+   "菲涅尔模式"
+  ],
+  [
+   "Fresnel Style",
+   "菲涅尔样式"
+  ],
+  [
+   "Friction Angle Attribute",
+   "摩擦角属性"
+  ],
+  [
+   "Fringing",
+   "边缘色散"
+  ],
+  [
+   "Frizz",
+   "毛躁"
+  ],
+  [
+   "Frizz Scale",
+   "毛躁缩放"
+  ],
+  [
+   "From Age",
+   "从年龄"
+  ],
+  [
+   "From Attribute",
+   "从属性"
+  ],
+  [
+   "From Backbone Curves",
+   "从主干曲线"
+  ],
+  [
+   "From Control",
+   "从控制"
+  ],
+  [
+   "From Cross Sections",
+   "从横截面"
+  ],
+  [
+   "From Curve",
+   "从曲线"
+  ],
+  [
+   "From Depth",
+   "从深度"
+  ],
+  [
+   "From Domain",
+   "从域"
+  ],
+  [
+   "From MPM Particles",
+   "从 MPM 粒子"
+  ],
+  [
+   "From Normalized Age",
+   "从归一化年龄"
+  ],
+  [
+   "From Object",
+   "从物体"
+  ],
+  [
+   "From Point",
+   "从点"
+  ],
+  [
+   "From Primitive",
+   "从图元"
+  ],
+  [
+   "From Rest Source Model",
+   "从静止源模型"
+  ],
+  [
+   "From Texture",
+   "从纹理"
+  ],
+  [
+   "From Type",
+   "从类型"
+  ],
+  [
+   "From Vector",
+   "从矢量"
+  ],
+  [
+   "From Vertex",
+   "从顶点"
+  ],
+  [
+   "From-To",
+   "从-到"
+  ],
+  [
+   "Front Back",
+   "前/后"
+  ],
+  [
+   "Front Blend",
+   "正面混合"
+  ],
+  [
+   "Front Boundary Group",
+   "正面边界组"
+  ],
+  [
+   "Front Bsdf",
+   "正面 Bsdf"
+  ],
+  [
+   "Front Color",
+   "正面颜色"
+  ],
+  [
+   "Front Edf",
+   "正面 Edf"
+  ],
+  [
+   "Front Edge",
+   "前边"
+  ],
+  [
+   "Front Facing",
+   "正面朝向"
+  ],
+  [
+   "Front Facing Normal",
+   "正面朝向法线"
+  ],
+  [
+   "Front Falloff",
+   "正面衰减"
+  ],
+  [
+   "Front Magnitude",
+   "正面强度"
+  ],
+  [
+   "Front Neighbors Attribute",
+   "正面邻居属性"
+  ],
+  [
+   "Front Only",
+   "仅正面"
+  ],
+  [
+   "Front RGB Color",
+   "正面 RGB 颜色"
+  ],
+  [
+   "Front RGBA Color",
+   "正面 RGBA 颜色"
+  ],
+  [
+   "Front Seam Group",
+   "正面接缝组"
+  ],
+  [
+   "Front Search Distance",
+   "正面搜索距离"
+  ],
+  [
+   "Front Stiffness",
+   "正面刚度"
+  ],
+  [
+   "Front Transform",
+   "正面变换"
+  ],
+  [
+   "Front-Facing",
+   "正面朝向"
+  ],
+  [
+   "Frown",
+   "皱眉"
+  ],
+  [
+   "Frozen",
+   "已冻结"
+  ],
+  [
+   "Frozen Stages",
+   "冻结阶段"
+  ],
+  [
+   "Frustum",
+   "视锥体"
+  ],
+  [
+   "Frustum Alpha",
+   "视锥体 Alpha"
+  ],
+  [
+   "Frustum Culling",
+   "视锥体剔除"
+  ],
+  [
+   "Frustum Padding",
+   "视锥体内边距"
+  ],
+  [
+   "Fuel (fuel)",
+   "燃料（fuel）"
+  ],
+  [
+   "Fuel Amount",
+   "燃料量"
+  ],
+  [
+   "Fuel Blend",
+   "燃料混合"
+  ],
+  [
+   "Fuel Field",
+   "燃料场"
+  ],
+  [
+   "Fuel Inefficiency",
+   "燃料低效性"
+  ],
+  [
+   "Fuel Merge",
+   "燃料合并"
+  ],
+  [
+   "Fuel Merging",
+   "燃料合并"
+  ],
+  [
+   "Fuel SOP Path",
+   "燃料 SOP 路径"
+  ],
+  [
+   "Fuel Speed",
+   "燃料速度"
+  ],
+  [
+   "Fuel Time",
+   "燃料时间"
+  ],
+  [
+   "Full Accuracy (Slow)",
+   "完整精度（慢）"
+  ],
+  [
+   "Full Floor Height",
+   "完整楼层高度"
+  ],
+  [
+   "Full Path Attribute",
+   "完整路径属性"
+  ],
+  [
+   "Full Primitive Transforms",
+   "完整图元变换"
+  ],
+  [
+   "Full Resolution Relaxation",
+   "全分辨率松弛"
+  ],
+  [
+   "Full Sequence",
+   "完整序列"
+  ],
+  [
+   "Full Transform Attrib",
+   "完整变换属性"
+  ],
+  [
+   "Funcs",
+   "函数"
+  ],
+  [
+   "Function Class",
+   "函数类别"
+  ],
+  [
+   "Fuse / Snap Distance",
+   "融合 / 吸附距离"
+  ],
+  [
+   "Fuse Clustered Pieces",
+   "融合成簇碎块"
+  ],
+  [
+   "Fuse Collided Points",
+   "融合碰撞点"
+  ],
+  [
+   "Fuse Constraint Point Identifier Attribute",
+   "融合约束点标识符属性"
+  ],
+  [
+   "Fuse End Group",
+   "融合末端组"
+  ],
+  [
+   "Fuse Filter",
+   "融合过滤器"
+  ],
+  [
+   "Fuse Graph",
+   "融合图"
+  ],
+  [
+   "Fuse Group",
+   "融合组"
+  ],
+  [
+   "Fuse Method",
+   "融合方式"
+  ],
+  [
+   "Fuse Overlapping Points",
+   "融合重叠点"
+  ],
+  [
+   "Fuse Point Cloud",
+   "融合点云"
+  ],
+  [
+   "Fuse Point Group",
+   "融合点组"
+  ],
+  [
+   "Fuse Points on Hinge Pivot Line",
+   "融合铰链轴心线上的点"
+  ],
+  [
+   "Fuse Remaining Seams",
+   "融合剩余接缝"
+  ],
+  [
+   "Fuse Snapped Points",
+   "融合吸附点"
+  ],
+  [
+   "Fuse Start Group",
+   "融合起始组"
+  ],
+  [
+   "Fuse Targets",
+   "融合目标"
+  ],
+  [
+   "Fuse Threshold",
+   "融合阈值"
+  ],
+  [
+   "Fuse Tolerance",
+   "融合容差"
+  ],
+  [
+   "Fusing Repeated Geometry",
+   "融合重复几何体"
+  ],
+  [
+   "Fuzz",
+   "绒毛"
+  ],
+  [
+   "Fuzz Color",
+   "绒毛颜色"
+  ],
+  [
+   "Fuzz Roughness",
+   "绒毛粗糙度"
+  ],
+  [
+   "Fuzz Weight",
+   "绒毛权重"
+  ],
+  [
+   "Fuzzy Logic Output",
+   "模糊逻辑输出"
+  ],
+  [
+   "Fuzzy Raycast Group",
+   "模糊光线投射组"
+  ],
+  [
+   "Fuzzy Set",
+   "模糊集合"
+  ],
+  [
+   "GL Displacement Map",
+   "GL 置换贴图"
+  ],
+  [
+   "GL UV set",
+   "GL UV 集"
+  ],
+  [
+   "GLSL Shader",
+   "GLSL 着色器"
+  ],
+  [
+   "GPU Affinity Overrides",
+   "GPU 亲和性覆盖"
+  ],
+  [
+   "GPUs per Task",
+   "每任务 GPU 数"
+  ],
+  [
+   "GSplat",
+   "高斯泼溅"
+  ],
+  [
+   "GSplat Scale",
+   "高斯泼溅缩放"
+  ],
+  [
+   "GSplats",
+   "高斯泼溅"
+  ],
+  [
+   "GSplats Base Name",
+   "高斯泼溅基础名称"
+  ],
+  [
+   "GSplats Folder",
+   "高斯泼溅文件夹"
+  ],
+  [
+   "Gaea 2.2 Terrain File",
+   "Gaea 2.2 地形文件"
+  ],
+  [
+   "Gain 1",
+   "增益 1"
+  ],
+  [
+   "Gain 2",
+   "增益 2"
+  ],
+  [
+   "Gain 3",
+   "增益 3"
+  ],
+  [
+   "Gain 4",
+   "增益 4"
+  ],
+  [
+   "Gain A",
+   "增益 A"
+  ],
+  [
+   "Gain Attrib",
+   "增益属性"
+  ],
+  [
+   "Gain Attribute",
+   "增益属性"
+  ],
+  [
+   "Gain B",
+   "增益 B"
+  ],
+  [
+   "Gain Mode",
+   "增益模式"
+  ],
+  [
+   "Gain Normal",
+   "增益法线"
+  ],
+  [
+   "Gain Override",
+   "增益覆盖"
+  ],
+  [
+   "Gain Tangent",
+   "增益切线"
+  ],
+  [
+   "Gain Texture",
+   "增益纹理"
+  ],
+  [
+   "Galvanized Steel",
+   "镀锌钢"
+  ],
+  [
+   "Game Engine",
+   "游戏引擎"
+  ],
+  [
+   "GameDev Matcap",
+   "游戏开发 Matcap"
+  ],
+  [
+   "GameDev PBR",
+   "游戏开发 PBR"
+  ],
+  [
+   "Gamma Attribute",
+   "伽马属性"
+  ],
+  [
+   "Gamma Correct Diffuse",
+   "伽马校正漫反射"
+  ],
+  [
+   "Gamma Correct Roughness",
+   "伽马校正粗糙度"
+  ],
+  [
+   "Gamma Correction",
+   "伽马校正"
+  ],
+  [
+   "Gamma Mode",
+   "伽马模式"
+  ],
+  [
+   "Gamma Presets",
+   "伽马预设"
+  ],
+  [
+   "Gamma Raw",
+   "伽马原始值"
+  ],
+  [
+   "Gamma Scale Mode",
+   "伽马缩放模式"
+  ],
+  [
+   "Gas",
+   "气体"
+  ],
+  [
+   "Gas Burn Influence",
+   "气体燃烧影响"
+  ],
+  [
+   "Gas Constant",
+   "气体常数"
+  ],
+  [
+   "Gas Heat Influence",
+   "气体热量影响"
+  ],
+  [
+   "Gather Method",
+   "聚集方式"
+  ],
+  [
+   "Gather Rays",
+   "聚集光线"
+  ],
+  [
+   "Gauss Seidel Iterations",
+   "高斯-赛德尔迭代"
+  ],
+  [
+   "Gaussian Scale",
+   "高斯缩放"
+  ],
+  [
+   "General Advection",
+   "常规平流"
+  ],
+  [
+   "General LOD Settings",
+   "常规 LOD 设置"
+  ],
+  [
+   "General Properties",
+   "常规属性"
+  ],
+  [
+   "General Scripts",
+   "常规脚本"
+  ],
+  [
+   "General Smoothing",
+   "常规平滑"
+  ],
+  [
+   "General Sweep",
+   "常规扫掠"
+  ],
+  [
+   "General Tests",
+   "常规测试"
+  ],
+  [
+   "Generate A-A Seams",
+   "生成 A-A 接缝"
+  ],
+  [
+   "Generate A-B Seams",
+   "生成 A-B 接缝"
+  ],
+  [
+   "Generate B-B Seams",
+   "生成 B-B 接缝"
+  ],
+  [
+   "Generate Basic Shapes",
+   "生成基本形状"
+  ],
+  [
+   "Generate Buildings on Missing Data",
+   "在缺失数据处生成建筑"
+  ],
+  [
+   "Generate Bump Plane",
+   "生成凹凸平面"
+  ],
+  [
+   "Generate Cliff",
+   "生成悬崖"
+  ],
+  [
+   "Generate Code for This Node Last",
+   "最后为此节点生成代码"
+  ],
+  [
+   "Generate Convex Hulls from Skin Geometry",
+   "从蒙皮几何体生成凸包"
+  ],
+  [
+   "Generate Error",
+   "生成错误"
+  ],
+  [
+   "Generate Errors for Missing Files",
+   "为缺失文件生成错误"
+  ],
+  [
+   "Generate Expression",
+   "生成表达式"
+  ],
+  [
+   "Generate From Partition Items",
+   "从分区项生成"
+  ],
+  [
+   "Generate IFDs",
+   "生成 IFD"
+  ],
+  [
+   "Generate LODs",
+   "生成 LOD"
+  ],
+  [
+   "Generate Marker Nodes",
+   "生成标记节点"
+  ],
+  [
+   "Generate Mask from",
+   "生成遮罩来源"
+  ],
+  [
+   "Generate Mocap Rig",
+   "生成动捕绑定"
+  ],
+  [
+   "Generate Mode",
+   "生成模式"
+  ],
+  [
+   "Generate New UVs",
+   "生成新 UV"
+  ],
+  [
+   "Generate Normal As",
+   "生成法线为"
+  ],
+  [
+   "Generate Only",
+   "仅生成"
+  ],
+  [
+   "Generate Opacity instead of Transmittance",
+   "生成不透明度而非透射率"
+  ],
+  [
+   "Generate Point Clouds",
+   "生成点云"
+  ],
+  [
+   "Generate Profiles",
+   "生成剖面"
+  ],
+  [
+   "Generate Regions",
+   "生成区域"
+  ],
+  [
+   "Generate Report",
+   "生成报告"
+  ],
+  [
+   "Generate Report (Only)",
+   "生成报告（仅）"
+  ],
+  [
+   "Generate Scalar Noise",
+   "生成标量噪声"
+  ],
+  [
+   "Generate Shapes",
+   "生成形状"
+  ],
+  [
+   "Generate Shapes Group",
+   "生成形状组"
+  ],
+  [
+   "Generate T-Pose",
+   "生成 T 形姿态"
+  ],
+  [
+   "Generate Tags",
+   "生成标签"
+  ],
+  [
+   "Generate USD Parms",
+   "生成 USD 参数"
+  ],
+  [
+   "Generate USDs",
+   "生成 USD"
+  ],
+  [
+   "Generate Unwrapped Texture Coordinates for Sides",
+   "为侧面生成展开的纹理坐标"
+  ],
+  [
+   "Generate Volume From SDF",
+   "从 SDF 生成体积"
+  ],
+  [
+   "Generate disk file only",
+   "仅生成磁盘文件"
+  ],
+  [
+   "Generate from Attribute",
+   "从属性生成"
+  ],
+  [
+   "Generate from Component Parms",
+   "从组件参数生成"
+  ],
+  [
+   "Generate point attributes for instancing",
+   "为实例化生成点属性"
+  ],
+  [
+   "Generated Query",
+   "生成的查询"
+  ],
+  [
+   "Generation Props",
+   "生成属性"
+  ],
+  [
+   "Generations",
+   "代数"
+  ],
+  [
+   "Generator",
+   "生成器"
+  ],
+  [
+   "Geo",
+   "几何体"
+  ],
+  [
+   "Geo Capture End",
+   "几何体捕捉结束"
+  ],
+  [
+   "Geo Capture Origin",
+   "几何体捕捉原点"
+  ],
+  [
+   "Geo Capture Start",
+   "几何体捕捉开始"
+  ],
+  [
+   "Geo Fraction Attribute",
+   "几何体比例属性"
+  ],
+  [
+   "Geo Light Primitives",
+   "几何体灯光图元"
+  ],
+  [
+   "Geo Path",
+   "几何体路径"
+  ],
+  [
+   "Geo Variant Name",
+   "几何体变体名称"
+  ],
+  [
+   "Geometric Error",
+   "几何误差"
+  ],
+  [
+   "Geometric Normal",
+   "几何法线"
+  ],
+  [
+   "Geometry  Sources",
+   "几何体来源"
+  ],
+  [
+   "Geometry Alignment",
+   "几何体对齐"
+  ],
+  [
+   "Geometry Attribute Transfer",
+   "几何体属性传递"
+  ],
+  [
+   "Geometry Attributes",
+   "几何体属性"
+  ],
+  [
+   "Geometry Collection",
+   "几何体集合"
+  ],
+  [
+   "Geometry Constraints",
+   "几何体约束"
+  ],
+  [
+   "Geometry File #",
+   "几何体文件 #"
+  ],
+  [
+   "Geometry Filter Width",
+   "几何体过滤宽度"
+  ],
+  [
+   "Geometry Group",
+   "几何体组"
+  ],
+  [
+   "Geometry Input",
+   "几何体输入"
+  ],
+  [
+   "Geometry Input Name",
+   "几何体输入名称"
+  ],
+  [
+   "Geometry LPE Tag Attribute",
+   "几何体 LPE 标签属性"
+  ],
+  [
+   "Geometry Layer",
+   "几何体图层"
+  ]
+ ]
+}

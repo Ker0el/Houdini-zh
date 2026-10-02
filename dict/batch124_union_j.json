@@ -1,0 +1,1574 @@
+{
+ "note": "合并清单 —— 第 10 批",
+ "skip": [
+  "    Plane Scope",
+  "  Mult",
+  "  Sort By",
+  "Dest",
+  "Difftrans",
+  "Diff Rough",
+  "Displacementshader",
+  "DispAmplitude_flt",
+  "DispAmplitude_rgb",
+  "DispDirection_flt",
+  "DispDirection_rgb"
+ ],
+ "entries": [
+  [
+   "Delete Existing Output Files on Cook",
+   "计算时删除已有输出文件"
+  ],
+  [
+   "Delete Exterior Cluster Edges",
+   "删除外部聚类边"
+  ],
+  [
+   "Delete Geometry But Keep the Points",
+   "删除几何体但保留点"
+  ],
+  [
+   "Delete Group",
+   "删除组"
+  ],
+  [
+   "Delete HDA Instance after Cooking",
+   "计算后删除 HDA 实例"
+  ],
+  [
+   "Delete IFDs On Frame Completion",
+   "帧完成时删除 IFD"
+  ],
+  [
+   "Delete If Already Exists",
+   "已存在则删除"
+  ],
+  [
+   "Delete Invalid Points",
+   "删除无效点"
+  ],
+  [
+   "Delete Mapping Attributes",
+   "删除映射属性"
+  ],
+  [
+   "Delete Metadata",
+   "删除元数据"
+  ],
+  [
+   "Delete Mismatched Attributes",
+   "删除不匹配的属性"
+  ],
+  [
+   "Delete Mismatched Groups",
+   "删除不匹配的组"
+  ],
+  [
+   "Delete Negative Mirror Side",
+   "删除负向镜像侧"
+  ],
+  [
+   "Delete Non Selected Joints",
+   "删除未选中的关节"
+  ],
+  [
+   "Delete OBJ Subnet",
+   "删除 OBJ 子网"
+  ],
+  [
+   "Delete Objects #",
+   "删除物体 #"
+  ],
+  [
+   "Delete Offset",
+   "删除偏移"
+  ],
+  [
+   "Delete Old Prims",
+   "删除旧图元"
+  ],
+  [
+   "Delete Original Attributes",
+   "删除原始属性"
+  ],
+  [
+   "Delete Original Instance Attribute",
+   "删除原始实例属性"
+  ],
+  [
+   "Delete Original Prims",
+   "删除原始图元"
+  ],
+  [
+   "Delete Original Profile",
+   "删除原始剖析"
+  ],
+  [
+   "Delete Original Volumes",
+   "删除原始体积"
+  ],
+  [
+   "Delete Points from Other Slices",
+   "删除其它切片中的点"
+  ],
+  [
+   "Delete Positive Mirror Side",
+   "删除正向镜像侧"
+  ],
+  [
+   "Delete Property",
+   "删除属性"
+  ],
+  [
+   "Delete Service During",
+   "期间删除服务"
+  ],
+  [
+   "Delete Source Attributes",
+   "删除源属性"
+  ],
+  [
+   "Delete Source Trails after Splitting",
+   "拆分后删除源拖尾"
+  ],
+  [
+   "Delete Source Volumes",
+   "删除源体积"
+  ],
+  [
+   "Delete Stale Capture Regions",
+   "删除过期的捕捉区域"
+  ],
+  [
+   "Delete Stashed Transforms",
+   "删除暂存的变换"
+  ],
+  [
+   "Delete Target Point Attribute",
+   "删除目标点属性"
+  ],
+  [
+   "Delete Transform Attribute",
+   "删除变换属性"
+  ],
+  [
+   "Delete USD Directory On Frame Completion",
+   "帧完成时删除 USD 目录"
+  ],
+  [
+   "Delete Unused Muscle Attributes",
+   "删除未使用的肌肉属性"
+  ],
+  [
+   "Delete Using",
+   "删除依据"
+  ],
+  [
+   "Delete When",
+   "删除时机"
+  ],
+  [
+   "Delimiter",
+   "分隔符"
+  ],
+  [
+   "Delimiter Type",
+   "分隔符类型"
+  ],
+  [
+   "Delta Blur Iterations",
+   "Delta 模糊迭代次数"
+  ],
+  [
+   "Delta Mode",
+   "Delta 模式"
+  ],
+  [
+   "Delta Sculpt Tools Only",
+   "仅 Delta 雕刻工具"
+  ],
+  [
+   "Delta Step",
+   "Delta 步长"
+  ],
+  [
+   "Delta Time",
+   "Delta 时间"
+  ],
+  [
+   "Denoise AOVs",
+   "降噪 AOV"
+  ],
+  [
+   "Denoise Iterations",
+   "降噪迭代次数"
+  ],
+  [
+   "Denoise Mask",
+   "降噪遮罩"
+  ],
+  [
+   "Dense Bake",
+   "稠密烘焙"
+  ],
+  [
+   "Dense Iteration",
+   "稠密迭代"
+  ],
+  [
+   "Dense Level",
+   "稠密层级"
+  ],
+  [
+   "Densification",
+   "加密"
+  ],
+  [
+   "Densification Schedule",
+   "加密计划"
+  ],
+  [
+   "Densify VDBs",
+   "加密 VDB"
+  ],
+  [
+   "Density (density)",
+   "密度（density）"
+  ],
+  [
+   "Density Affects Cross-Fade Curves",
+   "密度影响交叉淡化曲线"
+  ],
+  [
+   "Density Amplitude",
+   "密度振幅"
+  ],
+  [
+   "Density Atten",
+   "密度衰减"
+  ],
+  [
+   "Density Blur Field",
+   "密度模糊场"
+  ],
+  [
+   "Density Boost",
+   "密度增益"
+  ],
+  [
+   "Density Change Rate",
+   "密度变化率"
+  ],
+  [
+   "Density Color",
+   "密度颜色"
+  ],
+  [
+   "Density Color PrimVar",
+   "密度颜色图元变量"
+  ],
+  [
+   "Density Contrast",
+   "密度对比度"
+  ],
+  [
+   "Density Control Range Mode",
+   "密度控制范围模式"
+  ],
+  [
+   "Density Diffusion",
+   "密度扩散"
+  ],
+  [
+   "Density Disribution",
+   "密度分布"
+  ],
+  [
+   "Density Dissipation",
+   "密度耗散"
+  ],
+  [
+   "Density Distribution",
+   "密度分布"
+  ],
+  [
+   "Density Estimate",
+   "密度估计"
+  ],
+  [
+   "Density Exponent",
+   "密度指数"
+  ],
+  [
+   "Density Far",
+   "远距密度"
+  ],
+  [
+   "Density Far Dist",
+   "远距密度距离"
+  ],
+  [
+   "Density Far Val",
+   "远距密度值"
+  ],
+  [
+   "Density Far Value",
+   "远距密度值"
+  ],
+  [
+   "Density Field Gradient",
+   "密度场梯度"
+  ],
+  [
+   "Density Float",
+   "密度浮点"
+  ],
+  [
+   "Density Float PrimVar",
+   "密度浮点图元变量"
+  ],
+  [
+   "Density Force Mask",
+   "密度力遮罩"
+  ],
+  [
+   "Density Guide Color",
+   "密度导向颜色"
+  ],
+  [
+   "Density Map",
+   "密度贴图"
+  ],
+  [
+   "Density Map Blend",
+   "密度贴图混合"
+  ],
+  [
+   "Density Mask",
+   "密度遮罩"
+  ],
+  [
+   "Density Max",
+   "最大密度"
+  ],
+  [
+   "Density Mid Value",
+   "中距密度值"
+  ],
+  [
+   "Density Midpoint",
+   "密度中点"
+  ],
+  [
+   "Density Min",
+   "最小密度"
+  ],
+  [
+   "Density Mode",
+   "密度模式"
+  ],
+  [
+   "Density Model",
+   "密度模型"
+  ],
+  [
+   "Density Near",
+   "近距密度"
+  ],
+  [
+   "Density Near Dist",
+   "近距密度距离"
+  ],
+  [
+   "Density Near Val",
+   "近距密度值"
+  ],
+  [
+   "Density Near Value",
+   "近距密度值"
+  ],
+  [
+   "Density Offset",
+   "密度偏移"
+  ],
+  [
+   "Density Profile",
+   "密度剖面"
+  ],
+  [
+   "Density Ramp Samples",
+   "密度渐变采样数"
+  ],
+  [
+   "Density Remap",
+   "密度重映射"
+  ],
+  [
+   "Density SOP Path",
+   "密度 SOP 路径"
+  ],
+  [
+   "Density Seed",
+   "密度种子"
+  ],
+  [
+   "Density Volume Field",
+   "密度体积场"
+  ],
+  [
+   "Density Weight",
+   "密度权重"
+  ],
+  [
+   "Density along Curve",
+   "沿曲线取密度"
+  ],
+  [
+   "Density by Attribute",
+   "按属性取密度"
+  ],
+  [
+   "Density in Alpha",
+   "密度存于 Alpha"
+  ],
+  [
+   "Dent Amplitude",
+   "凹痕振幅"
+  ],
+  [
+   "Dent Chip Amount",
+   "凹痕崩边量"
+  ],
+  [
+   "Dent Frequency",
+   "凹痕频率"
+  ],
+  [
+   "Dent Scale",
+   "凹痕缩放"
+  ],
+  [
+   "Dependency Order",
+   "依赖顺序"
+  ],
+  [
+   "Deposition Rate Mask Mode",
+   "沉积速率遮罩模式"
+  ],
+  [
+   "Deprecated Parms",
+   "已弃用的参数"
+  ],
+  [
+   "Deprecation Warning: This component is deprecated, please use Foo instead.",
+   "弃用警告：此组件已弃用，请改用 Foo。"
+  ],
+  [
+   "Depth Adjust",
+   "深度调整"
+  ],
+  [
+   "Depth Diffusion",
+   "深度扩散"
+  ],
+  [
+   "Depth Field",
+   "深度场"
+  ],
+  [
+   "Depth Interpolation",
+   "深度插值"
+  ],
+  [
+   "Depth Layer Scope",
+   "深度图层范围"
+  ],
+  [
+   "Depth Map Options",
+   "深度贴图选项"
+  ],
+  [
+   "Depth Method",
+   "深度方式"
+  ],
+  [
+   "Depth Mode",
+   "深度模式"
+  ],
+  [
+   "Depth Noise Frequency",
+   "深度噪声频率"
+  ],
+  [
+   "Depth Scale Lifetime Ramp",
+   "深度缩放寿命渐变"
+  ],
+  [
+   "Depth Scale Variance",
+   "深度缩放方差"
+  ],
+  [
+   "Depth Threshold Scale",
+   "深度阈值缩放"
+  ],
+  [
+   "Depth Tolerance",
+   "深度容差"
+  ],
+  [
+   "Depths",
+   "深度"
+  ],
+  [
+   "Descriptive",
+   "描述性"
+  ],
+  [
+   "Dest Blend Processing",
+   "目标混合处理"
+  ],
+  [
+   "Dest Ports",
+   "目标端口"
+  ],
+  [
+   "Dest Space",
+   "目标空间"
+  ],
+  [
+   "Destination File",
+   "目标文件"
+  ],
+  [
+   "Destination Geometry",
+   "目标几何体"
+  ],
+  [
+   "Destination Name",
+   "目标名称"
+  ],
+  [
+   "Destination Path Default",
+   "目标路径默认值"
+  ],
+  [
+   "Destination Pattern",
+   "目标模式"
+  ],
+  [
+   "Destination Phase",
+   "目标相位"
+  ],
+  [
+   "Destination Prim Path",
+   "目标图元路径"
+  ],
+  [
+   "Destination Primitive Path",
+   "目标图元路径"
+  ],
+  [
+   "Destination Property",
+   "目标属性"
+  ],
+  [
+   "Destination Space",
+   "目标空间"
+  ],
+  [
+   "Destroy Existing Wire Capture Weights",
+   "销毁已有的线捕捉权重"
+  ],
+  [
+   "Detach From Non-Group Geometry",
+   "从非组几何体分离"
+  ],
+  [
+   "Detach from Parent Agent",
+   "从父 Agent 分离"
+  ],
+  [
+   "Detail Callback",
+   "细节回调"
+  ],
+  [
+   "Detail as Detail",
+   "细节作为细节属性"
+  ],
+  [
+   "Detangle Iterations",
+   "解缠迭代次数"
+  ],
+  [
+   "Detect Collisions",
+   "检测碰撞"
+  ],
+  [
+   "Detect Component Root from Input",
+   "从输入检测分量根"
+  ],
+  [
+   "Detect Field Type from Input",
+   "从输入检测场类型"
+  ],
+  [
+   "Detect Particle Collisions",
+   "检测粒子碰撞"
+  ],
+  [
+   "Detect Subframes",
+   "检测子帧"
+  ],
+  [
+   "Detect Unresolved Duplicates after Auto ID-Serialization",
+   "自动 ID 序列化后检测未解决的重名"
+  ],
+  [
+   "Detect Vertex Intersections",
+   "检测顶点相交"
+  ],
+  [
+   "Detection Resolution",
+   "检测分辨率"
+  ],
+  [
+   "Determine Planes from Driver",
+   "从驱动确定平面"
+  ],
+  [
+   "Determine Resolution from Driver",
+   "从驱动确定分辨率"
+  ],
+  [
+   "Determine Voxel Size from Average Primitive Area",
+   "从平均图元面积确定体素尺寸"
+  ],
+  [
+   "Detonation Speed",
+   "爆轰速度"
+  ],
+  [
+   "Dev Notes",
+   "开发备注"
+  ],
+  [
+   "Developer Options",
+   "开发者选项"
+  ],
+  [
+   "Diameter",
+   "直径"
+  ],
+  [
+   "Diamond",
+   "菱形"
+  ],
+  [
+   "Dict Attrib Name",
+   "字典属性名"
+  ],
+  [
+   "Dict Enable",
+   "启用字典"
+  ],
+  [
+   "Dictionaries",
+   "字典"
+  ],
+  [
+   "Dictionary Attribute",
+   "字典属性"
+  ],
+  [
+   "Dictionary Name",
+   "字典名称"
+  ],
+  [
+   "Dictionary Values",
+   "字典值"
+  ],
+  [
+   "Dielectric Priority",
+   "电介质优先级"
+  ],
+  [
+   "Difference Blending",
+   "差值混合"
+  ],
+  [
+   "Difference Filter",
+   "差值过滤器"
+  ],
+  [
+   "Difference Method",
+   "差值方式"
+  ],
+  [
+   "Difference Mode",
+   "差值模式"
+  ],
+  [
+   "Differential",
+   "微分"
+  ],
+  [
+   "Diffuse Amount",
+   "漫反射量"
+  ],
+  [
+   "Diffuse Amplitude",
+   "漫反射振幅"
+  ],
+  [
+   "Diffuse Blend",
+   "漫反射混合"
+  ],
+  [
+   "Diffuse Blend Ramp",
+   "漫反射混合渐变"
+  ],
+  [
+   "Diffuse Coeff.",
+   "漫反射系数"
+  ],
+  [
+   "Diffuse Color - No Shading",
+   "漫反射颜色 - 无着色"
+  ],
+  [
+   "Diffuse Color Multiplier",
+   "漫反射颜色倍率"
+  ],
+  [
+   "Diffuse Component",
+   "漫反射分量"
+  ],
+  [
+   "Diffuse Computation Switch",
+   "漫反射计算开关"
+  ],
+  [
+   "Diffuse Dimmer",
+   "漫反射调光"
+  ],
+  [
+   "Diffuse Gain",
+   "漫反射增益"
+  ],
+  [
+   "Diffuse Hue",
+   "漫反射色相"
+  ],
+  [
+   "Diffuse Max",
+   "最大漫反射"
+  ],
+  [
+   "Diffuse Min",
+   "最小漫反射"
+  ],
+  [
+   "Diffuse Minimum",
+   "最小漫反射"
+  ],
+  [
+   "Diffuse Random Hue Range",
+   "漫反射随机色相范围"
+  ],
+  [
+   "Diffuse Random Int Range",
+   "漫反射随机强度范围"
+  ],
+  [
+   "Diffuse Random Sat Range",
+   "漫反射随机饱和度范围"
+  ],
+  [
+   "Diffuse Root Color",
+   "漫反射根部颜色"
+  ],
+  [
+   "Diffuse Roughness Name",
+   "漫反射粗糙度名称"
+  ],
+  [
+   "Diffuse Saturation",
+   "漫反射饱和度"
+  ],
+  [
+   "Diffuse Scale Multiplier",
+   "漫反射缩放倍率"
+  ],
+  [
+   "Diffuse Texture Blend",
+   "漫反射贴图混合"
+  ],
+  [
+   "Diffuse Tint",
+   "漫反射色调"
+  ],
+  [
+   "Diffuse Tip Color",
+   "漫反射尖端颜色"
+  ],
+  [
+   "Diffuse contribution",
+   "漫反射贡献"
+  ],
+  [
+   "Diffusion Coefficient",
+   "扩散系数"
+  ],
+  [
+   "Diffusion Coefficients",
+   "扩散系数"
+  ],
+  [
+   "Diffusion Matrix",
+   "扩散矩阵"
+  ],
+  [
+   "Diffusion PDE",
+   "扩散偏微分方程"
+  ],
+  [
+   "Diffusion Rate Noise",
+   "扩散速率噪声"
+  ],
+  [
+   "Diffusion Speed Attributes",
+   "扩散速度属性"
+  ],
+  [
+   "Diffusion Time",
+   "扩散时间"
+  ],
+  [
+   "Diffusion Times",
+   "扩散时间"
+  ],
+  [
+   "Digit Count",
+   "位数"
+  ],
+  [
+   "Digit Size",
+   "数字大小"
+  ],
+  [
+   "Digits",
+   "数字"
+  ],
+  [
+   "Dihedral Angle Tolerance",
+   "二面角容差"
+  ],
+  [
+   "Dilate Cavities",
+   "膨胀凹痕"
+  ],
+  [
+   "Dilation Pattern",
+   "膨胀图案"
+  ],
+  [
+   "Dilation Voxels",
+   "膨胀体素"
+  ],
+  [
+   "Dir. Force",
+   "方向力"
+  ],
+  [
+   "Direct Diffuse Name",
+   "直接漫反射名称"
+  ],
+  [
+   "Direct Edit",
+   "直接编辑"
+  ],
+  [
+   "Direct Gain Mode",
+   "直接增益模式"
+  ],
+  [
+   "Direct Gain Tint",
+   "直接增益色调"
+  ],
+  [
+   "Direct Lighting (per-component)",
+   "直接光照（逐分量）"
+  ],
+  [
+   "Direct Ray Samples",
+   "直接射线采样数"
+  ],
+  [
+   "Direct Reflectivity",
+   "直接反射率"
+  ],
+  [
+   "Direct Unshadowed",
+   "直接无阴影"
+  ],
+  [
+   "Directed Primitives",
+   "定向图元"
+  ],
+  [
+   "Direction Amount",
+   "方向量"
+  ],
+  [
+   "Direction Amount Options",
+   "方向量选项"
+  ],
+  [
+   "Direction Amount Override",
+   "覆盖方向量"
+  ],
+  [
+   "Direction Amount Remap Ramp",
+   "方向量重映射渐变"
+  ],
+  [
+   "Direction Attribute Mode",
+   "方向属性模式"
+  ],
+  [
+   "Direction Map",
+   "方向贴图"
+  ],
+  [
+   "Direction Primvar",
+   "方向图元变量"
+  ],
+  [
+   "Direction Tint",
+   "方向色调"
+  ],
+  [
+   "Direction To Light",
+   "到灯光的方向"
+  ],
+  [
+   "DirectionPad Buttons",
+   "方向键按钮"
+  ],
+  [
+   "Directional Cartesian",
+   "方向性笛卡尔"
+  ],
+  [
+   "Directional Force",
+   "方向力"
+  ],
+  [
+   "Directional Influence",
+   "方向影响"
+  ],
+  [
+   "Directional Light",
+   "平行光"
+  ],
+  [
+   "Directional Mask",
+   "方向遮罩"
+  ],
+  [
+   "Directional Mask Ramp",
+   "方向遮罩渐变"
+  ],
+  [
+   "Directional Offset",
+   "方向偏移"
+  ],
+  [
+   "Directional Spherical",
+   "方向性球面"
+  ],
+  [
+   "Directionality",
+   "方向性"
+  ],
+  [
+   "Directions",
+   "方向"
+  ],
+  [
+   "Directory Attribute",
+   "目录属性"
+  ],
+  [
+   "Dirt & Wetness",
+   "污渍与潮湿"
+  ],
+  [
+   "Dirt Color",
+   "污渍颜色"
+  ],
+  [
+   "Dirty Before Cook",
+   "计算前标脏"
+  ],
+  [
+   "Dirty Water Color",
+   "脏水颜色"
+  ],
+  [
+   "Dirty on Cook",
+   "计算时标脏"
+  ],
+  [
+   "Dirty on Incomplete",
+   "不完整时标脏"
+  ],
+  [
+   "Dirty on Regenerate",
+   "重新生成时标脏"
+  ],
+  [
+   "Disable Color Optimization",
+   "禁用颜色优化"
+  ],
+  [
+   "Disable Constraint Averaging",
+   "禁用约束平均"
+  ],
+  [
+   "Disable Depth of Field",
+   "禁用景深"
+  ],
+  [
+   "Disable Displace Shader Rendering",
+   "禁用置换着色器渲染"
+  ],
+  [
+   "Disable External",
+   "禁用外部"
+  ],
+  [
+   "Disable External Attr.",
+   "禁用外部属性"
+  ],
+  [
+   "Disable Failed Collisions",
+   "禁用失败的碰撞"
+  ],
+  [
+   "Disable Feature Optimization",
+   "禁用特征优化"
+  ],
+  [
+   "Disable Fog",
+   "禁用雾"
+  ],
+  [
+   "Disable If Attribute Missing",
+   "属性缺失时禁用"
+  ],
+  [
+   "Disable Motors",
+   "禁用马达"
+  ],
+  [
+   "Disable OCIO Parsing",
+   "禁用 OCIO 解析"
+  ],
+  [
+   "Disable Opacity Optimization",
+   "禁用不透明度优化"
+  ],
+  [
+   "Disable Plane #",
+   "禁用平面 #"
+  ],
+  [
+   "Disable Position Optimization",
+   "禁用位置优化"
+  ],
+  [
+   "Disable Rotation Optimization",
+   "禁用旋转优化"
+  ],
+  [
+   "Disable Sanitization",
+   "禁用清理"
+  ],
+  [
+   "Disable Scale Optimization",
+   "禁用缩放优化"
+  ],
+  [
+   "Disable Scene Lights (husk)",
+   "禁用场景灯光（husk）"
+  ],
+  [
+   "Disable Scene Materials (husk)",
+   "禁用场景材质（husk）"
+  ],
+  [
+   "Disable Self",
+   "禁用自身"
+  ],
+  [
+   "Disable Self Attr.",
+   "禁用自身属性"
+  ],
+  [
+   "Disable Shadow Casting in Karma",
+   "在 Karma 中禁用阴影投射"
+  ],
+  [
+   "Disable This Transfer",
+   "禁用此传递"
+  ],
+  [
+   "Disable Toe",
+   "禁用脚趾"
+  ],
+  [
+   "Disable Tolerance for Polyline Intersection Checks",
+   "禁用折线相交检查容差"
+  ],
+  [
+   "Disable WIP Features",
+   "禁用开发中功能"
+  ],
+  [
+   "Disable generation of archive #",
+   "禁止生成归档 #"
+  ],
+  [
+   "Disabled Collisions",
+   "已禁用的碰撞"
+  ],
+  [
+   "Disabled Collisions Color",
+   "已禁用碰撞的颜色"
+  ],
+  [
+   "Disallow Empty String",
+   "不允许空字符串"
+  ],
+  [
+   "Discard Regressions",
+   "丢弃退化"
+  ],
+  [
+   "Disconnected Attribute",
+   "断开连接的属性"
+  ],
+  [
+   "Discontinuities",
+   "不连续处"
+  ],
+  [
+   "Discretization",
+   "离散化"
+  ],
+  [
+   "Discriminator",
+   "判别器"
+  ],
+  [
+   "Disk Cache",
+   "磁盘缓存"
+  ],
+  [
+   "Disk Mode",
+   "磁盘模式"
+  ],
+  [
+   "Disk and Sphere",
+   "圆盘与球"
+  ],
+  [
+   "Disp In Tangent Normal",
+   "置换写入切线法线"
+  ],
+  [
+   "Displace Angle",
+   "置换角度"
+  ],
+  [
+   "Displace Bound",
+   "置换边界"
+  ],
+  [
+   "Displace By",
+   "置换依据"
+  ],
+  [
+   "Displace Direction",
+   "置换方向"
+  ],
+  [
+   "Displace Offset",
+   "置换偏移"
+  ],
+  [
+   "Displace Particles",
+   "置换粒子"
+  ],
+  [
+   "Displace Scale",
+   "置换缩放"
+  ],
+  [
+   "Displace Scale Attrib",
+   "置换缩放属性"
+  ],
+  [
+   "Displace Vector",
+   "置换矢量"
+  ],
+  [
+   "Displace Y",
+   "Y 向置换"
+  ],
+  [
+   "Displacement (Ds)",
+   "置换（Ds）"
+  ],
+  [
+   "Displacement Center",
+   "置换中心"
+  ],
+  [
+   "Displacement Constraints",
+   "置换约束"
+  ],
+  [
+   "Displacement Depth",
+   "置换深度"
+  ],
+  [
+   "Displacement Direction",
+   "置换方向"
+  ],
+  [
+   "Displacement Direction Space",
+   "置换方向空间"
+  ],
+  [
+   "Displacement Effect Scale",
+   "置换效果缩放"
+  ],
+  [
+   "Displacement Encoding",
+   "置换编码"
+  ],
+  [
+   "Displacement Height",
+   "置换高度"
+  ],
+  [
+   "Displacement Map Center",
+   "置换贴图中心"
+  ],
+  [
+   "Displacement Mode",
+   "置换模式"
+  ],
+  [
+   "Displacement Modes",
+   "置换模式"
+  ],
+  [
+   "Displacement Offset",
+   "置换偏移"
+  ],
+  [
+   "Displacement Scale Attribute",
+   "置换缩放属性"
+  ],
+  [
+   "Displacement Scale Space",
+   "置换缩放空间"
+  ],
+  [
+   "Displacement Scaling",
+   "置换缩放"
+  ],
+  [
+   "Displacement Space",
+   "置换空间"
+  ],
+  [
+   "Displacement Type",
+   "置换类型"
+  ],
+  [
+   "Display Activation Attribute",
+   "显示激活属性"
+  ],
+  [
+   "Display All Rig Sources",
+   "显示所有绑定来源"
+  ],
+  [
+   "Display Animation Controls",
+   "显示动画控件"
+  ],
+  [
+   "Display Bodypart",
+   "显示身体部件"
+  ],
+  [
+   "Display Capture Attribute",
+   "显示捕捉属性"
+  ],
+  [
+   "Display Capture Geometry",
+   "显示捕捉几何体"
+  ],
+  [
+   "Display Capture Guide",
+   "显示捕捉导向"
+  ],
+  [
+   "Display Capture Region",
+   "显示捕捉区域"
+  ],
+  [
+   "Display Clump Constraints",
+   "显示簇约束"
+  ],
+  [
+   "Display Code",
+   "显示代码"
+  ],
+  [
+   "Display Collision Shape",
+   "显示碰撞形状"
+  ],
+  [
+   "Display Constraint Geometry",
+   "显示约束几何体"
+  ],
+  [
+   "Display Controls",
+   "显示控件"
+  ],
+  [
+   "Display Deformed Geometry",
+   "显示变形几何体"
+  ],
+  [
+   "Display Deformed Guides",
+   "显示变形导向"
+  ],
+  [
+   "Display Extrusion",
+   "显示挤出"
+  ],
+  [
+   "Display Eyes",
+   "显示眼睛"
+  ],
+  [
+   "Display Geo",
+   "显示几何体"
+  ],
+  [
+   "Display Ground Plane",
+   "显示地面"
+  ],
+  [
+   "Display Ground Plane Geometry",
+   "显示地面几何体"
+  ],
+  [
+   "Display Guide",
+   "显示导向"
+  ],
+  [
+   "Display Guide Geometry",
+   "显示导向几何体"
+  ],
+  [
+   "Display Head Scale",
+   "显示头部缩放"
+  ],
+  [
+   "Display Inner Core as Wires",
+   "把内核心显示为线框"
+  ],
+  [
+   "Display Joints",
+   "显示关节"
+  ],
+  [
+   "Display Layer",
+   "显示图层"
+  ],
+  [
+   "Display Link",
+   "显示链接"
+  ],
+  [
+   "Display Muscle Controls",
+   "显示肌肉控件"
+  ],
+  [
+   "Display Muscles",
+   "显示肌肉"
+  ],
+  [
+   "Display Neck Bone Controls",
+   "显示颈部骨骼控件"
+  ],
+  [
+   "Display ODE Primitives",
+   "显示 ODE 图元"
+  ],
+  [
+   "Display Output Connectivity as Primitive Color",
+   "把输出连通性显示为图元颜色"
+  ],
+  [
+   "Display Output Geometry",
+   "显示输出几何体"
+  ],
+  [
+   "Display Overlaps in Original UVs",
+   "在原始 UV 中显示重叠"
+  ],
+  [
+   "Display PDG Active Work Item",
+   "显示 PDG 活动工作项"
+  ],
+  [
+   "Display Particles",
+   "显示粒子"
+  ],
+  [
+   "Display Pin-to-Animation Guides",
+   "显示图钉到动画的导向"
+  ],
+  [
+   "Display Points",
+   "显示点"
+  ],
+  [
+   "Display Projected Regions as Guides",
+   "把投影区域显示为导向"
+  ],
+  [
+   "Display Proxy",
+   "显示代理"
+  ],
+  [
+   "Display Proxy Controls",
+   "显示代理控件"
+  ],
+  [
+   "Display Proxy Geometry",
+   "显示代理几何体"
+  ],
+  [
+   "Display Reference Collision Shapes",
+   "显示参考碰撞形状"
+  ],
+  [
+   "Display Region",
+   "显示区域"
+  ],
+  [
+   "Display Regions",
+   "显示区域"
+  ],
+  [
+   "Display Skin",
+   "显示蒙皮"
+  ],
+  [
+   "Display Source Geometry",
+   "显示源几何体"
+  ],
+  [
+   "Display Spine Bone Controls",
+   "显示脊柱骨骼控件"
+  ],
+  [
+   "Display Suspension Guides",
+   "显示悬挂导向"
+  ],
+  [
+   "Display Target Joint Indicator",
+   "显示目标关节指示"
+  ],
+  [
+   "Display Tire Guides",
+   "显示轮胎导向"
+  ],
+  [
+   "Display Translation Limits",
+   "显示平移限制"
+  ],
+  [
+   "Display Unlocked Joint Indicators",
+   "显示未锁定关节指示"
+  ],
+  [
+   "Display Unselected Wheel Joints",
+   "显示未选中的车轮关节"
+  ],
+  [
+   "Display Variant",
+   "显示变体"
+  ],
+  [
+   "Display Viewport Render Outputs in MPlay",
+   "在 MPlay 中显示视口渲染输出"
+  ],
+  [
+   "Display Volume",
+   "显示体积"
+  ],
+  [
+   "Display Vorticles",
+   "显示涡旋"
+  ],
+  [
+   "Display Width",
+   "显示宽度"
+  ],
+  [
+   "Display Window from Input",
+   "从输入获取显示窗口"
+  ],
+  [
+   "Display Wire",
+   "显示线"
+  ],
+  [
+   "Displayed Parameters",
+   "已显示的参数"
+  ],
+  [
+   "Dissipate",
+   "耗散"
+  ],
+  [
+   "Dissipate Color",
+   "耗散颜色"
+  ],
+  [
+   "Dissolution Rate",
+   "溶解速率"
+  ],
+  [
+   "Dissolve Inplane Edges",
+   "消融同面边"
+  ],
+  [
+   "Dist Filter",
+   "距离过滤器"
+  ],
+  [
+   "Distal Phalanx",
+   "远节指骨"
+  ]
+ ]
+}

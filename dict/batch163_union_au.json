@@ -1,0 +1,355 @@
+{
+ "note": "合并清单 —— 第 47 批（proxy_* 关节标签 + ZibraVDB/glTF 文件）",
+ "skip": [
+  "endSharedServer Callback",
+  "getLogURI Callback",
+  "getStatusURI Callback",
+  "onAddInternalDependencies Callback",
+  "onCookTask Callback",
+  "onGenerate Callback",
+  "onMapDynamic Callback",
+  "onMapStatic Callback",
+  "onPartition Callback",
+  "onRegenerate Callback",
+  "onSchedule Callback",
+  "onScheduleStatic Callback",
+  "onStart Callback",
+  "onStartCook Callback",
+  "onStop Callback",
+  "onStopCook Callback",
+  "onTick Callback",
+  "submitAsJob Callback",
+  "transferFile Callback",
+  "101"
+ ],
+ "entries": [
+  [
+   "proxy_ankle Rotate",
+   "proxy_ankle 旋转"
+  ],
+  [
+   "proxy_ankle Scale",
+   "proxy_ankle 缩放"
+  ],
+  [
+   "proxy_ankle Translate",
+   "proxy_ankle 平移"
+  ],
+  [
+   "proxy_chest1 Rotate",
+   "proxy_chest1 旋转"
+  ],
+  [
+   "proxy_chest1 Scale",
+   "proxy_chest1 缩放"
+  ],
+  [
+   "proxy_chest1 Translate",
+   "proxy_chest1 平移"
+  ],
+  [
+   "proxy_chest2 Rotate",
+   "proxy_chest2 旋转"
+  ],
+  [
+   "proxy_chest2 Scale",
+   "proxy_chest2 缩放"
+  ],
+  [
+   "proxy_chest2 Translate",
+   "proxy_chest2 平移"
+  ],
+  [
+   "proxy_hip Rotate",
+   "proxy_hip 旋转"
+  ],
+  [
+   "proxy_hip Scale",
+   "proxy_hip 缩放"
+  ],
+  [
+   "proxy_hip Translate",
+   "proxy_hip 平移"
+  ],
+  [
+   "proxy_index1 Rotate",
+   "proxy_index1 旋转"
+  ],
+  [
+   "proxy_index1 Scale",
+   "proxy_index1 缩放"
+  ],
+  [
+   "proxy_index1 Translate",
+   "proxy_index1 平移"
+  ],
+  [
+   "proxy_index2 Rotate",
+   "proxy_index2 旋转"
+  ],
+  [
+   "proxy_index2 Scale",
+   "proxy_index2 缩放"
+  ],
+  [
+   "proxy_index2 Translate",
+   "proxy_index2 平移"
+  ],
+  [
+   "proxy_index3 Rotate",
+   "proxy_index3 旋转"
+  ],
+  [
+   "proxy_index3 Scale",
+   "proxy_index3 缩放"
+  ],
+  [
+   "proxy_index3 Translate",
+   "proxy_index3 平移"
+  ],
+  [
+   "proxy_lower_back1 Rotate",
+   "proxy_lower_back1 旋转"
+  ],
+  [
+   "proxy_lower_back1 Scale",
+   "proxy_lower_back1 缩放"
+  ],
+  [
+   "proxy_lower_back1 Translate",
+   "proxy_lower_back1 平移"
+  ],
+  [
+   "proxy_lower_back2 Rotate",
+   "proxy_lower_back2 旋转"
+  ],
+  [
+   "proxy_lower_back2 Scale",
+   "proxy_lower_back2 缩放"
+  ],
+  [
+   "proxy_lower_back2 Translate",
+   "proxy_lower_back2 平移"
+  ],
+  [
+   "proxy_lower_back3 Rotate",
+   "proxy_lower_back3 旋转"
+  ],
+  [
+   "proxy_lower_back3 Scale",
+   "proxy_lower_back3 缩放"
+  ],
+  [
+   "proxy_lower_back3 Translate",
+   "proxy_lower_back3 平移"
+  ],
+  [
+   "proxy_middle1 Rotate",
+   "proxy_middle1 旋转"
+  ],
+  [
+   "proxy_middle1 Scale",
+   "proxy_middle1 缩放"
+  ],
+  [
+   "proxy_middle1 Translate",
+   "proxy_middle1 平移"
+  ],
+  [
+   "proxy_middle2 Rotate",
+   "proxy_middle2 旋转"
+  ],
+  [
+   "proxy_middle2 Scale",
+   "proxy_middle2 缩放"
+  ],
+  [
+   "proxy_middle2 Translate",
+   "proxy_middle2 平移"
+  ],
+  [
+   "proxy_middle3 Rotate",
+   "proxy_middle3 旋转"
+  ],
+  [
+   "proxy_middle3 Scale",
+   "proxy_middle3 缩放"
+  ],
+  [
+   "proxy_middle3 Translate",
+   "proxy_middle3 平移"
+  ],
+  [
+   "proxy_palm Rotate",
+   "proxy_palm 旋转"
+  ],
+  [
+   "proxy_palm Scale",
+   "proxy_palm 缩放"
+  ],
+  [
+   "proxy_palm Translate",
+   "proxy_palm 平移"
+  ],
+  [
+   "proxy_pinky1 Rotate",
+   "proxy_pinky1 旋转"
+  ],
+  [
+   "proxy_pinky1 Scale",
+   "proxy_pinky1 缩放"
+  ],
+  [
+   "proxy_pinky1 Translate",
+   "proxy_pinky1 平移"
+  ],
+  [
+   "proxy_pinky2 Rotate",
+   "proxy_pinky2 旋转"
+  ],
+  [
+   "proxy_pinky2 Scale",
+   "proxy_pinky2 缩放"
+  ],
+  [
+   "proxy_pinky2 Translate",
+   "proxy_pinky2 平移"
+  ],
+  [
+   "proxy_pinky3 Rotate",
+   "proxy_pinky3 旋转"
+  ],
+  [
+   "proxy_pinky3 Scale",
+   "proxy_pinky3 缩放"
+  ],
+  [
+   "proxy_pinky3 Translate",
+   "proxy_pinky3 平移"
+  ],
+  [
+   "proxy_ring1 Rotate",
+   "proxy_ring1 旋转"
+  ],
+  [
+   "proxy_ring1 Scale",
+   "proxy_ring1 缩放"
+  ],
+  [
+   "proxy_ring1 Translate",
+   "proxy_ring1 平移"
+  ],
+  [
+   "proxy_ring2 Rotate",
+   "proxy_ring2 旋转"
+  ],
+  [
+   "proxy_ring2 Scale",
+   "proxy_ring2 缩放"
+  ],
+  [
+   "proxy_ring2 Translate",
+   "proxy_ring2 平移"
+  ],
+  [
+   "proxy_ring3 Rotate",
+   "proxy_ring3 旋转"
+  ],
+  [
+   "proxy_ring3 Scale",
+   "proxy_ring3 缩放"
+  ],
+  [
+   "proxy_ring3 Translate",
+   "proxy_ring3 平移"
+  ],
+  [
+   "proxy_shin Rotate",
+   "proxy_shin 旋转"
+  ],
+  [
+   "proxy_shin Scale",
+   "proxy_shin 缩放"
+  ],
+  [
+   "proxy_shin Translate",
+   "proxy_shin 平移"
+  ],
+  [
+   "proxy_thigh Rotate",
+   "proxy_thigh 旋转"
+  ],
+  [
+   "proxy_thigh Scale",
+   "proxy_thigh 缩放"
+  ],
+  [
+   "proxy_thigh Translate",
+   "proxy_thigh 平移"
+  ],
+  [
+   "proxy_thumb1 Rotate",
+   "proxy_thumb1 旋转"
+  ],
+  [
+   "proxy_thumb1 Scale",
+   "proxy_thumb1 缩放"
+  ],
+  [
+   "proxy_thumb1 Translate",
+   "proxy_thumb1 平移"
+  ],
+  [
+   "proxy_thumb2 Rotate",
+   "proxy_thumb2 旋转"
+  ],
+  [
+   "proxy_thumb2 Scale",
+   "proxy_thumb2 缩放"
+  ],
+  [
+   "proxy_thumb2 Translate",
+   "proxy_thumb2 平移"
+  ],
+  [
+   "proxy_thumb3 Rotate",
+   "proxy_thumb3 旋转"
+  ],
+  [
+   "proxy_thumb3 Scale",
+   "proxy_thumb3 缩放"
+  ],
+  [
+   "proxy_thumb3 Translate",
+   "proxy_thumb3 平移"
+  ],
+  [
+   "proxy_toe Rotate",
+   "proxy_toe 旋转"
+  ],
+  [
+   "proxy_toe Scale",
+   "proxy_toe 缩放"
+  ],
+  [
+   "proxy_toe Translate",
+   "proxy_toe 平移"
+  ],
+  [
+   "muscle_anchor_tip_forearm Rotate",
+   "muscle_anchor_tip_forearm 旋转"
+  ],
+  [
+   "muscle_anchor_tip_forearm Translate",
+   "muscle_anchor_tip_forearm 平移"
+  ],
+  [
+   "ZibraVDB File",
+   "ZibraVDB 文件"
+  ],
+  [
+   "glTF File",
+   "glTF 文件"
+  ]
+ ]
+}

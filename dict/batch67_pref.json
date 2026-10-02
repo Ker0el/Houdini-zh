@@ -1,0 +1,937 @@
+{
+  "_comment": "FUSE_PrefDialog.ui 的界面文案",
+  "entries": [
+    [
+      "A slightly reduced UI scheme, cutting down on margins, spacing and icon size.",
+      "略微精简的界面方案，缩小边距、间距和图标尺寸。"
+    ],
+    [
+      "A very compact UI scheme for low DPI monitors or maximizing usable space.",
+      "紧凑界面方案，适用于低 DPI 显示器或想最大化可用空间时。"
+    ],
+    [
+      "Add Parameters With Animation",
+      "添加带动画的参数"
+    ],
+    [
+      "Add Parameters With Auto-Add to Channel List flag",
+      "添加参数并标记为自动加入通道列表"
+    ],
+    [
+      "Add Parameters from Constraints",
+      "从约束添加参数"
+    ],
+    [
+      "Add Parameters from Descendants",
+      "从下级添加参数"
+    ],
+    [
+      "Allow Auto Take Mode for Locked Assets",
+      "允许锁定资产使用自动 Take 模式"
+    ],
+    [
+      "Allow Diving Into Locked HDAs",
+      "允许进入锁定的 HDA"
+    ],
+    [
+      "Allow Viewport Only Payload Loading",
+      "允许仅视口加载载荷"
+    ],
+    [
+      "Allow adaptive subdivision",
+      "允许自适应细分"
+    ],
+    [
+      "Animation Editor and Motion FX Viewer",
+      "动画编辑器与运动特效视图"
+    ],
+    [
+      "Area Select Visible Geometry On by Default",
+      "默认框选仅可见几何体"
+    ],
+    [
+      "Auto Function",
+      "自动函数"
+    ],
+    [
+      "Auto Save Every",
+      "自动保存间隔"
+    ],
+    [
+      "Auto Save Method",
+      "自动保存方式"
+    ],
+    [
+      "Auto-Commit: Save Parameter Change at Keyframes",
+      "自动提交：在关键帧处保存参数修改"
+    ],
+    [
+      "Auto-Key Tuples Parameters",
+      "自动关键帧作用于元组参数"
+    ],
+    [
+      "Auto-Key: Add Keyframes on Parameter Change",
+      "自动关键帧：参数改变时添加关键帧"
+    ],
+    [
+      "Auto-Scroll Network When Dragging Nodes",
+      "拖动节点时自动滚动网络"
+    ],
+    [
+      "Automatic Parameter Folder Flipping when Objects are Picked in Viewer",
+      "在视口中拾取物体时自动展开参数文件夹"
+    ],
+    [
+      "Automatic Scene Save",
+      "自动保存场景"
+    ],
+    [
+      "Automatic Slope Mode",
+      "自动斜率模式"
+    ],
+    [
+      "Automatically Delete all References",
+      "自动删除所有引用"
+    ],
+    [
+      "Automatically Delete only Simple Channel References",
+      "仅自动删除简单通道引用"
+    ],
+    [
+      "Automatically Set View Pivot on Selection",
+      "选择时自动设置视图枢轴"
+    ],
+    [
+      "Automatically Turn Construction Plane On",
+      "自动打开构造平面"
+    ],
+    [
+      "Automatically turn on the construction plane for the SOP level curve tool",
+      "SOP 层曲线工具自动打开构造平面"
+    ],
+    [
+      "Automatically turn on the construction plane for the bones tool",
+      "骨骼工具自动打开构造平面"
+    ],
+    [
+      "Automatically turn on the construction plane for the object level curve tool",
+      "物体层曲线工具自动打开构造平面"
+    ],
+    [
+      "Automatically turn on the construction plane for the path tool",
+      "路径工具自动打开构造平面"
+    ],
+    [
+      "Available Render Nodes:",
+      "可用的渲染节点："
+    ],
+    [
+      "Beyond Compare 4",
+      "Beyond Compare 4"
+    ],
+    [
+      "Bind Address",
+      "绑定地址"
+    ],
+    [
+      "Cameras Primitive Path",
+      "相机图元路径"
+    ],
+    [
+      "Changes to the OpenCL device may not take effect until your next Houdini session.",
+      "OpenCL 设备的改动可能要到下次启动 Houdini 才生效。"
+    ],
+    [
+      "Changes to the Playbar UI, Icon Size and Layout, and Global UI Scale",
+      "播放条界面、图标尺寸与布局、全局界面缩放的改动"
+    ],
+    [
+      "Changing the Cull Level will cause these to be set",
+      "更改剔除级别会同时设置这几项"
+    ],
+    [
+      "Classic Houdini",
+      "经典 Houdini"
+    ],
+    [
+      "Collapse All Inputs and Outputs",
+      "折叠所有输入输出"
+    ],
+    [
+      "Collections Primitive Path",
+      "集合图元路径"
+    ],
+    [
+      "Collections Primitive Type",
+      "集合图元类型"
+    ],
+    [
+      "Color Pane Headers with Network Contexts",
+      "用网络上下文给面板标题着色"
+    ],
+    [
+      "Command Line Arguments:",
+      "命令行参数："
+    ],
+    [
+      "Connection Snap Radius",
+      "连接吸附半径"
+    ],
+    [
+      "Context Sensitive Popup Help",
+      "上下文相关的弹出帮助"
+    ],
+    [
+      "Controls whether the SOP states that support doing so change the geometry selection type to match that of their node's cook selection whenever the latter changes",
+      "控制支持该行为的 SOP 状态是否在其节点的计算选择改变时，同步改变几何体选择类型"
+    ],
+    [
+      "Copy Files",
+      "复制文件"
+    ],
+    [
+      "Copy Paths to Clipboard when Copying Nodes",
+      "复制节点时把路径复制到剪贴板"
+    ],
+    [
+      "Create Full Loop Selections Through Any Topology",
+      "跨任意拓扑创建完整循环选择"
+    ],
+    [
+      "Dead Zones",
+      "死区"
+    ],
+    [
+      "Default Authoring Options",
+      "默认创作选项"
+    ],
+    [
+      "Default Context Creation",
+      "默认上下文创建"
+    ],
+    [
+      "Default Dolly Direction",
+      "默认推拉方向"
+    ],
+    [
+      "Default Function",
+      "默认函数"
+    ],
+    [
+      "Default Geometry Display",
+      "默认几何体显示"
+    ],
+    [
+      "Default Houdini UI size.",
+      "默认的 Houdini 界面尺寸。"
+    ],
+    [
+      "Default Meters per Unit",
+      "默认每单位米数"
+    ],
+    [
+      "Default Metrics",
+      "默认度量单位制"
+    ],
+    [
+      "Default Pan Distance",
+      "默认平移距离"
+    ],
+    [
+      "Default Tumble Pivot",
+      "默认旋转枢轴"
+    ],
+    [
+      "Default Up Axis",
+      "默认上轴"
+    ],
+    [
+      "Default Zoom Center",
+      "默认缩放中心"
+    ],
+    [
+      "Delay Inactive Viewport Redraws",
+      "延迟非活动视口的重绘"
+    ],
+    [
+      "Delete Channels When Reverting to Defaults",
+      "恢复默认值时删除通道"
+    ],
+    [
+      "Display Embedded Visualizer Editor",
+      "显示内嵌的可视化编辑器"
+    ],
+    [
+      "Display Icons in Operator Tree Views By Default",
+      "节点树视图中默认显示图标"
+    ],
+    [
+      "Display Resolved Layer Paths",
+      "显示解析后的层路径"
+    ],
+    [
+      "Display VOP Input and Output Descriptive Labels",
+      "显示 VOP 输入输出的描述性标签"
+    ],
+    [
+      "Do Not Automatically Delete any References",
+      "不自动删除任何引用"
+    ],
+    [
+      "Dolly along Projected Direction",
+      "沿投影方向推拉"
+    ],
+    [
+      "Dolly along View Direction",
+      "沿视线方向推拉"
+    ],
+    [
+      "Draw Lines Smoothly",
+      "平滑绘制线条"
+    ],
+    [
+      "Echo Hotkey Commands",
+      "回显快捷键命令"
+    ],
+    [
+      "Edit Strings and Expressions using External Editor",
+      "用外部编辑器编辑字符串与表达式"
+    ],
+    [
+      "Editor Toolbar",
+      "编辑器工具栏"
+    ],
+    [
+      "Editor Tools",
+      "编辑器工具"
+    ],
+    [
+      "Enable Time Slice Flag when Creating CHOPs",
+      "创建 CHOP 时启用时间切片标记"
+    ],
+    [
+      "Executable Path:",
+      "可执行文件路径："
+    ],
+    [
+      "Expression Language",
+      "表达式语言"
+    ],
+    [
+      "Extra Large",
+      "超大"
+    ],
+    [
+      "File Compare",
+      "文件比较"
+    ],
+    [
+      "Flag Hotkeys Work on Existing Node Selections",
+      "标记快捷键作用于已有的节点选择"
+    ],
+    [
+      "Folder Compare",
+      "文件夹比较"
+    ],
+    [
+      "Geometry Pick Distance (Pixels)",
+      "几何体拾取距离（像素）"
+    ],
+    [
+      "Global Set Key",
+      "全局设置关键帧"
+    ],
+    [
+      "Help Tip Area",
+      "帮助提示区"
+    ],
+    [
+      "Higher Cull Levels will do more aggressive culling of SOP data.",
+      "更高的剔除级别会更激进地剔除 SOP 数据。"
+    ],
+    [
+      "Highlight component under mouse when selecting",
+      "选择时高亮鼠标下的分量"
+    ],
+    [
+      "Hold Last Key",
+      "保持最后一个关键帧"
+    ],
+    [
+      "Homing Method",
+      "归位方式"
+    ],
+    [
+      "Houdini Preferences",
+      "Houdini 首选项"
+    ],
+    [
+      "Icon Size and Layout",
+      "图标尺寸与布局"
+    ],
+    [
+      "If enabled, a new Animation Editor window will pop-up if there is none currently visible in the desktop.",
+      "启用后，若桌面中没有可见的动画编辑器，会自动弹出新窗口。"
+    ],
+    [
+      "If enabled, the Channel List follows channel references and CHOP exports. When this checkbox is turned off, you will see the result of the expression in the graph editor, but won't be able to edit any keyframes.",
+      "启用后，通道列表会跟随通道引用与 CHOP 导出。关闭此项时，图形编辑器里仍会显示表达式结果，但无法编辑任何关键帧。"
+    ],
+    [
+      "Imperial Tons",
+      "英吨"
+    ],
+    [
+      "Include Performance Statistics in Node Info",
+      "在节点信息中包含性能统计"
+    ],
+    [
+      "Increment Filename",
+      "递增文件名"
+    ],
+    [
+      "Initial Segment",
+      "起始片段"
+    ],
+    [
+      "Initial VOP Detail Level",
+      "初始 VOP 细节级别"
+    ],
+    [
+      "Keep Pivot on Tumble",
+      "旋转时保持枢轴"
+    ],
+    [
+      "Keep the Channel List Selection When Nodes are Re-Selected. When off, the channel selection state will will reset to the state from the auto-select flag.",
+      "重新选择节点时保留通道列表的选择。关闭时，通道选择状态会重置为自动选择标记对应的状态。"
+    ],
+    [
+      "Larger UI scheme for higher DPI monitors (140dpi), projection screen classes and demos.",
+      "较大的界面方案，适用于高 DPI 显示器（140dpi）、投影教学和演示。"
+    ],
+    [
+      "Lights Primitive Path",
+      "灯光图元路径"
+    ],
+    [
+      "Line Numbers",
+      "行号"
+    ],
+    [
+      "Load Payloads by Default in New LOP Networks",
+      "新建 LOP 网络时默认加载载荷"
+    ],
+    [
+      "Lorem ipsum",
+      "Lorem ipsum"
+    ],
+    [
+      "Maintain Viewport Pivot when Panning",
+      "平移时保持视口枢轴"
+    ],
+    [
+      "Make All Render Nodes Available in Tool Palette and Tab Menu",
+      "让所有渲染节点出现在工具面板和 Tab 菜单中"
+    ],
+    [
+      "Make Numbered Backup",
+      "生成带编号的备份"
+    ],
+    [
+      "Manual Overrides",
+      "手动覆盖"
+    ],
+    [
+      "Manual Slope but Keep Slope Value from Existing Curve",
+      "手动斜率，但沿用现有曲线的斜率值"
+    ],
+    [
+      "Match Search Non-contiguously",
+      "非连续匹配搜索"
+    ],
+    [
+      "Maximum Name Height",
+      "名称最大高度"
+    ],
+    [
+      "Maximum Realtime Time Slice Size",
+      "实时时间切片的最大尺寸"
+    ],
+    [
+      "Metric Tons",
+      "公吨"
+    ],
+    [
+      "Minimal Realtime Cooks",
+      "最小化实时计算"
+    ],
+    [
+      "Minimum Name Height",
+      "名称最小高度"
+    ],
+    [
+      "Move Files",
+      "移动文件"
+    ],
+    [
+      "Move Pivot when Panning",
+      "平移时移动枢轴"
+    ],
+    [
+      "Network Editor, Nodes, and Trees",
+      "网络编辑器、节点与树"
+    ],
+    [
+      "Next Page",
+      "下一页"
+    ],
+    [
+      "Node Info Windows Close When Losing Focus",
+      "节点信息窗口失去焦点时关闭"
+    ],
+    [
+      "Node Tiles",
+      "节点瓦片"
+    ],
+    [
+      "Notification Area",
+      "通知区域"
+    ],
+    [
+      "OBJ Caching Controls",
+      "OBJ 缓存控制"
+    ],
+    [
+      "Only Show Connected Inputs and Outputs",
+      "只显示已连接的输入输出"
+    ],
+    [
+      "Open Animation Editor If Closed",
+      "动画编辑器已关闭时打开它"
+    ],
+    [
+      "Open Viewers",
+      "打开查看器"
+    ],
+    [
+      "Operator Tree Views",
+      "节点树视图"
+    ],
+    [
+      "Overwrite File",
+      "覆盖文件"
+    ],
+    [
+      "Pan Using Geometry under Mouse",
+      "用鼠标下的几何体平移"
+    ],
+    [
+      "Pan Using Last Home Location",
+      "用上次归位的位置平移"
+    ],
+    [
+      "Panes Show Post-Layers",
+      "面板显示后置层"
+    ],
+    [
+      "Panes Show Viewport Stage",
+      "面板显示视口阶段"
+    ],
+    [
+      "Panes and Primitive Selections Follow Current Node",
+      "面板与图元选择跟随当前节点"
+    ],
+    [
+      "Panning Method",
+      "平移方式"
+    ],
+    [
+      "Parameter Fields",
+      "参数字段"
+    ],
+    [
+      "Parameter Pane",
+      "参数面板"
+    ],
+    [
+      "Parameters in the Channel List will be rendered with an underline color matching the channel color.",
+      "通道列表中的参数会用与通道颜色一致的下划线渲染。"
+    ],
+    [
+      "Parameters in the Channel List will be rendered with an underline in the Parameter Editor.",
+      "通道列表中的参数会在参数编辑器中以下划线标出。"
+    ],
+    [
+      "Parameters of the selected node(s) that are currently overridden by CHOPs will be displayed in the Motion FX View pane.",
+      "所选节点中当前被 CHOP 覆盖的参数会显示在运动特效视图面板中。"
+    ],
+    [
+      "Parameters of the selected node(s) which are marked as `autoadd` will be added to the Channel List.",
+      "所选节点中标记为 `autoadd` 的参数会加入通道列表。"
+    ],
+    [
+      "Parameters of the selected node(s) will be added to the Channel List",
+      "所选节点的参数会加入通道列表"
+    ],
+    [
+      "Parenthesis and Quote Matching",
+      "括号与引号匹配"
+    ],
+    [
+      "Path Menu Behaviour",
+      "路径菜单行为"
+    ],
+    [
+      "Percentage Thresholds",
+      "百分比阈值"
+    ],
+    [
+      "Performance Options",
+      "性能选项"
+    ],
+    [
+      "Play Audio with Popup Notifications for ... ",
+      "弹窗通知时播放提示音，持续… "
+    ],
+    [
+      "Playbar UI",
+      "播放条界面"
+    ],
+    [
+      "Popup Menu Selection",
+      "弹出菜单选择"
+    ],
+    [
+      "Previous Page",
+      "上一页"
+    ],
+    [
+      "Prompt User Each Time",
+      "每次都询问"
+    ],
+    [
+      "Provide Path Completion For Primitive Path Parameters",
+      "为图元路径参数提供路径补全"
+    ],
+    [
+      "Read-Only Pre-Transforms",
+      "只读的预变换"
+    ],
+    [
+      "Rename Last Save",
+      "重命名上次保存"
+    ],
+    [
+      "Reserve ",
+      "预留 "
+    ],
+    [
+      "Revert Invisible Parameters to Defaults",
+      "把不可见的参数恢复为默认值"
+    ],
+    [
+      "Revert To Defaults",
+      "恢复默认值"
+    ],
+    [
+      "Rotation Function",
+      "旋转函数"
+    ],
+    [
+      "SOP Caching Controls",
+      "SOP 缓存控制"
+    ],
+    [
+      "Save Desktops Automatically",
+      "自动保存桌面布局"
+    ],
+    [
+      "Save Method",
+      "保存方式"
+    ],
+    [
+      "Save View Commands For",
+      "保存视图命令用于"
+    ],
+    [
+      "Save as Default button in any viewport's Display Option Dialog.",
+      "任意视口「显示选项」对话框里的「保存为默认」按钮。"
+    ],
+    [
+      "Scene Load",
+      "场景加载"
+    ],
+    [
+      "Scene Save",
+      "场景保存"
+    ],
+    [
+      "Select Entire Digital Asset On By Default",
+      "默认选中整个数字资产"
+    ],
+    [
+      "Set Additional First Key At Frame",
+      "在指定帧额外设置首个关键帧"
+    ],
+    [
+      "Set Asset Resolver Context From LOP Node Parameters",
+      "从 LOP 节点参数设置资产解析器上下文"
+    ],
+    [
+      "Set Auto-Add to Channel List Flag when Creating Channels",
+      "创建通道时设置自动加入通道列表标记"
+    ],
+    [
+      "Set Highlight Flag on Viewer Generated Nodes",
+      "为查看器生成的节点设置高亮标记"
+    ],
+    [
+      "Set Keys on All Channels",
+      "为所有通道设置关键帧"
+    ],
+    [
+      "Set Keys on Pending Channels",
+      "为待定通道设置关键帧"
+    ],
+    [
+      "Set Keys on Selected Channels",
+      "为所选通道设置关键帧"
+    ],
+    [
+      "Set Pivot on Tumble",
+      "旋转时设置枢轴"
+    ],
+    [
+      "Shelf Tools and Tab Menu",
+      "货架工具与 Tab 菜单"
+    ],
+    [
+      "Show All Operators",
+      "显示所有节点"
+    ],
+    [
+      "Show Current Operator",
+      "显示当前节点"
+    ],
+    [
+      "Show Display Operator",
+      "显示显示节点"
+    ],
+    [
+      "Show Images for Image Files in File Browsers",
+      "文件浏览器里为图像文件显示预览图"
+    ],
+    [
+      "Show Only Operators with Preferred Versions",
+      "只显示有首选版本的节点"
+    ],
+    [
+      "Show Previews on New COP Nodes",
+      "新建 COP 节点时显示预览"
+    ],
+    [
+      "Show Single Operator from the Preferred Namespace",
+      "只显示首选命名空间里的那一个节点"
+    ],
+    [
+      "Show all Inputs and Outputs",
+      "显示所有输入输出"
+    ],
+    [
+      "Spare/HDA Parameter Deletion",
+      "备用/HDA 参数删除"
+    ],
+    [
+      "Standard Houdini",
+      "标准 Houdini"
+    ],
+    [
+      "Startup in Desktop",
+      "启动时进入的桌面"
+    ],
+    [
+      "Status bar",
+      "状态栏"
+    ],
+    [
+      "TAB Menu Operator Namespace Filtering",
+      "Tab 菜单的节点命名空间过滤"
+    ],
+    [
+      "Text Editors",
+      "文本编辑器"
+    ],
+    [
+      "The Cull Level parameter will select between different cache options.",
+      "剔除级别参数会在不同的缓存选项之间切换。"
+    ],
+    [
+      "The auto save feature is automatically disabled for each new Houdini session.",
+      "自动保存功能在每次新建 Houdini 会话时都会自动关闭。"
+    ],
+    [
+      "The command or tool triggered by a hotkey press is displayed.",
+      "显示按下快捷键所触发的命令或工具。"
+    ],
+    [
+      "These parameters provide a manual override of aspects",
+      "这些参数用于手动覆盖某些方面"
+    ],
+    [
+      "This value is used by some unit-specific DOPs parameters.",
+      "某些带单位的 DOP 参数会用到这个值。"
+    ],
+    [
+      "This will change the default expression language for new nodes.",
+      "这会改变新建节点的默认表达式语言。"
+    ],
+    [
+      "To activate the auto save feature, turn on the Auto Save toggle found in the Edit menu.",
+      "要启用自动保存，请打开「编辑」菜单里的「自动保存」开关。"
+    ],
+    [
+      "Tool History Length",
+      "工具历史长度"
+    ],
+    [
+      "Tortoise SVN Compare",
+      "TortoiseSVN 比较"
+    ],
+    [
+      "Trivial Drag",
+      "微小拖动"
+    ],
+    [
+      "Tumbling Method",
+      "旋转方式"
+    ],
+    [
+      "UI Scheme designed for monitors with 180 or higher DPI.",
+      "为 180 及以上 DPI 显示器设计的界面方案。"
+    ],
+    [
+      "Underline in the Parameter Editor",
+      "在参数编辑器中加下划线"
+    ],
+    [
+      "Unit Length is the length in meters of one Houdini unit.",
+      "单位长度是 1 个 Houdini 单位对应的米数。"
+    ],
+    [
+      "Unit Mass is the mass in kilograms of one Houdini unit.",
+      "单位质量是 1 个 Houdini 单位对应的千克数。"
+    ],
+    [
+      "Unit Time is always 1 second.",
+      "单位时间恒为 1 秒。"
+    ],
+    [
+      "Update Channel List When Nodes are Selected",
+      "选择节点时更新通道列表"
+    ],
+    [
+      "Use Alt Key for View Controls",
+      "用 Alt 键做视图控制"
+    ],
+    [
+      "Use Channel Color",
+      "使用通道颜色"
+    ],
+    [
+      "Use Cook Selection to Update Geometry Selection Type in SOP States",
+      "在 SOP 状态中用计算选择来更新几何体选择类型"
+    ],
+    [
+      "Use Existing Selection to Complete Action",
+      "用已有的选择完成操作"
+    ],
+    [
+      "Use External Help Server",
+      "使用外部帮助服务器"
+    ],
+    [
+      "Use Houdini's Unit Length for Meters per Unit",
+      "每单位米数沿用 Houdini 的单位长度"
+    ],
+    [
+      "Use IPv6",
+      "使用 IPv6"
+    ],
+    [
+      "Use New UI",
+      "使用新界面"
+    ],
+    [
+      "Use Simplified Shape When Node Shapes Off",
+      "关闭节点形状时使用简化形状"
+    ],
+    [
+      "Use USD Standard Default Up Axis",
+      "使用 USD 标准的默认上轴"
+    ],
+    [
+      "View Overridden Parameters in Motion FX View",
+      "在运动特效视图中查看被覆盖的参数"
+    ],
+    [
+      "View State Operation Defaults",
+      "视图状态操作的默认值"
+    ],
+    [
+      "Warn About Deprecated Operators",
+      "对已废弃的节点发出警告"
+    ],
+    [
+      "Web Browser",
+      "Web 浏览器"
+    ],
+    [
+      "When Parameters are Added to Channel List",
+      "当参数被加入通道列表时"
+    ],
+    [
+      "When checked, Houdini will send usage statistics to Side Effects Software that will be used to help improve Houdini.",
+      "勾选后，Houdini 会把使用统计发送给 Side Effects Software，用于改进 Houdini。"
+    ],
+    [
+      "When set, new keys match the existing segment function",
+      "设置后，新关键帧会匹配现有片段的函数"
+    ],
+    [
+      "When set, the last segment will remain flat (hold pose)",
+      "设置后，最后一段保持水平（保持姿势）"
+    ],
+    [
+      "When this checkbox is turned on, the Channel List will expand the selected nodes to include all the child nodes.",
+      "勾选后，通道列表会把所选节点展开，包含所有子节点。"
+    ],
+    [
+      "When this checkbox is turned on, the Channel List will expand the selected nodes to include all the constraints nodes.",
+      "勾选后，通道列表会把所选节点展开，包含所有约束节点。"
+    ],
+    [
+      "Wire Toggle Mode",
+      "连线切换模式"
+    ],
+    [
+      "You can set the default Display Options for new viewports using the",
+      "你可以用下面的方式为新视口设置默认显示选项："
+    ],
+    [
+      "You have environment variables set that override OpenCL preferences.",
+      "你设置了会覆盖 OpenCL 首选项的环境变量。"
+    ],
+    [
+      "Zoom (%)",
+      "缩放 (%)"
+    ],
+    [
+      "Zoom about Mouse Position",
+      "以鼠标位置为中心缩放"
+    ],
+    [
+      "Zoom about View Center",
+      "以视图中心缩放"
+    ]
+  ]
+}

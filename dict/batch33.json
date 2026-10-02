@@ -1,0 +1,35 @@
+{
+  "_comment": "第三十三批：Qt 先截断再绘制的货架标签页（\"Collisi…\" 这种）。",
+  "_why": "货架标签页放不下时 Qt 会**先按英文宽度截断再画**，drawText 出口拿到的已经是截断后的碎片，词典按完整标签写永远匹配不上。修法本应是钩 QFontMetrics::elidedText（先翻译再截断），但实测那会让 Houdini 22 崩在 UI_QtPlutoUtils::drawTabLabel 里，所以改成把截断后的串直接收录 —— 零风险，且缺口日志会把新的截断形态报出来。译文要短，因为替换发生在截断**之后**，不会再被 Qt 截一次。",
+
+  "entries": {
+    "Collisi…": "碰撞…",
+    "DOP P…": "烟火…",
+    "Drive …": "驱动…",
+    "Light…": "灯光…",
+    "Partic…": "粒子…",
+    "Rigid …": "刚体…",
+    "SOP P…": "SOP…",
+    "Visco…": "粘性流…",
+    "Volume…": "体积…",
+    "Crowd…": "群集…",
+    "Vellum…": "Vellum…",
+    "Grains…": "颗粒…",
+    "Muscle…": "肌肉…",
+    "Groom…": "毛发…",
+    "Terrai…": "地形…",
+    "Charac…": "角色…",
+    "Const…": "约束…",
+    "Deform…": "变形…",
+    "Ocean…": "海洋…",
+    "Solid…": "固体…",
+    "Pyro …": "烟火…",
+    "POP N…": "POP…",
+    "SOP S…": "SOP…",
+    "RBD …": "刚体…",
+    "Liquid…": "液体…",
+    "Cloth…": "布料…",
+    "Ripple…": "涟漪…",
+    "Wire…": "线缆…"
+  }
+}

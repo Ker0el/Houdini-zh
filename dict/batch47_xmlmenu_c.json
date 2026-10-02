@@ -1,0 +1,12 @@
+{
+  "_comment": "第四十七批：XML 菜单的收尾 7 条。其中 5 条是 batch45/46 之间的接缝漏的（Jump to ... × 4 + Keep Channel List Selections）—— 分批时首尾没对齐，教训：批次的边界要拿抽取清单逐条核。",
+  "entries": {
+    "Decoration Recipes": "装饰配方",
+    "Jump to Existing Editors Node": "跳到已有的编辑器节点",
+    "Jump to Input Node": "跳到输入节点",
+    "Jump to Parameter Definer": "跳到参数定义",
+    "Jump to Target": "跳到目标",
+    "Keep Channel List Selections": "保留通道列表选择",
+    "Parameter Presets": "参数预设"
+  }
+}

@@ -1,0 +1,8 @@
+{
+ "note": "QML 收尾 —— 带符号的界面文案（× 是倍率标识，不翻）",
+ "skip": ["1.5×", "1×", "2×"],
+ "entries": [
+  ["Double-click label or name to edit • Drag handle to reorder", "双击标签或名称即可编辑 • 拖动手柄可重新排序"],
+  ["Extend ↔", "延伸 ↔"]
+ ]
+}

@@ -1,0 +1,32 @@
+{
+  "_comment": "第四十二批：灯光 / 变换手柄 / 权重标签。TX/RX/SX 这类是变换分量的显示标签（大写），底层参数名是小写的 tx/rx/sx —— 我们只拦显示路径，不影响真参数名。",
+  "entries": {
+    "Ambient Color": "环境光颜色",
+    "Constrain": "约束",
+    "Enable Light In Viewport": "在视口中启用灯光",
+    "Light Enabled": "灯光已启用",
+    "Light Intensity": "灯光强度",
+    "Mask 1": "遮罩 1",
+    "Mask 2": "遮罩 2",
+    "Mask 3": "遮罩 3",
+    "Mask 4": "遮罩 4",
+    "Normal Offset": "法线偏移",
+    "Parents": "父级",
+    "RX": "旋转 X",
+    "RY": "旋转 Y",
+    "RZ": "旋转 Z",
+    "Rotation Blending": "旋转混合",
+    "SX": "缩放 X",
+    "SY": "缩放 Y",
+    "SZ": "缩放 Z",
+    "Shortest Path (Fast Linear)": "最短路径（快速线性）",
+    "TX": "平移 X",
+    "TY": "平移 Y",
+    "TZ": "平移 Z",
+    "Use Rest Angles": "使用静止角度",
+    "Weight 1": "权重 1",
+    "Weight 2": "权重 2",
+    "Weight 3": "权重 3",
+    "Weight 4": "权重 4"
+  }
+}

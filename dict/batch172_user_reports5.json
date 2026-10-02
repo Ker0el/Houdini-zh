@@ -1,0 +1,16 @@
+{
+ "note": "用户实时报告 —— 运动模糊菜单项",
+ "skip": [],
+ "entries": [
+  ["No Velocity Blur", "无速度模糊"],
+  ["Velocity Blur", "速度模糊"],
+  ["Acceleration Blur", "加速度模糊"],
+  ["No Acceleration Blur", "无加速度模糊"],
+  ["No Motion Blur", "无运动模糊"],
+  ["Motion Blur", "运动模糊"],
+  ["Velocity Blur Type", "速度模糊类型"],
+  ["Acceleration Blur Type", "加速度模糊类型"],
+  ["Use Velocity Blur", "使用速度模糊"],
+  ["Use Acceleration Blur", "使用加速度模糊"]
+ ]
+}

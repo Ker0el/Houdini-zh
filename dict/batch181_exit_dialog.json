@@ -1,0 +1,17 @@
+{
+ "note": "退出确认框 + 状态栏杂项（2026-10-02 晚，重启后新 DLL 生效）",
+ "skip": [],
+ "patterns": {
+  "^Save changes to \"([^\"]*)\" before exiting\\?$": "退出前要保存对 \"$1\" 的更改吗？",
+  "^Save changes to \"([^\"]*)\"\\?$": "要保存对 \"$1\" 的更改吗？",
+  "^Maximum number of indirect samples: ([0-9]+)$": "间接采样数上限：$1",
+  "^Minimum number of indirect samples: ([0-9]+)$": "间接采样数下限：$1"
+ },
+ "entries": [
+  ["Not enough sources specified.", "指定的源数量不足。"],
+  ["Not enough sources specified", "指定的源数量不足"],
+  ["Save changes to", "是否保存更改到"],
+  ["Save changes before exiting?", "退出前要保存更改吗？"],
+  ["before exiting?", "退出前？"]
+ ]
+}

@@ -1,0 +1,9 @@
+{
+ "_comment": "第六十二批：星空汉化自己的菜单栏条目。Houdini 菜单 XML 必须纯 ASCII，所以 XML 里写英文，靠我们自己的 QAction::setText 钩子翻成中文。两个顶层菜单项 —— XSD 规定 menuBar 只能放 subMenu，做不出真正的单按钮。",
+ "entries": {
+  "Bilibili Starry Localization": "Bilibili星空汉化",
+  "Open Localization Homepage": "打开汉化主页",
+  "Toggle Chinese / English": "切换中英文",
+  "Switch Now": "立即切换"
+ }
+}

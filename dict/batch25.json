@@ -1,0 +1,13 @@
+{
+  "_comment": "第二十五批：常用节点参数清单收尾 —— 4 个零碎标签。",
+  "entries": {
+    "Ensure Neighbor": "确保邻居",
+    "|     Surface Offset": "表面偏移"
+  },
+  "skip": [
+    " ",
+    "   ×",
+    "  ",
+    "\t"
+  ]
+}

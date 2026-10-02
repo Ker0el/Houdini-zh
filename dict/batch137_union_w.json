@@ -1,0 +1,1520 @@
+{
+ "note": "合并清单 —— 第 23 批（Matte Texture 5 → Min Clip）",
+ "skip": [
+  "Maxdistance",
+  "MeshLightAPI",
+  "Middle1",
+  "Middle1 End Rotate",
+  "Middle1 End Translate",
+  "Middle1 Length",
+  "Middle1 Muscle Color",
+  "Middle1 Muscle Scale",
+  "Middle1 Primitives Per Segment",
+  "Middle1 Rotate",
+  "Middle1 Translate",
+  "Middle1 Translate Z",
+  "Middle2",
+  "Middle2 End Rotate",
+  "Middle2 End Translate",
+  "Middle2 Length",
+  "Middle2 Muscle Color",
+  "Middle2 Muscle Scale",
+  "Middle2 Primitives Per Segment",
+  "Middle2 Rotate",
+  "Middle2 Translate",
+  "Middle2 Translate Z",
+  "Middle3",
+  "Middle3 Length",
+  "Middle3 Muscle Color",
+  "Middle3 Muscle Scale",
+  "Middle3 Primitives Per Segment",
+  "Middle3 Rotate",
+  "Middle3 Translate"
+ ],
+ "entries": [
+  [
+   "Matte Texture 5",
+   "遮罩纹理 5"
+  ],
+  [
+   "Matte Texture 6",
+   "遮罩纹理 6"
+  ],
+  [
+   "Matte Texture 7",
+   "遮罩纹理 7"
+  ],
+  [
+   "Max Active Tasks",
+   "最大活动任务数"
+  ],
+  [
+   "Max Added Points",
+   "最大新增点数"
+  ],
+  [
+   "Max Angle Difference",
+   "最大角度差"
+  ],
+  [
+   "Max Angle Variation",
+   "最大角度变化"
+  ],
+  [
+   "Max Angular Velocity",
+   "最大角速度"
+  ],
+  [
+   "Max Axis Fraction",
+   "最大轴比例"
+  ],
+  [
+   "Max Blendwidth",
+   "最大混合宽度"
+  ],
+  [
+   "Max Bounds Attribute",
+   "最大边界属性"
+  ],
+  [
+   "Max Buckling Scale",
+   "最大屈曲缩放"
+  ],
+  [
+   "Max Change",
+   "最大变化"
+  ],
+  [
+   "Max Clip",
+   "最大片段"
+  ],
+  [
+   "Max Collision Objects per Shape",
+   "每形状最大碰撞对象数"
+  ],
+  [
+   "Max Collision Points",
+   "最大碰撞点数"
+  ],
+  [
+   "Max Continuation Hits",
+   "最大延续命中数"
+  ],
+  [
+   "Max Contributors",
+   "最大贡献者数"
+  ],
+  [
+   "Max Count",
+   "最大数量"
+  ],
+  [
+   "Max Cusp",
+   "最大尖角"
+  ],
+  [
+   "Max Deformation Angle",
+   "最大变形角度"
+  ],
+  [
+   "Max Density Scale",
+   "最大密度缩放"
+  ],
+  [
+   "Max Depth Allowed",
+   "允许的最大深度"
+  ],
+  [
+   "Max Depth Change",
+   "最大深度变化"
+  ],
+  [
+   "Max Displacement",
+   "最大位移"
+  ],
+  [
+   "Max Displacement Frame",
+   "最大位移帧"
+  ],
+  [
+   "Max Dist",
+   "最大距离"
+  ],
+  [
+   "Max Dist Multiple",
+   "最大距离倍数"
+  ],
+  [
+   "Max Dist to Surface",
+   "到表面的最大距离"
+  ],
+  [
+   "Max Distance Attribute",
+   "最大距离属性"
+  ],
+  [
+   "Max Division Angle",
+   "最大分割角度"
+  ],
+  [
+   "Max Division Angle Attribute",
+   "最大分割角度属性"
+  ],
+  [
+   "Max Edge Reduction",
+   "最大边简化量"
+  ],
+  [
+   "Max Edges",
+   "最大边数"
+  ],
+  [
+   "Max Epochs",
+   "最大轮数"
+  ],
+  [
+   "Max Epochs (For a Single Cook)",
+   "最大轮数（单次计算）"
+  ],
+  [
+   "Max Error",
+   "最大误差"
+  ],
+  [
+   "Max Extrap Dist",
+   "最大外推距离"
+  ],
+  [
+   "Max Extrapolation Cells",
+   "最大外推单元数"
+  ],
+  [
+   "Max Extrapolation Distance",
+   "最大外推距离"
+  ],
+  [
+   "Max Field",
+   "最大场"
+  ],
+  [
+   "Max Fitting Sphere Settings",
+   "最大拟合球设置"
+  ],
+  [
+   "Max Fracture Level",
+   "最大碎裂层级"
+  ],
+  [
+   "Max Frames",
+   "最大帧数"
+  ],
+  [
+   "Max Frames to Cache",
+   "最大缓存帧数"
+  ],
+  [
+   "Max Global Iterations",
+   "最大全局迭代次数"
+  ],
+  [
+   "Max Guide Angle Options",
+   "最大引导角度选项"
+  ],
+  [
+   "Max Guide Count",
+   "最大引导数"
+  ],
+  [
+   "Max Guides Per Clump",
+   "每簇最大引导数"
+  ],
+  [
+   "Max Half-Width",
+   "最大半宽"
+  ],
+  [
+   "Max Images/Frame",
+   "每帧最大图像数"
+  ],
+  [
+   "Max Influence Radius",
+   "最大影响半径"
+  ],
+  [
+   "Max Initial Rotation",
+   "最大初始旋转"
+  ],
+  [
+   "Max Instance Radius",
+   "最大实例半径"
+  ],
+  [
+   "Max Interior Tet Scale",
+   "最大内部四面体缩放"
+  ],
+  [
+   "Max Items per Tick",
+   "每刻最大项目数"
+  ],
+  [
+   "Max Jump Time",
+   "最大跳跃时间"
+  ],
+  [
+   "Max Learning Rate",
+   "最大学习率"
+  ],
+  [
+   "Max Leaves Per Node",
+   "每节点最大叶片数"
+  ],
+  [
+   "Max Length Attrib",
+   "最大长度属性"
+  ],
+  [
+   "Max Length Options",
+   "最大长度选项"
+  ],
+  [
+   "Max Length Override",
+   "最大长度覆盖"
+  ],
+  [
+   "Max Length Remap Ramp",
+   "最大长度重映射渐变"
+  ],
+  [
+   "Max Length Texture",
+   "最大长度纹理"
+  ],
+  [
+   "Max Length Variation",
+   "最大长度变化"
+  ],
+  [
+   "Max Lifespan",
+   "最大寿命"
+  ],
+  [
+   "Max Lift",
+   "最大抬升"
+  ],
+  [
+   "Max Lift Attrib",
+   "最大抬升属性"
+  ],
+  [
+   "Max Lift Options",
+   "最大抬升选项"
+  ],
+  [
+   "Max Lift Override",
+   "最大抬升覆盖"
+  ],
+  [
+   "Max Lift Remap Ramp",
+   "最大抬升重映射渐变"
+  ],
+  [
+   "Max Lift Texture",
+   "最大抬升纹理"
+  ],
+  [
+   "Max Lines",
+   "最大行数"
+  ],
+  [
+   "Max Lock",
+   "最大锁定"
+  ],
+  [
+   "Max Luminance",
+   "最大亮度"
+  ],
+  [
+   "Max Mask",
+   "最大遮罩"
+  ],
+  [
+   "Max Model Files",
+   "最大模型文件数"
+  ],
+  [
+   "Max Number of Points",
+   "最大点数"
+  ],
+  [
+   "Max ONNX Files",
+   "最大 ONNX 文件数"
+  ],
+  [
+   "Max Object Depth",
+   "最大对象深度"
+  ],
+  [
+   "Max Octave Jump",
+   "最大八度跳跃"
+  ],
+  [
+   "Max Octaves Mode",
+   "最大八度数模式"
+  ],
+  [
+   "Max Pitch Shift",
+   "最大音高偏移"
+  ],
+  [
+   "Max Pixel Dist",
+   "最大像素距离"
+  ],
+  [
+   "Max Points per Frame",
+   "每帧最大点数"
+  ],
+  [
+   "Max Points per Segment",
+   "每段最大点数"
+  ],
+  [
+   "Max Poly",
+   "最大多边形数"
+  ],
+  [
+   "Max Position Change",
+   "最大位置变化"
+  ],
+  [
+   "Max Pre-Pass Iterations",
+   "最大预处理迭代数"
+  ],
+  [
+   "Max Primitive Number",
+   "最大图元编号"
+  ],
+  [
+   "Max Projection Height",
+   "最大投影高度"
+  ],
+  [
+   "Max RPF Allowed",
+   "允许的最大 RPF"
+  ],
+  [
+   "Max Radius Limit",
+   "最大半径限制"
+  ],
+  [
+   "Max Radius Scale",
+   "最大半径缩放"
+  ],
+  [
+   "Max Radius-Edge Ratio",
+   "最大半径-边长比"
+  ],
+  [
+   "Max Ratio",
+   "最大比例"
+  ],
+  [
+   "Max Ray Dist",
+   "最大光线距离"
+  ],
+  [
+   "Max Repair Iterations",
+   "最大修复迭代数"
+  ],
+  [
+   "Max Replace",
+   "最大替换数"
+  ],
+  [
+   "Max Rest Depth",
+   "最大静止深度"
+  ],
+  [
+   "Max Rotation Per Frame",
+   "每帧最大旋转"
+  ],
+  [
+   "Max Rows",
+   "最大行数"
+  ],
+  [
+   "Max Run Time",
+   "最大运行时间"
+  ],
+  [
+   "Max Sample Steps",
+   "最大采样步数"
+  ],
+  [
+   "Max Scale Factor",
+   "最大缩放系数"
+  ],
+  [
+   "Max Scale Factor Attrib",
+   "最大缩放系数属性"
+  ],
+  [
+   "Max Scale Factor Options",
+   "最大缩放系数选项"
+  ],
+  [
+   "Max Scale Factor Override",
+   "最大缩放系数覆盖"
+  ],
+  [
+   "Max Scale Factor Remap Ramp",
+   "最大缩放系数重映射渐变"
+  ],
+  [
+   "Max Scale Factor Texture",
+   "最大缩放系数纹理"
+  ],
+  [
+   "Max Search Distance",
+   "最大搜索距离"
+  ],
+  [
+   "Max Search Path Cost",
+   "最大搜索路径代价"
+  ],
+  [
+   "Max Search Radius",
+   "最大搜索半径"
+  ],
+  [
+   "Max Sim Points",
+   "最大模拟点数"
+  ],
+  [
+   "Max Size Attribute",
+   "最大尺寸属性"
+  ],
+  [
+   "Max Size Attribute Name",
+   "最大尺寸属性名"
+  ],
+  [
+   "Max Slope",
+   "最大坡度"
+  ],
+  [
+   "Max Snap Dist",
+   "最大吸附距离"
+  ],
+  [
+   "Max Snap U Iterations",
+   "最大 U 吸附迭代数"
+  ],
+  [
+   "Max Solve Iterations",
+   "最大求解迭代数"
+  ],
+  [
+   "Max Source Guides",
+   "最大源引导线数"
+  ],
+  [
+   "Max Speed Allowed",
+   "允许的最大速度"
+  ],
+  [
+   "Max Speed Source",
+   "最大速度来源"
+  ],
+  [
+   "Max Split",
+   "最大拆分"
+  ],
+  [
+   "Max Splits",
+   "最大拆分数"
+  ],
+  [
+   "Max Springs",
+   "最大弹簧数"
+  ],
+  [
+   "Max Squash",
+   "最大挤压"
+  ],
+  [
+   "Max Steiner Points",
+   "最大斯坦纳点数"
+  ],
+  [
+   "Max Step Count",
+   "最大步数"
+  ],
+  [
+   "Max Step Size",
+   "最大步长"
+  ],
+  [
+   "Max Steps (Single Cook)",
+   "最大步数（单次计算）"
+  ],
+  [
+   "Max Steps (for a single cook)",
+   "最大步数（单次计算）"
+  ],
+  [
+   "Max Stress",
+   "最大应力"
+  ],
+  [
+   "Max Subdivisions",
+   "最大细分数"
+  ],
+  [
+   "Max Surface Speed",
+   "最大表面速度"
+  ],
+  [
+   "Max Surface Velocity",
+   "最大表面速度"
+  ],
+  [
+   "Max Swirl Size",
+   "最大旋涡大小"
+  ],
+  [
+   "Max Tet Size",
+   "最大四面体尺寸"
+  ],
+  [
+   "Max Texel Density Error",
+   "最大纹素密度误差"
+  ],
+  [
+   "Max Thickness",
+   "最大厚度"
+  ],
+  [
+   "Max Threads",
+   "最大线程数"
+  ],
+  [
+   "Max Tile Size",
+   "最大平铺尺寸"
+  ],
+  [
+   "Max Tilt Rate",
+   "最大倾摆速率"
+  ],
+  [
+   "Max Translation Per Frame",
+   "每帧最大平移"
+  ],
+  [
+   "Max Translucent Layers",
+   "最大半透明层数"
+  ],
+  [
+   "Max Triangle Scale",
+   "最大三角形缩放"
+  ],
+  [
+   "Max Triangle Size",
+   "最大三角形尺寸"
+  ],
+  [
+   "Max U Solve Iterations",
+   "最大 U 求解迭代数"
+  ],
+  [
+   "Max UV Gap (%)",
+   "最大 UV 间隙（%）"
+  ],
+  [
+   "Max Value Type",
+   "最大值类型"
+  ],
+  [
+   "Max Vis Resolution",
+   "最大可视化分辨率"
+  ],
+  [
+   "Max Volume",
+   "最大体积"
+  ],
+  [
+   "Max Volume Attribute Name",
+   "最大体积属性名"
+  ],
+  [
+   "Max Volume Constraint",
+   "最大体积约束"
+  ],
+  [
+   "Max Wave Height",
+   "最大波高"
+  ],
+  [
+   "Max Wave Speed",
+   "最大波速"
+  ],
+  [
+   "Max Weight",
+   "最大权重"
+  ],
+  [
+   "Max Work Items",
+   "最大工作项数"
+  ],
+  [
+   "Max dist to stitch",
+   "缝合的最大距离"
+  ],
+  [
+   "Max. Clients per Frame",
+   "每帧最大客户端数"
+  ],
+  [
+   "Max. Influences",
+   "最大影响数"
+  ],
+  [
+   "Max. Thickness",
+   "最大厚度"
+  ],
+  [
+   "Max/Min Weight",
+   "最大/最小权重"
+  ],
+  [
+   "Maximize Hyperplane",
+   "最大化超平面"
+  ],
+  [
+   "Maximize ramp",
+   "最大化渐变"
+  ],
+  [
+   "Maximum A",
+   "最大值 A"
+  ],
+  [
+   "Maximum Angle from Direction",
+   "与方向的最大夹角"
+  ],
+  [
+   "Maximum Attempts",
+   "最大尝试次数"
+  ],
+  [
+   "Maximum B",
+   "最大值 B"
+  ],
+  [
+   "Maximum Bound",
+   "最大边界"
+  ],
+  [
+   "Maximum Bulge",
+   "最大凸起"
+  ],
+  [
+   "Maximum Choice",
+   "最大选项数"
+  ],
+  [
+   "Maximum Concavity",
+   "最大凹陷度"
+  ],
+  [
+   "Maximum Count",
+   "最大数量"
+  ],
+  [
+   "Maximum Darken",
+   "最大变暗"
+  ],
+  [
+   "Maximum Depth",
+   "最大深度"
+  ],
+  [
+   "Maximum Displacement",
+   "最大位移"
+  ],
+  [
+   "Maximum Edge",
+   "最大边"
+  ],
+  [
+   "Maximum Epochs",
+   "最大轮数"
+  ],
+  [
+   "Maximum Epochs Total (over all cooks)",
+   "总最大轮数（所有计算累计）"
+  ],
+  [
+   "Maximum Feature Count",
+   "最大特征数量"
+  ],
+  [
+   "Maximum Feature Size",
+   "最大特征尺寸"
+  ],
+  [
+   "Maximum Field",
+   "最大场"
+  ],
+  [
+   "Maximum Frame",
+   "最大帧"
+  ],
+  [
+   "Maximum Frizz",
+   "最大毛躁"
+  ],
+  [
+   "Maximum Goal Distance",
+   "最大目标距离"
+  ],
+  [
+   "Maximum Guide Count Options",
+   "最大引导数选项"
+  ],
+  [
+   "Maximum Image Size",
+   "最大图像尺寸"
+  ],
+  [
+   "Maximum Layers",
+   "最大层数"
+  ],
+  [
+   "Maximum Life",
+   "最大寿命"
+  ],
+  [
+   "Maximum Marker Radius",
+   "最大标记半径"
+  ],
+  [
+   "Maximum Memory",
+   "最大内存"
+  ],
+  [
+   "Maximum Normal Angle",
+   "最大法线角度"
+  ],
+  [
+   "Maximum Paint Value",
+   "最大绘制值"
+  ],
+  [
+   "Maximum Part Size",
+   "最大部件尺寸"
+  ],
+  [
+   "Maximum Pixel Radius",
+   "最大像素半径"
+  ],
+  [
+   "Maximum Regions",
+   "最大区域数"
+  ],
+  [
+   "Maximum Retries",
+   "最大重试次数"
+  ],
+  [
+   "Maximum Rotation",
+   "最大旋转"
+  ],
+  [
+   "Maximum Run Time",
+   "最大运行时间"
+  ],
+  [
+   "Maximum Search Points",
+   "最大搜索点数"
+  ],
+  [
+   "Maximum Size from Guide Distances",
+   "按引导距离确定最大尺寸"
+  ],
+  [
+   "Maximum Spin",
+   "最大自旋"
+  ],
+  [
+   "Maximum Standard Deviation",
+   "最大标准差"
+  ],
+  [
+   "Maximum Stepsize",
+   "最大步长"
+  ],
+  [
+   "Maximum Stiffness",
+   "最大刚度"
+  ],
+  [
+   "Maximum Stretch",
+   "最大拉伸"
+  ],
+  [
+   "Maximum Strip Length",
+   "最大条带长度"
+  ],
+  [
+   "Maximum Substep",
+   "最大子步"
+  ],
+  [
+   "Maximum Thickness",
+   "最大厚度"
+  ],
+  [
+   "Maximum Torque",
+   "最大力矩"
+  ],
+  [
+   "Maximum Trials",
+   "最大试验次数"
+  ],
+  [
+   "Maximum Value Color",
+   "最大值颜色"
+  ],
+  [
+   "Maximum Value In Destination Range",
+   "目标范围内的最大值"
+  ],
+  [
+   "Maximum Value In Source Range",
+   "源范围内的最大值"
+  ],
+  [
+   "Maximum Value Texture",
+   "最大值纹理"
+  ],
+  [
+   "Maximum Velocity",
+   "最大速度"
+  ],
+  [
+   "Maximum Viscosity",
+   "最大粘度"
+  ],
+  [
+   "Maximum Width Segments",
+   "最大宽度分段数"
+  ],
+  [
+   "Maya Python Executable",
+   "Maya Python 可执行文件"
+  ],
+  [
+   "Mean Free Path",
+   "平均自由程"
+  ],
+  [
+   "Mean Free Path Color",
+   "平均自由程颜色"
+  ],
+  [
+   "Mean Free Path Distance",
+   "平均自由程距离"
+  ],
+  [
+   "Mean Value",
+   "平均值"
+  ],
+  [
+   "Measurement",
+   "测量"
+  ],
+  [
+   "Measurement Method",
+   "测量方式"
+  ],
+  [
+   "Measurements",
+   "测量值"
+  ],
+  [
+   "Median of Neighbors",
+   "邻居中值"
+  ],
+  [
+   "Medium Color",
+   "中层颜色"
+  ],
+  [
+   "Medium Layer",
+   "中间层"
+  ],
+  [
+   "Medulla",
+   "髓质"
+  ],
+  [
+   "Medulla Blend Normals",
+   "髓质混合法线"
+  ],
+  [
+   "Medulla Diffuse",
+   "髓质漫反射"
+  ],
+  [
+   "Medulla Opacity",
+   "髓质不透明度"
+  ],
+  [
+   "Medulla Phase",
+   "髓质相位"
+  ],
+  [
+   "Medulla Pigment",
+   "髓质色素"
+  ],
+  [
+   "Medulla Radius",
+   "髓质半径"
+  ],
+  [
+   "Melanin Concentration",
+   "黑色素浓度"
+  ],
+  [
+   "Melt",
+   "融化"
+  ],
+  [
+   "Melt Border",
+   "融化边界"
+  ],
+  [
+   "Melt Iterations",
+   "融化迭代数"
+  ],
+  [
+   "Member # Name",
+   "成员 # 名称"
+  ],
+  [
+   "Membership (Else)",
+   "隶属度（其它）"
+  ],
+  [
+   "Membership Function Combined",
+   "隶属函数组合"
+  ],
+  [
+   "Membership Function Mirrored",
+   "隶属函数镜像"
+  ],
+  [
+   "Menu",
+   "菜单"
+  ],
+  [
+   "Menu Entries",
+   "菜单项"
+  ],
+  [
+   "Menu Entry Icons",
+   "菜单项图标"
+  ],
+  [
+   "Merge Adjacent Pieces",
+   "合并相邻碎块"
+  ],
+  [
+   "Merge All Files",
+   "合并所有文件"
+  ],
+  [
+   "Merge Attribute",
+   "合并属性"
+  ],
+  [
+   "Merge Attribute Name",
+   "合并属性名"
+  ],
+  [
+   "Merge Attribute Type",
+   "合并属性类型"
+  ],
+  [
+   "Merge Cable Ends",
+   "合并缆索末端"
+  ],
+  [
+   "Merge Failed Work Items",
+   "合并失败的工作项"
+  ],
+  [
+   "Merge Graph",
+   "合并图表"
+  ],
+  [
+   "Merge Group",
+   "合并组"
+  ],
+  [
+   "Merge Input 1",
+   "合并输入 1"
+  ],
+  [
+   "Merge Input 2",
+   "合并输入 2"
+  ],
+  [
+   "Merge Input Geometry",
+   "合并输入几何体"
+  ],
+  [
+   "Merge Load Masks from Iterations",
+   "从迭代合并载荷遮罩"
+  ],
+  [
+   "Merge Nearby Segments",
+   "合并邻近分段"
+  ],
+  [
+   "Merge Op",
+   "合并操作"
+  ],
+  [
+   "Merge Overrides",
+   "合并覆盖"
+  ],
+  [
+   "Merge Pieces",
+   "合并碎块"
+  ],
+  [
+   "Merge Range",
+   "合并范围"
+  ],
+  [
+   "Merge Results",
+   "合并结果"
+  ],
+  [
+   "Merge Splines",
+   "合并样条"
+  ],
+  [
+   "Merge Style",
+   "合并样式"
+  ],
+  [
+   "Merge VDB Points",
+   "合并 VDB 点"
+  ],
+  [
+   "Merge Variable",
+   "合并变量"
+  ],
+  [
+   "Merged Output",
+   "合并后的输出"
+  ],
+  [
+   "Merged Points",
+   "合并后的点"
+  ],
+  [
+   "Merged VDB Name",
+   "合并后的 VDB 名称"
+  ],
+  [
+   "Merges",
+   "合并"
+  ],
+  [
+   "Mesa Max Slope",
+   "台地最大坡度"
+  ],
+  [
+   "Mesh Decimation",
+   "网格简化"
+  ],
+  [
+   "Mesh Guide Color",
+   "网格引导颜色"
+  ],
+  [
+   "Mesh Objects",
+   "网格对象"
+  ],
+  [
+   "Mesh Primitives",
+   "网格图元"
+  ],
+  [
+   "Mesh Quality",
+   "网格质量"
+  ],
+  [
+   "Mesh Size",
+   "网格尺寸"
+  ],
+  [
+   "Mesh Size Attribute",
+   "网格尺寸属性"
+  ],
+  [
+   "Mesh Target Size",
+   "网格目标尺寸"
+  ],
+  [
+   "Mesh Triangle Size",
+   "网格三角形尺寸"
+  ],
+  [
+   "Mesh Weight Smoothing",
+   "网格权重平滑"
+  ],
+  [
+   "Mesh with Attributes",
+   "带属性的网格"
+  ],
+  [
+   "Meshing Adaptivity",
+   "网格化自适应性"
+  ],
+  [
+   "Meshing Options",
+   "网格化选项"
+  ],
+  [
+   "Message 1",
+   "消息 1"
+  ],
+  [
+   "Message 2",
+   "消息 2"
+  ],
+  [
+   "Message 3",
+   "消息 3"
+  ],
+  [
+   "Message 4",
+   "消息 4"
+  ],
+  [
+   "Message 5",
+   "消息 5"
+  ],
+  [
+   "Message 6",
+   "消息 6"
+  ],
+  [
+   "Message 7",
+   "消息 7"
+  ],
+  [
+   "Message 8",
+   "消息 8"
+  ],
+  [
+   "Message 9",
+   "消息 9"
+  ],
+  [
+   "Message 10",
+   "消息 10"
+  ],
+  [
+   "Message 11",
+   "消息 11"
+  ],
+  [
+   "Message 12",
+   "消息 12"
+  ],
+  [
+   "Message Time Stamps",
+   "消息时间戳"
+  ],
+  [
+   "Message Type",
+   "消息类型"
+  ],
+  [
+   "Meta",
+   "元"
+  ],
+  [
+   "Meta-surface Weight",
+   "元表面权重"
+  ],
+  [
+   "Metaball Grouping #",
+   "元球分组 #"
+  ],
+  [
+   "Metaball Groupings",
+   "元球分组"
+  ],
+  [
+   "Metaball SOPs",
+   "元球 SOP"
+  ],
+  [
+   "Metacarpals",
+   "掌骨"
+  ],
+  [
+   "Metadata #",
+   "元数据 #"
+  ],
+  [
+   "Metadata Input Name",
+   "元数据输入名称"
+  ],
+  [
+   "Metadata Name",
+   "元数据名称"
+  ],
+  [
+   "Metallic Edge Tint",
+   "金属边缘着色"
+  ],
+  [
+   "Metallic Reflection",
+   "金属反射"
+  ],
+  [
+   "Metallic Roughness Texture",
+   "金属粗糙度纹理"
+  ],
+  [
+   "Metalness COP",
+   "金属度 COP"
+  ],
+  [
+   "Metalness Defaults",
+   "金属度默认值"
+  ],
+  [
+   "Metalness File",
+   "金属度文件"
+  ],
+  [
+   "Metalness Group",
+   "金属度组"
+  ],
+  [
+   "Metalness Name",
+   "金属度名称"
+  ],
+  [
+   "Metastart Handle",
+   "变形起始手柄"
+  ],
+  [
+   "Metatarsals",
+   "跖骨"
+  ],
+  [
+   "Method Name",
+   "方法名称"
+  ],
+  [
+   "Metric Attribute",
+   "度量属性"
+  ],
+  [
+   "Microphones",
+   "麦克风"
+  ],
+  [
+   "Mid Add",
+   "中间叠加"
+  ],
+  [
+   "Mid Amount",
+   "中间量"
+  ],
+  [
+   "Mid Contrast",
+   "中间对比度"
+  ],
+  [
+   "Mid Gamma",
+   "中间伽马"
+  ],
+  [
+   "Mid Length",
+   "中间长度"
+  ],
+  [
+   "Mid Mult",
+   "中间相乘"
+  ],
+  [
+   "Mid Name",
+   "中间名称"
+  ],
+  [
+   "Mid Order Barrel (k2)",
+   "中阶桶形（k2）"
+  ],
+  [
+   "Mid Order Inverse (k5)",
+   "中阶反畸变（k5）"
+  ],
+  [
+   "Mid Point",
+   "中点"
+  ],
+  [
+   "Mid Value",
+   "中间值"
+  ],
+  [
+   "Mid Weight",
+   "中间权重"
+  ],
+  [
+   "Mid-Depth Water Color",
+   "中层水深颜色"
+  ],
+  [
+   "Mid-Point",
+   "中点"
+  ],
+  [
+   "Middle",
+   "中指"
+  ],
+  [
+   "Middle Middle1 Rotate",
+   "中指中节 1 旋转"
+  ],
+  [
+   "Middle Middle2 Rotate",
+   "中指中节 2 旋转"
+  ],
+  [
+   "Middle Palm",
+   "中指掌部"
+  ],
+  [
+   "Middle Palm Muscle Color",
+   "中指掌部肌肉颜色"
+  ],
+  [
+   "Middle Palm Muscle Scale",
+   "中指掌部肌肉缩放"
+  ],
+  [
+   "Middle Palm Primitives Per Segment",
+   "每段中指掌部图元数"
+  ],
+  [
+   "Middle Phalanx",
+   "中节指骨"
+  ],
+  [
+   "Middle Radius",
+   "中间半径"
+  ],
+  [
+   "Middle Root End Rotate",
+   "中指根部末端旋转"
+  ],
+  [
+   "Middle Root End Translate",
+   "中指根部末端平移"
+  ],
+  [
+   "Middle Root Rotate",
+   "中指根部旋转"
+  ],
+  [
+   "Middle Root Translate",
+   "中指根部平移"
+  ],
+  [
+   "Middle Rotate",
+   "中间旋转"
+  ],
+  [
+   "Middle Seam Group",
+   "中间接缝组"
+  ],
+  [
+   "Middle Tip Rotate",
+   "中指指尖旋转"
+  ],
+  [
+   "Middle Tip Translate",
+   "中指指尖平移"
+  ],
+  [
+   "Middle Translate",
+   "中间平移"
+  ],
+  [
+   "Middles",
+   "中指节"
+  ],
+  [
+   "Midpoint",
+   "中点"
+  ],
+  [
+   "Midtones",
+   "中间调"
+  ],
+  [
+   "Mie",
+   "米氏"
+  ],
+  [
+   "Milestone Ratio",
+   "里程碑比例"
+  ],
+  [
+   "Military",
+   "军用"
+  ],
+  [
+   "Min Air Region Size",
+   "最小空气区域尺寸"
+  ],
+  [
+   "Min Amount of Frames to Lock",
+   "最少锁定帧数"
+  ],
+  [
+   "Min Area",
+   "最小面积"
+  ],
+  [
+   "Min Barb Segments",
+   "最小倒钩分段数"
+  ],
+  [
+   "Min Bend Angle",
+   "最小弯曲角度"
+  ],
+  [
+   "Min Bounds Attribute",
+   "最小边界属性"
+  ],
+  [
+   "Min Cell Surface Area",
+   "最小单元表面积"
+  ],
+  [
+   "Min Clip",
+   "最小片段"
+  ]
+ ]
+}

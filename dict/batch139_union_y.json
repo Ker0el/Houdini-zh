@@ -1,0 +1,1568 @@
+{
+ "note": "合并清单 —— 第 25 批（Name Separator → Number of Splats）",
+ "skip": [
+  "Ncortex",
+  "New Clip#_#",
+  "Ng",
+  "Nmedulla",
+  "Noise1",
+  "Noise2",
+  "Noise3",
+  "Noise4",
+  "Noise_Amplitude",
+  "Non",
+  "Note#",
+  "Nref",
+  "Nt"
+ ],
+ "entries": [
+  [
+   "Name Separator",
+   "名称分隔符"
+  ],
+  [
+   "Name Similarity Threshold",
+   "名称相似度阈值"
+  ],
+  [
+   "Name Space",
+   "命名空间"
+  ],
+  [
+   "Name String",
+   "名称字符串"
+  ],
+  [
+   "Name the Character in the Animation Scene",
+   "为动画场景中的角色命名"
+  ],
+  [
+   "Names Attribute",
+   "名称属性"
+  ],
+  [
+   "Namespace Cutoff",
+   "命名空间截止"
+  ],
+  [
+   "Naming",
+   "命名"
+  ],
+  [
+   "Naming Method",
+   "命名方式"
+  ],
+  [
+   "Naming Order",
+   "命名顺序"
+  ],
+  [
+   "Narrow Band",
+   "窄带"
+  ],
+  [
+   "Narrow Band Particles",
+   "窄带粒子"
+  ],
+  [
+   "Narrowband Width",
+   "窄带宽度"
+  ],
+  [
+   "Natural",
+   "自然"
+  ],
+  [
+   "Near (Near Bias)",
+   "近处（近处偏移）"
+  ],
+  [
+   "Near Avoidance Force",
+   "近处避让力"
+  ],
+  [
+   "Near Clip Dist",
+   "近裁剪距离"
+  ],
+  [
+   "Near Clip Plane",
+   "近裁剪平面"
+  ],
+  [
+   "Near Color",
+   "近处颜色"
+  ],
+  [
+   "Near Falloff",
+   "近处衰减"
+  ],
+  [
+   "Near Infrared",
+   "近红外"
+  ],
+  [
+   "Near Length",
+   "近处长度"
+  ],
+  [
+   "Near Plane",
+   "近平面"
+  ],
+  [
+   "Near Weight",
+   "近处权重"
+  ],
+  [
+   "Near/Far",
+   "近/远"
+  ],
+  [
+   "Nearby Group",
+   "邻近组"
+  ],
+  [
+   "Nearest Distance",
+   "最近距离"
+  ],
+  [
+   "Nearest Distances",
+   "最近距离"
+  ],
+  [
+   "Nearest Point",
+   "最近点"
+  ],
+  [
+   "Nearest Points",
+   "最近点"
+  ],
+  [
+   "Neck Bone End Rotate",
+   "颈部骨骼末端旋转"
+  ],
+  [
+   "Neck Bone Length",
+   "颈部骨骼长度"
+  ],
+  [
+   "Neck Bone1",
+   "颈部骨骼 1"
+  ],
+  [
+   "Neck Bone1 Length",
+   "颈部骨骼 1 长度"
+  ],
+  [
+   "Neck Bone1 Rotate",
+   "颈部骨骼 1 旋转"
+  ],
+  [
+   "Neck Bone1 Translate",
+   "颈部骨骼 1 平移"
+  ],
+  [
+   "Neck Bone2",
+   "颈部骨骼 2"
+  ],
+  [
+   "Neck Bone2 Length",
+   "颈部骨骼 2 长度"
+  ],
+  [
+   "Neck Bone2 Rotate",
+   "颈部骨骼 2 旋转"
+  ],
+  [
+   "Neck Bone2 Translate",
+   "颈部骨骼 2 平移"
+  ],
+  [
+   "Neck Bone3",
+   "颈部骨骼 3"
+  ],
+  [
+   "Neck Bone3 Length",
+   "颈部骨骼 3 长度"
+  ],
+  [
+   "Neck Bone3 Rotate",
+   "颈部骨骼 3 旋转"
+  ],
+  [
+   "Neck Bone3 Translate",
+   "颈部骨骼 3 平移"
+  ],
+  [
+   "Neck Bone4",
+   "颈部骨骼 4"
+  ],
+  [
+   "Neck Bone4 Length",
+   "颈部骨骼 4 长度"
+  ],
+  [
+   "Neck Bone4 Rotate",
+   "颈部骨骼 4 旋转"
+  ],
+  [
+   "Neck Bone4 Translate",
+   "颈部骨骼 4 平移"
+  ],
+  [
+   "Neck Gimbal",
+   "颈部万向节"
+  ],
+  [
+   "Neck Helper Translate",
+   "颈部辅助平移"
+  ],
+  [
+   "Neck Kinematic Solver",
+   "颈部运动学求解器"
+  ],
+  [
+   "Neck LOD",
+   "颈部 LOD"
+  ],
+  [
+   "Neck Module",
+   "颈部模块"
+  ],
+  [
+   "Neck Muscle Color",
+   "颈部肌肉颜色"
+  ],
+  [
+   "Neck Muscle Primitives Per Segment",
+   "每段颈部肌肉图元数"
+  ],
+  [
+   "Neck Muscle Scale",
+   "颈部肌肉缩放"
+  ],
+  [
+   "Neck Primitives Per Segment",
+   "每段颈部图元数"
+  ],
+  [
+   "Neck Root",
+   "颈部根"
+  ],
+  [
+   "Neck Root  Rotate",
+   "颈部根旋转"
+  ],
+  [
+   "Neck Root Rotate",
+   "颈部根旋转"
+  ],
+  [
+   "Neck Root Translate",
+   "颈部根平移"
+  ],
+  [
+   "Neck Start",
+   "颈部起点"
+  ],
+  [
+   "Neck Target Object",
+   "颈部目标对象"
+  ],
+  [
+   "Neck Translate",
+   "颈部平移"
+  ],
+  [
+   "Neck1 Rotate",
+   "颈部 1 旋转"
+  ],
+  [
+   "Neck1 Scale",
+   "颈部 1 缩放"
+  ],
+  [
+   "Neck1 Translate",
+   "颈部 1 平移"
+  ],
+  [
+   "Neck2 Rotate",
+   "颈部 2 旋转"
+  ],
+  [
+   "Neck2 Scale",
+   "颈部 2 缩放"
+  ],
+  [
+   "Neck2 Target Object",
+   "颈部 2 目标对象"
+  ],
+  [
+   "Neck2 Translate",
+   "颈部 2 平移"
+  ],
+  [
+   "Negate Value (Reverse)",
+   "取负值（反转）"
+  ],
+  [
+   "Negative",
+   "负"
+  ],
+  [
+   "Negative Center",
+   "负向中心"
+  ],
+  [
+   "Negative Diffusion Scale",
+   "负向扩散缩放"
+  ],
+  [
+   "Negative First Axis",
+   "负向第一轴"
+  ],
+  [
+   "Negative Second Axis",
+   "负向第二轴"
+  ],
+  [
+   "Negative Singular Group",
+   "负奇异组"
+  ],
+  [
+   "Neighbor Bandwidth",
+   "邻居带宽"
+  ],
+  [
+   "Neighbor Consolidation",
+   "邻居合并"
+  ],
+  [
+   "Neighbor Group",
+   "邻居组"
+  ],
+  [
+   "Neighbor Iteration Every N",
+   "每 N 次迭代邻居"
+  ],
+  [
+   "Neighbor Query Scale",
+   "邻居查询缩放"
+  ],
+  [
+   "Neighbor Range",
+   "邻居范围"
+  ],
+  [
+   "Neighbor Search",
+   "邻居搜索"
+  ],
+  [
+   "Neighbor Smoothing",
+   "邻居平滑"
+  ],
+  [
+   "Neighbors Attribute",
+   "邻居属性"
+  ],
+  [
+   "Neighbour Data",
+   "邻居数据"
+  ],
+  [
+   "Neighbour Number",
+   "邻居数量"
+  ],
+  [
+   "Neighbour Velocity",
+   "邻居速度"
+  ],
+  [
+   "Nested Variants",
+   "嵌套变体"
+  ],
+  [
+   "Nesterov",
+   "Nesterov"
+  ],
+  [
+   "Network Composition",
+   "网络组合"
+  ],
+  [
+   "Network Port",
+   "网络端口"
+  ],
+  [
+   "New Attribute Name",
+   "新属性名"
+  ],
+  [
+   "New Clips",
+   "新片段"
+  ],
+  [
+   "New Color",
+   "新颜色"
+  ],
+  [
+   "New Constraints",
+   "新约束"
+  ],
+  [
+   "New File Path",
+   "新文件路径"
+  ],
+  [
+   "New File Tag",
+   "新文件标签"
+  ],
+  [
+   "New Filter",
+   "新过滤器"
+  ],
+  [
+   "New Frame Object",
+   "新帧对象"
+  ],
+  [
+   "New Group Name",
+   "新组名称"
+  ],
+  [
+   "New Layer",
+   "新图层"
+  ],
+  [
+   "New Layer Index",
+   "新图层索引"
+  ],
+  [
+   "New Layer for Edits",
+   "用于编辑的新图层"
+  ],
+  [
+   "New Mode",
+   "新模式"
+  ],
+  [
+   "New Parent Prim",
+   "新父图元"
+  ],
+  [
+   "New Particle Flag Attribute",
+   "新粒子标记属性"
+  ],
+  [
+   "New Pieces Group",
+   "新碎块组"
+  ],
+  [
+   "New Plane",
+   "新平面"
+  ],
+  [
+   "New Point Attribute",
+   "新点属性"
+  ],
+  [
+   "New Point Group",
+   "新点组"
+  ],
+  [
+   "New PointInstancers",
+   "新点实例化器"
+  ],
+  [
+   "New Pose Frame",
+   "新姿态帧"
+  ],
+  [
+   "New Primitives Type",
+   "新图元类型"
+  ],
+  [
+   "New Prototypes",
+   "新原型"
+  ],
+  [
+   "New Prototypes Suffix",
+   "新原型后缀"
+  ],
+  [
+   "New Root Value",
+   "新根值"
+  ],
+  [
+   "New Variant Set Name",
+   "新变体集名称"
+  ],
+  [
+   "New Volume Field",
+   "新体积场"
+  ],
+  [
+   "Newline Each Input",
+   "每个输入换行"
+  ],
+  [
+   "Next Constraint",
+   "下一个约束"
+  ],
+  [
+   "Next Constraint Degrees of Freedom",
+   "下一个约束的自由度"
+  ],
+  [
+   "Next Constraint Type",
+   "下一个约束类型"
+  ],
+  [
+   "Next Stroke Parameters",
+   "下一笔参数"
+  ],
+  [
+   "Ng Name",
+   "Ng 名称"
+  ],
+  [
+   "Nice Name for the Component Script",
+   "组件脚本的友好名称"
+  ],
+  [
+   "Nice Name for the component script",
+   "组件脚本的友好名称"
+  ],
+  [
+   "No Match",
+   "无匹配"
+  ],
+  [
+   "No Match Behavior",
+   "无匹配时的行为"
+  ],
+  [
+   "No Partial Results on Timeout",
+   "超时不返回部分结果"
+  ],
+  [
+   "No Resonance",
+   "无共振"
+  ],
+  [
+   "No dst_ref: Using World",
+   "无 dst_ref：使用世界坐标"
+  ],
+  [
+   "No src_ref: Using World",
+   "无 src_ref：使用世界坐标"
+  ],
+  [
+   "Node Name Attribute",
+   "节点名称属性"
+  ],
+  [
+   "Node Options",
+   "节点选项"
+  ],
+  [
+   "Node Prefix",
+   "节点前缀"
+  ],
+  [
+   "Node Priority",
+   "节点优先级"
+  ],
+  [
+   "Noise Along Vector",
+   "沿矢量噪声"
+  ],
+  [
+   "Noise Amount",
+   "噪声量"
+  ],
+  [
+   "Noise Attenuation",
+   "噪声衰减"
+  ],
+  [
+   "Noise Attribute",
+   "噪声属性"
+  ],
+  [
+   "Noise Blur",
+   "噪声模糊"
+  ],
+  [
+   "Noise Displacement",
+   "噪声位移"
+  ],
+  [
+   "Noise Element Scale",
+   "噪声单元缩放"
+  ],
+  [
+   "Noise Filter (Hz)",
+   "噪声过滤（Hz）"
+  ],
+  [
+   "Noise Generation",
+   "噪声生成"
+  ],
+  [
+   "Noise Layer",
+   "噪声图层"
+  ],
+  [
+   "Noise Learning Rate",
+   "噪声学习率"
+  ],
+  [
+   "Noise Mask Frequency",
+   "噪声遮罩频率"
+  ],
+  [
+   "Noise Max",
+   "噪声最大值"
+  ],
+  [
+   "Noise Min",
+   "噪声最小值"
+  ],
+  [
+   "Noise Options",
+   "噪声选项"
+  ],
+  [
+   "Noise Per Component",
+   "每分量噪声"
+  ],
+  [
+   "Noise Projection Offset",
+   "噪声投影偏移"
+  ],
+  [
+   "Noise Pulse",
+   "噪声脉冲"
+  ],
+  [
+   "Noise Rolloff",
+   "噪声衰减"
+  ],
+  [
+   "Noise Seed",
+   "噪声种子"
+  ],
+  [
+   "Noise Space",
+   "噪声空间"
+  ],
+  [
+   "Noise Step",
+   "噪声步长"
+  ],
+  [
+   "Noise Suppress",
+   "噪声抑制"
+  ],
+  [
+   "Noise Suppress Below",
+   "低于此值抑制噪声"
+  ],
+  [
+   "Noise Swirl Size",
+   "噪声旋涡大小"
+  ],
+  [
+   "Noise Threshold",
+   "噪声阈值"
+  ],
+  [
+   "Noise Turbulence",
+   "噪声湍流"
+  ],
+  [
+   "Nominal Bounce",
+   "标称弹跳"
+  ],
+  [
+   "Non Symmetrical",
+   "非对称"
+  ],
+  [
+   "Non-Planar Tolerance",
+   "非平面容差"
+  ],
+  [
+   "Non-Wired Sources:",
+   "未连接的源："
+  ],
+  [
+   "Non-Zero Exit Code Handling",
+   "非零退出码处理"
+  ],
+  [
+   "Non-emissive Color",
+   "非自发光颜色"
+  ],
+  [
+   "Non-emissive Path",
+   "非自发光路径"
+  ],
+  [
+   "Non-volumetric Alpha",
+   "非体积 Alpha"
+  ],
+  [
+   "Non-volumetric Geometry Paths",
+   "非体积几何体路径"
+  ],
+  [
+   "Non-volumetric Motion Vector",
+   "非体积运动矢量"
+  ],
+  [
+   "Nonpacked Polygons",
+   "未打包多边形"
+  ],
+  [
+   "Noodle",
+   "连线"
+  ],
+  [
+   "Norm Tolerance",
+   "法线容差"
+  ],
+  [
+   "Normal (N)",
+   "法线（N）"
+  ],
+  [
+   "Normal (N.xyz)",
+   "法线（N.xyz）"
+  ],
+  [
+   "Normal AOV Name",
+   "法线 AOV 名称"
+  ],
+  [
+   "Normal Amount",
+   "法线量"
+  ],
+  [
+   "Normal Angle",
+   "法线角度"
+  ],
+  [
+   "Normal Axis System",
+   "法线轴系"
+  ],
+  [
+   "Normal Bias",
+   "法线偏移"
+  ],
+  [
+   "Normal Blend",
+   "法线混合"
+  ],
+  [
+   "Normal Blur Amount",
+   "法线模糊量"
+  ],
+  [
+   "Normal Blur Strength",
+   "法线模糊强度"
+  ],
+  [
+   "Normal Channel",
+   "法线通道"
+  ],
+  [
+   "Normal Compression",
+   "法线压缩"
+  ],
+  [
+   "Normal Deviation",
+   "法线偏差"
+  ],
+  [
+   "Normal Displacement",
+   "法线位移"
+  ],
+  [
+   "Normal Dropoff",
+   "法线衰减"
+  ],
+  [
+   "Normal Filter Orientation",
+   "法线过滤朝向"
+  ],
+  [
+   "Normal Force",
+   "法向力"
+  ],
+  [
+   "Normal Generation",
+   "法线生成"
+  ],
+  [
+   "Normal Iterations",
+   "法线迭代"
+  ],
+  [
+   "Normal Jitter",
+   "法线抖动"
+  ],
+  [
+   "Normal Layer",
+   "法线图层"
+  ],
+  [
+   "Normal Layer Scope",
+   "法线图层作用域"
+  ],
+  [
+   "Normal Map Export",
+   "法线贴图导出"
+  ],
+  [
+   "Normal Map Height",
+   "法线贴图高度"
+  ],
+  [
+   "Normal Map Path",
+   "法线贴图路径"
+  ],
+  [
+   "Normal Map Range",
+   "法线贴图范围"
+  ],
+  [
+   "Normal Method",
+   "法线方式"
+  ],
+  [
+   "Normal Projection Mixing",
+   "法线投影混合"
+  ],
+  [
+   "Normal Straightness",
+   "法线平直度"
+  ],
+  [
+   "Normal Straightness Attrib",
+   "法线平直度属性"
+  ],
+  [
+   "Normal Straightness Options",
+   "法线平直度选项"
+  ],
+  [
+   "Normal Straightness Override",
+   "法线平直度覆盖"
+  ],
+  [
+   "Normal Straightness Remap Ramp",
+   "法线平直度重映射渐变"
+  ],
+  [
+   "Normal Straightness Texture",
+   "法线平直度纹理"
+  ],
+  [
+   "Normal Value",
+   "法线值"
+  ],
+  [
+   "Normal Velocity",
+   "法向速度"
+  ],
+  [
+   "Normal corner amount",
+   "法线角点量"
+  ],
+  [
+   "Normalization Mode",
+   "归一化模式"
+  ],
+  [
+   "Normalize Asset Scales",
+   "归一化资产缩放"
+  ],
+  [
+   "Normalize Burn Field",
+   "归一化燃烧场"
+  ],
+  [
+   "Normalize Curve Location",
+   "归一化曲线位置"
+  ],
+  [
+   "Normalize Data to 0-1 space",
+   "将数据归一化到 0-1 空间"
+  ],
+  [
+   "Normalize Direction",
+   "归一化方向"
+  ],
+  [
+   "Normalize From",
+   "归一化来源"
+  ],
+  [
+   "Normalize Gathered Light",
+   "归一化采集的光"
+  ],
+  [
+   "Normalize Group Weights",
+   "归一化组权重"
+  ],
+  [
+   "Normalize Length",
+   "归一化长度"
+  ],
+  [
+   "Normalize Light Intensity to Area",
+   "将灯光强度按面积归一化"
+  ],
+  [
+   "Normalize Mass",
+   "归一化质量"
+  ],
+  [
+   "Normalize Model",
+   "归一化模型"
+  ],
+  [
+   "Normalize Output",
+   "归一化输出"
+  ],
+  [
+   "Normalize Output Vector",
+   "归一化输出矢量"
+  ],
+  [
+   "Normalize Power Envelope",
+   "归一化功率包络"
+  ],
+  [
+   "Normalize Range 0-1",
+   "归一化范围 0-1"
+  ],
+  [
+   "Normalize Result",
+   "归一化结果"
+  ],
+  [
+   "Normalize Scales",
+   "归一化缩放"
+  ],
+  [
+   "Normalize Slice Distance",
+   "归一化切片距离"
+  ],
+  [
+   "Normalize Times",
+   "归一化时间"
+  ],
+  [
+   "Normalize Vectors",
+   "归一化矢量"
+  ],
+  [
+   "Normalize Weight",
+   "归一化权重"
+  ],
+  [
+   "Normalize World Space",
+   "归一化世界空间"
+  ],
+  [
+   "Normalize based on metaball density",
+   "按元球密度归一化"
+  ],
+  [
+   "Normalize data range to 0-1 space",
+   "将数据范围归一化到 0-1 空间"
+  ],
+  [
+   "Normalize on Forward Pass",
+   "在前向遍中归一化"
+  ],
+  [
+   "Normalized",
+   "归一化"
+  ],
+  [
+   "Normalized Age Ramp",
+   "归一化年龄渐变"
+  ],
+  [
+   "Normalized Alpha",
+   "归一化 Alpha"
+  ],
+  [
+   "Normalized Alpha (Kill)",
+   "归一化 Alpha（消散）"
+  ],
+  [
+   "Normalized Beta",
+   "归一化 Beta"
+  ],
+  [
+   "Normalized Beta (Feed)",
+   "归一化 Beta（供给）"
+  ],
+  [
+   "Normalized Gamma",
+   "归一化 Gamma"
+  ],
+  [
+   "Normalized Normal",
+   "归一化法线"
+  ],
+  [
+   "Normalized Ray Direction",
+   "归一化光线方向"
+  ],
+  [
+   "Normalized Split Age",
+   "归一化分裂年龄"
+  ],
+  [
+   "Normalized UV Attribute",
+   "归一化 UV 属性"
+  ],
+  [
+   "Normals COP",
+   "法线 COP"
+  ],
+  [
+   "Normals File",
+   "法线文件"
+  ],
+  [
+   "Normals Group",
+   "法线组"
+  ],
+  [
+   "Normals Scale",
+   "法线缩放"
+  ],
+  [
+   "Normals and Displace",
+   "法线与置换"
+  ],
+  [
+   "Nose Offset",
+   "鼻子偏移"
+  ],
+  [
+   "Not A",
+   "非 A"
+  ],
+  [
+   "Not B",
+   "非 B"
+  ],
+  [
+   "Not Result",
+   "取非结果"
+  ],
+  [
+   "Notches",
+   "缺口"
+  ],
+  [
+   "Notches Seed",
+   "缺口种子"
+  ],
+  [
+   "Note Name",
+   "注释名称"
+  ],
+  [
+   "Note Output",
+   "注释输出"
+  ],
+  [
+   "Note Scope",
+   "注释作用域"
+  ],
+  [
+   "Notification",
+   "通知"
+  ],
+  [
+   "Nt Name",
+   "Nt 名称"
+  ],
+  [
+   "Nu Scale Mode",
+   "Nu 缩放模式"
+  ],
+  [
+   "Nuke Python Executable",
+   "Nuke Python 可执行文件"
+  ],
+  [
+   "Num Bones",
+   "骨骼数量"
+  ],
+  [
+   "Num Channels",
+   "通道数量"
+  ],
+  [
+   "Num Classes",
+   "类别数量"
+  ],
+  [
+   "Num Density Levels",
+   "密度层级数"
+  ],
+  [
+   "Num Eigenpairs",
+   "特征对数量"
+  ],
+  [
+   "Num Elements",
+   "元素数量"
+  ],
+  [
+   "Num Expressions",
+   "表达式数量"
+  ],
+  [
+   "Num Intervals",
+   "间隔数量"
+  ],
+  [
+   "Num Keypoints",
+   "关键点数量"
+  ],
+  [
+   "Num Neighbour",
+   "邻居数量"
+  ],
+  [
+   "Num Neighbours",
+   "邻居数量"
+  ],
+  [
+   "Num Pieces",
+   "碎块数量"
+  ],
+  [
+   "Num Primary Bones",
+   "主骨骼数量"
+  ],
+  [
+   "Num Ripples",
+   "波纹数量"
+  ],
+  [
+   "Num Samples",
+   "采样数量"
+  ],
+  [
+   "Num Target Shapes",
+   "目标形状数量"
+  ],
+  [
+   "Num Transforms",
+   "变换数量"
+  ],
+  [
+   "Num URL Parameters",
+   "URL 参数数量"
+  ],
+  [
+   "Num X Panes",
+   "X 窗格数量"
+  ],
+  [
+   "Num Y Panes",
+   "Y 窗格数量"
+  ],
+  [
+   "Num of Double-Loops",
+   "双环数量"
+  ],
+  [
+   "Num of Integrals",
+   "积分数量"
+  ],
+  [
+   "Num. Machines",
+   "机器数量"
+  ],
+  [
+   "Num. Ripples",
+   "波纹数量"
+  ],
+  [
+   "Number Contour",
+   "等高线数量"
+  ],
+  [
+   "Number Displacements",
+   "位移数量"
+  ],
+  [
+   "Number Environment",
+   "环境数量"
+  ],
+  [
+   "Number LOD Levels",
+   "LOD 层级数量"
+  ],
+  [
+   "Number Light",
+   "灯光数量"
+  ],
+  [
+   "Number Light Shadow",
+   "灯光阴影数量"
+  ],
+  [
+   "Number Loops",
+   "循环数量"
+  ],
+  [
+   "Number Of Beats",
+   "节拍数量"
+  ],
+  [
+   "Number Of Copies",
+   "副本数量"
+  ],
+  [
+   "Number Of Groups",
+   "组数量"
+  ],
+  [
+   "Number Of Objects",
+   "对象数量"
+  ],
+  [
+   "Number Of Samples",
+   "采样数量"
+  ],
+  [
+   "Number Of Sides",
+   "边数"
+  ],
+  [
+   "Number Of Solve Attempts",
+   "求解尝试次数"
+  ],
+  [
+   "Number Of Variables",
+   "变量数量"
+  ],
+  [
+   "Number Of Vorticles",
+   "涡旋数量"
+  ],
+  [
+   "Number Photon",
+   "光子数量"
+  ],
+  [
+   "Number Photon Volume",
+   "光子体积数量"
+  ],
+  [
+   "Number Range",
+   "编号范围"
+  ],
+  [
+   "Number Shadow",
+   "阴影数量"
+  ],
+  [
+   "Number Splits",
+   "拆分数"
+  ],
+  [
+   "Number Surfaces",
+   "表面数量"
+  ],
+  [
+   "Number Trails",
+   "拖尾数量"
+  ],
+  [
+   "Number Volume",
+   "体积数量"
+  ],
+  [
+   "Number of Agents",
+   "代理数量"
+  ],
+  [
+   "Number of Analyses",
+   "分析数量"
+  ],
+  [
+   "Number of Analysis",
+   "分析数量"
+  ],
+  [
+   "Number of Anchors",
+   "锚点数量"
+  ],
+  [
+   "Number of Arcs",
+   "弧数量"
+  ],
+  [
+   "Number of Assingments",
+   "指定数量"
+  ],
+  [
+   "Number of Bands",
+   "条带数量"
+  ],
+  [
+   "Number of Batches",
+   "批次数量"
+  ],
+  [
+   "Number of Biomes",
+   "生物群系数量"
+  ],
+  [
+   "Number of Blur Steps",
+   "模糊步数"
+  ],
+  [
+   "Number of Bones",
+   "骨骼数量"
+  ],
+  [
+   "Number of Bones Scalar",
+   "骨骼数量标量"
+  ],
+  [
+   "Number of Bounces",
+   "反弹次数"
+  ],
+  [
+   "Number of Cables",
+   "缆索数量"
+  ],
+  [
+   "Number of Centers",
+   "中心数量"
+  ],
+  [
+   "Number of Changes",
+   "变化次数"
+  ],
+  [
+   "Number of Children",
+   "子级数量"
+  ],
+  [
+   "Number of Clears",
+   "清除次数"
+  ],
+  [
+   "Number of Clips",
+   "片段数量"
+  ],
+  [
+   "Number of Components",
+   "组件数量"
+  ],
+  [
+   "Number of Contributions",
+   "贡献数量"
+  ],
+  [
+   "Number of Curves",
+   "曲线数量"
+  ],
+  [
+   "Number of Cuts",
+   "切割数量"
+  ],
+  [
+   "Number of Deformers",
+   "变形器数量"
+  ],
+  [
+   "Number of Drivers",
+   "驱动数量"
+  ],
+  [
+   "Number of Echoes",
+   "回声数量"
+  ],
+  [
+   "Number of Edits",
+   "编辑数量"
+  ],
+  [
+   "Number of Elements",
+   "元素数量"
+  ],
+  [
+   "Number of Exports",
+   "导出数量"
+  ],
+  [
+   "Number of Expressions",
+   "表达式数量"
+  ],
+  [
+   "Number of Fans",
+   "扇形数量"
+  ],
+  [
+   "Number of Grids",
+   "网格数量"
+  ],
+  [
+   "Number of Hairs",
+   "头发数量"
+  ],
+  [
+   "Number of Instances",
+   "实例数量"
+  ],
+  [
+   "Number of Light Filters",
+   "灯光过滤器数量"
+  ],
+  [
+   "Number of Limits",
+   "限制数量"
+  ],
+  [
+   "Number of Links",
+   "链接数量"
+  ],
+  [
+   "Number of Maps",
+   "贴图数量"
+  ],
+  [
+   "Number of Members",
+   "成员数量"
+  ],
+  [
+   "Number of Modification Rules",
+   "修改规则数量"
+  ],
+  [
+   "Number of Motion Files",
+   "运动文件数量"
+  ],
+  [
+   "Number of Names",
+   "名称数量"
+  ],
+  [
+   "Number of Noises",
+   "噪声数量"
+  ],
+  [
+   "Number of Noises Mode",
+   "噪声数量模式"
+  ],
+  [
+   "Number of Option Sets",
+   "选项集数量"
+  ],
+  [
+   "Number of Partitions",
+   "分区数量"
+  ],
+  [
+   "Number of Patterns",
+   "模式数量"
+  ],
+  [
+   "Number of Points per Path",
+   "每条路径的点数"
+  ],
+  [
+   "Number of Primvars",
+   "Primvar 数量"
+  ],
+  [
+   "Number of Promotions",
+   "提升数量"
+  ],
+  [
+   "Number of Properties",
+   "属性数量"
+  ],
+  [
+   "Number of Properties to Copy",
+   "要复制的属性数量"
+  ],
+  [
+   "Number of Pulses",
+   "脉冲数量"
+  ],
+  [
+   "Number of Python Rules",
+   "Python 规则数量"
+  ],
+  [
+   "Number of Ranges",
+   "范围数量"
+  ],
+  [
+   "Number of Rectangles",
+   "矩形数量"
+  ],
+  [
+   "Number of Reductions",
+   "简化数量"
+  ],
+  [
+   "Number of Relationships",
+   "关系数量"
+  ],
+  [
+   "Number of Relocates",
+   "重定位数量"
+  ],
+  [
+   "Number of RenderMan Conversions",
+   "RenderMan 转换数量"
+  ],
+  [
+   "Number of Scripts",
+   "脚本数量"
+  ],
+  [
+   "Number of Searches",
+   "搜索数量"
+  ],
+  [
+   "Number of Shapes",
+   "形状数量"
+  ],
+  [
+   "Number of Smooth Iterations",
+   "平滑迭代次数"
+  ],
+  [
+   "Number of Snow Points",
+   "雪点数量"
+  ],
+  [
+   "Number of Source Prims",
+   "源图元数量"
+  ],
+  [
+   "Number of Splats",
+   "泼溅数量"
+  ]
+ ]
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "第四十三批：① 灯光的光子贴图参数（用户点灯光节点参数面板）② 长度单位名 —— 后者是从 gap_filtered.json 里捞出来的：它是小写单词被 IsIdentifierLike 当内部标识符挡下了，但 units 下拉里是要显示的。temp:$OS.pmap 之类是文件路径，进 skip。",
+  "entries": {
+    "Auto-generate Photon Map": "自动生成光子贴图",
+    "Enable Point Cloud": "启用点云",
+    "Filter Samples": "过滤采样",
+    "Indirect Diffuse Options": "间接漫反射选项",
+    "Indirect Global Photon Map": "间接全局光子贴图",
+    "Light Color": "灯光颜色",
+    "Light Exposure": "灯光曝光",
+    "Light Type": "灯光类型",
+    "MIS Bias": "MIS 偏置",
+    "Photon Count": "光子数量",
+    "Photon File": "光子文件",
+    "Photon Filter": "光子过滤",
+    "Photon Map Options": "光子贴图选项",
+    "Photon Map Stores Direct Lighting": "光子贴图存储直接光照",
+    "Photon Target": "光子目标",
+    "Point Samples": "点采样",
+    "Prefilter File": "预过滤文件",
+    "Prefilter Photon Map": "预过滤光子贴图",
+    "Prefilter Ratio": "预过滤比例",
+    "Prefilter Samples": "预过滤采样",
+    "Switch Camera": "切换相机",
+    "millimeters": "毫米",
+    "centimeters": "厘米",
+    "meters": "米",
+    "kilometers": "千米",
+    "inches": "英寸",
+    "feet": "英尺",
+    "yards": "码",
+    "miles": "英里"
+  },
+  "skip": [
+    "temp:$OS.pmap",
+    "temp:$OS.prefilter.pmap"
+  ]
+}

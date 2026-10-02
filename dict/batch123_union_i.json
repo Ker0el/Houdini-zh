@@ -1,0 +1,1538 @@
+{
+ "note": "合并清单 —— 第 9 批",
+ "skip": [
+  "    Plane Scope",
+  "  Mult",
+  "  Sort By",
+  "Cs",
+  "Cs2",
+  "Cs3",
+  "Cs4",
+  "Cs5",
+  "Cs6",
+  "Cs7",
+  "Cs8",
+  "Cs9",
+  "Cs10",
+  "Cs11",
+  "Cs12",
+  "Cs13",
+  "Cs14",
+  "Cs15",
+  "Cs16",
+  "Ct",
+  "Curve_Force.gad",
+  "D",
+  "DelayedReadArchive"
+ ],
+ "entries": [
+  [
+   "Cryptomatte Layers",
+   "Cryptomatte 图层"
+  ],
+  [
+   "Ctrl Key",
+   "Ctrl 键"
+  ],
+  [
+   "Cu Name",
+   "Cu 名称"
+  ],
+  [
+   "Cube Face X Size",
+   "立方体面 X 尺寸"
+  ],
+  [
+   "Cube Face Y Size",
+   "立方体面 Y 尺寸"
+  ],
+  [
+   "Cull Attribute",
+   "剔除属性"
+  ],
+  [
+   "Cull Bandwidth",
+   "剔除带宽"
+  ],
+  [
+   "Cull Group",
+   "剔除组"
+  ],
+  [
+   "Cull Per Point",
+   "逐点剔除"
+  ],
+  [
+   "Cull Short Guides",
+   "剔除短导向"
+  ],
+  [
+   "Cull Threshold",
+   "剔除阈值"
+  ],
+  [
+   "Cull Zero-Length Curves",
+   "剔除零长度曲线"
+  ],
+  [
+   "Cull to Box",
+   "剔除到盒"
+  ],
+  [
+   "Cum Var Color",
+   "累积方差颜色"
+  ],
+  [
+   "Cumulus",
+   "积云"
+  ],
+  [
+   "Cumulus Pattern",
+   "积云图案"
+  ],
+  [
+   "Curl Magnitude",
+   "旋度强度"
+  ],
+  [
+   "Current Group",
+   "当前组"
+  ],
+  [
+   "Current ID",
+   "当前 ID"
+  ],
+  [
+   "Current Id",
+   "当前 ID"
+  ],
+  [
+   "Current Layer",
+   "当前图层"
+  ],
+  [
+   "Current Loop Index",
+   "当前循环索引"
+  ],
+  [
+   "Current Mode and Engine Input Requirements",
+   "当前模式与引擎输入要求"
+  ],
+  [
+   "Current Shot",
+   "当前镜头"
+  ],
+  [
+   "Current Tab",
+   "当前标签页"
+  ],
+  [
+   "Current Time",
+   "当前时间"
+  ],
+  [
+   "Cursor",
+   "光标"
+  ],
+  [
+   "Cursor Displacement",
+   "光标位移"
+  ],
+  [
+   "Curvature Damping",
+   "曲率阻尼"
+  ],
+  [
+   "Curvature Exponent",
+   "曲率指数"
+  ],
+  [
+   "Curvature Field",
+   "曲率场"
+  ],
+  [
+   "Curvature Forcing",
+   "曲率强制"
+  ],
+  [
+   "Curvature Measurement",
+   "曲率测量"
+  ],
+  [
+   "Curvature Mode",
+   "曲率模式"
+  ],
+  [
+   "Curvature Normal",
+   "曲率法线"
+  ],
+  [
+   "Curvature Offset",
+   "曲率偏移"
+  ],
+  [
+   "Curvature Ray Distance",
+   "曲率射线距离"
+  ],
+  [
+   "Curvature Resample",
+   "曲率重采样"
+  ],
+  [
+   "Curvature Test Dist",
+   "曲率测试距离"
+  ],
+  [
+   "Curve Direction",
+   "曲线方向"
+  ],
+  [
+   "Curve Divisions",
+   "曲线分段"
+  ],
+  [
+   "Curve Extend",
+   "曲线延伸"
+  ],
+  [
+   "Curve LOD",
+   "曲线 LOD"
+  ],
+  [
+   "Curve Location Attribute",
+   "曲线位置属性"
+  ],
+  [
+   "Curve Mesh Alembic Primitives",
+   "曲线网格 Alembic 图元"
+  ],
+  [
+   "Curve Normals",
+   "曲线法线"
+  ],
+  [
+   "Curve Object",
+   "曲线物体"
+  ],
+  [
+   "Curve Offset",
+   "曲线偏移"
+  ],
+  [
+   "Curve Order",
+   "曲线阶数"
+  ],
+  [
+   "Curve Parms",
+   "曲线参数"
+  ],
+  [
+   "Curve Per Skin Point",
+   "每个蒙皮点一条曲线"
+  ],
+  [
+   "Curve Resample",
+   "曲线重采样"
+  ],
+  [
+   "Curve Section Length",
+   "曲线截面长度"
+  ],
+  [
+   "Curve Segment Length",
+   "曲线线段长度"
+  ],
+  [
+   "Curve Start Frame",
+   "曲线起始帧"
+  ],
+  [
+   "Curve U Attribute Name",
+   "曲线 U 属性名"
+  ],
+  [
+   "Curve UV Output Name",
+   "曲线 UV 输出名称"
+  ],
+  [
+   "Curve Weight Attribute",
+   "曲线权重属性"
+  ],
+  [
+   "Curve Weights",
+   "曲线权重"
+  ],
+  [
+   "Curved Arm",
+   "弯曲手臂"
+  ],
+  [
+   "Curved Forearm Rotate",
+   "弯曲前臂旋转"
+  ],
+  [
+   "Curved Forearm Translate",
+   "弯曲前臂平移"
+  ],
+  [
+   "Curved Glass Model",
+   "曲面玻璃模型"
+  ],
+  [
+   "Curved Knee",
+   "弯曲膝盖"
+  ],
+  [
+   "Curved Sky",
+   "弯曲天空"
+  ],
+  [
+   "Curves only",
+   "仅曲线"
+  ],
+  [
+   "Cusp All Back Boundary Edges",
+   "给所有后边界边加折角"
+  ],
+  [
+   "Cusp All Front Boundary Edges",
+   "给所有前边界边加折角"
+  ],
+  [
+   "Cusp Cut Edges",
+   "折角切割边"
+  ],
+  [
+   "Cusp Cut Points",
+   "折角切割点"
+  ],
+  [
+   "Cusp Displacement",
+   "折角置换"
+  ],
+  [
+   "Cusp Edges",
+   "折角边"
+  ],
+  [
+   "Cusp Gamma",
+   "折角 Gamma"
+  ],
+  [
+   "Cusp Intensity",
+   "折角强度"
+  ],
+  [
+   "Cusp Interior Edges by Uniquing Points",
+   "通过点唯一化给内部边加折角"
+  ],
+  [
+   "Cusp Min/Max",
+   "折角 最小/最大"
+  ],
+  [
+   "Cusp Scale",
+   "折角缩放"
+  ],
+  [
+   "Cusping",
+   "折角"
+  ],
+  [
+   "Custom 1",
+   "自定义 1"
+  ],
+  [
+   "Custom 2",
+   "自定义 2"
+  ],
+  [
+   "Custom 3",
+   "自定义 3"
+  ],
+  [
+   "Custom Backbone",
+   "自定义主干"
+  ],
+  [
+   "Custom Binary",
+   "自定义二进制文件"
+  ],
+  [
+   "Custom Brush File",
+   "自定义笔刷文件"
+  ],
+  [
+   "Custom Cards",
+   "自定义卡片"
+  ],
+  [
+   "Custom Cert File",
+   "自定义证书文件"
+  ],
+  [
+   "Custom Collapse Target",
+   "自定义塌陷目标"
+  ],
+  [
+   "Custom Config File",
+   "自定义配置文件"
+  ],
+  [
+   "Custom Control Space",
+   "自定义控制空间"
+  ],
+  [
+   "Custom Cutout Shape",
+   "自定义抠图形状"
+  ],
+  [
+   "Custom Discrete",
+   "自定义离散值"
+  ],
+  [
+   "Custom Edge Cost",
+   "自定义边代价"
+  ],
+  [
+   "Custom Field Name",
+   "自定义字段名"
+  ],
+  [
+   "Custom File",
+   "自定义文件"
+  ],
+  [
+   "Custom Floats",
+   "自定义浮点"
+  ],
+  [
+   "Custom Frame/Time",
+   "自定义帧/时间"
+  ],
+  [
+   "Custom Gaea.SwarmHost.exe",
+   "自定义 Gaea.SwarmHost.exe"
+  ],
+  [
+   "Custom Gait Speed",
+   "自定义步态速度"
+  ],
+  [
+   "Custom Grain",
+   "自定义颗粒"
+  ],
+  [
+   "Custom Ground Plane",
+   "自定义地面"
+  ],
+  [
+   "Custom Headers",
+   "自定义表头"
+  ],
+  [
+   "Custom Icon",
+   "自定义图标"
+  ],
+  [
+   "Custom ImageMagick Arguments",
+   "自定义 ImageMagick 参数"
+  ],
+  [
+   "Custom Initialize Value",
+   "自定义初始值"
+  ],
+  [
+   "Custom Input",
+   "自定义输入"
+  ],
+  [
+   "Custom Loop Range",
+   "自定义循环范围"
+  ],
+  [
+   "Custom MTL",
+   "自定义 MTL"
+  ],
+  [
+   "Custom Mask",
+   "自定义遮罩"
+  ],
+  [
+   "Custom Mirror Axis",
+   "自定义镜像轴"
+  ],
+  [
+   "Custom Neck",
+   "自定义脖子"
+  ],
+  [
+   "Custom Operation",
+   "自定义操作"
+  ],
+  [
+   "Custom Output Dir",
+   "自定义输出目录"
+  ],
+  [
+   "Custom Parameters",
+   "自定义参数"
+  ],
+  [
+   "Custom Path",
+   "自定义路径"
+  ],
+  [
+   "Custom Payload",
+   "自定义 Payload"
+  ],
+  [
+   "Custom Primvars",
+   "自定义图元变量"
+  ],
+  [
+   "Custom Properties",
+   "自定义属性"
+  ],
+  [
+   "Custom Proposal Generator",
+   "自定义方案生成器"
+  ],
+  [
+   "Custom Query",
+   "自定义查询"
+  ],
+  [
+   "Custom ROI Heads",
+   "自定义 ROI 头"
+  ],
+  [
+   "Custom Ray Length",
+   "自定义射线长度"
+  ],
+  [
+   "Custom Scheduler",
+   "自定义调度器"
+  ],
+  [
+   "Custom Space Blend",
+   "自定义空间混合"
+  ],
+  [
+   "Custom Start Frame",
+   "自定义起始帧"
+  ],
+  [
+   "Custom String",
+   "自定义字符串"
+  ],
+  [
+   "Custom Tile Number",
+   "自定义平铺编号"
+  ],
+  [
+   "Custom Up",
+   "自定义上方向"
+  ],
+  [
+   "Custom User Agent",
+   "自定义用户代理"
+  ],
+  [
+   "Custom VEXpression",
+   "自定义 VEXpression"
+  ],
+  [
+   "Custom Variant Names",
+   "自定义变体名称"
+  ],
+  [
+   "Custom Volume Name",
+   "自定义体积名称"
+  ],
+  [
+   "Custom Weights",
+   "自定义权重"
+  ],
+  [
+   "Custom ZX Shapes",
+   "自定义 ZX 形状"
+  ],
+  [
+   "Cut Angle Mask Mode",
+   "切割角度遮罩模式"
+  ],
+  [
+   "Cut At",
+   "切割于"
+  ],
+  [
+   "Cut Boundary Points",
+   "切割边界点"
+  ],
+  [
+   "Cut Curves by Relative Arc Length",
+   "按相对弧长切割曲线"
+  ],
+  [
+   "Cut Edge Group",
+   "切割边组"
+  ],
+  [
+   "Cut End",
+   "切割结束"
+  ],
+  [
+   "Cut Hole",
+   "切割孔洞"
+  ],
+  [
+   "Cut Map",
+   "切割贴图"
+  ],
+  [
+   "Cut Map Blend",
+   "切割贴图混合"
+  ],
+  [
+   "Cut Noise",
+   "切割噪声"
+  ],
+  [
+   "Cut Off",
+   "截止"
+  ],
+  [
+   "Cut Point Group",
+   "切割点组"
+  ],
+  [
+   "Cut Precision Factor",
+   "切割精度系数"
+  ],
+  [
+   "Cut Primitives",
+   "切割图元"
+  ],
+  [
+   "Cut Skipping",
+   "切割跳过"
+  ],
+  [
+   "Cut Start",
+   "切割起始"
+  ],
+  [
+   "Cut Tool",
+   "切割工具"
+  ],
+  [
+   "Cut Value Attribute",
+   "切割值属性"
+  ],
+  [
+   "Cut with Intersection Points from Cutting Geo",
+   "用切割几何体的交点切割"
+  ],
+  [
+   "Cuticle Angle",
+   "角质层角度"
+  ],
+  [
+   "Cutoff Threshold",
+   "截止阈值"
+  ],
+  [
+   "Cutoff Weight",
+   "截止权重"
+  ],
+  [
+   "Cutoff for Mask",
+   "遮罩的截止值"
+  ],
+  [
+   "Cutout",
+   "抠图"
+  ],
+  [
+   "Cutout Setting",
+   "抠图设置"
+  ],
+  [
+   "Cutout Settings",
+   "抠图设置"
+  ],
+  [
+   "Cutter Geometry",
+   "切割体几何体"
+  ],
+  [
+   "Cutter Method",
+   "切割方式"
+  ],
+  [
+   "Cutter Settings",
+   "切割体设置"
+  ],
+  [
+   "Cutting Depth",
+   "切割深度"
+  ],
+  [
+   "Cutting Geo Group",
+   "切割几何体组"
+  ],
+  [
+   "Cutting Geo Type",
+   "切割几何体类型"
+  ],
+  [
+   "Cutting Handles",
+   "切割手柄"
+  ],
+  [
+   "Cutting Options",
+   "切割选项"
+  ],
+  [
+   "Cutting Shape",
+   "切割形状"
+  ],
+  [
+   "Cv Name",
+   "Cv 名称"
+  ],
+  [
+   "Cvex Shader",
+   "CVEX 着色器"
+  ],
+  [
+   "Cycle After",
+   "之后循环"
+  ],
+  [
+   "Cycle Before",
+   "之前循环"
+  ],
+  [
+   "Cycle Control",
+   "循环控制"
+  ],
+  [
+   "Cycle Count Name",
+   "循环次数名称"
+  ],
+  [
+   "Cycle Group",
+   "循环组"
+  ],
+  [
+   "Cycle Joint",
+   "循环关节"
+  ],
+  [
+   "Cycle Offset Transform",
+   "循环偏移变换"
+  ],
+  [
+   "Cycle Pattern",
+   "循环图案"
+  ],
+  [
+   "Cycle Rotate",
+   "循环旋转"
+  ],
+  [
+   "Cycle Translate",
+   "循环平移"
+  ],
+  [
+   "Cycle Vertex Attributes",
+   "循环顶点属性"
+  ],
+  [
+   "Cycles",
+   "循环次数"
+  ],
+  [
+   "D Field",
+   "D 场"
+  ],
+  [
+   "D' Field",
+   "D' 场"
+  ],
+  [
+   "DCM Exclude Holdouts",
+   "DCM 排除抠像"
+  ],
+  [
+   "DCM Pre-Composite Samples",
+   "DCM 预合成采样数"
+  ],
+  [
+   "DCM Special Planes",
+   "DCM 特殊平面"
+  ],
+  [
+   "DCM Use Hit Distance",
+   "DCM 使用命中距离"
+  ],
+  [
+   "DEBUG Parameters",
+   "DEBUG 参数"
+  ],
+  [
+   "DOP Data Path Attribute",
+   "DOP 数据路径属性"
+  ],
+  [
+   "DOP Object Name Attribute",
+   "DOP 物体名称属性"
+  ],
+  [
+   "DOP Settings",
+   "DOP 设置"
+  ],
+  [
+   "DSM Filename",
+   "DSM 文件名"
+  ],
+  [
+   "Damp Depths",
+   "阻尼深度"
+  ],
+  [
+   "Damp Final Poses",
+   "阻尼最终姿态"
+  ],
+  [
+   "Damp Water Depths",
+   "阻尼水深"
+  ],
+  [
+   "Dampen",
+   "阻尼"
+  ],
+  [
+   "Dampening Strength",
+   "阻尼强度"
+  ],
+  [
+   "Damping Constant",
+   "阻尼常数"
+  ],
+  [
+   "Damping Layer Size",
+   "阻尼图层大小"
+  ],
+  [
+   "Damping Method",
+   "阻尼方式"
+  ],
+  [
+   "Dark Color",
+   "暗色"
+  ],
+  [
+   "Dark Edge",
+   "暗边"
+  ],
+  [
+   "Dark Tint",
+   "暗色调"
+  ],
+  [
+   "Dark Wood Color",
+   "深木色"
+  ],
+  [
+   "Darken End Position",
+   "加深末端位置"
+  ],
+  [
+   "Darken Roots",
+   "加深根部"
+  ],
+  [
+   "Darken Slope",
+   "加深坡度"
+  ],
+  [
+   "Darkening",
+   "变暗"
+  ],
+  [
+   "Dash Length",
+   "虚线长度"
+  ],
+  [
+   "Dashed Line",
+   "虚线"
+  ],
+  [
+   "Data Advection",
+   "数据平流"
+  ],
+  [
+   "Data Downscale Factor",
+   "数据降尺度系数"
+  ],
+  [
+   "Data Extraction",
+   "数据提取"
+  ],
+  [
+   "Data Extractions",
+   "数据提取"
+  ],
+  [
+   "Data Float",
+   "数据浮点"
+  ],
+  [
+   "Data For Realtime Shader",
+   "实时着色器数据"
+  ],
+  [
+   "Data Format",
+   "数据格式"
+  ],
+  [
+   "Data Integer",
+   "数据整数"
+  ],
+  [
+   "Data Length",
+   "数据长度"
+  ],
+  [
+   "Data Link",
+   "数据链接"
+  ],
+  [
+   "Data Loading",
+   "数据载入"
+  ],
+  [
+   "Data Matrix",
+   "数据矩阵"
+  ],
+  [
+   "Data Matrix3",
+   "数据 Matrix3"
+  ],
+  [
+   "Data Path",
+   "数据路径"
+  ],
+  [
+   "Data Port",
+   "数据端口"
+  ],
+  [
+   "Data Properties",
+   "数据属性"
+  ],
+  [
+   "Data Queries",
+   "数据查询"
+  ],
+  [
+   "Data Representation",
+   "数据表示"
+  ],
+  [
+   "Data Set Type",
+   "数据集类型"
+  ],
+  [
+   "Data Subdirectory",
+   "数据子目录"
+  ],
+  [
+   "Data Tag",
+   "数据标签"
+  ],
+  [
+   "Data Vector",
+   "数据矢量"
+  ],
+  [
+   "Data Vector4",
+   "数据 Vector4"
+  ],
+  [
+   "Dataset #",
+   "数据集 #"
+  ],
+  [
+   "Datasets to Train",
+   "要训练的数据集"
+  ],
+  [
+   "Deactivate Entirely Extracted Instancers",
+   "停用完全提取的实例化器"
+  ],
+  [
+   "Deactivate Target",
+   "停用目标"
+  ],
+  [
+   "Dead After Loop End",
+   "循环结束后消亡"
+  ],
+  [
+   "Deadline",
+   "截止时间"
+  ],
+  [
+   "Deadline Command Environment",
+   "Deadline 命令环境"
+  ],
+  [
+   "Deadzone",
+   "死区"
+  ],
+  [
+   "Debris Flow",
+   "碎屑流"
+  ],
+  [
+   "Debris Scale",
+   "碎屑缩放"
+  ],
+  [
+   "Debug Audio Spot",
+   "调试音频点"
+  ],
+  [
+   "Debug Evaluation",
+   "调试求值"
+  ],
+  [
+   "Debug Graph Path",
+   "调试图路径"
+  ],
+  [
+   "Debug Graph Path (Unused)",
+   "调试图路径（未使用）"
+  ],
+  [
+   "Debug Hierarchy",
+   "调试层级"
+  ],
+  [
+   "Debug Output",
+   "调试输出"
+  ],
+  [
+   "Debug Peaks",
+   "调试峰值"
+  ],
+  [
+   "Debug Scene Graph",
+   "调试场景图"
+  ],
+  [
+   "Debug begin spread",
+   "调试 开始扩散"
+  ],
+  [
+   "Debug end spread",
+   "调试 结束扩散"
+  ],
+  [
+   "Decal Texture",
+   "贴花贴图"
+  ],
+  [
+   "Decay Length",
+   "衰减长度"
+  ],
+  [
+   "Decay Shape",
+   "衰减形状"
+  ],
+  [
+   "Decelerate",
+   "减速"
+  ],
+  [
+   "Decimation",
+   "抽稀"
+  ],
+  [
+   "Decimation Level",
+   "抽稀级别"
+  ],
+  [
+   "Decode Checkpoint",
+   "解码检查点"
+  ],
+  [
+   "Decoder Checkpoint File",
+   "解码器检查点文件"
+  ],
+  [
+   "Decoder Initialization",
+   "解码器初始化"
+  ],
+  [
+   "Decoder Learning Rate",
+   "解码器学习率"
+  ],
+  [
+   "Decoder Model",
+   "解码器模型"
+  ],
+  [
+   "Decoder Model File",
+   "解码器模型文件"
+  ],
+  [
+   "Decoder ONNX File",
+   "解码器 ONNX 文件"
+  ],
+  [
+   "Decoder Settings",
+   "解码器设置"
+  ],
+  [
+   "Decouple",
+   "解耦"
+  ],
+  [
+   "Decrease Elevation",
+   "降低高程"
+  ],
+  [
+   "Decrease Rate",
+   "降低速率"
+  ],
+  [
+   "Deduce Output Shapes from Data String",
+   "从数据字符串推断输出形状"
+  ],
+  [
+   "Deep Resolver",
+   "深度解析器"
+  ],
+  [
+   "Deep Water Color",
+   "深水颜色"
+  ],
+  [
+   "Deepen Valleys",
+   "加深谷地"
+  ],
+  [
+   "Default Axes",
+   "默认轴"
+  ],
+  [
+   "Default B Value",
+   "默认 B 值"
+  ],
+  [
+   "Default Behavior",
+   "默认行为"
+  ],
+  [
+   "Default Block Path",
+   "默认块路径"
+  ],
+  [
+   "Default Class",
+   "默认类"
+  ],
+  [
+   "Default Client/Server Setup",
+   "默认客户端/服务器设置"
+  ],
+  [
+   "Default Collision Thickness",
+   "默认碰撞厚度"
+  ],
+  [
+   "Default Cylinder",
+   "默认圆柱"
+  ],
+  [
+   "Default Fluid Source",
+   "默认流体源"
+  ],
+  [
+   "Default Integer",
+   "默认整数"
+  ],
+  [
+   "Default Interpolation",
+   "默认插值"
+  ],
+  [
+   "Default LPE Tag",
+   "默认 LPE 标签"
+  ],
+  [
+   "Default Line ID",
+   "默认线 ID"
+  ],
+  [
+   "Default Mask Value",
+   "默认遮罩值"
+  ],
+  [
+   "Default Name",
+   "默认名称"
+  ],
+  [
+   "Default Options/Attributes",
+   "默认选项/属性"
+  ],
+  [
+   "Default Padding",
+   "默认留白"
+  ],
+  [
+   "Default Pin Weight",
+   "默认图钉权重"
+  ],
+  [
+   "Default Primitive Path",
+   "默认图元路径"
+  ],
+  [
+   "Default Scalar",
+   "默认标量"
+  ],
+  [
+   "Default Segments",
+   "默认分段"
+  ],
+  [
+   "Default Shot",
+   "默认镜头"
+  ],
+  [
+   "Default Specular Color",
+   "默认高光颜色"
+  ],
+  [
+   "Default Target",
+   "默认目标"
+  ],
+  [
+   "Default Uniform Point",
+   "默认统一值点"
+  ],
+  [
+   "Default Values",
+   "默认值"
+  ],
+  [
+   "Default Values Mode",
+   "默认值模式"
+  ],
+  [
+   "Default Varying Point",
+   "默认变化值点"
+  ],
+  [
+   "Default Vector",
+   "默认矢量"
+  ],
+  [
+   "Default/Render Layer",
+   "默认/渲染图层"
+  ],
+  [
+   "Default/Render Prim",
+   "默认/渲染图元"
+  ],
+  [
+   "Default/Render Prim Path",
+   "默认/渲染图元路径"
+  ],
+  [
+   "Define By",
+   "定义依据"
+  ],
+  [
+   "Define IK Chains ( More than 2 bones )",
+   "定义 IK 链（超过 2 根骨骼）"
+  ],
+  [
+   "Define Only Leaf Prims",
+   "仅定义叶图元"
+  ],
+  [
+   "Define Range in Source Frames",
+   "用源帧定义范围"
+  ],
+  [
+   "Define Script Using",
+   "脚本定义方式"
+  ],
+  [
+   "Defocus Shape",
+   "散焦形状"
+  ],
+  [
+   "Deform Barbs",
+   "变形倒钩"
+  ],
+  [
+   "Deform Barbs Options",
+   "变形倒钩选项"
+  ],
+  [
+   "Deform Barbs Override",
+   "覆盖变形倒钩"
+  ],
+  [
+   "Deform Barbs Remap Ramp",
+   "变形倒钩重映射渐变"
+  ],
+  [
+   "Deform Bot Cap",
+   "变形底部端盖"
+  ],
+  [
+   "Deform Bot Height",
+   "变形底部高度"
+  ],
+  [
+   "Deform Displayed Muscles",
+   "变形已显示的肌肉"
+  ],
+  [
+   "Deform Geometry",
+   "变形几何体"
+  ],
+  [
+   "Deform Lines if Second Input Connected",
+   "第二个输入连接时变形线条"
+  ],
+  [
+   "Deform Neck Look At Rotate",
+   "变形脖子注视旋转"
+  ],
+  [
+   "Deform Node",
+   "变形节点"
+  ],
+  [
+   "Deform Output Muscles",
+   "变形输出肌肉"
+  ],
+  [
+   "Deform Plane",
+   "变形平面"
+  ],
+  [
+   "Deform Position",
+   "变形位置"
+  ],
+  [
+   "Deform Region",
+   "变形区域"
+  ],
+  [
+   "Deform Region Center",
+   "变形区域中心"
+  ],
+  [
+   "Deform Region Rotates",
+   "变形区域旋转"
+  ],
+  [
+   "Deform Region Scales",
+   "变形区域缩放"
+  ],
+  [
+   "Deform Rotations",
+   "变形旋转"
+  ],
+  [
+   "Deform Skeleton Storage",
+   "变形骨架存储"
+  ],
+  [
+   "Deform Suspensions",
+   "变形悬挂"
+  ],
+  [
+   "Deform Tires",
+   "变形轮胎"
+  ],
+  [
+   "Deform Top Cap",
+   "变形顶部端盖"
+  ],
+  [
+   "Deform Top Height",
+   "变形顶部高度"
+  ],
+  [
+   "Deform Type",
+   "变形类型"
+  ],
+  [
+   "Deform along U",
+   "沿 U 变形"
+  ],
+  [
+   "Deform along V",
+   "沿 V 变形"
+  ],
+  [
+   "Deform by Skin and Guide Curves",
+   "按蒙皮与导向曲线变形"
+  ],
+  [
+   "Deform to Bones on Reference Frame",
+   "在参考帧上变形到骨骼"
+  ],
+  [
+   "Deformation Color",
+   "变形颜色"
+  ],
+  [
+   "Deformation Operator",
+   "变形算子"
+  ],
+  [
+   "Deformation Radius",
+   "变形半径"
+  ],
+  [
+   "Deformation Sources",
+   "变形源"
+  ],
+  [
+   "Deformation Target",
+   "变形目标"
+  ],
+  [
+   "Deformed Curves",
+   "已变形的曲线"
+  ],
+  [
+   "Deformed Port Pattern",
+   "变形端口图案"
+  ],
+  [
+   "Deformer / Guides Prim",
+   "变形器 / 导向图元"
+  ],
+  [
+   "Deformer Anim",
+   "变形器动画"
+  ],
+  [
+   "Deformer Rest",
+   "变形器静止"
+  ],
+  [
+   "Deformer Type",
+   "变形器类型"
+  ],
+  [
+   "Defuzz Method",
+   "去模糊方式"
+  ],
+  [
+   "Degrain Level",
+   "去颗粒级别"
+  ],
+  [
+   "Degrees Twist per Unit",
+   "每单位扭转角度"
+  ],
+  [
+   "Degrees per Second",
+   "度/秒"
+  ],
+  [
+   "Delay 1",
+   "延迟 1"
+  ],
+  [
+   "Delay 2",
+   "延迟 2"
+  ],
+  [
+   "Delay 3",
+   "延迟 3"
+  ],
+  [
+   "Delay 4",
+   "延迟 4"
+  ],
+  [
+   "Delay Frames",
+   "延迟帧数"
+  ],
+  [
+   "Delay Incompatible Node Errors Until Cooked",
+   "把不兼容节点的错误延迟到计算时"
+  ],
+  [
+   "Delay Length",
+   "延迟长度"
+  ],
+  [
+   "Delay Load",
+   "延迟载入"
+  ],
+  [
+   "Delay Load Clips",
+   "延迟载入片段"
+  ],
+  [
+   "Delete Abandoned Primitives",
+   "删除被弃用的图元"
+  ],
+  [
+   "Delete All Attributes",
+   "删除所有属性"
+  ],
+  [
+   "Delete All Randomization Attributes",
+   "删除所有随机化属性"
+  ],
+  [
+   "Delete All Shape Data",
+   "删除所有形状数据"
+  ],
+  [
+   "Delete Array Attributes",
+   "删除数组属性"
+  ],
+  [
+   "Delete Attribute",
+   "删除属性"
+  ],
+  [
+   "Delete Blend Attribute",
+   "删除混合属性"
+  ],
+  [
+   "Delete Data #",
+   "删除数据 #"
+  ],
+  [
+   "Delete Dictionary If Empty",
+   "字典为空时删除"
+  ],
+  [
+   "Delete Elements",
+   "删除元素"
+  ],
+  [
+   "Delete Existing Output Files",
+   "删除已有输出文件"
+  ]
+ ]
+}
